@@ -1196,6 +1196,11 @@
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/nNKK1JYho131ZTFrngOlfYiYynPAG6wTGUYht7hp/ew=="
       },
       {
+        "icon": "https://i.imgur.com/j10xlgh.png",
+        "name": "One Piece",
+        "uri": "oqUqhvVaZUrRv/rRjYX2Ib4nbZYxAFItUAefjUMFWlqWiPGnVP+mDcxE/BR/LU7gVYIlKheVNn5Sn+fSwtg8AaUgDPqzFAwe1ICyBHco53m6vTJxehoCKNxgfdyVbk2rX4OPsX5SmZhkNu8Rggucnn+H8hfO1f3rNP41ATF4TTq4E6/AcRUvO8I0giomChIgK+29UdVU++Jqqwf4o7fR+nqqGk7TxPbyX9e25+LBD1bq8hkYTCuMiHzUeThhqu730iOSwwKQdZDUISa3gvzXY0RbG1psXWO0QR2MHkIC/4oVVREut+JPMsk8ScuzjINx/N3dNB08R3G7GfvzIY9vACEQjIW1IKocn/rQY11Ag6gbeoUr4bTroWucuztsFp04XeU87GaIj3gbuo4RV/0Qef78QuGuLY0VPF8eX1IkHy/luHWRBRrL8xBUH8RS+pc4jIA0r4/tzaUHaC1YqaYo7WAQVk0453pUxSeVx0lrMru8+32xiyOjEbWXdB6lfGO01MGoO1675SyQ0PTnK/JXCRYUgWJ+mawoqYzZoS+wzVLPofmOgkDWKB12rhrUubkdCJMMswQmHaq1bFrbeyiBpbe8TThMMmVtZtW0WyVyaTUsR4fBSG12ZTnT+z8TI8nctHLcoWQ+wLR+YOjvyZvj/y0l2WpVGs8HCC5kOc1mAQi4/TqnpG+WKGR7t5fNG+RBIoTJVMsE6kwNqw9J0zyvAnh4uNi1BdbHSiZZV5ZoFVQYh5uM1XWMSQ680FQNyUikGWGY5uxoVFS5XFFX3cxAiB5E9HyzUU14TRcPRvyDZiU="
+      },
+      {
         "icon": "https://i.imgur.com/vF2m54a.png",
         "name": "Anime Station",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/QjRSa+umv6Orx4oygDn4HxHhAGahC15SwVbiRxlSxyA=="
@@ -1707,6 +1712,13 @@
     "name": "Documentales",
     "mode": false,
     "lista": [
+      {
+        "name": "Gourmet",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/d/da/Elgourmet_23.svg/revision/latest/scale-to-width-down/230?cb=20230410230610&path-prefix=es",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jzTgf2Dq4oqiN6wzj2PmYPpNjj/Fqm0D9aEoa6CpmGoBAod0f2YPp7hnnB6XDQjpM=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMLfKZLqvrr0ZTt5MFhs0qClt62x9y4QkaWZ2xGSl3cH6M1s89+Xch/znO0RvNDMeZhzeLmD6y9EcJ5Z5x+AN4HPjwspT1lpbbt8/2ARBfUPZXWBQfYy67mByHTxbgDdPQ=="
+      },
       {
         "name": "ANIMAL PLANET",
         "icon": "https://static.flow.com.ar/images/643/CH_LOGO/350/500/0/0/72827036071623.png",
