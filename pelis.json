@@ -4,9 +4,9 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://i.imgur.com/mltHBZW.png",
-        "name": "Amigos imaginario",
-        "uri": "aRF3kNr4htNgfPww95VeiZXzvQCcvM/FbxvR9ZzihIUN+h65QZw3LTcfILXJZ8fjoBI0Rl707t6R8pYnLxDrwyMTpdQjLFpvYyL6xZqI0vSr/K1XqaDFRQNuAt5yCYlvpE/+Mpgr3wK8+PMniBgAr1ghr10DDV0gAE8pkTG2TamL0Y/onAUtQgI3jdysKa8MDGMurIDZcVx/2XlUkRa6BrkxiPSO256+Zu8nPp+Y8oL64enILiP78VbbTQGUHFRkCP2XIZPyHWaiLm5NxQajMi0nivX5BcHOzg9Ot8Nxa85RySOohT/R3bnpilBJ3ZsrbfdZhaRk4b0x2Z/gp/vAwBMmVOtVjQol6oP+mA73E4JL7DE4KVgZ4gKd5HMZEcpMYxLL7BN7WBOME0x4bJgyVcnm3Ie429h1QwZpIEUtJm9+MNve7tALo6a5EotGVHxOS01M4KusDtlQ5tYbGUNfp3E/kddj7Y6d3OhN3FK1fOeK5KIYsXrnkasVG9d3EV5hEdgpvAdg/OfTs/qktE/mig=="
+        "name": "Amigos imaginarios",
+        "icon": "https://image.tmdb.org/t/p/w200//8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
+        "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g8RKj4ysprvqbmH53BKrwDPraO0ctHeG0IRxjqLC3J4QA=="
       },
       {
         "icon": "https://i.imgur.com/cpgloa1.jpeg",
@@ -62,11 +62,6 @@
         "name": "La piscina",
         "icon": "https://image.tmdb.org/t/p/w200//73wQy0eqijesk0y0wbLUiw5wVZN.jpg",
         "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g8AHgWX0K/RSaKirD1kvgH+zkAXc3Q/Wd7497LVy5+uWA=="
-      },
-      {
-        "name": "Amigos imaginarios",
-        "icon": "https://image.tmdb.org/t/p/w200//8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
-        "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g8RKj4ysprvqbmH53BKrwDPraO0ctHeG0IRxjqLC3J4QA=="
       },
       {
         "name": "Sangre en los labios",
