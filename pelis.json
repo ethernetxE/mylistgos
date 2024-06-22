@@ -81,7 +81,7 @@
       {
         "name": "Arthur",
         "icon": "https://image.tmdb.org/t/p/w200//q1DDwFuWeQlwR0lcjFiEsM8iRkd.jpg",
-        "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g9AY4JRgUNTYIUZesTmBzApvJuRBWXEZa9QNnr+dr6qCyP8VpuYLQgoz8PSfbvsspg="
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWIZA1My9y9vXU0hmMVlHTfsY17OOMYM+i0TXgO3XVgx9GHcJhqIu2MTaCrQv4M5Czk8EDk9+pKUAjEg2yye25F"
       },
       {
         "name": "Argylle",
@@ -3016,6 +3016,31 @@
     "name": "4K NO TV BOX",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://static.cinepolis.com/resources/mx/movies/posters/414x603/39644-131291-20230313022327.jpg",
+        "name": "Avatar: El camino del agua",
+        "uri": "ktNNfSrZloxMkPmPX0YPjofnDMQ8wpht2EK8qyBFSoWn+fUClEDuD1nMVz81Esg9FKWmgVOjpPjjy8DINuWv5AU5g9Tagb4e1SHKD1f+Ols="
+      },
+      {
+        "icon": "https://www.universalpictures.com.ar/tl_files/content/movies/super_mario_bros/posters/03.jpg",
+        "name": "Super Mario Bross",
+        "uri": "ktNNfSrZloxMkPmPX0YPjofnDMQ8wpht2EK8qyBFSoWn+fUClEDuD1nMVz81Esg9cbWh4BRgMY7u7HkTUnxPhwU5g9Tagb4e1SHKD1f+Ols="
+      },
+      {
+        "icon": "https://www.universalpictures.es/tl_files/content/movies/kung_fu_panda_4/posters/03.jpg",
+        "name": "Kunfu panda 4",
+        "uri": "ktNNfSrZloxMkPmPX0YPjofnDMQ8wpht2EK8qyBFSoWn+fUClEDuD1nMVz81Esg9MFAg5//Xsu+t5TkII4VB5AU5g9Tagb4e1SHKD1f+Ols="
+      },
+      {
+        "icon": "https://static.displate.com/280x392/displate/2021-01-26/416e4756b0276ad8cf9235adebf9ae9a_121f884a1f6898810a52eea6eb3dcc64.jpg",
+        "name": "Avengers: Endgame",
+        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZWHcdhWsn6XB24l8wYkFklsG7yr/zu3nOkXwhAEVgvHKK76v0GZcviL75HpexKZ6rTUhvyzRmGEHwbkmO1bqr5rbBRfi9UNGTmRNObuqunqO+InSdGbeAYRAIy1zOzGCaFbx0tiq8h7eLlJ8TLNiXcrhLTZWpu15ieeEf1o0qRPI0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0MuDTin7CDjXDJIhu+Gw3yXUvbqgH74IrylvllXnLBdZaTYno7dQbwQwHvWuetbzyDyg2ooZpJ+JXodjYfTCLPVVJ0yTv/67mgOFBBq0cVZRaojlDwEUGfmEP1uwGvb7maRac9kwhZrPrh4RGeHpPCRyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "icon": "https://www.eibar.eus/es/cultura/agenda/jocker/@@images/0e1f4898-1af7-4f1b-953b-b7ac4981fb94.jpeg",
+        "name": "Jocker",
+        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZU1DpAXscq1ud19I2mxeE7BxdxG8vyr+f3gE6/d9fncSnYZW9gFziM5vnw3EhiE/NWBcp2b4SmOdWM3gjd6YgQEQ7ID3s334bpmaFIQLiOGF9exy/nYbXRoYrtvAzIl25wAGGxF3xWLSAQjWbB/OjHw8+iV9aVnlSAanDn4buduBlmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD8AKPlmZ3hEGa8UsY592sLAx/z1LYlr4mYpj1h9++TYjAO2KEWk6N6aXAbl3UoNgKZMytIVYWfbtuZv5B2E4RnXh94GMwD4EZPAYyecKNVaz7dX9Fzae+5fKKNFEu7YzoZG7n974FFLthtl3Fk4WdV+duUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
       {
         "name": "007 Spectre",
         "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g/f2Ij8zay5jk91tKCaL/ZxNvwu0STFGFDreKwlJJfuJA==",
