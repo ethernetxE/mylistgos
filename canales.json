@@ -5,8 +5,13 @@
     "lista": [
       {
         "icon": "https://pbs.twimg.com/profile_images/1732102156503678976/96ozrcov_400x400.jpg",
-        "name": "GH 24/7",
+        "name": "GH 24/7 OFF",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "icon": "https://pbs.twimg.com/profile_images/1732102156503678976/96ozrcov_400x400.jpg",
+        "name": "GH 24/7",
+        "uri": "Hg2sN0yINJtA18aKQm6R/TMXe1j31B8Z2Z1EHOG1jpAW9FMnmO+uQlOM5EpYX42k/gpvgASVZBt8UFv2O6Joow=="
       },
       {
         "icon": "https://pbs.twimg.com/profile_images/1732102156503678976/96ozrcov_400x400.jpg",
@@ -916,11 +921,6 @@
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
         "temporada": [
           {
-            "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
-            "name": "Dsport opcional 1",
-            "uri": "93O5mvKSqdU3tYYu0QAFyFCl6Wlgb91DCxkcLhZDG5c9A8yKSK6x6hzf4Vju6zXgKX0Ex4wYAgoqpuxJmYDOwYDV6ZcwleIVDad+gJlIQHvBObXE5z3zcCoJ1nvVqKpz"
-          },
-          {
             "name": "Dsport",
             "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
             "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR5JR0Yf27YtFlN31C4GE4t6IYU+ieFbgPmwcZds8k+GBg=="
@@ -928,7 +928,7 @@
           {
             "name": "Dsport op2",
             "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "D0o2WT0PRpO6J70NcPxcEj70nwWGGportm80S9IWNEusINMWZIB9DzU47mLQnnVvvi0wPt7TecfaAT+t9lsGe9E6EE8gK/EpTKvCfmFztfo="
+            "uri": "Hg2sN0yINJtA18aKQm6R/TMXe1j31B8Z2Z1EHOG1jpCQ2dkEJM7ZKGf/bkylW9q1pVdtWj7SLVtEZNXX+IzsFQ=="
           }
         ]
       },
