@@ -1133,6 +1133,13 @@
         "uri": "mVqkoSCDr9ftmYYFz/pB1hecpVNFzu7kIIr8DBEO0uL8LoM4VOAXhbys2Xri4oWtiPhd+ltQk09Jpi9fhcR27d6+2tptg1qxEqHyKRoyNGAhlEYoNVyVpYLSgpBjzyvw+WqyRwhb8iyJVnda1xbo/A=="
       },
       {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
+        "name": "Copa America",
+        "drm_scheme": "clearkey",
+        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
+      },
+      {
         "icon": "https://i.imgur.com/KSdD6Xk.png",
         "name": "Evento MLS",
         "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
@@ -1143,9 +1150,14 @@
         "uri": "GTaC/ZuLvijEaLZi18JMK6uwR30NbLEAxwRrHIun5VfMYJ/yswbWXDi0GNaScAQC3n44kQh3KgrLLVpFEe6juQ=="
       },
       {
-        "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento MLS",
-        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR6ABfulXUvcInZeVtRh1IfaIYU+ieFbgPmwcZds8k+GBg=="
+        "icon": "https://i.imgur.com/tUKlxrO.png",
+        "name": "Evento 2",
+        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR6tPIXCbKdYrRmeUjJIuQDxIYU+ieFbgPmwcZds8k+GBg=="
+      },
+      {
+        "icon": "https://i.imgur.com/tUKlxrO.png",
+        "name": "Evento 3",
+        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR68Qp4YlSUTU5v88IrFsDzYIYU+ieFbgPmwcZds8k+GBg=="
       },
       {
         "icon": "https://i.imgur.com/EhJQVoK.png",
@@ -1156,13 +1168,6 @@
         "icon": "https://i.imgur.com/EhJQVoK.png",
         "name": "Evento 5",
         "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR64seTmI0PvVEG9ve5YrZpPIYU+ieFbgPmwcZds8k+GBg=="
-      },
-      {
-        "icon": "https://i.imgur.com/EhJQVoK.png",
-        "name": "Evento 6",
-        "drm_scheme": "clearkey",
-        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
       }
     ]
   },
@@ -2797,6 +2802,152 @@
         "drm_scheme": "widevine",
         "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
         "icon": "https://i.ibb.co/bQk5pCX/eventos-3.png"
+      }
+    ]
+  },
+  {
+    "name": "Brasil",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00",
+        "name": "CONEC_TV",
+        "uri": "9rM02UsJZL0nu9qFBDuQa+IzpsapWBpt5EJ95kddnJayMweuOl73Cvq7h6rWCjJ06FOY1ULIz1wfwlx3tAKme4vwmGKnILa3ffRrUe/ACsQf00XE/HHu2JWp2GcLl7k0"
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Record_News_logo_2022.svg/800px-Record_News_logo_2022.svg.png",
+        "name": "RECORD_NEWS",
+        "uri": "9kOJCQd5L7wLCGuT3GrTz2c12eSdwkVOimwv0SudrZOMwkIBvyxno7WpWda0qipC6PTQ1F8JDpjUA7sxx0YaxxydEcVG1O/7yOV7PkzK93v+QvNhgpTL3jEZk9ftdRpRV/DGK9/B40pNzzi5uf9K+g=="
+      },
+      {
+        "icon": "https://logodownload.org/wp-content/uploads/2014/02/band-logo-tv-1.png",
+        "name": "BAND_TV",
+        "uri": "9kOJCQd5L7wLCGuT3GrTz2c12eSdwkVOimwv0SudrZOQ8GKCJ4qOnv9Ay0AK8x0nzfDAMOph6hY1d/b5PbRN7W6okC78CWBlniAOjijvqWR7w56tvDz+yrA51xv/AHGsJL6wk5/+GYy9L3Lc4zrKrQ=="
+      },
+      {
+        "icon": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg",
+        "name": "GLOBO_TV",
+        "uri": "MjeZiIoLbnI7rkGj9EwhKZk4ekux8PtrDHTKKw4dY4n1EOVfUQz4Vr1A1pduLuV4ywXbYeooN+8B9YdGZV6HPsSkZ9agXqBefrJAzdBJgcKZIiQuwOX2tFt1FVnt/3Vc"
+      },
+      {
+        "name": "1001 Noites (720p) [Not 24/7]",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOycdt/aJDicDKgFUIyzadvD0sx11RebhJ5H+BDNGJFJuhznkYuanwrJqPy7SJvg0k="
+      },
+      {
+        "name": "Adesso TV (720p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrM6LwVHOqiMwr8WXAq/tIMMkPjhNZKDMqoHh9pZVx2thbOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "AgroBrasil TV (720p) [Not 24/7]",
+        "uri": "mm8v3uCuuCVXRWBxgYx+bmalFCcdEMNqNH9YuoxsVYErgpFAT6ZswV32ow8c9OojILR/MEtv7n5gOyhaOTfjDLeEoI6OCxDg0qkQfm5ove8="
+      },
+      {
+        "name": "AgroBrasil TV (720p) [Not 24/7]",
+        "uri": "s2mwZRL6Vpmnn2sg/UPnd007Pu/kkjB9xM/PPW4ggmYrXColikJoqK7JLNgfqAZco7+jiBJSVTbfIk2+2Uagpz45mjJiHgTjslbU/UPaygk="
+      },
+      {
+        "name": "All Sports (720p)",
+        "uri": "rVEF9kyhyh2L/ARaqnT7oeBTVFZr28utPGuXADcs5FdZbc6a4/7gofNt7Efa+Dz/6HOeRi5qfCsmo/LtIm+DSQ=="
+      },
+      {
+        "name": "Amazon Sat (1080p)",
+        "uri": "MmpSVz7nNBt1oD+FrNSM3BgXUG1BVEK93xTUrbrBRZsFRMvcqcap4+hmWqmizXBLToIYASZTQHC06JbpRDH+vA=="
+      },
+      {
+        "name": "Anime TV (360p) [Not 24/7]",
+        "uri": "LlG3GeOOyoycDPQpWMopN8z0h58uHjM8AoX0Ey/b1TcG4wbdUxFWJS0z0com/vjAs5Oxanhcr9njw5nZ72+uXg=="
+      },
+      {
+        "name": "Assembleia Legislativa do Estado de Mato Grosso (720p)",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwMKcPXtw5HHpKtYgM2Iyb0g3xaVFzHDGXrlZUT4aHvn6"
+      },
+      {
+        "name": "Bem TV (720p)",
+        "uri": "N4BKH9+Vfy5ECTMRpYbQwLLM6XztabxLsr+1hTo64bQShVEyawbtvJBVcMURBlOWPjmaMmIeBOOyVtT9Q9rKCQ=="
+      },
+      {
+        "name": "Boas Novas (1080p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrMzr7hEByu541eVV/lmCmuMDIBbvKgX+ruHjDG6luAo07OTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "Canal 25 Jundiaí (404p) [Not 24/7]",
+        "uri": "kZYfy0UGUsobcWEBQZc9flf7XNCCkvGNuPmFnfeHeyxxInfcaUTh4gexvlRMLvytuNd1RL+5bLSGxGo7yPQcVg=="
+      },
+      {
+        "name": "Canal 38 (720p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOkVG5dqxu53D/HrPUe5ybjd2FEpdbyi3G3qYtpzFtSsbOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "Canal do Criador (1080p)",
+        "uri": "dv3wqq51ctms/Zo+oFafXcHgn2+nuAlQz5Cxx8vW25SdOBdburm9ONvTFU93fu4LV8yCxvXym3KWk4Jz0hSxd69VAmXbHBEUPJgpVtGMNs02/C7RJMUYUOt4rCUkl+4k"
+      },
+      {
+        "name": "Canal do Inter (720p) [Not 24/7]",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C7RT96pnTTNnjg+rnf2xn2BjKEDPTVq7eWxQCfCUYxECgi1xIUd0pPuo0/m29doGDdgkdaHI+zJ9Ws2te7V7EWM="
+      },
+      {
+        "name": "Canal Educação (720p)",
+        "uri": "MJLh11gaE02AH9gBEaYWPi2Ee2qy2RXDV0eqvceKzw1h++fxxyrLhD4ezR9xar4zt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "name": "Canal Gov (720p)",
+        "uri": "giNa7LnXx5Ym4ttyCTSOGzwxFQuawqPnrgA3KbjNxvyFX+hHC8BEbdeJ/xLNO7fq"
+      },
+      {
+        "name": "Canal Metropolitano de Noticias (720p)",
+        "uri": "OgMT/cQyWSOWWeAa8lv0C1Pwgu6ZnOAOt4j1l9GkEgr1u5V96GHsU6op8DaveUm5ANhFtxzcgbkqud4kg5s0v9ODeoxUeMjeymkXV2cW0W4="
+      },
+      {
+        "name": "ConecTV Brasil (720p)",
+        "uri": "kZYfy0UGUsobcWEBQZc9flf7XNCCkvGNuPmFnfeHeyy1gggb0n/LNEUntY94FDbnVh5K0Ms8Qx4Uv+WBevgEFw=="
+      },
+      {
+        "name": "Conexão TV (720p)",
+        "uri": "1gpjddE7FvhZE9jdf2TArWlBRzpT8SESvudmSa8b0tDCeG7L9Z1+p7b7NUu3nJS4WrkQJ/PPMlyfbHqngXh6CTdDhZIF0YOkAKIHAVp0Kfk="
+      },
+      {
+        "name": "CWB TV (720p)",
+        "uri": "mEvGjAw3dIbz33U5a7mWyGN67pKC6oYz3pNrcOP3mWabAfizYJ8DZTp83wd5WWF16HOeRi5qfCsmo/LtIm+DSQ=="
+      },
+      {
+        "name": "Demais TV (720p)",
+        "uri": "4B1W+UsAvWwKBzsYgWWep79dS0AHOwzIo3PiPx/m7Md0XR5LQPKb2UANqMR1QYCG/oDmCJ2NPcwRuE7a/e6Aez45mjJiHgTjslbU/UPaygk="
+      },
+      {
+        "name": "ElyTV (360p)",
+        "uri": "LlG3GeOOyoycDPQpWMopN1cnKGs1w8RIw7dEgKiAoe9796DtW2LcYX8qhASfJThW"
+      },
+      {
+        "name": "EUTV (720p)",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrM2BdyVUxlzH36hLpepEImgk8ui90vraLzW799XJA59d7OTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "Fala Litoral (480p)",
+        "uri": "KkY5C3yvds4+WuNwv06j/syx0lLUNrwAH+B+NEmfMIX0qpstyRW9N4gHZu9nj6bi/H0BCnqJAdBMQlp1ydChMOhznkYuanwrJqPy7SJvg0k="
+      },
+      {
+        "name": "Fonte TV (1080p) [Not 24/7]",
+        "uri": "QvgUgwdczY+3HDTq7DTyZWgVYs/RoVsI+b6GYpQZrlpUjNHmi+8S+0V2ak36/eGUC7GqYHeYjRcc2ziyhg+GGA=="
+      },
+      {
+        "name": "Geekdot (720p)",
+        "uri": "SulIRcftgKknEY/Bs4OPpKFOzsGG/H5fKmUG7I0t/HP529rZ4j9gkN4uIafnBRNYt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "name": "Gospel Cartoon (360p)",
+        "uri": "LlG3GeOOyoycDPQpWMopN/u4qPKU+5ZLFThQYfh9vDzEKawaxiOzxUjUJnhu8L9Vt0wpBsf4lz1Gzr5to5k7ayGFPonhW4D5sHGXbPJPhgY="
+      },
+      {
+        "name": "Gospel Movie TV (360p)",
+        "uri": "LlG3GeOOyoycDPQpWMopN+Pfg3QidS3Z6B8aR5OMtDy54CwyGXraWDPmURwqCXpes5Oxanhcr9njw5nZ72+uXg=="
+      },
+      {
+        "name": "IMPD TV (720p)",
+        "uri": "8BskemdisFST22x3ikhvS8cI/DnZhBuqme6pNjukhZXD40Go/rPN1AGmUmBEGmxlzW3XPmAQ1e5lMOk8uoheWLOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "ISTV (720p) [Not 24/7]",
+        "uri": "LlG3GeOOyoycDPQpWMopN2o/M3uOHbFOwBWGW37cr7V8DvGyKg50DqYBaUnz7+mR6HOeRi5qfCsmo/LtIm+DSQ=="
       }
     ]
   }
