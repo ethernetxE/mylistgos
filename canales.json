@@ -1128,6 +1128,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
+        "name": "Copa America",
+        "uri": "mVqkoSCDr9ftmYYFz/pB1hecpVNFzu7kIIr8DBEO0uL8LoM4VOAXhbys2Xri4oWtiPhd+ltQk09Jpi9fhcR27d6+2tptg1qxEqHyKRoyNGAhlEYoNVyVpYLSgpBjzyvw+WqyRwhb8iyJVnda1xbo/A=="
+      },
+      {
         "icon": "https://i.imgur.com/KSdD6Xk.png",
         "name": "Evento MLS",
         "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
@@ -1158,11 +1163,6 @@
         "drm_scheme": "clearkey",
         "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
-      },
-      {
-        "icon": "https://i.imgur.com/EhJQVoK.png",
-        "name": "Evento 7",
-        "uri": "c+HCsi8K9kDdZ7z/5NOFAtk1K/0MkDxtYKMM96m1Y5DSub+wlGyMh0RWPi9UfMHY+CKoS571h3StK8JRy1xIKrcFDQFo8tNujXl+Z6JOLADQXFLnN8bwTRYrKVkW6tccPboF/nzzQQh06SunmE9TcF2GLIF5Q+r/+KoHivIeVAb/+rPesH/TbEUoUy2XUzAI+XXAroAzUM4nMbp1Sig5qaWTH8ZkuZGYykKCOIeDMW3RiVytvJ465B3CDWgh7316Aojc3T+7m5/dXvAwuNE8xjF/o4peX1XxFe4cGH4Le4xvZSAppjBX8yW2qm7w47qa9vwCTOLXFiKkye+R/Q4Oivo68N1MiS+NXYUnnDOH3YegwRzclA++QShWAICT0Eh2suwfX6fqcUgJwDNRJKkUwKYrZUeBVUy9OziMaPt3h+LSnztfWzr3n5jesJ8mshS9DUfFM252E0eL3S/DbKFCU9OemIAZU/Q7nAUh95sQs0iuNoIbXaZujnD386OShiuoH3ZyFzS0/W2DFeu44pkm32v1ckkEi57JR8wuJFjspU/aA2dU8bMg2VJ3SnOB/Pe5QCCWixMIv+IGpwz233GgoUcli8HyGgRGZCHqXI858TI="
       }
     ]
   },
@@ -2797,92 +2797,6 @@
         "drm_scheme": "widevine",
         "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
         "icon": "https://i.ibb.co/bQk5pCX/eventos-3.png"
-      }
-    ]
-  },
-  {
-    "name": "BRASIL",
-    "mode": false,
-    "lista": [
-      {
-        "name": "GLOBO TV",
-        "uri": "oKq5HIfR808klQR0eWYAD9w/SVSbgZmUnrXAQft2jbSSGLnaRt8Rw2mKDGSY0Jfkt4Sgjo4LEODSqRB+bmi97w==",
-        "icon": "https://i.ibb.co/CVr3QGv/fe7f8998db53725ac48f0deedc773692-anniversary-logo-visual-identity.jpg"
-      },
-      {
-        "name": "Record News",
-        "uri": "r8nyHPVlFZ0sb+5EiYEyKpB13EsE+sUhUhr2tAiKCC3OjcISArjDpxG4b9ZWVuKQ1jP7DXZ7z3UCWKlCt9024w==",
-        "icon": "https://i.imgur.com/7gyWZD2.jpeg"
-      },
-      {
-        "name": "CONECTV",
-        "uri": "kZYfy0UGUsobcWEBQZc9flf7XNCCkvGNuPmFnfeHeyy1gggb0n/LNEUntY94FDbnVh5K0Ms8Qx4Uv+WBevgEFw==",
-        "icon": "https://play-lh.googleusercontent.com/_z8L3qUly2i3Flg-aaI8M2VvHLifKp5Fo_qTMM4ICeDTqsnwcfEy_QYvt8OHt7kRL00"
-      },
-      {
-        "name": "RECORD TV",
-        "uri": "TBP356p+dmv5lQHJ/mCN5FfqyNekbrsjYIvTux+yGrBx1QySnyOy6XpT6aXlIrBzSBz1kpZAZrbSfm2r3OE3BrLnoBbVGWv1oQCPY8kBnzsYQh42emTBOAD6trR/xR2j",
-        "icon": "https://brazil.mom-gmr.org/typo3temp/_processed_/a/4/csm_7013-1071_import_63c9374854.png"
-      },
-      {
-        "name": "HISTORY ",
-        "uri": "r8nyHPVlFZ0sb+5EiYEyKnF1aVTkZJ693TJK20qbdB+lncsdnVNAvdlVsYXiWbML",
-        "icon": "https://i.postimg.cc/hjx19JJb/history.png"
-      },
-      {
-        "name": "GLOBO BA",
-        "uri": "TBP356p+dmv5lQHJ/mCN5FfqyNekbrsjYIvTux+yGrBx1QySnyOy6XpT6aXlIrBzSBz1kpZAZrbSfm2r3OE3BrLnoBbVGWv1oQCPY8kBnzuwEhFac3bI2TfWBUM4aM5b",
-        "icon": "https://gkpb.com.br/wp-content/uploads/2021/12/novo-logo-da-globo-png.png"
-      },
-      {
-        "name": "MEGAPIX",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMUMJywUikYJ6EsydLYzPxIE=",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Megapix_fundoclaro_midiaimpressa.png/1024px-Megapix_fundoclaro_midiaimpressa.png"
-      },
-      {
-        "name": "MULTISHOW",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMfhx863E8iZv6olYJB7jZh4=",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Multishow.png/640px-Multishow.png"
-      },
-      {
-        "name": "VIVA",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMdzvLhQtOTeRkELMpPeUplQ=",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Canal_Viva_2018_wordmark.svg/640px-Canal_Viva_2018_wordmark.svg.png"
-      },
-      {
-        "name": "DISCOVERY CHANNEL",
-        "uri": "TBP356p+dmv5lQHJ/mCN5FfqyNekbrsjYIvTux+yGrBx1QySnyOy6XpT6aXlIrBzSBz1kpZAZrbSfm2r3OE3BrLnoBbVGWv1oQCPY8kBnzs5fsOM2Z9mgc9NVd3pi8Ng",
-        "icon": "https://i.postimg.cc/CxP7YpTD/discovery-channel.png"
-      },
-      {
-        "name": "DISCOVERY H&H",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMb3z93BggVwDxuyPZ9NNQ5M=",
-        "icon": "https://i.postimg.cc/cCKGrGXQ/ver-discovery-h-h-en-vivo.png"
-      },
-      {
-        "name": "UNIVERSAL CHANNEL",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMU5++88JH4v5FDCqpKrTuWI=",
-        "icon": "https://i.ibb.co/1qksDfg/Universal-Channel-Brasil-svg.png"
-      },
-      {
-        "name": "AXN",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMQLZzpH0tIzKyZs0xIoAcfk=",
-        "icon": "https://i.ibb.co/sqF3Dsc/unnamed-8.jpg"
-      },
-      {
-        "name": "JOVEM PAN NEWS",
-        "uri": "PKekiK9epdhkDmvq0+OE3GOJ/31kUGcocfV2tgXTOgm+g7VOEEEuIy1QkTj/VLjkW66qCCWVarDBH+fa63NbMVpRzfZ2SL/EooXQQGJzAMo=",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Jovem_Pan_News.png"
-      },
-      {
-        "name": "BAND ",
-        "uri": "TBP356p+dmv5lQHJ/mCN5FfqyNekbrsjYIvTux+yGrBx1QySnyOy6XpT6aXlIrBzSBz1kpZAZrbSfm2r3OE3BrLnoBbVGWv1oQCPY8kBnzsheXHalnay42sYYClwJMLN",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Rede_Bandeirantes_logo_2011.svg/958px-Rede_Bandeirantes_logo_2011.svg.png"
-      },
-      {
-        "name": "TNT",
-        "uri": "TBP356p+dmv5lQHJ/mCN5FfqyNekbrsjYIvTux+yGrBx1QySnyOy6XpT6aXlIrBzSBz1kpZAZrbSfm2r3OE3BrLnoBbVGWv1oQCPY8kBnzu2+0qZop+5t1uLLCpK4zJr",
-        "icon": "https://i.ibb.co/hV2MwGM/tnthd.jpg"
       }
     ]
   }
