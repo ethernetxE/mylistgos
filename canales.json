@@ -760,6 +760,13 @@
             "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG80ff1r/SUy8BuFFUoTlufHfUytSIWmCvxMXue35IJ9KYKHfNQ0AwRzsQ2ZLunWqhw+akKOLVngQcvue5vuyzEpGYdln9cDeDpzSKrWkayRidI9bUWf0hIlGXruip0TN9A=",
             "drm_scheme": "clearkey",
             "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTC161BsoYqEaY/QyyhF1IeXbT/rgwGShiZw1frJ/LrnMlwqnS64RBVcKJiOCnl8yz9oBiu9hT+bkWx26YG19EibRB3QHQfHHS4GkbwK4kQ7Nvwu0STFGFDreKwlJJfuJA=="
+          },
+          {
+            "icon": "https://i.imgur.com/Viwl0AN.png",
+            "name": "Espn Premium hd",
+            "uri": "/b8rTfP+VQD2iPojTMUZ02CpOpM0jJ+bCqH+CrifiBgTkLS62M4Vb3+zB6gUelUEqtuKewCXC4bHgKMeZ79W2w43149Dul4rexokCk/QB1PPKN8BD016HPnwcoEG59Q80E6Xri0yaxEMsBU7IaCg03RrUhzXXXWOBDjFGdlH3c1XyZK++LFwML1buW/UiXOnt76v0Iv6tbqFUzsmaUAg5A==",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "Fov40ogCKfSprJXN/XC5Qn433ab+h/S63IJpg32KLkvpxQaJxWNQU6kykaYrh+cn4NB2gEyNqlapJVrNvZKzClq1g9/WyaYvRF3pDSmXzgFpXghpMJupOyPswtxYJj32xMYVJi+ZbUlTOHnCwhko7g=="
           }
         ]
       },
@@ -3036,13 +3043,6 @@
         "icon": "https://www.ecured.cu/images/b/b4/Portada_Rede_Globo.jpg",
         "name": "globo",
         "uri": "YF54HW4AZpUrvRhskCB4iPExWcLEnRVwUrSWPETOnnK3HcnYJb99fzzQlps5K3WeO/DLXOuV+ZaTimwE2bQaiuyIny1q8XHTQRKFHlXq597ogahbfhCfZ4pjNB9/JjLy"
-      },
-      {
-        "icon": "https://www.ecured.cu/images/b/b4/Portada_Rede_Globo.jpg",
-        "name": "TV Globo",
-        "uri": "gintGMVPsb2zDjGULOWZ270psu+AXYB3Ym2cYurNP41Cj2+vAC45+DRnq/VpOH+RJ5YNpSEe748ichOwK9xXnQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxJMNDtpkvGXnNNk2MgFa3c"
       },
       {
         "name": "AgroBrasil TV (720p) [Not 24/7]",
