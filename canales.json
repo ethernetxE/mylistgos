@@ -789,6 +789,13 @@
         "drm_license_url": "yHTXsnFUxCrM7TTScOHUPTUIwbaRAlCTRdMRbwX3jT9Cg9HeKfK2zVYd5DBfkcFa"
       },
       {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/4/49/TyC_Sports_%282003%29.png/revision/latest/scale-to-width-down/130?cb=20190620182054&path-prefix=es",
+        "name": "TyC Sport Internacional",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZAMxVwirNR2TrY6xUoSn7YgDrfcHOujlunolVAQwUpFuW0NChBmvLPgwr8Ond88oU94P8Z0Wj12FuP6RMPLURfo68zpvxNAmR6jWkwkO88Yj9b1DWD7IBjX8XPvoDhGBgA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4Xrkj7RGpXqxHzFAce7HQ+Nij5vcNo7bK+9rLCwWxPRX22sg=="
+      },
+      {
         "name": "La Liga",
         "icon": "https://i.pinimg.com/originals/d7/5c/81/d75c813f06766ff9a07dce67afa081d7.png",
         "temporada": [
@@ -926,9 +933,24 @@
             "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR5JR0Yf27YtFlN31C4GE4t6IYU+ieFbgPmwcZds8k+GBg=="
           },
           {
+            "name": "Dsport op1",
+            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
+            "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPibK6q8MCKj7VGmcyEe5GuQ=="
+          },
+          {
             "name": "Dsport op2",
             "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
             "uri": "Hg2sN0yINJtA18aKQm6R/TMXe1j31B8Z2Z1EHOG1jpCQ2dkEJM7ZKGf/bkylW9q1pVdtWj7SLVtEZNXX+IzsFQ=="
+          },
+          {
+            "name": "Dsport 2",
+            "icon": "https://static.wikia.nocookie.net/logopedia/images/8/80/DirecTV_Sports_2_2018.png/revision/latest/scale-to-width-down/250?cb=20200706224735&path-prefix=es",
+            "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPjPqzLMt8MAKTxOmofUlxJA=="
+          },
+          {
+            "name": "Dsport plus",
+            "icon": "https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/350?cb=20221115002318&path-prefix=es",
+            "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPHK4WGbhaXZQPDU1Q/0i7sQ=="
           }
         ]
       },
@@ -1022,6 +1044,27 @@
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yZGmXKduM/33BuZWtZezCW5xAAVOBUoZlmUSs6OE9sTHAqr2xt5w+1/JdDL7kvQifSPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "yHTXsnFUxCrM7TTScOHUPXONI3BRASIDFCnpthMc5N3xnib18ZTezpNXzCNZCoD1"
+      },
+      {
+        "name": "EVENTOS UY",
+        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG9vszUd/QJc2qbRNqDXXhuh95hU4ogTLQZdNUMapz6xjsxQ45kHpzl6RUJvDmzOtSE4+no7I3ZecH09zfUS0O38",
+        "drm_scheme": "widevine",
+        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
+        "icon": "https://i.ibb.co/179yfJx/eventos-1.png"
+      },
+      {
+        "name": "EVENTOS 2 UY",
+        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG/+pVgyI7Mg3/iuiX2/8+qT9+jSo6SFD+n/4Sl40osnlG4R615ETXMso522iCG/OkIZ3zFt+a35yV6oGxCuGoch",
+        "drm_scheme": "widevine",
+        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
+        "icon": "https://i.ibb.co/Pr3Q9MF/eventos-2.png"
+      },
+      {
+        "name": "EVENTOS 3 UY",
+        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG/+pVgyI7Mg3/iuiX2/8+qTWQSRzmoLklOmbI1VVaoLK6C5RZqu32NU9DbWCeJLeY0gwC8cvmx9KJwz04YvPlsY",
+        "drm_scheme": "widevine",
+        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
+        "icon": "https://i.ibb.co/bQk5pCX/eventos-3.png"
       },
       {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
@@ -1127,6 +1170,27 @@
         "name": "TYC SPORTS (PLAY 10)",
         "uri": "Xdl2DaEzQlOLNwbO1ZYZPv49qUCdU+Z3S1qkrfzgLjTPcBA3yzPUh1hzaPTh6Fa2qwtDZ+IK/P5zdc1HpU9W7mdH0sNM/RD5s0APn15DQQXFJlxfUeJJ+xZZKjZ2Frkq",
         "icon": "https://i.ibb.co/85X5fTw/tycsportplay.png"
+      }
+    ]
+  },
+  {
+    "name": "TEST",
+    "mode": false,
+    "lista": [
+      {
+        "name": "Eurosport 1",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_%282001%29.svg/revision/latest/scale-to-width-down/250?cb=20210911124422",
+        "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPVraF3+4XrIERpwNoVJJxeQ=="
+      },
+      {
+        "name": "Eurosport 4k",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_%282001%29.svg/revision/latest/scale-to-width-down/250?cb=20210911124422",
+        "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUP+WRt5xzJ/28sev3Tx/u/sA=="
+      },
+      {
+        "name": "Eurosport 2",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/2/27/Eurosport_2.svg/revision/latest/scale-to-width-down/300?cb=20171123163414",
+        "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPHb9cMJErIh83hqmGM0QJ5g=="
       }
     ]
   },
@@ -2879,27 +2943,6 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw==",
         "icon": "https://i.ibb.co/nwyBsP2/vtvplus.png"
-      },
-      {
-        "name": "EVENTOS",
-        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG9vszUd/QJc2qbRNqDXXhuh95hU4ogTLQZdNUMapz6xjsxQ45kHpzl6RUJvDmzOtSE4+no7I3ZecH09zfUS0O38",
-        "drm_scheme": "widevine",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
-        "icon": "https://i.ibb.co/179yfJx/eventos-1.png"
-      },
-      {
-        "name": "EVENTOS 2",
-        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG/+pVgyI7Mg3/iuiX2/8+qT9+jSo6SFD+n/4Sl40osnlG4R615ETXMso522iCG/OkIZ3zFt+a35yV6oGxCuGoch",
-        "drm_scheme": "widevine",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
-        "icon": "https://i.ibb.co/Pr3Q9MF/eventos-2.png"
-      },
-      {
-        "name": "EVENTOS 3",
-        "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG/+pVgyI7Mg3/iuiX2/8+qTWQSRzmoLklOmbI1VVaoLK6C5RZqu32NU9DbWCeJLeY0gwC8cvmx9KJwz04YvPlsY",
-        "drm_scheme": "widevine",
-        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78TGQ3U6ykyr8Ml1PCYKFxyKLDWvMAhAzeM0bmpH+JheDuxV0E7c+wmQmB5MYowr834TRRqTa9m/BEkh14AwnHd",
-        "icon": "https://i.ibb.co/bQk5pCX/eventos-3.png"
       }
     ]
   },
