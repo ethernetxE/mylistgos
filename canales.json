@@ -1178,12 +1178,62 @@
     "mode": false,
     "lista": [
       {
-        "name": "Eurosport 1",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_%282001%29.svg/revision/latest/scale-to-width-down/250?cb=20210911124422",
-        "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPVraF3+4XrIERpwNoVJJxeQ=="
+        "name": "Eurocopa",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "VMt+stiv6F/RBM7mYHeFncor5EdDBvGVrc8IY8dr+QnZ3p2R0l5OBSHdtCT4MPerAB0fgSzjkW8NWGr3qZJv+kTQHLfVJXAsr7wWgynfPtg5Rer5w63ByUKC2iLgWhzPNeOyk/SNkigq4EgcldE0kA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgIujHC7u+QmRsPuORTb75x"
       },
       {
-        "name": "Eurosport 4k",
+        "name": "Eurocopa",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "UXbrKIjlqcTHaPv7ti2mEaK4+W8cQvFZmdf3Ng/Uu/g1mVBLv6bNMQdAJAosNnnSZanEsfaq/zZQW26TzuhAqJ3rJdx3FtDKae5GB33hWiZraKCuR+W1oKby7GRUJg1oHhAwIqcR2lqrnvRjNi7/pffS1L74lA1t5cdHnD+YM/fAHiJWTbn275BCX5Za6PR/kLwOihu1XFevzivLFmgrzA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4Xrkh3dWb7fcaWidTGgtgIqouo"
+      },
+      {
+        "name": "Eurocopa",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "S6tFuiijFLT/pc3IrfUxEgzUvvx3dDr8729+WBQOtxdig/Pc3XgXTNWgrF64bLWi9fSoYg/Ua8GNvgubuy7csyJMgFB0kF641Lr5a3kLCXm2mw0fYDq9Wj7oo1saLxoIMyWalHaAmU+cJFvdujqzkUDZLjlmsGsetrPUXHU1CJl/Y2enhW2A5acKf2IH1UK05/g/qcze4FRLBmVrgU4S7KSpiZU/5kvseBZHuxrCetbjni8AzfAqWvY+N2J6L+WEDG0Shj2VYeSbMEn9+8YlZUAIV5NI5Or/bpADuLp812xoUjUdoalvDwoAeKgptKTfymjNkG5qeqmftFG86Qh3qHez9aGZ05HJNenkBRJoOpCD6jxSnI/bSYjBOcQFJ8v553UlCwEL1MP5ZzYRa0yF4bCEJKZmkiHek0VufmCfUpWf79rPVRjJnUGv0boxYnhrbHKE5KG3jRDPmjmUrHH2rnM5kBK/+2P2SrRfyOP/UoyuNRjd3+4yA0B0wbWHSSbFzNgyzje98HXSHd7dvcjRZvQSllKhvbOnAAjrK/VPFbY=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgAAd1U1POqp+Q5PziLB7yx"
+      },
+      {
+        "name": "Eurocopa",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "OT6hESYa5ipsPARk2VgtUwkhgZHqN35EoezNxJC3qUBY8zZvhBKaLvJ6cY1sRRg6d7jS8Q+USx0oTqlYmoKY/g8Sj03C5K5P9+0lNoheTksLKDq8/wnOKV4Hps3qE2vW0j1tRZ/SEiUZeu6KnRM30A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkhSKeDFKDP3pGMP0rAs7CtR"
+      },
+      {
+        "name": "Eurocopa",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "UXbrKIjlqcTHaPv7ti2mEakibm62IUqkXVHoZ6Uy4CxAEHx4Q3Z3UPHAOqOmZ79eR3XdmeihsUbNNygEQm72eJ3rJdx3FtDKae5GB33hWiZraKCuR+W1oKby7GRUJg1oHhAwIqcR2lqrnvRjNi7/pffS1L74lA1t5cdHnD+YM/fxkkmyTem5z94+ix/5aH1SkLwOihu1XFevzivLFmgrzA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgeF+kngEyHKf0bj3hiJN2/"
+      },
+      {
+        "name": "Eurocopa stream GV 1",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "name": "Eurocopa stream GV 2",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
+      },
+      {
+        "name": "Eurosport 1 IT",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_%282001%29.svg/revision/latest/scale-to-width-down/250?cb=20210911124422",
+        "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPJ14wYW21s7Q5oPprg/q5uQ=="
+      },
+      {
+        "name": "Eurosport 1 GR",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_%282001%29.svg/revision/latest/scale-to-width-down/250?cb=20210911124422",
+        "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPbaZizx62Hdnv06OeQk+lxQ=="
+      },
+      {
+        "name": "Eurosport 4k Solo celulares",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/9/93/Eurosport_%282001%29.svg/revision/latest/scale-to-width-down/250?cb=20210911124422",
         "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUP+WRt5xzJ/28sev3Tx/u/sA=="
       },
