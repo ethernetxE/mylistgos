@@ -3033,8 +3033,16 @@
         "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
       },
       {
+        "icon": "https://www.ecured.cu/images/b/b4/Portada_Rede_Globo.jpg",
         "name": "globo",
         "uri": "YF54HW4AZpUrvRhskCB4iPExWcLEnRVwUrSWPETOnnK3HcnYJb99fzzQlps5K3WeO/DLXOuV+ZaTimwE2bQaiuyIny1q8XHTQRKFHlXq597ogahbfhCfZ4pjNB9/JjLy"
+      },
+      {
+        "icon": "https://www.ecured.cu/images/b/b4/Portada_Rede_Globo.jpg",
+        "name": "TV Globo",
+        "uri": "gintGMVPsb2zDjGULOWZ270psu+AXYB3Ym2cYurNP41Cj2+vAC45+DRnq/VpOH+RJ5YNpSEe748ichOwK9xXnQ==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxJMNDtpkvGXnNNk2MgFa3c"
       },
       {
         "name": "AgroBrasil TV (720p) [Not 24/7]",
