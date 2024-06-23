@@ -616,6 +616,11 @@
         "icon": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
       },
       {
+        "icon": "https://neotvdigital.com.ar/imagenes/logo1.png",
+        "name": "Neo TV digital",
+        "uri": "vVy60l/8CDHcHiTlkQ8/XqUYWPkr/tbWNWvQRH6pFc+QGglhdvpi67JrKmIZwX7ONcgvrg/yrnM5Uy+8wlgK9Ay7hs7xgPuSeDcGLbX8MGo="
+      },
+      {
         "name": "CANAL NUEVE TELEVIDA",
         "uri": "TDNabkJIIRdj5lOFziI7ITa0gjkCaviFM5Y2lcvHumvfBuiRIpoTPbaVALuHazLZvVsRS7cH6b5kxrTsouZ+kNJMLZFeNC99hHX/MW+09sC/J7ufeEuuzQNULz4Vs8TQs5Oxanhcr9njw5nZ72+uXg==",
         "icon": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
@@ -760,13 +765,6 @@
             "uri": "jtrESPzKIM0geoarWcOFeePCPLyfIoOeijCOqNRQXG80ff1r/SUy8BuFFUoTlufHfUytSIWmCvxMXue35IJ9KYKHfNQ0AwRzsQ2ZLunWqhw+akKOLVngQcvue5vuyzEpGYdln9cDeDpzSKrWkayRidI9bUWf0hIlGXruip0TN9A=",
             "drm_scheme": "clearkey",
             "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTC161BsoYqEaY/QyyhF1IeXbT/rgwGShiZw1frJ/LrnMlwqnS64RBVcKJiOCnl8yz9oBiu9hT+bkWx26YG19EibRB3QHQfHHS4GkbwK4kQ7Nvwu0STFGFDreKwlJJfuJA=="
-          },
-          {
-            "icon": "https://i.imgur.com/Viwl0AN.png",
-            "name": "Espn Premium hd",
-            "uri": "/b8rTfP+VQD2iPojTMUZ02CpOpM0jJ+bCqH+CrifiBgTkLS62M4Vb3+zB6gUelUEqtuKewCXC4bHgKMeZ79W2w43149Dul4rexokCk/QB1PPKN8BD016HPnwcoEG59Q80E6Xri0yaxEMsBU7IaCg03RrUhzXXXWOBDjFGdlH3c1XyZK++LFwML1buW/UiXOnt76v0Iv6tbqFUzsmaUAg5A==",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "Fov40ogCKfSprJXN/XC5Qn433ab+h/S63IJpg32KLkvpxQaJxWNQU6kykaYrh+cn4NB2gEyNqlapJVrNvZKzClq1g9/WyaYvRF3pDSmXzgFpXghpMJupOyPswtxYJj32xMYVJi+ZbUlTOHnCwhko7g=="
           }
         ]
       },
