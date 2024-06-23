@@ -778,6 +778,11 @@
             "uri": "HGqu1Kxmu21DgmpR+7xaZPl/93g3y25fIg0qryQCYF4Mx8hQLUu8WP0KWgkHKuwLkAo5CHz9n4yvMuwJU/G7lx5/gsoUQXPpfuV02Q+NiqdV4u5opzMUVpWUQCBZu1TBx3sLuXT2+glOaNOAMV27Cg==",
             "drm_scheme": "clearkey",
             "drm_license_url": "yHTXsnFUxCrM7TTScOHUPVpKS39h04UFiBJmWvDzNg51gYcAZikPEC4QtEMrG55P"
+          },
+          {
+            "icon": "https://i.imgur.com/adbeH2W.png",
+            "name": "TNT SPORTS CHILE",
+            "uri": "tQV3SXb/o7rKLtG37N13Ps6ypLCBdlwv4DrR7EIyre+jux0KuzNhkKzvPaLQa/vLaQ96XP7Q0/GStZnXL7Gy/MsPEDhoBfVaNgViW7bL36ykn3+Y0EzYt9DvjuVXciVl7zr0OgvR+i2exutFL1EPfa69/p3DNtgsalyMkI3XJbE="
           }
         ]
       },
@@ -1324,7 +1329,7 @@
       {
         "icon": "https://i.imgur.com/j10xlgh.png",
         "name": "One Piece",
-        "uri": "oqUqhvVaZUrRv/rRjYX2Ib4nbZYxAFItUAefjUMFWlqWiPGnVP+mDcxE/BR/LU7gVYIlKheVNn5Sn+fSwtg8AaUgDPqzFAwe1ICyBHco53m6vTJxehoCKNxgfdyVbk2rX4OPsX5SmZhkNu8Rggucnn+H8hfO1f3rNP41ATF4TTq4E6/AcRUvO8I0giomChIgK+29UdVU++Jqqwf4o7fR+nqqGk7TxPbyX9e25+LBD1bq8hkYTCuMiHzUeThhqu730iOSwwKQdZDUISa3gvzXY0RbG1psXWO0QR2MHkIC/4oVVREut+JPMsk8ScuzjINx/N3dNB08R3G7GfvzIY9vACEQjIW1IKocn/rQY11Ag6gbeoUr4bTroWucuztsFp04XeU87GaIj3gbuo4RV/0Qef78QuGuLY0VPF8eX1IkHy/luHWRBRrL8xBUH8RS+pc4jIA0r4/tzaUHaC1YqaYo7WAQVk0453pUxSeVx0lrMru8+32xiyOjEbWXdB6lfGO01MGoO1675SyQ0PTnK/JXCRYUgWJ+mawoqYzZoS+wzVLPofmOgkDWKB12rhrUubkdCJMMswQmHaq1bFrbeyiBpbe8TThMMmVtZtW0WyVyaTUsR4fBSG12ZTnT+z8TI8nctHLcoWQ+wLR+YOjvyZvj/y0l2WpVGs8HCC5kOc1mAQi4/TqnpG+WKGR7t5fNG+RBIoTJVMsE6kwNqw9J0zyvAnh4uNi1BdbHSiZZV5ZoFVQYh5uM1XWMSQ680FQNyUikGWGY5uxoVFS5XFFX3cxAiB5E9HyzUU14TRcPRvyDZiU="
+        "uri": "oqUqhvVaZUrRv/rRjYX2Ib4nbZYxAFItUAefjUMFWlqWiPGnVP+mDcxE/BR/LU7gVYIlKheVNn5Sn+fSwtg8AaUgDPqzFAwe1ICyBHco53k8TolI47AaZ7Qapjw6PFR6yhe5DqfCLlCncUXkLU/VetB+cj0t+6/dJvGn9wcuD4voUNeNIB8UVrkMkw3WMyX/qJfkyaoR7eVW3SUIGfxf/pBOWQvM5pDHkRdkqsNdKtw4gACKY/YPILk1dalHJNMOgL9xZlWehhaYvOm++BTD4RpI7vFyUZzlz51f+2i6kspcfwap2TPDLpx2UNxugTJ7B3eIsyNyTSmzmQ4RH2chzEFSD9lrzTmJfq9xxj3tggdw0uTcjLhjfw8E5AT1+0tORyCZc5lmQYo5IDEZ/ZLEM/Dzvp6AaHUv26Lw24JU6zheoSQ34QqzvogDj+b8nqvcScZH9JTTEoB+iENCOnd3ZVLc7CMoro18giHh7FzL2tfo/7lNUrURdl3oweVTG0418x8xtyZs9GD9N2UZGZsXSi+Pq7bw0373+S415Mi9S72e1xSHHL+1uuwMyD0l/o9OrdDpt4sTCq+pL9ct2OLxqQ=="
       },
       {
         "icon": "https://i.imgur.com/vF2m54a.png",
@@ -3027,6 +3032,14 @@
       {
         "name": "Adesso TV (720p)",
         "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrM6LwVHOqiMwr8WXAq/tIMMkPjhNZKDMqoHh9pZVx2thbOTsWp4XK/Z48OZ2e9vrl4="
+      },
+      {
+        "name": "SBT",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
+      },
+      {
+        "name": "globo",
+        "uri": "YF54HW4AZpUrvRhskCB4iPExWcLEnRVwUrSWPETOnnK3HcnYJb99fzzQlps5K3WeO/DLXOuV+ZaTimwE2bQaiuyIny1q8XHTQRKFHlXq597ogahbfhCfZ4pjNB9/JjLy"
       },
       {
         "name": "AgroBrasil TV (720p) [Not 24/7]",
