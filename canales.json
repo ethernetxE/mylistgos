@@ -84,9 +84,9 @@
       {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png",
         "name": "America HD",
-        "uri": "PGsTPZh/09nLqOSHP7KQFIeq1J6BE+QdQ819nAIcnVNVnmYfTT4lGuZDMfzgY9NG/HS/LCRzMCcCuL4CejhHrS5Gbf2JucbJIkgQPGbAYTUpj118xnOyuxSLJrt9FQwU",
+        "uri": "ywuJogEn+z+nHSLdA1Y/aVWPhQ0k9nSTnQvxNAWlTv4rIg79zH7cauoLX+yjtGTbUfFHnmXJM5SX6YcLQe12VXGwU8S+I3XRJLrj78Zo6YTniVwUbPwMmaEzfyCvQ8Aa",
         "drm_scheme": "widevine",
-        "drm_license_url": "8PoLb9FyRPMTrV+dn6oH3fPB0XP2VwlPhVs9ecemBx7+S+9IBrj4KricimD4IvE1qN59WR3AonFozDjy8sv20LdfpLRSrE/6fPmdWJbO1Rza9ujVOWXBGzCnPwx1lSc3"
+        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ79QaCA3UzbgdulSCTCfzk49BShonTKRC8pbuFLB4se97NziTnVxEr5/f9ri10JK/4ilWYritA9vk8nS2rx+ju/U"
       },
       {
         "icon": "https://i.imgur.com/R2ozbFY.png",
@@ -1061,6 +1061,13 @@
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgNpLTEaPFsC/bbwPK1xCfu"
       },
       {
+        "icon": "https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",
+        "name": "prueba",
+        "uri": "HgyoQGi2m/VW+Jsm+0frFwdJDJO5vK3FImmDRCo4fr8147KT9I2SKCrgSByV0TSQ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgNpLTEaPFsC/bbwPK1xCfu"
+      },
+      {
         "icon": "https://i.imgur.com/I2xqEQT.png",
         "name": "La 1 es",
         "uri": "AVOhbN19Ae8vm3RKrHs2mJk4Fw7QXD25823WV97Ga4uvVH0ZTF9PzS7BUcR9HmbXJrHphUGa30VYKpGp+RK7XymPXXzGc7K7FIsmu30VDBQ=",
@@ -1300,11 +1307,6 @@
         "name": "Copa America",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
         "uri": "IarHqHFvwQZQpmJ7x9+EU7DphwaX09wKV50nbAKLpD/bxxT3x0bxVtlUHbX4BTt2VkcQq5cV/21PEAp2Zk5S7zdDhZIF0YOkAKIHAVp0Kfk="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
-        "uri": "meXw2CX7qamYN9Yd/sfIzX1ZrbuiRzduEFJNPTP+PDuJ2ErEn77XBFyahRxPJgL0unpUcppZlnuo7qQgrSPHs7eEoI6OCxDg0qkQfm5ove8="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
