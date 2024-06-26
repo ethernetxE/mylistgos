@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "name": "La academia del Sr. Kleks",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/10269991719102913i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXmosa4h9viI9ixJBRcSZdoEUDkTaH8Mt5H1XvO4EnHAsnmCVZqsCfuKvlw7uREDC4="
+      },
+      {
         "name": "Amigos imaginarios",
         "icon": "https://image.tmdb.org/t/p/w200//8RgGuC7w8JxhykauzTC4bwha1J8.jpg",
         "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g8RKj4ysprvqbmH53BKrwDPraO0ctHeG0IRxjqLC3J4QA=="
@@ -2348,35 +2353,35 @@
         "temporada": [
           {
             "name": "Harry Potter y la piedra filosofal (2001)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK68LEO1//lxLKN7kkhHwMVl24V84R4ct8+2KsBRZnXhzKz2DQp2c/4Sji3CdWEAaSw=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozViK4XOvzU/LkkUu/sZvofSy8/F3mO43ZkldAFwcXNB0A=="
           },
           {
             "name": "Harry Potter y la cámara secreta (2002)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK68LEO1//lxLKN7kkhHwMVnBrsfE1dY7LYJi2A7rG/EC9Gkjm36abanhR2slluzFow=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozViK4XOvzU/LkkUu/sZvofS+75+3CxciLyrQSl4gTiJhQ=="
           },
           {
             "name": "Harry Potter y el prisionero de Azkaban (2004)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK68LEO1//lxLKN7kkhHwMVniZPXzwoVzUB6DtvW1Yl1kLK9Z1cuQdTDjbESQ7tczYA=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozViK4XOvzU/LkkUu/sZvofSUM6+FfNnKUgWvSVoNje1uQ=="
           },
           {
             "name": "Harry Potter y el cáliz de fuego (2005)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK68LEO1//lxLKN7kkhHwMVlSgbiMBRXW+yDNDHUrP5UWe2uMqC2rwwAnr7fjuTnwJA=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUgf+yDOSGI6yTYWQ3ycK1Nxw7ma7WuLD9oqUXsLGo2JA=="
           },
           {
             "name": "Harry Potter y la Orden del Fénix (2007)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK9Ag2FQjdyebdMgNQODe+zKuBHmKGj15cFRCO9NwdMTU"
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXNO+Zi1ngxeYcvGiVjxHizy8/F3mO43ZkldAFwcXNB0A=="
           },
           {
             "name": "Harry Potter y el misterio del príncipe (2009)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK9Ag2FQjdyebdMgNQODe+zIAgqG/qVSMwkXJmhzNnRGD8Qe+1NuUx+e+Tu1o0wmYKw=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXNO+Zi1ngxeYcvGiVjxHiz+75+3CxciLyrQSl4gTiJhQ=="
           },
           {
             "name": "Harry Potter y las reliquias de la Muerte: parte 1 (2010)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK9Ag2FQjdyebdMgNQODe+zJaaQn588sjUIWqUc90kCmQKz2DQp2c/4Sji3CdWEAaSw=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX7XkSk+mMk/oRb68fqbrmAUM6+FfNnKUgWvSVoNje1uQ=="
           },
           {
             "name": "Harry Potter y las reliquias de la Muerte: parte 2 (2011)",
-            "uri": "5/tvCXUmcT2NjZEkUqLkK9Ag2FQjdyebdMgNQODe+zJaaQn588sjUIWqUc90kCmQ9Gkjm36abanhR2slluzFow=="
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozX7XkSk+mMk/oRb68fqbrmAidvP+xOP839ga0kLWmxc8A=="
           }
         ]
       },
