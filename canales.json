@@ -904,7 +904,7 @@
           {
             "name": "Dsport",
             "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "D0o2WT0PRpO6J70NcPxcEuvyaaED8Z8ElMVtSf50U4RXd4HxaT7oqXYTqf5ilYUbU/ZJsaIiNfQahUHAFNK9s9lKyTc/hV4lHRmlsFVLxQOMiS0ViW9BDjEN/5tfQ9Dk"
+            "uri": "D0o2WT0PRpO6J70NcPxcEj70nwWGGportm80S9IWNEusINMWZIB9DzU47mLQnnVvvi0wPt7TecfaAT+t9lsGe9E6EE8gK/EpTKvCfmFztfo="
           },
           {
             "name": "Dsport",
@@ -1166,9 +1166,16 @@
     "mode": false,
     "lista": [
       {
+        "name": "Eurocopa Gold Vision",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
         "name": "Eurocopa",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
-        "uri": "IarHqHFvwQZQpmJ7x9+EU7DphwaX09wKV50nbAKLpD/bxxT3x0bxVtlUHbX4BTt2VkcQq5cV/21PEAp2Zk5S7zdDhZIF0YOkAKIHAVp0Kfk="
+        "uri": "0XAGBIU+vhE2qFTAn0ue9wQ+jC2V8KdwKRC3jhvqfgNrZA3MoTwB344i7t9rQhw54xUYco4iWWReZq5+TMVuHzYo1Nvs3XjXUmktMpb85qedFCGnIWlkhtnooZ7EAhWy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNciL1DnJLPh0KryBJ6dr/HW"
       },
       {
         "name": "Eurocopa",
