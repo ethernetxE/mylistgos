@@ -356,23 +356,17 @@
       {
         "name": "CANAL 7 JUJUY",
         "icon": "https://i.imgur.com/OUDhp3g.png",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6Ua6wGXs4FtWVCZ9VcuJml0M2JXdtC25qSA1cMG5PIom1ivpe237WvQKSavqi5HzLnd68+U+MeZIUKUMiO1O4axk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "jKL/GWrQke1Qk41zZ1Z6Ua6wGXs4FtWVCZ9VcuJml0M2JXdtC25qSA1cMG5PIom1ivpe237WvQKSavqi5HzLnd68+U+MeZIUKUMiO1O4axk="
       },
       {
         "name": "CANAL 5 EPS TV REGIONAL BRAGADO",
         "icon": "https://i.imgur.com/b3TkbUT.png",
-        "uri": "ocWM4AL3pGb/EK7PVPnhak0dpjT7v2jRhIVN2v1fRvQG5xSEwrj/rE2cAd//7qtqv8Y/PmruUoNjABdBjORJKTb8LtEkxRhQ63isJSSX7iQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "ocWM4AL3pGb/EK7PVPnhak0dpjT7v2jRhIVN2v1fRvQG5xSEwrj/rE2cAd//7qtqv8Y/PmruUoNjABdBjORJKTb8LtEkxRhQ63isJSSX7iQ="
       },
       {
         "name": "CANAL 6 POSADAS",
         "icon": "https://i.imgur.com/pf34tG0.png",
-        "uri": "5twcejAVfxakNuW1WqHkW0/YwNBZP/ViWI/E69G65GKklXvEZeHsON4ltfLKzex6oRjgdRaJJ/m4rkm3v9p9Qw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "5twcejAVfxakNuW1WqHkW0/YwNBZP/ViWI/E69G65GKklXvEZeHsON4ltfLKzex6oRjgdRaJJ/m4rkm3v9p9Qw=="
       },
       {
         "name": "CANAL DE LA CIUDAD",
@@ -384,65 +378,47 @@
       {
         "name": "SOLIDARIA TV",
         "icon": "https://i.imgur.com/VHhFJnI.png",
-        "uri": "bZ+23flDWv6jAKGSTMIqpdFQCIQFoR+U+LAiAJr8XQ6JmsVhalEKVPK04air1h+CxycwiRexHT5vbeo3R63YDw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "bZ+23flDWv6jAKGSTMIqpdFQCIQFoR+U+LAiAJr8XQ6JmsVhalEKVPK04air1h+CxycwiRexHT5vbeo3R63YDw=="
       },
       {
         "name": "CANAL 11",
         "icon": "https://i.imgur.com/JvQx8rR.png",
-        "uri": "I0Pf0g8BvJyK7CdyyNDngYAT2VhvXRr3Trq5fZ8G86PnM+gcl2wEs07i9zZUIqERknjTlhzB+bBjShxteujY5dODeoxUeMjeymkXV2cW0W4=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "I0Pf0g8BvJyK7CdyyNDngYAT2VhvXRr3Trq5fZ8G86PnM+gcl2wEs07i9zZUIqERknjTlhzB+bBjShxteujY5dODeoxUeMjeymkXV2cW0W4="
       },
       {
         "name": "3 FORMOSA",
         "icon": "https://latinartv.com/sites/default/files/logos/3-formosa.jpg",
-        "uri": "+hJv7vpSzsjN1mixcVh2qpmbQc9sNSPR8iRifHt6LA0tZsBi9oHJ3CinM2wiNF5O2rhMNfQl0P826A2L/J5DaA==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "+hJv7vpSzsjN1mixcVh2qpmbQc9sNSPR8iRifHt6LA0tZsBi9oHJ3CinM2wiNF5O2rhMNfQl0P826A2L/J5DaA=="
       },
       {
         "name": "9 RESISTENCIA",
         "icon": "https://upload.wikimedia.org/wikipedia/commons/5/5a/Canal9resistencia.png",
-        "uri": "5twcejAVfxakNuW1WqHkW0/YwNBZP/ViWI/E69G65GKklXvEZeHsON4ltfLKzex6oRjgdRaJJ/m4rkm3v9p9Qw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "5twcejAVfxakNuW1WqHkW0/YwNBZP/ViWI/E69G65GKklXvEZeHsON4ltfLKzex6oRjgdRaJJ/m4rkm3v9p9Qw=="
       },
       {
         "name": "MISIONES 4",
         "icon": "https://i.imgur.com/yTkOHda.png",
-        "uri": "a99D4GtTrk3nxoR0DaKkupIO3beofgqa0uv6ahCbo3wZXlhpSjiGn2gQ3d78wge+5DH5xEKizU4GOuUJCRCQVTb8LtEkxRhQ63isJSSX7iQ=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "a99D4GtTrk3nxoR0DaKkupIO3beofgqa0uv6ahCbo3wZXlhpSjiGn2gQ3d78wge+5DH5xEKizU4GOuUJCRCQVTb8LtEkxRhQ63isJSSX7iQ="
       },
       {
         "name": "7 SANTIAGO",
         "icon": "https://canal7.tv/wp-content/uploads/2023/06/canal7-logos-02.png",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6UT9a1g4q+NT0a3ZWh/Nth1DtiBNfUiicsRviRWvbtuoY2CR1ocj7Mn1aza17tXsRYw==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "jKL/GWrQke1Qk41zZ1Z6UT9a1g4q+NT0a3ZWh/Nth1DtiBNfUiicsRviRWvbtuoY2CR1ocj7Mn1aza17tXsRYw=="
       },
       {
         "name": "LITUS TV",
         "icon": "https://i.imgur.com/HdZdxWt.png",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6UZAxDpcrX5duqmw+PVdsMRA39J1IBrpGf1zsRIIehSfdArMxiXnC8zglYxfIestu4j45mjJiHgTjslbU/UPaygk=",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "jKL/GWrQke1Qk41zZ1Z6UZAxDpcrX5duqmw+PVdsMRA39J1IBrpGf1zsRIIehSfdArMxiXnC8zglYxfIestu4j45mjJiHgTjslbU/UPaygk="
       },
       {
         "name": "CANAL U",
         "icon": "https://i.imgur.com/OldquiK.png",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6Ua6wGXs4FtWVCZ9VcuJml0N0wL4mDr4F5G3g8NZDEVNuYiYynPAG6wTGUYht7hp/ew==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "jKL/GWrQke1Qk41zZ1Z6Ua6wGXs4FtWVCZ9VcuJml0N0wL4mDr4F5G3g8NZDEVNuYiYynPAG6wTGUYht7hp/ew=="
       },
       {
         "name": "RTN",
         "icon": "https://i.imgur.com/CwzhNJ0.png",
-        "uri": "AYa+9a+WCDdnHol+1Jinu56gfo85dsrVwSx1CJHFL/TYGnKJhBd6M7Q8KOBd+95M+/1Mi2N5sQHBG1TPaqoGnQ==",
-        "drm_scheme": "",
-        "drm_license_url": ""
+        "uri": "AYa+9a+WCDdnHol+1Jinu56gfo85dsrVwSx1CJHFL/TYGnKJhBd6M7Q8KOBd+95M+/1Mi2N5sQHBG1TPaqoGnQ=="
       },
       {
         "icon": "https://panctv.tucuman.stream/wp-content/uploads/sites/2/2022/08/cropped-logo-panc-tv.png",
@@ -926,29 +902,19 @@
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
         "temporada": [
           {
-            "name": "Dsport EC",
+            "name": "Dsport",
             "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "nw/btgjC39+crD/LRcsHz2Wo2vpw38791sW+TrWsgDXaqJ15iDdeDsj0GxyidxEwkdfW/Q/E/ENic/SRFJm5OA=="
-          },
-          {
-            "name": "Dsport CO",
-            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "nw/btgjC39+crD/LRcsHz2Wo2vpw38791sW+TrWsgDXaqJ15iDdeDsj0GxyidxEwI2iz8Z4Y64RJAVuJXM9stA=="
-          },
-          {
-            "name": "Dsport CH",
-            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "nw/btgjC39+crD/LRcsHz2Wo2vpw38791sW+TrWsgDXaqJ15iDdeDsj0GxyidxEwV66MznvcosVDiB09meHkqg=="
-          },
-          {
-            "name": "Dsport PE",
-            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "nw/btgjC39+crD/LRcsHz2Wo2vpw38791sW+TrWsgDXaqJ15iDdeDsj0GxyidxEwrafoxRoZ3yecH8nKY+4/rg=="
+            "uri": "D0o2WT0PRpO6J70NcPxcEj70nwWGGportm80S9IWNEusINMWZIB9DzU47mLQnnVvvi0wPt7TecfaAT+t9lsGe9E6EE8gK/EpTKvCfmFztfo="
           },
           {
             "name": "Dsport",
             "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
             "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPibK6q8MCKj7VGmcyEe5GuQ=="
+          },
+          {
+            "name": "Dsport PE",
+            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
+            "uri": "nw/btgjC39+crD/LRcsHz2Wo2vpw38791sW+TrWsgDXaqJ15iDdeDsj0GxyidxEwrafoxRoZ3yecH8nKY+4/rg=="
           },
           {
             "name": "Dsport 2",
@@ -1268,9 +1234,7 @@
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
         "name": "Copa America",
-        "uri": "jvnQh40uc1GGyNWpO+ShM+9WRcBXmFek7bWlwVX6nOupRbb18jfS/fHm7KYijVrHlNDRuKOiQFsVkFeQPyIhUP9J1Ui4sXsnq3V3LCpl9bnRPPDL4bxxPvxjJV4TpFU7XA2JKcUvjN/dorW2zWEXvvcq1SYXU3/zh+7ZkK0nQoh1RIAbyP4ktFNodWvHQgbHnPedRz7O7SARke7wUEcvOw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdmzDU4WUjtJPCgnegeBT0+"
+        "uri": "3kn7uAd9rBum90fwnuwQtAO1HpJCokEsEqRbOR3mqkEQYYDq474FA8IqDoz1+sxlgbNbYUhj/R88Ybo+eDTzi1HC+O0T4KN3Erw8Dxx7+GM="
       },
       {
         "name": "Copa America",
