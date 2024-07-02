@@ -4,6 +4,48 @@
     "mode": true,
     "lista": [
       {
+        "name": "Ara San Juan",
+        "icon": "https://i.imgur.com/7zcX8DC.jpeg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmR3RWeGCtxN9n+plNWRqFKtHEgJWR1BCRltlCVRZg5XGlIMdUXyVgfIIAxvrcv7ZEYPhXYFU+JURsB92kockaivVyZf+PwiORUqOKmzQ4eGgQGtPz9bTGdQ+IV2m0rin2yozstxM1UGAZVUSjR3q1vJMf576ucNBKhRmjC/Cgg6GcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVktTgljKE+5GDVAVSMJnkNOkjB3mqpCwvTfE/k/NHw/w3a86hMaQAl8KjG3eCDFQ7Z69wlikhuVmXaVJW5YVKM4m1OUwDKTtIOQEJg8nyq9chICzsBGfZzpyjDHQq4BLF6ZPxFYqu2jWsCT6GYeDc0GP33IafdZ86zIDs8z/1o0cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmSt1zzkjqhJGMdk9myKbhhUlVU9XzEJRftG8UR+mCbYXH4TsFiFU5+umflDLTd9cZgePnVEnHu5Zg2liNzkW4CVW8CjRLyermWitGpdZf2WWVH3qirEdN7n7YNWGbF05ze42YKtAp2lntN3FjSpLvc8p+8QbQ3bCvbOH1hBoXf94cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVkwDsoSi/Un65xtP0+VtEhOu3zLZ+cXltoPpv6sYOIwWipz5zRpqDl+jvlXvifinvEZfaj6quaEakpQcj/zyMiNrwytYXypiw8y4mh5wiO4wKO9DdhYCcS7FBCQDrQErlRMA93sLR+N8KxtuqHel6+Nczf2wyeNNaHk4Q/3URCzcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmTPJyfVDeXUDZDnJ923Uad3qRqpt8W/tDQG0smPVuvAP2aRPZgRlnL/l5lJi1CXd2+OgCAhSvgo68R+tpVjFKxnJseKx4j9wlB2oiMmSwrHCrCmI1nW6o1tgzQKK0plnGb5zdA7nGnd/hvh/KcFGJzWGrHDe9jGRPUuBIlcVLd8b+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ+mst+zDEmqrrkYox9HYEtwonDkZ0Uvt4kLpvAlpgP4UPfAO51pq8zE2t/4dazpHAHnUFfYBhskjkft8f9lc/kLe8ss59llLffVzPQQtxvKMTNsvvEC++KJf5kVVqVd9sdqpy1Ell9wUdC3DhdBXc++rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmbrOCgNdToZeigjGzXft3vUK/QE/5qltsi4cuyltxwEnkvLXK8juhvdA8smzzrVPaBBsDWL7fEFkrGWRwWARKmuonHYkpBCbUnrNKptfnpk16QZ/Pn97XAcLWRr1Cx04pJQJm7QMC+8n1W7BcV5Ee6bsDRT0S5sXrXheOkaEiAfKcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmf21ic3OvLxehfYKmEu/bzUBKDRZMCxwIaIBJDM0eQHyyY0xkplRmjm4sO0ySOBm8qe0RG7zxPFWzXw3VduhoU3OXo+rqfVXz7Yt4lrG6vo50ZYR66ezbttMpnp8fFOHy79BT3RVih4bU3P8O0sPE6gytoUrmqtBSJIcW8/o0irUoyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDT70MrS+d+nFbTJelwXmaouMAno2kRjcHJf7oKkNoJ0XkTlzJma27g9qSpHYzNOTtrZoRqzb4/6B2fnw0cBPOqNJs2JqRXv5Vn38JAW/s52usOBaHNzqRjVPCIIBmVO5NnXmTRXowrLUIwHeswQFvRn0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdqRV+t0pb3McNZQHoLfbsXfYj3s/CX78r1TWjLz00Z1bRmUozsRRlDfwnRz7JMGNdyyjbZG38syr1sz3zicLYL7Ug2EeHhjkRa0uAh1XI4Jk5yBOL60tJE4iVsKjX3Wc7UMdJKgW+DBkETigCEeLue4qcj3FL9xJ6zkBO8iLOMxcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmUyoF6CwanU85rLd8Eq5b0J0hkv/QlDaskMlJ8M/oc0CmpkZ+Q9m+qiq6OOEycMSOb9MqnblG9yS9JCH/l940jhnz6U7jB5SmUQqdWO8HpzgWvKoFrFJeox85Z06CV0hh9v92/Q3wZvXu+YWbm/pjaoxBWUyau0dJluugiiyOBgIcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Oyw6tI04F9oau3f9Sf6oo/up6d2Mr2rwyrv5QDt9JbYm1CKoWXtPr/aSoNe1vPB6p1FwCxMrfg36giDOoiPwFy7P5REYVu/orS1OviVvxTlkrRkYCa5qTFIyKflQLozvhv0DLzF0UxiQ/08/cC9uyMtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          }
+        ]
+      },
+      {
         "name": "Cris Miró: Ella",
         "icon": "https://static.flow.com.ar/images/10108201030/DETAILS/350/500/0/0/10108201030.jpg",
         "temporada": [
