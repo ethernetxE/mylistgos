@@ -45,7 +45,7 @@
             "name": "Telefe OP1",
             "drm_scheme": "clearkey",
             "uri": "HGqu1Kxmu21DgmpR+7xaZPMzc1HrkhBEglLZIcs4IAmysRtoLA8GQyPzAbffMDlYYAs+jXmOYB8XeKyL9UILdeoYK4biYj7sD1WirVJzCfIVQmGaNNJWRWv119lxwfjV",
-            "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTkPBa3PTfEK9MtZ9TrV+XjmK++S4bk9NCBXfpQDJmeE2LieqarvjejccGcgmXla8MXvuXeDSXg8LqG3yTjClT1v8jJ3d935GUsFzJTB+JUsNvwu0STFGFDreKwlJJfuJA=="
+            "drm_license_url": "5/tvCXUmcT2NjZEkUqLkKyXZWGosXiCrhpJXwveeRY8A086OakJ8vkMyzgeW0qNO/LuKnsoJb/0j5acM6WxKqw=="
           },
           {
             "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
@@ -55,11 +55,6 @@
           {
             "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
             "name": "Telefe OP3",
-            "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR7wyjSCr6AqQ7jp/Q0o0jKB"
-          },
-          {
-            "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
-            "name": "Telefe OP4",
             "uri": "ikbMNHDMCH/2HNi7YdCmxN8BkrzjzvO60MUCcwXvUL64RIcjFPptHanxkhLjJ0vtoRjgdRaJJ/m4rkm3v9p9Qw=="
           }
         ]
