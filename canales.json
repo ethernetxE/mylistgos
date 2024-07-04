@@ -1072,6 +1072,11 @@
         "uri": "JOW/L05U11pUgK6z3gwHgEWUrTA6f2iHnYE7lARrTaU8USkMo9peO9m8DIhERJD0e008MuoCE7J+GnItbrMghg=="
       },
       {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/3/3b/MMA_TV.png/revision/latest/scale-to-width-down/250?cb=20191031125727",
+        "name": "MMA TV Rusia",
+        "uri": "RQhIAHKhkAfRZWVSUjtUTQwd4Kd9EbdYIYFU7HmZxzRrTHJkowFTGQwArvUcSA7IY4VDZD+yq/TtB8c8QU+fzA=="
+      },
+      {
         "icon": "https://television-libre.online/img/clarosp.png",
         "name": "Claro Sport",
         "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh/gaTg6iqP6LIZtjBPj64/PtVa0NpPPJLYFglZ+NQKiNTzyp+IC7uEbxJsFJhPayPCmPXXzGc7K7FIsmu30VDBQ=",
@@ -1226,34 +1231,15 @@
     "lista": [
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America 1",
-        "uri": "EeezBHpkG7kgKwG4DQ0Ddk4XAtGBcKrVIVC9Sx76+rzxGZKjvM+1oVrmglPruyswD6xUvZD7qp91RmH19l/2lMLiEh8Sm8BioQAlVsEjEMgFr+ieLMv8PElBPILnVCfJrZshmaf486C6586nirQONw==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4Xrkhu1WPxfxht7KM3vZEwfxx7iqjs4VWKFn3Q3V7uJNj0Fw=="
+        "name": "Copa America SD",
+        "uri": "v5P357se895dBAVPogGrpOZsMTKA2e2+qeQIGK16fuPt54ZtSeCVre0wDWT1NuJDd45FY3Iu+B7lixBwgQZpvHL9hQTSucdH4OYnL87clUM="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
         "name": "Copa America",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTfFdcCB9VUigp0rcdhTy+ex7itU1yLjQkjwXBIeOYsObhyZie4iiAVgCvT/EuMiyZ",
         "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdBIpjuXQV/4OD+SSZrUWkozShvNVtd8Nq3xE7bl7WKvQ=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
-        "uri": "3kn7uAd9rBum90fwnuwQtAO1HpJCokEsEqRbOR3mqkEQYYDq474FA8IqDoz1+sxlgbNbYUhj/R88Ybo+eDTzi1HC+O0T4KN3Erw8Dxx7+GM="
-      },
-      {
-        "name": "Copa America",
-        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652"
-      },
-      {
-        "name": "Copa America",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "uri": "IarHqHFvwQZQpmJ7x9+EU7DphwaX09wKV50nbAKLpD/bxxT3x0bxVtlUHbX4BTt2VkcQq5cV/21PEAp2Zk5S7zdDhZIF0YOkAKIHAVp0Kfk="
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yJ8QI2JHSeYT8imq7oqA1s29vieGhuc4nGFgupxjaWSZbhQcLZQBe9GEH9EDthFtc=",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9kkJxmiDKguHnuFP4XXViuGDDwxCpVljzIT+Yob21vRS7ZENirIT4rqcNuL+uz4JQ=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
@@ -1263,34 +1249,28 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
       },
       {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
+        "name": "Copa America",
+        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTfFdcCB9VUigp0rcdhTy+ex7itU1yLjQkjwXBIeOYsObhyZie4iiAVgCvT/EuMiyZ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdBIpjuXQV/4OD+SSZrUWkozShvNVtd8Nq3xE7bl7WKvQ=="
+      },
+      {
+        "name": "Copa America",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
+        "name": "Copa America",
+        "uri": "3kn7uAd9rBum90fwnuwQtAO1HpJCokEsEqRbOR3mqkEQYYDq474FA8IqDoz1+sxlgbNbYUhj/R88Ybo+eDTzi1HC+O0T4KN3Erw8Dxx7+GM="
+      },
+      {
         "icon": "https://i.imgur.com/KSdD6Xk.png",
         "name": "Evento MLS",
         "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
-      },
-      {
-        "name": "Evento 1",
-        "icon": "https://i.imgur.com/tUKlxrO.png",
-        "uri": "GTaC/ZuLvijEaLZi18JMK6uwR30NbLEAxwRrHIun5VfMYJ/yswbWXDi0GNaScAQC3n44kQh3KgrLLVpFEe6juQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/tUKlxrO.png",
-        "name": "Evento 2",
-        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR6tPIXCbKdYrRmeUjJIuQDxIYU+ieFbgPmwcZds8k+GBg=="
-      },
-      {
-        "icon": "https://i.imgur.com/tUKlxrO.png",
-        "name": "Evento 3",
-        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR68Qp4YlSUTU5v88IrFsDzYIYU+ieFbgPmwcZds8k+GBg=="
-      },
-      {
-        "icon": "https://i.imgur.com/EhJQVoK.png",
-        "name": "Evento 4",
-        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR7RN5k74VQAMDhgiwLF4JyJIYU+ieFbgPmwcZds8k+GBg=="
-      },
-      {
-        "icon": "https://i.imgur.com/EhJQVoK.png",
-        "name": "Evento 5",
-        "uri": "310BuWvCIjKbAI6cRllQgEvd7pbs4W40XznR7eubUR64seTmI0PvVEG9ve5YrZpPIYU+ieFbgPmwcZds8k+GBg=="
       }
     ]
   },
