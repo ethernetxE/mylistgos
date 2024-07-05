@@ -4,6 +4,16 @@
     "mode": true,
     "lista": [
       {
+        "name": "Detonantes",
+        "icon": "https://i.imgur.com/EvySWKd.jpeg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWO07f/Q1mN7NrGAxPNq4p/IVH/m2phbkTAx/oaQB1iuw=="
+      },
+      {
+        "name": "Un Gato con suerte",
+        "icon": "https://i.imgur.com/yonteLF.jpeg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWg/B5TFmg0Qzd5WLNAnIZUfI93bxiU84FZuhQ5YPXYzUS9WlBRI7sxj8WlbK3EDfM="
+      },
+      {
         "name": "Un Lugar en Silencio 3: Dia uno",
         "icon": "https://image.tmdb.org/t/p/w300/jGOi939xU8BDRfAAhN6eiTSf3H8.jpg",
         "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4WNS/zVO58kUt3id+cpBoITOKJSyP19hyW78eDtr633pg=="
