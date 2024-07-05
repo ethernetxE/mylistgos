@@ -1160,13 +1160,27 @@
     ]
   },
   {
-    "name": "TEST",
+    "name": "Euro Copa 2024",
     "mode": false,
     "lista": [
       {
         "name": "Eurocopa Gold Vision",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "name": "Eurocopa",
+        "uri": "AVOhbN19Ae8vm3RKrHs2mJk4Fw7QXD25823WV97Ga4uvVH0ZTF9PzS7BUcR9HmbXJrHphUGa30VYKpGp+RK7XymPXXzGc7K7FIsmu30VDBQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMcIsRcRAFV7NCfwDRm+reQH14iYrrJX1cgIm+5+5NGIbKPgVYCNLCpbq7pxcYS/yn5crvPYzlJBfNocPJ2cSA0oqGB4JfNvWQCn8g5DD7f04Uj3lWlvjF7MvDMQZDp76g=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
+        "name": "Eurocopa",
+        "uri": "BFzLO8aicMInu5aNhYSPzH7u5VcxxZl3LYZUMnHkJ1gS+233tKPTsNqTHrfSv4n6RPnHXU7D44TCdoReo/o74OHbFN0yu9sCXL/+mW292dEITb3jJt56rQLpmz8n1Sh5",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9kkJxmiDKguHnuFP4XXVit+e26cd1dSg0shhMxPxthCNGhDKINEo6uuoCzsp8FB7w=="
       },
       {
         "name": "Eurocopa",
@@ -1181,13 +1195,6 @@
         "uri": "VMt+stiv6F/RBM7mYHeFncor5EdDBvGVrc8IY8dr+QnZ3p2R0l5OBSHdtCT4MPerAB0fgSzjkW8NWGr3qZJv+kTQHLfVJXAsr7wWgynfPtg5Rer5w63ByUKC2iLgWhzPNeOyk/SNkigq4EgcldE0kA==",
         "drm_scheme": "clearkey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgIujHC7u+QmRsPuORTb75x"
-      },
-      {
-        "name": "Eurocopa",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
-        "uri": "ZSdf4zxLAlfUaf4NX9o787BTqyU6Td5IiAZrcYnYic6/5iKikZ9aT/R+3xiEWdA7vPgHvg9KyyOIWdb8dWUrMuJ8c5cF1M1dW17Ynr1wl9+mzFSgBId6p0zxfaZvWE9+",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4Xrkhl7mfNup70hukI8hm/KCUX"
       },
       {
         "name": "Eurocopa",
