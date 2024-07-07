@@ -26,8 +26,8 @@
         "icon": "https://i.imgur.com/3JBppTI.png",
         "name": "Encuentro",
         "drm_scheme": "clearkey",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZAuoJZ4aamtJjcITw2z24o4Mx8hQLUu8WP0KWgkHKuwLX2eyfHcXjlq7Hb9H5d/SIbA/IaGl+flvp/nDeAIu7c39SXQ2IPM0IZKSEp9ZroWb",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK8SW5Xr4Z+ILFXWvXflOJMLlWuJPup+tfZNbN/1ZrfIZgr3lq1pN6D96v7aWvEXA1Q=="
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xHmJ3Du93MsQnAmOIsU5Z6T3E6p/YHGcOMCqpzz0jhRNbgkTR5/wR+rmUmN8dZibY147KT9I2SKCrgSByV0TSQ",
+        "drm_license_url": "yHTXsnFUxCrM7TTScOHUPW9qTaVZuF4leNwTPcfV0o2sYHfIl8qR9NIbMo88lsLa"
       },
       {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png",
@@ -85,7 +85,7 @@
         "name": "Canal 26",
         "drm_scheme": "clearkey",
         "uri": "HGqu1Kxmu21DgmpR+7xaZPMzc1HrkhBEglLZIcs4IAmysRtoLA8GQyPzAbffMDlYgMGTBDycMRF7LNl3mc4+JtwAf5EPZIIOFHOt0C7c1v8ctubJe3cnX0izGqNT/4Mz",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkKwNFgWMQemgbOMmKsXhwBN+MJrajk2ql6d2EPbcbmz2rcBsFLBZxMBdLuWr+fgkPWw=="
+        "drm_license_url": "yHTXsnFUxCrM7TTScOHUPZNYPgk1jNbA+C+1TDBMP2yPg6Z0FSN4Bh3jkrfzhuOp"
       },
       {
         "icon": "https://i.imgur.com/g4KBnqF.png",
@@ -112,15 +112,15 @@
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/709.png",
         "name": "C5N",
         "drm_scheme": "clearkey",
-        "uri": "nEbIKX5bIAnNu9X6YiVQrM0FDSZqPNIMtOMnOFLPsI7gq2vTXP0LCYHrtsj8BKc5sAyixVLxiGsU8fUzjd/Pg3mwL4xtzUbv3NSZCDm4rXs=",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK4dL76bvc8IL7lXebBXvxWAirIR5IaTgS+CCNJZrHkul2fF9XQb6oEFgyBDW2qNr3w=="
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72wusd592XngX1kz+DJSSpyfqtuKewCXC4bHgKMeZ79W2xWof31H5DGRgOazZlgX9kE=",
+        "drm_license_url": "yHTXsnFUxCrM7TTScOHUPd3YJ0TmktPWU5hkwA2KaFa3m9QoDZQhmSJw6pBxqvWf"
       },
       {
         "icon": "https://i.imgur.com/M3zNmqy.png",
         "name": "LN+",
         "drm_scheme": "clearkey",
         "uri": "/b8rTfP+VQD2iPojTMUZ01Tw4WBi36E3x7AaWibzpM3N/4CTtGYL9LGBzwqPZJ/gErvDFIpWlrXOCD1EeTvFJw+3xcF82W2eRgih+ZJLSa+thzYp39vqYKNDnlWUQRprk+EZ12pn1zXaOTvE/4c0o11fwYV1frKbg/okVy/zkXrEaALFTp5KRA83gPCPzGHX",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK/EToSdqwgtxBQ+9oJcrunEboVYmzZCOvj74Y/poY6Jut5vUKA2UIZkicOqQcar1nw=="
+        "drm_license_url": "yHTXsnFUxCrM7TTScOHUPbu05Y4olRCPeVEIbx9cc023m9QoDZQhmSJw6pBxqvWf"
       },
       {
         "icon": "https://i.imgur.com/9Z3p5EF.png",
@@ -1156,6 +1156,22 @@
         "name": "TYC SPORTS (PLAY 10)",
         "uri": "Xdl2DaEzQlOLNwbO1ZYZPv49qUCdU+Z3S1qkrfzgLjTPcBA3yzPUh1hzaPTh6Fa2qwtDZ+IK/P5zdc1HpU9W7mdH0sNM/RD5s0APn15DQQXFJlxfUeJJ+xZZKjZ2Frkq",
         "icon": "https://i.ibb.co/85X5fTw/tycsportplay.png"
+      }
+    ]
+  },
+  {
+    "name": "Partido Uruguy",
+    "mode": false,
+    "lista": [
+      {
+        "name": "VTV PLUS",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/15/VTV_%2B_2013.png/revision/latest/scale-to-width-down/250?cb=20210318205132&path-prefix=es",
+        "uri": "c+HCsi8K9kDdZ7z/5NOFAtk1K/0MkDxtYKMM96m1Y5DSub+wlGyMh0RWPi9UfMHY6c6Ox+WkJF/SoYHGKREbBHXHlTYe58RgbmubFIy8GiofgkMlrnYHVcyG59yfVvUNmTkICoJo0rrAdD5atkyLHCSzaYSigBtTQzlqbxYLT7wmde8xCCyziRyqWNmeOHn+EiKcsm/eC4i5sGNcIarV1qWTH8ZkuZGYykKCOIeDMW3RiVytvJ465B3CDWgh7316Aojc3T+7m5/dXvAwuNE8xjF/o4peX1XxFe4cGH4Le4xvZSAppjBX8yW2qm7w47qa9vwCTOLXFiKkye+R/Q4Oivo68N1MiS+NXYUnnDOH3YegwRzclA++QShWAICT0Eh2suwfX6fqcUgJwDNRJKkUwKYrZUeBVUy9OziMaPt3h+LSnztfWzr3n5jesJ8mshS9DUfFM252E0eL3S/DbKFCU9OemIAZU/Q7nAUh95sQs0iuNoIbXaZujnD386OShiuoH3ZyFzS0/W2DFeu44pkm32v1ckkEi57JR8wuJFjspU/aA2dU8bMg2VJ3SnOB/Pe5QCCWixMIv+IGpwz233GgoUcli8HyGgRGZCHqXI858TI="
+      },
+      {
+        "name": "VTV PLUS",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/15/VTV_%2B_2013.png/revision/latest/scale-to-width-down/250?cb=20210318205132&path-prefix=es",
+        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYVq/62UGODc8pfsRj8CbfQu8knhD/452/Z9I6IoaTf+w=="
       }
     ]
   },
