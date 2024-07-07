@@ -806,6 +806,262 @@
     ]
   },
   {
+    "name": "Jackie Chan",
+    "mode": true,
+    "lista": [
+      {
+        "name": "La furia de Jackie",
+        "icon": "https://cloud10.todocoleccion.online/cine-peliculas-dvd/tc/2011/06/16/27531515.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzbupQ+tdbJp/2t7Uf+P9RizH2Haa/40ZdG8XixvU1YdSMoktOBsyIZWnbO02o9bIwFkxBMVl80kOkKGAQysJco4UKoXMUwYTaVNf+P6J5rgf/wytNi0kzQqvnZvQ7vFRXC4CcraSzUD3k+KeMbeHiE3GYHhVuFr97So0u4f4u9lehNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Despiadado",
+        "icon": "https://www.los3dragones.com/imagenes/carteles/el_despiadado.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzV5BHukc5hn0njkNUiDRDFzxP0K1GYnVkqihXUotcpqM5Bq0gIg6Lh0jw0Yaff1t+/DGiwfEGBaaQj/WzuQG7DR9hKzrQdjJTiysdtoTcLeTuVUaGzUGN4qmcGJQu8H8olFFbk8I3J7iIP7MMNlkSGYTS0UnhBCQp97cIb7Jjfwa0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0N+Q1DwAPwSixLbiLjITIM7X9KLkaODvR3k3kOSSJCRc5TK7eNet7iDU5RwFlBkI3OonoUN8XpFg3kd8l/K/khOPUE24XvhVPaiEjJilo/waeO3AtdxT+oSKWL7nesQJa2m4R07UE8JrnI79WDsfJQ1yNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "La furia Oriental 2",
+        "icon": "https://detodoexpres.com/45676-medium_default/furia-oriental-ii-new-fist-of-fury.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzfaNtuUt+LPNU6uuaGrKjkvH2Haa/40ZdG8XixvU1YdS/wjBPrfKGSYSHfFcQq+nb/GFiGtCtEy0eIR8VeKrsvQBCUG8pbY32tv+OHU8DHrlC4Ky0C/sfn70AZfWXAL3ToBsRy+d5bBPmq/C9hWnnXeyihyhPkDVk+7hVD1WAEn1hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "La Mano de la Muerte",
+        "icon": "https://i.imgur.com/m79zV3l.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzRtcmXAXaypzy7JcyD+mKxJxdxG8vyr+f3gE6/d9fncSh9AAPOogMH3fUX3ar1qOdogvLjUQLeO1gx1kcp/uX2Og8/HuhDpdibvkruoAUHDA1zxXRYnFHSPRBMZFunj0q3clMFqkFjeSrpA9opScwJYyML4dm3uMU49YwPlfmp7f0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0N+Q1DwAPwSixLbiLjITIM7X9KLkaODvR3k3kOSSJCRc5TK7eNet7iDU5RwFlBkI3OonoUN8XpFg3kd8l/K/khOPUE24XvhVPaiEjJilo/waeO3AtdxT+oSKWL7nesQJa2m4R07UE8JrnI79WDsfJQ1yNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "Meteoro Inmortal",
+        "icon": "https://i.imgur.com/zQAjJKg.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckze+RZE8bHfh+/DfptJEoBsLxP0K1GYnVkqihXUotcpqMIlwhtCqB8rtGlM3ZgNNgj5guVCQjmQ7QhtTVZ8HfFbGJexXzur/76Q9byemwCkg/D0Aj5A47F4so+zW3YNiQCXIk6Y2mUOlDeuVXON9472lThIH2RufZuCBszYT6QbCdhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Matar a Traición",
+        "icon": "https://i.imgur.com/xtv3GI7.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzTnwjf0zNx7HiuKZ/AKOcpq2ma31MmKct1axFQNfNVAtgT3bkeFSnf4guK4Ss03ahzZ3ZrwIIjYk7Hc8TA6Rg14Ipiw4FjRzlKxWJ8SGP1EHr8Dyc6GespJzm+dE1hyvbqHT4xaqprmP3TN3mXJL/J0Ig7IfrpQlIjnV9wrMXKSuhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Estilo de la Serpiente y la Grulla Shaolin",
+        "icon": "https://i.imgur.com/AtebDLP.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzW2cOA+ii/x1oo7/8b7SF5rH2Haa/40ZdG8XixvU1YdS32+gox6pSiExlyITHVmADas8sAvqswBlTcNpRebG0Rhrr80Yw1txdpwPQmTOd0u8KlhUgEoSyGNHfFipVQU59ErGUCZwEsg6bxpl03VzCT/4XHyEJHKE2zjMJGH25BGchNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Joven maestro",
+        "icon": "https://image.tmdb.org/t/p/w500/c9f74LSZP4uxBfgaypIrTGjf9Xi.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzabqEMAjEwi+Wp2r0232wqtZpv0U8IdP7a/tcoBXvT0fwWNQnOwfUQjXXUsuBFNWraXvdjjCMyqtHYboEQM4GsQT8JSuybqETdoUUJVmiQWzOPjrpogNzfKtPa6o4FHKAxNxzDz1oHRETpqrLXqdwTFIDNTkBkp13ovYN1v86pKHhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Maestro Borracho",
+        "icon": "https://i.imgur.com/Vcy4FOk.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzU+ENTvvkl8zz49/GrgAvFE+Z6XaDt2OOtr7+mwGupvLzuP/xgoR+ajSdQWS+O0Una/sJbZOne+LNJVXH2T0EWmhu4+KuGNlj/jReSeFaEjAQIB7+llmXP7xYimzUSmGMgsKAbcR1+fOxlxAEA86dWI01or5lqKEYXBldxDoFlsdhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt+hhjbLDPQ7UN/Xa5iZ/qplRsMtqsV8aGWRLBxT1SiXdUNRh8KmYHIFMxUblWkvPhwnv1FHpm7ZyXsz4v3lbLsaxI/gYlSKnNQxbx3+1PGNkckayRuAqQ9t/1gipG25K+8TZmsf3m5z/yQKQnijlLrwehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El puño del dragon",
+        "icon": "https://i.imgur.com/wYHU1KE.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzaRHpQ3jOM1vDhdNdbNTkUY+Z6XaDt2OOtr7+mwGupvLfcwZKpW46t35CnojtIs+463qY6UOb5ecvg74YA16Mk11SUSEq8JFvlW4y3ISGpYMQShBGWgS9ZnMMfghJMHhJ71mkd/L6WnKAsbmy0w1Hk39XibZwSFcqictzGBjERRzlmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9qkJy5vET1hFdxiVwe5p8dxHp10/rhg2fnK4xwCgF9ZKTJCQsol6SqYY2LLm8nmXAdrf7xG21akrwCl/UKYQW/6Nt0D7atErrMYRP0KuXG2zHzP5phpdYYxWvqkktO9/e/fUAkeN2P2wLvqFQilakYduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
+      {
+        "icon": "https://i.imgur.com/nZD8W2O.jpeg",
+        "name": "Espiritual Kung Fu",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzUa/YZplRq4gNj4pD7d8PwVZpv0U8IdP7a/tcoBXvT0f3P/s8d2bW8IFzk4xZuYfEmvocZmj3gXBVBFYLV6796XBR+5LvXgi5HkH2qipQlG0pO0N1aFq28nBwOza16b8bo6eMdmF2WWwd20kqZcdoX6NjSG/lqys3vB9HMZBJyMkhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "icon": "https://i.imgur.com/N83WMB7.png",
+        "name": "La Furia de la serpiente",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzR4rFF9dD57drggPZXvojAnDwtDCsrdfjza01+lGkOPdB6ky+G7+EmYjN8Q0SIcV0e+1GrvRn6qu5dnHQxpgsoK48QHk/oSeljLSKA1teP9BC2NqbyUQyCqMw8Wew0PqgRfw2vZplGdVS66Q9CjNMjf91xajYkKKxRaQJed+NjR/lmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9qkJy5vET1hFdxiVwe5p8dxHp10/rhg2fnK4xwCgF9ZKTJCQsol6SqYY2LLm8nmXAdrf7xG21akrwCl/UKYQW/6Nt0D7atErrMYRP0KuXG2zHzP5phpdYYxWvqkktO9/e/fUAkeN2P2wLvqFQilakYduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
+      {
+        "icon": "https://pics.filmaffinity.com/se_ying_diu_sau-671101931-mmed.jpg",
+        "name": "La Serpiente a la Sombra del Aguila",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzYaPXAWGcNF8EsG0EurfKDtxdxG8vyr+f3gE6/d9fncSIp3B7gSnZJZYT/KpJfeyPuHTWvvVAHiM8UK17xfBWPFyy2Hu7pKyToAYtDvVGi4VxOzgflh7PJV+/C5+bOkA256MatH/fEVfOldQJnr4b4Ve7z068lLvL4Yrx03X3+4i0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "icon": "https://i.imgur.com/lzbnNWx.png",
+        "name": "Los Superguardaespaldas",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzelESdOXbCuQo2sjWfRmjn8+Z6XaDt2OOtr7+mwGupvL9rFvBANwpJAmJiIn9xw7oHpcXllhiKid+wmtnh4gdWfz2Uip954w43Aamh8O1F9QRnHngdLRlqi51sUsELqQ5pafAXrjV42wFn8a53F4oLeCXKbWJdSd5MhNqr0w+CeChNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "icon": "https://i.imgur.com/UALFnVn.png",
+        "name": "Hiena Salvaje",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzScyi0fLk3O9CDN8Gm/cic22ma31MmKct1axFQNfNVAtbmzIpn20C60cidU7Py8RdU1zuHmuOnO2vmQ+21tTeQ5ybhXQkG7+tCPFhU4fQO1eap3jnfRqqBKrWhwrqnC7azZMixeEE2A67P+3TScf307ZEfJEA0WfQ/ZAwh75yBPkhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "icon": "https://i.imgur.com/krhQfDJ.png",
+        "name": "El Aprendiz de Kung.Fu ",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzT888OcBZBXNQ4yTjn0bTuFZpv0U8IdP7a/tcoBXvT0fZZEP2d7vTB0WWoBw1FQo6zZYzXSYg0BTQv1lcmagqehlzXQlBIyRJcYTN3OqEG3qWuY0Jnn3ZnoBpU3D45YP+pgrx0CKi8DKx7XWdNP7cjUqw5DCv/ANuCAgFLPfdkXbhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Invencible Kung Fu Legs",
+        "icon": "https://i.ebayimg.com/images/g/hmMAAOSwjUNghuR0/s-l640.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzX/WDeL86uI1MEY6juNly/a2ma31MmKct1axFQNfNVAtdtot839HWZeAJpojee/XE60uaba+mxdBrttiL6qSdMNjAxr6Xhri54HrcqezqvnW5kTNg3WAXYYswApoNn1+GoTWbf7eNcXKmnNgVgkA/AeBuZMtzBL0DYdj+iX1u+Rr0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "La Furia de Chicago",
+        "icon": "https://pics.filmaffinity.com/La_furia_de_Chicago-789150972-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzRpk4UA7lkMDfDKW3SfnN5jWV58SVaUqbSUeyn+7xrM6+xI7UoeICbaaGKCbMm511sUH0dvzKmfynSeU8I4Nk2SOl10u4Z0denpf+w8Zc20M/86HmktMMbCXI/NFtQFBIB5LzOxGGAqgWsiuJymEn5cikI/WkcdScQESilMHEePBCP2XIZPyHWaiLm5NxQajMi0nivX5BcHOzg9Ot8Nxa85YR4xceyL4I5dPOi5sWVwsm8vDpDD3UwXwyVg9DHzFHbYJGr+uFX4++NMhpZQeD1O3IdQnfySuezevkeiZfQ4fzbYlUyEx4mNl8u3ukHifKX72CbuPGTrgTO+L1Qh1rtmFCJQ2mWYfhtCG2jc5ftTwS01M4KusDtlQ5tYbGUNfp3E/kddj7Y6d3OhN3FK1fOfmQ7eecT+DgiD5WO7beW7GwqZ0dcXGujB+vKcGK+T38A=="
+      },
+      {
+        "name": "Los Locos Del Cannonball",
+        "icon": "https://pics.filmaffinity.com/Los_locos_del_Cannonball-572627559-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzRpk4UA7lkMDfDKW3SfnN5jWV58SVaUqbSUeyn+7xrM6+xI7UoeICbaaGKCbMm511sUH0dvzKmfynSeU8I4Nk2SOl10u4Z0denpf+w8Zc20M/86HmktMMbCXI/NFtQFBIB5LzOxGGAqgWsiuJymEn5cikI/WkcdScQESilMHEePBCP2XIZPyHWaiLm5NxQajMi0nivX5BcHOzg9Ot8Nxa85YR4xceyL4I5dPOi5sWVwsm8vDpDD3UwXwyVg9DHzFHbYJGr+uFX4++NMhpZQeD1O3IdQnfySuezevkeiZfQ4fzbYlUyEx4mNl8u3ukHifKX72CbuPGTrgTO+L1Qh1rtmFCJQ2mWYfhtCG2jc5ftTwS01M4KusDtlQ5tYbGUNfp3E/kddj7Y6d3OhN3FK1fOfmQ7eecT+DgiD5WO7beW7GwqZ0dcXGujB+vKcGK+T38A=="
+      },
+      {
+        "name": "El Maestro de los Dragones",
+        "icon": "https://pics.filmaffinity.com/long_xiao_ye_dragon_strike-631882607-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzakpV1AeGH7BLBCHIE2lk2pZpv0U8IdP7a/tcoBXvT0f+700JUPwB2cYXSuhnKi4exnnAkA09pOus31P/XtwlKJyVsvdleB0hYuusffpU1NSuu1+ilkvxjC3AzZyfwai1Aap01LCnQcNenf4vcRuSyGeqr1eoX0ekLFl0VdQKVvIhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Ganadores y Pecadores",
+        "icon": "https://pics.filmaffinity.com/Vencedores_y_vencidos-817242728-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzX9ijUVQg86qfiu8Juy4gATDwtDCsrdfjza01+lGkOPdxP/Q95iF4XyNkdhpwRIdW68IAopluXj2ucIu12e4Ui6cztn13CA8f7REVdY4dEzIx8AUWsDP1DtnKuRqd6FLMGmdQ1aEfnM38hJbqN5OMc1NhcpMLg0VRgGBPdw/YXW0lmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9qkJy5vET1hFdxiVwe5p8dxHp10/rhg2fnK4xwCgF9ZKTJCQsol6SqYY2LLm8nmXAdrf7xG21akrwCl/UKYQW/6Nt0D7atErrMYRP0KuXG2zHzP5phpdYYxWvqkktO9/e/fUAkeN2P2wLvqFQilakYduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
+      {
+        "name": "Hiena Salvaje 2",
+        "icon": "https://pics.filmaffinity.com/Hiena_salvaje_2-193702584-mmed.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzaZvT378cZ3Om+gMspnfslzH2Haa/40ZdG8XixvU1YdSQEygm6hkB3RpbE7fQzq+6kzjtKcSUtXLtxDe3geg9OLKmkMrXwFK48YZoZIoidCW1Z0LlodirqJ9//OrTqunQp0xOQdlrBueEFtb/2uu66EUlCN5ollJTJvolsnAxzsMlmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9qkJy5vET1hFdxiVwe5p8dxHp10/rhg2fnK4xwCgF9ZKTJCQsol6SqYY2LLm8nmXAdrf7xG21akrwCl/UKYQW/6Nt0D7atErrMYRP0KuXG2zHzP5phpdYYxWvqkktO9/e/fUAkeN2P2wLvqFQilakYduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
+      {
+        "name": "Los Locos Del Cannonball 2",
+        "icon": "https://pics.filmaffinity.com/Los_locos_del_Cannonball_2-900047270-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzdhLoAsu69i1m7L3+hEHdKlxdxG8vyr+f3gE6/d9fncS/2Lut3ddIlW2A9Jb5+7cNsBL8zbrpk5dXuVK9r6coArs6uwBtcGQIDfiSP+ij97rC8R2OpGl1f6gX3w5D7rCTFDnserfsFYD46MrTYmxEhLdBlY+R3yul8NVsHVG2K8a0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "Proyecto A 1- Los Piratas Del Mar De China",
+        "icon": "https://pics.filmaffinity.com/Los_piratas_del_mar_de_China_Project_A-100796162-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzZ2NZClJ/DMVSfMTNfQCN4jx8RK+KbmMljnAwOudcERXepI9FtrrjCzGLFzxIYO8y0wVGYUpXF/UDDtwHhDbfW1rvM9fZqlDsS0BeJ6clII2dgADeCeYmLKVJp9qGJPbXZz+83bTU2/f5zoL+nl47jDR6nCgTR9eb1D4dPr09tAe0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "Comidas a Domicilio",
+        "icon": "https://pics.filmaffinity.com/Los_supercamorristas-689214491-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzXMv426qzBy7W8RN8YhgwYpZpv0U8IdP7a/tcoBXvT0fafXucmm+H5pDjVCFj/iImofsNVr5bjfkyFRUskdRR7WgVd3vOBIdoGOqTyM12o0Zt2Ww5tD4B80LbkpCtC4w004HsHxYf+CQMCCHnVa3XGS+malFvqWC4ESmjRpDQb+JhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSah1KeCiho7FURKIfjhEd0Q=="
+      },
+      {
+        "name": " Armas Invencibles",
+        "icon": "https://pics.filmaffinity.com/Armas_invencibles_Police_Story-629550580-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzUwEMubVRI9w3iBc2mzZMl62ma31MmKct1axFQNfNVAt9Ml+fO9NwD86KS9EYKb59G6XAa0LOMxV4l0xcC3EMjWh9Y4WJAMDr9RMUJd/wd7q0cvmeOCiURpGw8lilkzwP0DYeSM46j7YKoMDWJIxMO8qTLt4MuVQotXBEGvOxb/EhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt84/LfFZ0XucsMynviXRCSkkh2ISQZXUiDiNgb1LvQKU/aLnsnjAHM3pp7unoWtBagUx1aMpHNqfXO6aFY1iRtHu4ZtfbiT81aE+0122hc6vNNXieAewpfL5wTFBklgmYyhK5dwV6qIzOYK+RDMxnqzehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": " Corazon de Dragon",
+        "icon": "https://play-lh.googleusercontent.com/proxy/mJqJ_ryLAueUu86INAuEvZqNpgapsJVPOSMlHpvqQWB-kUSsZCUtNl_3ypa8TYLHzut0WWilRvpt2tXW9_7KCM96N_LWODdGz2pMtYenXJ51Zr7gTDlhtVkh6jIZUZvWjfOJ5k4Q5grGO_F5NN0eD_ZCI3sdKvs03ucfuQ",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzTLm34dP++/RoZY9jSg58DRxdxG8vyr+f3gE6/d9fncS5N73ZMX54Sst44wf8w0m9hUmcm8s924xxFN5nE5gurrxxblJDLr5S50cOZPsLM6G+AeFHEreHDC4bsY+j8Hj1uZc+VaQWJ1uPDdOvhIrLGNjfT27dh4n8IsWHCrwd5j30oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "El Protector",
+        "icon": "https://m.media-amazon.com/images/M/MV5BMTM5Mjc2ODQzOV5BMl5BanBnXkFtZTYwODMxMzk4._V1_.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzfPkoVD3/7lQWScFWGcjjdpxdxG8vyr+f3gE6/d9fncSPyQDYdSPbqBdrY1/SX8iABLA+IUBQhx26lgK740p+dCXX1BWCpAYPzxCM4UUScFolS+cw/xWEnjmXyJ8ZULztvuPdWhTLX4sAyrWj/APXosNcZmQKEOsZHW1kD959eVx0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "El Regreso de la Banda De Los Supercamorristas",
+        "icon": "https://es.web.img3.acsta.net/pictures/15/11/25/08/43/480717.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzeyK0D8tYNZbOtVoBpIElMVxdxG8vyr+f3gE6/d9fncS3eV2enhWuFtBN0z9QGdB++I60Q/qSKBIqJekxoyCNye64IdqX58v4ZKhRZejD0q5BBnJVFMe3Ol4z+fCX/w+kR58ef94Sh0hVpcDdNEb4FS/cBhs/EQFBiXExL9ru+Vk0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "La estrella de la suerte 2",
+        "icon": "https://pics.filmaffinity.com/La_armadura_de_Dios-348425970-large.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzezivaWm63VxLuPxQA7UL8/x8RK+KbmMljnAwOudcERXH1Xu2F+AIS3YCbPAbk9WZQ+3CfUcO/p0MRK3NQTsDdSttf9qMbhvrxn83v8K6sWGaraWi8w0t7APL1S4CVzGCLfFpG7o8GxKVnwor69j45YkYje49JgOgm8Pq0C5Vzvp0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0Nx3byPIsmmcjwoWDkQeMpLTxNwmPZU2alVgPqiQAGa2ct+UdZJlq9+GYJKmdKrAk9PUwzgOBvNhUuR77yZmfNZdxyN77EiLLS/i0s/ZrbF1ElNqBoA/gnqL/jFjtX8UcW6JEUosCD/oa2iiml3akksyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "name": "Historia Policiaca 1",
+        "icon": "https://pics.filmaffinity.com/Armas_invencibles_Police_Story-955910356-mmed.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzRowbgL36eLBla7IGFoFzfnGS4LiKcGTq0o51p+tuhkJHKs3fM/ikxLaOrlHGSEKa+OP5ibnj/bqgKfX0AG51JrPp97AYp0OCssFGTZYojcUX/tVUKpF+ELNkTUW3XP3XBHr2zr53e8FtKvueGvFgmJ46C/jN2Lj2H6n9ZGZBtjyhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Historia Policiaca 2",
+        "icon": "https://play-lh.googleusercontent.com/proxy/9O6LG2ipOvDAH7GoU-fRbONO1p4XM2i7L10VK6C6XUtzLejbUbDMpc7BXaMbj8E4MG5hUMcNaJgzx-luSre2M4Epmn88WqizQ_h1LnWuVQyEypBdvrmJabJz_hJUNEtT2H9QHRzkkYcL08uEy4PHWQUErhpyyK3uTJUYsQ",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzcBIFQLQH/kmKgCn6MwH0xXGS4LiKcGTq0o51p+tuhkJVbjEOicdJOJWhpmKBRDk5gXa3aSCZfbkCtfD82oi3SitXTgsS+aTb6DYSJVL872ZiEWdBaXuHOWFMqgvAaLeYju4T/RsJlnAhlLigguAETrD3TCjXdZhmt3k1qcXqha/hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Cazador Citadino ",
+        "icon": "https://m.media-amazon.com/images/M/MV5BMTkxMzQzMzMwNV5BMl5BanBnXkFtZTYwNTY5MTk4._V1_.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzYc5BnVXfIk3k42iGGCfKtckJTJt6HrCYRHPOy9pF/IysCAbhJTISez0F6MH+83UX1k56x/kwSkyuye/a1049Dy7Myr1LnECgAb+AC668bjv4daUAgLDP9Q6uXS1E0go1RVkCGTPTHlAvoUdiecmrWwOjigzRIMeyHp3l1lVpvvQhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Maestro Borrachon 2",
+        "icon": "https://a.ltrbxd.com/resized/film-poster/4/4/7/0/2/44702-drunken-master-ii-0-230-0-345-crop.jpg?v=7dc076bf82",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzUYHYQy5MZHbHWMNMXFPwCnDwtDCsrdfjza01+lGkOPd38pYE2QMK7ULzO6qJh0vEHBgJvIMGNMtPdxhLP3ToR910bW89uWbxJlLkk9TOZ6ujlY1Smft0//V3Ddbhe0FZkEw9KX/ng6gt0sLCcgT7wX19LzTwlY/3AsOP7tCfQzZhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Masacre En Nueva York",
+        "icon": "https://play-lh.googleusercontent.com/dO3s1DnxtYX-yU_rAS7RDXgXQd6Mc0BOFwLpolPyWyr9oPkgfWWgkLvdAmbxTX2ZibMi=w240-h480-rw",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzWxIOuEb+DjvdqS3KG5PQU3WV58SVaUqbSUeyn+7xrM6yEHqwz+tyYAkJUe/wPEqoH5g1bY+RGxCSsQKQ0Mu9LURq1456IiXda7lpb2RIx7KW9LvDPKSXsyyJ+pZ4E778knqFLJ8SdR3MvR1WiWxJ3dZLExKq+QheESZdJLb7fquhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Impacto Inminente",
+        "icon": "https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/2a/8746.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzYOKi5mrQgw7CHv8rrLkbiHWV58SVaUqbSUeyn+7xrM6485M/k9fEGOYayqWg4Atb8sawC9X5dx57Q33Qb9EkkzmoLxEHyN9+leV6GcKN3YWThwEcSOfPnJU3l7xAOdjf8YqsVFh+9iCQBzom19MYG3eHoXnN8k0yqncS4q4mN/3hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Primer Impacto",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/7/7a/FirstStrike.jpg/revision/latest?cb=20120801222549&path-prefix=es",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzQB4USODMjtAxcgpWQga1EHGS4LiKcGTq0o51p+tuhkJ6PZmiYi+BLei3ECs6SjXSed/oVXWlnzWlTqN1bT3XORhwkm8guq1uFA9cBXu+XjHIA2PtmritklRjTtQY1xiH1ld6NUYjcT5+Olf1RvQ2UCCQBC73OBiE7kLSftE2aEUhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Quien Soy Yo",
+        "icon": "https://lh5.googleusercontent.com/-JIL1LhqEWII/UuqHahitVAI/AAAAAAAAAmw/nTMdaDEn6ww/w348-h500-no/r+yuyj.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzX0DewnBvEqhpwfnGy6DSJ4+Z6XaDt2OOtr7+mwGupvLSEC5iI+dzzppsU+vPqm4CTLvEEPURj0JzoTyT55n15c9jjg9ync7hE5jPi/WLR1ouxDfyfrPkuzgLuiltSopUHzdhDuI5RyqGX4IJH/7W4B4wQ0HSwV4wo3JDD5d2MPjhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Smoking",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/d/df/TheTuxedo.jpg/revision/latest?cb=20240504231953&path-prefix=es",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzVZOPJDQBfvO1xunCkJfZWwkJTJt6HrCYRHPOy9pF/IygwWsbkv6p3CQhWogi0umOiIomWvk8b1aEuzH7vLRs1ZAob+YmOekSiI3YAux1gCSmPlbscJa98MYolamZ7BZfrYyPcw7kEeXnd6NWaWlDXj6YE68Wjk3ZEa8QOloRIvZhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "El Poder Del Talisman ",
+        "icon": "https://hips.hearstapps.com/es.h-cdn.co/fotoes/images/peliculas/el-poder-del-talisman/145426-1-esl-ES/El-poder-del-Talisman1.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzaI+f5ZkjRMS4FhD/EK7VSDxP0K1GYnVkqihXUotcpqMVOmnUhJa0WyTURnMAEd4V3it+W8q/rof77GVYM0td1S1xE075de7WmybXZfO7uG331yqjGv5UQNpNKu0vxcY1zoDQQIHJ1eVGsEcGU9WUdlk76LcsheUA4D/ukws4qX7hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Shanghai Kid en Londres",
+        "icon": "https://http2.mlstatic.com/D_NQ_NP_628081-MLU71227654015_082023-O.webp",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzYabItD6eIDdDAdcgcFxGYxZpv0U8IdP7a/tcoBXvT0f/6CgZKZQ4FMvtaFSBiDMXmr4heCljynwzByYdmVo/7TrExH7dPFoHnEGTLOxH7QjLW9hD4m9xJMflftp5A9S7QDyh0PMwaxm0XlD49eGJV74Ad3DmcLIq77atpRxBJSGhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Rob-B-Hood",
+        "icon": "https://upload.wikimedia.org/wikipedia/en/3/33/Rob-B-Hood_movie_poster.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzbCIrGK2W3gFIoAQWW/dzHtxdxG8vyr+f3gE6/d9fncSBnk+RR5YEIfVlodbtOGEhWqzocAZNO06oQ3NDnpWEPJdYwPSRhF+cSThW91W1q2gLA3PRH4e/QWLmxodfCTNVXU6nDMPqJ2mKaQZ1EdWKw/Rsb5VHVxOXibu9SmqezktCP2XIZPyHWaiLm5NxQajMi0nivX5BcHOzg9Ot8Nxa87UFyMo7OxhiBBllBV3CBYV1raoeslvODot9vd3aMaEHRNQNdysPB850KQTEcJqgmzAquGUEBhf9qNe9v1mngcvdvfZ8Dh3T4ZwTJeJEs19JOkugj/YOhNyQzCA8BdyEStmv7rg9XKPHm3mStkuTk2qS01M4KusDtlQ5tYbGUNfp3E/kddj7Y6d3OhN3FK1fOfmQ7eecT+DgiD5WO7beW7GwqZ0dcXGujB+vKcGK+T38A=="
+      },
+      {
+        "name": "Buscando a Jackie Chan",
+        "icon": "https://play-lh.googleusercontent.com/proxy/oJaY2p4l6w0HiONsgvQJ_0bLSEK_MwDqFzwrnzKK4V1rXFcJOHSFuMFEmoTS6lmrGlnMxjtmCWvc8Sx6mgAEzpky_yQ_t9Vdi6l6lBZzMtLLEQIGJG1ApzQsImspb-Ub3IkA5OAf2lY6GfSnR0B2f8bsqkCp0QIvfDVrrA",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzWyP+Opa54dwn661Vku3m/rGS4LiKcGTq0o51p+tuhkJzNElhLM5EBFrSkqlhs3Ssr4458h+cY43lMYUM+lQN0oDXkk4/JTW+7RUybg1MehjDaWzZeVvSf3tLL0hg2j/ro412AV5zYv5u8BhtvMZK1bLKg7Ln/XQEnpw1N6vndmbhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Los Ultimos Guerreros",
+        "icon": "https://img.peliplat.com/api/resize/v1?imagePath=std/202108/d/a/dab217bcd6a3cadb596517194087f5af.jpg&mode=LFIT&width=600&height=600&limit=false&c=1.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzZzh5h1W9//RbQjzSv9d3qfGS4LiKcGTq0o51p+tuhkJH0kU1WY4wKaFuLRSAkwen/PkRy7OlkxmupU2LUbs5gPaCUHh/fbbYKsVsOTqOKV61cKGVrIeLjvwbd4wmwlI4LXzsZm3oHhPiHcVlupLmh/BkZ1YAZhfdBqHZsHRVOo5hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Mi Vecino es un Espia",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/5/5c/Poster_The_Spy_Next_Door.png/revision/latest?cb=20230716200828&path-prefix=es",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzdmzOamWFaeaoZx8ec/uGT3H2Haa/40ZdG8XixvU1YdS6fRGXthn56kYy4PYDNoMxZ05/7uY+q++zr/EPpridIb7Qs1NOvhVPU2/ypyCIZ1y2QaQEnkHHBnYB0Vk/JxmhEswVNocSwvm/CevqyjmqQ0mD+fJq7yPQ6k2j+fIJGOZhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Revolucion De 1911",
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/b/b0/MV5BY2QwMDA4ZTEtNTNhNy00MjliLTg5ZTEtYjVlNGFmMDFlZTJmXkEyXkFqcGdeQXVyMTMxMTY0OTQ%40._V1_SY1000_CR0%2C0%2C677%2C1000_AL_.jpg/revision/latest?cb=20181113140715&path-prefix=es",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzaHMmo9zMo/Vb2oVbP+ECpnDwtDCsrdfjza01+lGkOPdBtoqIg1J7oKk0721JHkhOwkKWjsdz4MN61c5hOXaeD6N6WsilZs/pYzzVq/iAo/W0psFdJV5S6f2kVfpAM5HpiH/jS9qrm2tzsxc5lGv1zJ+I4moPQPyU0yruwWyrtLjhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "La Armadura de Dios 3",
+        "icon": "https://pelisimg.online/cover/la-armadura-de-dios-3-chinese-zodiac.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzS1m/AVlmS1jipnfE0CPCOjDwtDCsrdfjza01+lGkOPdfgkSsBf7fc/ZwjU4ICtLvweTRfALYlnoGw6OhyH8K7CSxgAyb7XtpaWuk00E1waSgORYe1Q0xIADmp9C/vRLSFseQH+d7lrbbg+Y4mJKegWecEqa4xp0lVIL/4lEgXSklmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9mmqVwN+D8JeEGEepxTix6XGNtDjz6T40rI65dGvI2q1AMMlmVcyBNqsXFDTZW9Wp5EQaGzX/Qt/eig52BakglJ/4sp24UX5M4HGMSAv4Ai/e8ZqWgida5yh4ku2BvpGVXVNB/oXHpa5w4TdG/RpAyduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
+      {
+        "name": "El Impecable",
+        "icon": "https://cartelera.montevideo.com.uy/imagenes_espectaculos/moviedetail13/22984.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzbzXnxTzcikRU9/2qd7avB9Zpv0U8IdP7a/tcoBXvT0fsQYC2Pt1FVWFu1WMQiyY0PDH+iZH/Q2e3izl7zyzPoub4Amw1Y5xZVLl86SiW7tHYm4m89Dw83Ztjg3cGlHfyY5YvMJIEDb0mvFlAH7/UImKlJwuXfMjucXmprulyJj5hNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Kung Fu Yoga",
+        "icon": "https://m.media-amazon.com/images/M/MV5BMDA4OWQ2ZmEtM2Q4NS00YWRjLTlkYjctYTExNjNkZmUxYTMwL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNDM1Nzc0MTI@._V1_.jpg",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzXOBdAQbmG2SXxB9GOcIRZjDwtDCsrdfjza01+lGkOPdZwNK/TUgCZu0Zoy0/uaxG6TpNtsmzvnSTYssivuUXHkUWmnvvLPxes6eVmSbBl7W1zQgLq1LSCppW3+KghLEcAjhDaoZBNyP0akNWEncfj+KXLuvlcHMs7oqiJnhi8nmhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/VDAAx//UqGWuwFVvUoee5f2BynTzWiloUCGNIF4qQYEgwCwlpH7Y6hHiUXN0qEltv7QJkqKaF3gxXmQYxpnKKvcMhLHpjOoNEDkAmpdwpmLAt8JyaP2tEuP0pbi3GwEUO47CWIp1LDemGewXk/dx+ehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "name": "Gangster Por Un Pequeño Milagro",
+        "icon": "https://e00-elmundo.uecdn.es/television/programacion-tv/img/programas/d3/937683.png",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzfnQZJSTJMF19I7FxQ5jAMMkJTJt6HrCYRHPOy9pF/Iy+6LzEbRjcufETEfXPNRxHQzE1CtbcitfgNdmJI776+0L19X7yd6IGybBX6FKhaQXTLoMzYncUGmzFWPw0bJwPgzWtrpI/Thfs3ta3+PAfPY+peQYyeXNmAOUVXotqqv7lmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9mmqVwN+D8JeEGEepxTix6XGNtDjz6T40rI65dGvI2q1AMMlmVcyBNqsXFDTZW9Wp5EQaGzX/Qt/eig52BakglJ/4sp24UX5M4HGMSAv4Ai/e8ZqWgida5yh4ku2BvpGVXVNB/oXHpa5w4TdG/RpAyduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      }
+    ]
+  },
+  {
     "name": "Argentinas",
     "mode": true,
     "lista": [
