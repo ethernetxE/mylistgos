@@ -4,6 +4,116 @@
     "mode": true,
     "lista": [
       {
+        "name": "Bridgerton",
+        "icon": "https://i.imgur.com/pCsgK84.jpeg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4VXNkouX1ln3ahEVOGGbD01CsQxoPZD3r0KNLksrC2QWg=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4W8XYc9AjzFrGHIqhWyE/TlhFN2yg/r4fksu0+5K9qW+w=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4XSwOriSTILiCRwN5cUJuoRIerJMkX47xnjq6HMmEyf9g=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4Vpssh2u3Psddmq3s6c6+A+KRhhp2zhzPfSWew4Pnj+PA=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4W7myk2H4c2D4Bw8gxIYL3tWkQsXeQvDnu5DNwSSEPtCQ=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4Wq+l5Mk+bHqF+4W1hZgNKwin3yAWX3MqLhoyQ1od8UPw=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4UFtWihAD+rO0hLTiH+mc3Wpb7+geA/ypD5RQ+KCL4r0A=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4XMaKRcAiFHk6ueWcRoZYs+i281c2bxS2QARyFXIV+aKw=="
+          },
+          {
+            "name": "Temporada 2",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4W9FIeTSIcZF70HCv7R2N+Imp9uR2ePBeHuK33f7pewkA=="
+          },
+          {
+            "name": "Capitulo 1",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4W9FIeTSIcZF70HCv7R2N+Imp9uR2ePBeHuK33f7pewkA=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4WYoZhpatIjVt/+hLOQWUDC95sC9zM2L9bXNVYrkhKzHQ=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4WosGIabQim7eocbx4DI9qfV1olfrophFX+Ty99fCmaKg=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4XtriGadJLjQiEROCTNv21kGZUSPzn4bs5ykn+d0j8Tbw=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4UglkkzW4ciZoBY4ey/emNacVZKQJ2KxinqUXoH/nRxog=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4V4pUKlWvSZaPiIkJIZ+QsCfLe7aqksRlF7V/Q8hQaU1g=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4XEew76Vpwo2Cle2rlq2zzeGUB3NaY/BV7x3QUTenEdUA=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4V1FDdXE55XuGs8gz3yhsuYLlLTH/YUWgTphVCAwB4TYw=="
+          },
+          {
+            "name": "Temporada 3",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVWxVJ1oKRkV0B8hj7YmHUy8cQSo3C7I5rPygkwD9uxCg=="
+          },
+          {
+            "name": "Capitulo 1",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVWxVJ1oKRkV0B8hj7YmHUy8cQSo3C7I5rPygkwD9uxCg=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW4JuJCoibZEHmr3t17bTCXlY+1Mzc1kwemSQQyonVuIA=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW4JuJCoibZEHmr3t17bTCXc9hMS3dn4+P4Yz2UZPrf0w=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVWxVJ1oKRkV0B8hj7YmHUyDd8zSb3ncUeLORrhr6SjPA=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVWxVJ1oKRkV0B8hj7YmHUyxKBts5ImCH5gdl42NHCHVA=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVWxVJ1oKRkV0B8hj7YmHUy4vY1r7idT8lPLZ/jwsfGeA=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW4JuJCoibZEHmr3t17bTCXdnb+4/Urk7TGh9MmK4eAXQ=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVWxVJ1oKRkV0B8hj7YmHUycOIW+rwR1i0qI+xRwTRswA=="
+          }
+        ]
+      },
+      {
         "name": "Ara San Juan",
         "icon": "https://i.imgur.com/7zcX8DC.jpeg",
         "temporada": [
