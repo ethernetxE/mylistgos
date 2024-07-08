@@ -1170,18 +1170,23 @@
     ]
   },
   {
-    "name": "Partido Uruguay",
+    "name": "EVENTOS",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://imgmedia.libero.pe/652x365/libero/original/2024/07/07/668b0cff27554237515996e3.webp",
+        "name": "River plate vs Millonarios",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
+      },
       {
         "name": "VTV PLUS Gold Vision",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/1/15/VTV_%2B_2013.png/revision/latest/scale-to-width-down/250?cb=20210318205132&path-prefix=es",
         "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
       },
       {
-        "name": "VTV PLUS",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/15/VTV_%2B_2013.png/revision/latest/scale-to-width-down/250?cb=20210318205132&path-prefix=es",
-        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYVq/62UGODc8pfsRj8CbfQu8knhD/452/Z9I6IoaTf+w=="
+        "icon": "https://i.imgur.com/KSdD6Xk.png",
+        "name": "Evento MLS",
+        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
       }
     ]
   },
@@ -1259,13 +1264,20 @@
     ]
   },
   {
-    "name": "Eventos",
+    "name": "COPA AMERICA",
     "mode": false,
     "lista": [
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
+        "name": "Copa America",
+        "uri": "95wtc9NyWH4zh6Ilh56x6PLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+E8oCmdMo9XnOiN/3aNMWKg="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
         "name": "Copa America SD",
-        "uri": "v5P357se895dBAVPogGrpOZsMTKA2e2+qeQIGK16fuPt54ZtSeCVre0wDWT1NuJDd45FY3Iu+B7lixBwgQZpvHL9hQTSucdH4OYnL87clUM="
+        "uri": "7yjlwBVfJ9pQD9jSTTOmUzN/TGmiGZ/4uTucfcjrwNnm2dJujJNHhcJAQnj4Vp1odGwP7BslQKT3kvhq9LELimuVe9O2OGzmdq0qR0MwiKg="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
@@ -1304,11 +1316,6 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
         "name": "Copa America",
         "uri": "3kn7uAd9rBum90fwnuwQtAO1HpJCokEsEqRbOR3mqkEQYYDq474FA8IqDoz1+sxlgbNbYUhj/R88Ybo+eDTzi1HC+O0T4KN3Erw8Dxx7+GM="
-      },
-      {
-        "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento MLS",
-        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
       }
     ]
   },
