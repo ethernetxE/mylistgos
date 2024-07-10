@@ -1087,16 +1087,6 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
       },
       {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV Plus 1",
-        "uri": "D0o2WT0PRpO6J70NcPxcEm6J24IO3S7coG9+Ygs54mjAJ/+o2rI85HxoB538UI6pIHvj9+lxOr8/2PoSmn2h33xTU0N3zPrHRyzXnNma0djmwotUUb2yB5QFq2Dd+cVn"
-      },
-      {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV Plus 3",
-        "uri": "JOW/L05U11pUgK6z3gwHgEWUrTA6f2iHnYE7lARrTaU8USkMo9peO9m8DIhERJD0e008MuoCE7J+GnItbrMghg=="
-      },
-      {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/3/3b/MMA_TV.png/revision/latest/scale-to-width-down/250?cb=20191031125727",
         "name": "MMA TV Rusia",
         "uri": "RQhIAHKhkAfRZWVSUjtUTQwd4Kd9EbdYIYFU7HmZxzRrTHJkowFTGQwArvUcSA7IY4VDZD+yq/TtB8c8QU+fzA=="
@@ -1194,24 +1184,14 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://imgmedia.libero.pe/652x365/libero/original/2024/07/07/668b0cff27554237515996e3.webp",
-        "name": "River plate vs Millonarios",
-        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
-      },
-      {
-        "icon": "https://www.ole.com.ar/images/2024/07/08/IM1HmGy5v_400x400__1.jpg",
-        "name": "Peñarol vs. San Lorenzo",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
-        "name": "VTV PLUS Gold Vision",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/15/VTV_%2B_2013.png/revision/latest/scale-to-width-down/250?cb=20210318205132&path-prefix=es",
+        "icon": "https://i.imgur.com/KSdD6Xk.png",
+        "name": "Evento 1",
         "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
       },
       {
         "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento MLS",
-        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
+        "name": "Evento 2",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
       }
     ]
   },
@@ -1306,8 +1286,10 @@
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America TUDN",
-        "uri": "IarHqHFvwQZQpmJ7x9+EU1dqvs014gAySTl9m9gOmeJJVTLLfWS5UOAf2F4mgz6tVkcQq5cV/21PEAp2Zk5S7xmkWg6ZIijyjtYXQhP2nlzTg3qMVHjI3sppF1dnFtFu"
+        "name": "Copa America",
+        "drm_scheme": "clearkey",
+        "uri": "n3wzAsKqMLMmKHSTNrSsOb0psu+AXYB3Ym2cYurNP42usB11lhZvccr+0lswgHSFHk07UsSk0AMweatkV7E8Zg==",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxPcmHutwS/162q0l4h8t6k"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
