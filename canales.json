@@ -4,11 +4,6 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://pbs.twimg.com/profile_images/1732102156503678976/96ozrcov_400x400.jpg",
-        "name": "GH Streams",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opZ/oSEJf9nLzyOWqBWahwF78Lac1MT0yHvaf7G1yGEUziWJ9bP1iDwDu1niPPMSHAHrHQdABN6BYtYhZpBJgfqLhJk+6PypRNhCzKGL7nV5FL8VNwMeqqBv6ZUrAbQ+na"
-      },
-      {
         "icon": "https://log-agu6.onrender.com/webp/logos/tvpublica.webp",
         "name": "TV Publica",
         "uri": "Wsib6Ju4wPB9exyc+ZsRLcxPVZxWFIda6QNXn/kCuIlTjTdFWrsB7FB9P4dN2VNwJnP9q00frHr5XH6DrbO2tDkZLaxDJDliX+lu0BqaXck147KT9I2SKCrgSByV0TSQ",
@@ -919,37 +914,6 @@
           {
             "name": "VIX PREMIUM DEPORTES 20",
             "uri": "IarHqHFvwQZQpmJ7x9+EU3dgwo3Os5nkAIRqD1SkAwLWcEmWWSdERnKSG2RjFhZS2/lIQZbUVhySd4lymLPBDjdDhZIF0YOkAKIHAVp0Kfk="
-          }
-        ]
-      },
-      {
-        "name": "Dsport",
-        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-        "temporada": [
-          {
-            "name": "Dsport",
-            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "D0o2WT0PRpO6J70NcPxcEj70nwWGGportm80S9IWNEusINMWZIB9DzU47mLQnnVvvi0wPt7TecfaAT+t9lsGe9E6EE8gK/EpTKvCfmFztfo="
-          },
-          {
-            "name": "Dsport",
-            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPibK6q8MCKj7VGmcyEe5GuQ=="
-          },
-          {
-            "name": "Dsport PE",
-            "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMTM5X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1717270761191",
-            "uri": "nw/btgjC39+crD/LRcsHz2Wo2vpw38791sW+TrWsgDXaqJ15iDdeDsj0GxyidxEwrafoxRoZ3yecH8nKY+4/rg=="
-          },
-          {
-            "name": "Dsport 2",
-            "icon": "https://static.wikia.nocookie.net/logopedia/images/8/80/DirecTV_Sports_2_2018.png/revision/latest/scale-to-width-down/250?cb=20200706224735&path-prefix=es",
-            "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPjPqzLMt8MAKTxOmofUlxJA=="
-          },
-          {
-            "name": "Dsport plus",
-            "icon": "https://static.wikia.nocookie.net/logopedia/images/6/6b/DSports_%2B_2022.png/revision/latest/scale-to-width-down/350?cb=20221115002318&path-prefix=es",
-            "uri": "aP5PJDj/nlDlgow/FvdtGvH8OmfbE66RlLyesIugy3iFMbsZKRxw++cwFe0JmJUPHK4WGbhaXZQPDU1Q/0i7sQ=="
           }
         ]
       },
