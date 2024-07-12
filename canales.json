@@ -303,18 +303,13 @@
       },
       {
         "name": "8 San juan",
-        "uri": "wMWKvX2YUMPv9p8lo/i1as9jptdWdQ5DX4KQr/WCxluagPscgL1HWqCJr40Hm3hW",
+        "uri": "v5P357se895dBAVPogGrpIEII3zYerTz3ojlBy3iudGR9NB53vXRPLytj79+MnGvc7LrWvNcASb/DVCodCUMGbdNMpsIdPAWvzr+edAt6bn1XuwbbQXky61PR+e3h8g0",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es"
       },
       {
         "name": "8 San juan op2",
         "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoBiZmdofUrvYsxqngkX5RLB9XzhaTpoAdAmjC5KbRaLy1tltpx/1QpExuAWbqEyZDeAAZtT3xF9nvgCprDMkJXcGg4FUS1qtVUStfopLjKey",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es"
-      },
-      {
-        "name": "13 San Juan",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoHPnz/bJ6PGpGQ6f2L1W/5xS+2l1jWGjlao1rc5wThHTOYD3MlgCRevUf1LRfG25UkGTV8GCSYaN4bRaOrxnRxHKfPdA9fofFRZVS+686ZNT",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/250?cb=20200614171343"
       },
       {
         "name": "Canal 34 San juan",
@@ -1676,6 +1671,13 @@
     "name": "Cine",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://cabletvhd.xyz/img/AXN_Movies.svg",
+        "name": "AXN MOVIE",
+        "drm_scheme": "clearkey",
+        "uri": "N23fiEP3pWr6b5rQohEIX5n9IXMxGAmjp0QAniebNPWNsEHamiMs2+VEF53ZciwDOz002dg45nt2dVFHjb7/EQ==",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxLPfGVAgx9jRqn0ncC6Dhd"
+      },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/300?cb=20201205211346",
         "name": "Golden Plus",
