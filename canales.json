@@ -1046,20 +1046,6 @@
         "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uaMF20ifM44CAWx/U9n4CDgiOP2efX2xFBzE2n/cZEQAOpk/DsrRcS9uoaMtJg3PXgly1P5RztoTrr1N8idofjPEhr9wzjtnvhhBZP/O0K4bNvwu0STFGFDreKwlJJfuJA=="
       },
       {
-        "icon": "https://www.thesportsdb.com/images/media/channel/tvlogo/3lx7px1660762305.png",
-        "name": "ESPN Paraguay",
-        "uri": "VMt+stiv6F/RBM7mYHeFncor5EdDBvGVrc8IY8dr+QnZ3p2R0l5OBSHdtCT4MPerAB0fgSzjkW8NWGr3qZJv+kTQHLfVJXAsr7wWgynfPtg5Rer5w63ByUKC2iLgWhzPNeOyk/SNkigq4EgcldE0kA==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uQ4+w1oc24sbhPrV7cIpVwY+gtRrhbyxuDvtz1A9gItFVubfkePxmwkufDHmFSN/l4h/VsPZrphFa0e8tR04nDVb2zuQ9HMwfA3jx/Pn+NTvNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "icon": "https://www.thesportsdb.com/images/media/channel/tvlogo/g9m0qo1660761966.png",
-        "name": "ESPN 3 Paraguay",
-        "uri": "VMt+stiv6F/RBM7mYHeFncor5EdDBvGVrc8IY8dr+QnZ3p2R0l5OBSHdtCT4MPerAB0fgSzjkW8NWGr3qZJv+kTQHLfVJXAsr7wWgynfPtjk9oaA5/HRGkMNtCDtESyOlGt9dmehJ3Msq4GTEMYfsg==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ufQb6j2kNTMlI/WMs6DitUAdf6TFJOmrRANFd7niadSqp7cyHqPuzj9la9uSNm974EQVdPox/BGWk1hNHT5JWYEOMCBkn7gDLJO+rEgaMx7uNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
         "name": "Bein Sportxtra",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
         "uri": "rtiWrZbaODnyjfI8JXM3xHTEdrBE6h9kKxSuvtNmTOzBObXE5z3zcCoJ1nvVqKpz"
@@ -1141,9 +1127,9 @@
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
       },
       {
-        "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento 2",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest/scale-to-width-down/200?cb=20200105205611&path-prefix=es",
+        "name": "GOLTV",
+        "uri": "jEIyP/hh7uyJ2ZlDar/Rzgd9A1C9EbVAnJdv9AGWT7mA6rDx4UPq38uCIKYKv2Zj"
       }
     ]
   },
