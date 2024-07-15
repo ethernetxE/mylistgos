@@ -164,13 +164,6 @@
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt9gBdlViRBs6Cj7PlzmT+cpiqjs4VWKFn3Q3V7uJNj0Fw=="
       },
       {
-        "name": "ESPN 2 PARAGUAY",
-        "icon": "https://static.wikia.nocookie.net/espn/images/7/79/ESPN2-Logo-D795.png/revision/latest/scale-to-width-down/300?cb=20130819193813",
-        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72zWcir2JdoJLIbw49admbh5SYjnoREN67RNd07XSr3qaxp3BqNbjUDAGZME/8dp4rM2/C7RJMUYUOt4rCUkl+4k",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uUVQlaP2izqpdCIQ4LquyW0wob9olZqDWmq0fO8BRwxziE26GFxxmWIcaR54jeMGmernjRjtjGHYu+Cvw57/ElYMlFrsw26iewz8xhNw0QkfNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
         "name": "ESPN",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/9/91/ESPN_%281985_White_on_Red_Background%29.svg/revision/latest/scale-to-width-down/250?cb=20210715191103",
         "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q/USCQPxkdtVhKPD57pC5VyJ9kCMs6Jej4fmFlK54UJmU7wz3WYccZlYanq32fdmAw=",
@@ -245,28 +238,28 @@
         "icon": "https://i.ibb.co/R0sD08N/foxsports.png",
         "uri": "j5PZRst1alrOh+kfoxHN/Ja6rohVECcIwX/yMT/SuxjRThTr5nBvVK23z+fe8hK9xCtEoQEZf4UbwA2+algaoApUah4jR/8LhCpOP8Z/oeizbTz+OJ8NIPMX8bBw5jihHVwlZbuyoaEmOWW4LMUWfW+XBiHOb3V4TzJs+7zvv6Q=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gGvepn8T+PjUqAHtz590Q9D8K4zabtXwrYftRiwbJ8qFwpxFKLIke6gPTCkVUJEPgrX9KKgwj64jskkROvmS/VqsT/uipp2imCAlk+EVY65XrYsziC4exr4oUPm4Kz/pbA=="
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt9eSpeAQfFM/DovUQe0mFNZQaC8lU8dj/g0iqlim/qT2g=="
       },
       {
         "name": "FOX SPORTS 2 HD MÉXICO",
         "icon": "https://i.ibb.co/YBd2BkL/foxsports2.png",
         "uri": "j5PZRst1alrOh+kfoxHN/Ja6rohVECcIwX/yMT/SuxjRThTr5nBvVK23z+fe8hK9xCtEoQEZf4UbwA2+algaoM8RMLK5bHk38wb48AQYfr6uAfaE4L9VTkQm77tsuYZYakIQf5ISiShg3H6WTMQauCBokmFdicgbg1bggri7QvQ=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ216o8qocgGkdqAqBKN8+5NMRVuFJYSoinA+XY1qdZhNE1htAexrMVUG/YlK47D/u3m7g6Y7sQYZmpplpW+lh4rR8WedIa7MMpyP4IfB8Xadr8QruLn6h4icb5bXR9rnw=="
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt/aXOlZe6ifs5l2Zx9gi5jCQaC8lU8dj/g0iqlim/qT2g=="
       },
       {
         "name": "FOX SPORTS 3 HD MÉXICO",
         "icon": "https://i.ibb.co/Xp6S75s/foxsports3.png",
         "uri": "j5PZRst1alrOh+kfoxHN/Ja6rohVECcIwX/yMT/SuxjRThTr5nBvVK23z+fe8hK9xCtEoQEZf4UbwA2+algaoHdm1zknwqp5io9bfbepaTAJjI/Swii4BuJyKLDwB18P5hIklRXZTAAQFGvtUWWiU8aIqClLnDIwFq+N6encmk4=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLWlkTWWF2uVrhiCb4DwRDPrvZhdVwjqFdRKGEnrM5MtJiUwRlbW5UfoVE4PJj6V2h6PkltAIMQ7uZ36zUBVftGyecNuXKLEzz4xqTtvqRc5dawRW3MVAF6eeZVi5xQDMA=="
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt9yVP6N1GStEFxJ97XL+tg1QaC8lU8dj/g0iqlim/qT2g=="
       },
       {
-        "name": "FOX SPORTS PREMIUM HD",
+        "name": "FOX SPORTS PREMIUM MX",
         "icon": "https://i.ibb.co/fSGHWLV/foxsportspremium.png",
         "uri": "j5PZRst1alrOh+kfoxHN/Ja6rohVECcIwX/yMT/SuxjRThTr5nBvVK23z+fe8hK9xCtEoQEZf4UbwA2+algaoN3qLbBOvj/SumQegm/MpYe4RzxEAkqos/TvjmsUVvKZ4sq2J9wE6wvO4RiMHsvrmrZAJrz38rCLrDFYAkTTd2s=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gC3kV4kve3ubL31UvYXybysq+azNxF3IfOKV/PoZ4x6U0WCQSrCVqPPHDMmlkG5DCXKQKCkHo2TTNgwI1X1hsGiD1H0CmbyBx8p2Ojd9y8h4XQQ14K53xRozNYgMapEAog=="
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt8JRn4ZS8VhkvWJDzbP9mDiDLYLyPRNW0t9eZNC9maaPg=="
       },
       {
         "name": "DEPORTV",
