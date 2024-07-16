@@ -328,8 +328,13 @@
       },
       {
         "name": "Canal 79 MDP",
-        "uri": "urCGOUuOlhpWoNKXmsJ+Yloz6K+bC5vvjTk2KZuEQ+YweOy4GJxHAOiTLP06Zsms0WUmL8WgWkl22vr1Wt3j9beEoI6OCxDg0qkQfm5ove8=",
+        "uri": "urCGOUuOlhpWoNKXmsJ+YjnDznatRKUkErc/Fgfx+4IOsmtgsfEUYcEC9ecYBhoOsHbED2JCWJeKzclW9xhpEQ==",
         "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UZPyCOXxXgdLCHM6Ib3ZGAC4gzSKojFB1KG1EVmFVeTLj78nCeyBDLx5UOcn1xK1V68&usqp=CAU"
+      },
+      {
+        "name": "Canal 11 Lapacho",
+        "uri": "I0Pf0g8BvJyK7CdyyNDngYAT2VhvXRr3Trq5fZ8G86NtnbnTyCO1fIXKK7pY/e/Ls5Oxanhcr9njw5nZ72+uXg==",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/09/Lapacho_Canal_11_%28Logo_Vertical_-_2008%29.png/revision/latest/scale-to-width-down/250?cb=20230222183147&path-prefix=es"
       },
       {
         "name": "Canal 8 MDP",
@@ -340,11 +345,6 @@
         "name": "5RSTV Santa Fe",
         "uri": "hOxgxzrf1iZ1gE4ujcnEI7Gx7UXhYrajvSIuxDLkfbhGNEXP1clQQY48A2WUj6NqlIjDSkTkZKnsR4P2rymyXguxqmB3mI0XHNs4soYPhhg=",
         "icon": "https://www.santafecanal.com.ar/assets/img/logo_rts.png?r=2"
-      },
-      {
-        "name": "Canal 10 Rio Negro",
-        "uri": "9HJqEtRYnqWm5OZy20suDAI9XbKRPmnKGdNvk/Es16FZWgzpY6Q0P+X/78O/JALa2CR1ocj7Mn1aza17tXsRYw==",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/8/84/Canal_10_General_Roca_%28Logo_2016_-_2%29.png/revision/latest/scale-to-width-down/250?cb=20210823130814&path-prefix=es"
       },
       {
         "name": "Telenorte Corriente",
@@ -2110,6 +2110,11 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gNmA/FWLkv67hddEUeYjRfQlNT9klTx9VF2v3T3KdCtouXE+Xc8E2ZNZokm/JkS56/D/AdmEO/4A6i2WaEoNTCKtGn3AWZcUBoutZzUqzWozAqwnKm2ZLC2iyYppXYy3Dg==",
         "icon": "https://1.bp.blogspot.com/-_tE8VO8HMnA/X0_XRjluTAI/AAAAAAAA6Ts/-pyWu9d-VyAKrBlIG1S84e2hVSWEfoHagCLcBGAsYHQ/s0/cm-elcanaldelamusica.png"
+      },
+      {
+        "name": "TRace Urban",
+        "uri": "XzAqsegu6Cw2Bjyle++h4x9guTzmH4kcic9OU6l0XUMsEauzdVhRiUbRoSfRmOgU2rhMNfQl0P826A2L/J5DaA==",
+        "icon": "https://raw.githubusercontent.com/LITUATUI/M3UPT/main/logos/TRACE-Urban.png"
       },
       {
         "name": "VIVALDI TV",
