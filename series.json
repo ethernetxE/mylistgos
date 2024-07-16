@@ -4,6 +4,36 @@
     "mode": true,
     "lista": [
       {
+        "name": "Goles en contra",
+        "icon": "https://images.justwatch.com/poster/301468788/s332/temporada-1",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZU3zDKwdA3u606ClJUpJAOhxdxG8vyr+f3gE6/d9fncSR+/jmUn+uRxD2LU8KL+qUzv1GxqGtgoU73245tGRh/N+3D197NYOd9M/QojTTfZiAIIpAc38HIGA1aoOMvTUDxqr0rNLS9rFPbebDEiYb3WAwvB1E7c9IxWVweUm+LMJ0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0OnXrdRxYYB+9TwLY5Zq07bRMjPk3k4h7Zn5kTeuDSrzWJVMWA6oYr52Sc5d25MaoDrfDnWzQBsdfA9gRgLF3zd2HDTfeuWpmJS5nBXHOeKQ/Dq58BIhD7b5zl6SRIdblHUv8mChIQCsK5dpfjPJgLVyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZdNc1+0s1krhjbgXqLJ7MDNxdxG8vyr+f3gE6/d9fncSSncGS8dOTN6kkhm5kZfqxgu059TT6M4ExaWbV3Mfjap8EAeKiCvC3UWHkIKRn3NwdzKXerBhGz8PSj/gOnDSWHTC+5mk6Ybo6DQejztdG9rzTejLM+PwTXfe8TbqwIGS0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0OnXrdRxYYB+9TwLY5Zq07bRMjPk3k4h7Zn5kTeuDSrzWJVMWA6oYr52Sc5d25MaoDrfDnWzQBsdfA9gRgLF3zd2HDTfeuWpmJS5nBXHOeKQ/Dq58BIhD7b5zl6SRIdblHUv8mChIQCsK5dpfjPJgLVyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZUIvh+71Z0tV6X8dV0BgqJlxdxG8vyr+f3gE6/d9fncShBriB9aWxcKOVlFal60xZ+4hSDwQYgf/NYWW3zv1N7q1zTdRI4tGGWrP8h9VsETLqkcJ/oBwa0D3Xoso5puRGXPST0/LQsXTRxNCqcbYoSWSDjAw8SIcK7ZzfDs+kHd10oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0OnXrdRxYYB+9TwLY5Zq07bRMjPk3k4h7Zn5kTeuDSrzWJVMWA6oYr52Sc5d25MaoDrfDnWzQBsdfA9gRgLF3zd2HDTfeuWpmJS5nBXHOeKQ/Dq58BIhD7b5zl6SRIdblHUv8mChIQCsK5dpfjPJgLVyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZRtyzQHhG6VOIhdyahX0bc9xdxG8vyr+f3gE6/d9fncSUTn+RNgJ3xAXE6ffy/EaJc93zpARsdHB0H4aI1tQRhLRgtXya518VI+3kTQCj+oo/X7KyYXa6RKu5kW2xuwEOEUvFTJrYGiAHZuB+sC37zFrfqU3+/CEUdcTmSLkQZKM0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0OnXrdRxYYB+9TwLY5Zq07bRMjPk3k4h7Zn5kTeuDSrzWJVMWA6oYr52Sc5d25MaoDrfDnWzQBsdfA9gRgLF3zd2HDTfeuWpmJS5nBXHOeKQ/Dq58BIhD7b5zl6SRIdblHUv8mChIQCsK5dpfjPJgLVyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZRUbXcMtCKfjRQqjoV46Ktmr/K1XqaDFRQNuAt5yCYlvj5urOT86O4uDF8fzNN8zyec7VFzOor4FXBxOOJISBvNCSE0wOPTxqj/HckxGmp/TQFkNSp/hQ+F2hHW3ffzeWOKWdEA8Kh4KBfyIrBcqdVFd6adpmqqVsBnu2+0vGiYWCP2XIZPyHWaiLm5NxQajMi0nivX5BcHOzg9Ot8Nxa87V2IDjpxcgqJZ436N12anxRnyWUUMucz/YE+UaHOGB0I39DLneqiZcbBpQLzcYKhsoItKFVYsgOZsjG1HTg+McjgVXbGlRdxfny0e+geuk74yNnP3tAeyOlGr84trGFTUXoAJqfzkEsiS6fmRtjDUfS01M4KusDtlQ5tYbGUNfp3E/kddj7Y6d3OhN3FK1fOfmQ7eecT+DgiD5WO7beW7GwqZ0dcXGujB+vKcGK+T38A=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZWE+MRc0WuzzeNDN6bCgcdZxdxG8vyr+f3gE6/d9fncS+LPCWnb2/06Ap5J7E2mFJjJb54O9pXo2MR/ZSOKdTaPE1v8h8/cu9UU0E0z4TqS3C/jCOBiXjGM1WN2mCjajVwYvwocwJvUs8rfLtKARHTNr9RBlQsTR8Ul+yq4ggP3YhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt83AgBK6swAQ1a78TCPsy17BBB/4KBacmQRA4H5HpEynob5FxuI8jXrAgJ5N1iriNvSHtizuDZPEI5F3xjuDyjvJFyUjRGsc9qaUDrQBMegj5uQgHUj60fyN4b3k+2Y35uWM0apBCOTI74J6bB9+BKqehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+          }
+        ]
+      },
+      {
         "name": "Bridgerton",
         "icon": "https://i.imgur.com/pCsgK84.jpeg",
         "temporada": [
@@ -5765,7 +5795,7 @@
         ]
       },
       {
-        "name": "Aaahh!!! Monstruos ",
+        "name": "Aaahh!!! Monstruos ",
         "icon": "https://i.imgur.com/W4Ahz8u.jpeg",
         "temporada": [
           {
@@ -25561,7 +25591,7 @@
         ]
       },
       {
-        "name": "Tokyo Revengers ",
+        "name": "Tokyo Revengers ",
         "icon": "https://i0.wp.com/animeyt.es/wp-content/uploads/2021/04/yhMBhrOSgNLF.jpg?resize=247,350",
         "temporada": [
           {
