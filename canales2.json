@@ -271,9 +271,9 @@
       {
         "name": "VTV PLUS",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/1/15/VTV_%2B_2013.png/revision/latest?cb=20210318205132&path-prefix=es",
-        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q82jUWO47q7OyZmN8L9FHppqtuKewCXC4bHgKMeZ79W2z1jj7/+7wmG2AYTUlvzhHw2/C7RJMUYUOt4rCUkl+4k",
-        "drm_scheme": "ClearKey",
-        "drm_license_url": "8frkTUaFsruFApq+FrmHL2KBHRnr2jSOFfP5eJGJMuO4XMDnqvxRadRBJ6xrK2TjQaC8lU8dj/g0iqlim/qT2g=="
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+hPOSjGDBJSfncu1hPNWC++god81DQDBHOxDZku6daqHMbBfsBlZgHYg1AR8XjtIpLSPW1Fn9ISJRl67oqdEzfQ",
+        "drm_scheme": "widevine",
+        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ78YhupMM3YvvdOvFYBYtn/xjZ/uxqeAtL87FT2CCVJd1aN4PpL9pXa+fCRi97ZiAMN1Gq84GHIYvnRiFT5wmPcu"
       },
       {
         "name": "EL GARAGE",
@@ -861,9 +861,9 @@
       {
         "name": "CANAL A",
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/58.png",
-        "uri": "hzjLqMLPGSRRck5+HLHwejir+ZPO+Lz8LG/y8ZkVmt3S0Wedez3i/35vc9fLZeZJEGKcyi8wBoLhLaT+yiN+82LqhdntBAozm3PnS+ZCaSU=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt8mbRD4Y0pGrJ86qy08Ta8JNvwu0STFGFDreKwlJJfuJA=="
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+i/2Eamxrl+H0ZNkIQKvwhw+3PlT7ctsGTFmjWTcke87Jos92zmlJKyBqit3LrffrA=",
+        "drm_scheme": "widevine",
+        "drm_license_url": "8tuKJlAIn+nFLlK4ZwX6fVNaIIKqSMi7/sqfd2NiQ7/oAvGJ1pFhkMtMZ9MmhxXrsdGNZK8S6P9AtW+t8FPd64gIvZYe9r9pNzmca6yhCET+Q+XmQsKCZv6KGx3NDgRK"
       },
       {
         "name": "BRAVO TV",
