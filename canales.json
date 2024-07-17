@@ -5,6 +5,13 @@
     "lista": [
       {
         "icon": "https://log-agu6.onrender.com/webp/logos/tvpublica.webp",
+        "name": "TVP",
+        "drm_scheme": "clearkey",
+        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yJ8QI2JHSeYT8imq7oqA1s29vieGhuc4nGFgupxjaWSZbhQcLZQBe9GEH9EDthFtc=",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9kkJxmiDKguHnuFP4XXViuGDDwxCpVljzIT+Yob21vRS7ZENirIT4rqcNuL+uz4JQ=="
+      },
+      {
+        "icon": "https://log-agu6.onrender.com/webp/logos/tvpublica.webp",
         "name": "TV Publica",
         "uri": "Wsib6Ju4wPB9exyc+ZsRLcxPVZxWFIda6QNXn/kCuIlTjTdFWrsB7FB9P4dN2VNwJnP9q00frHr5XH6DrbO2tDkZLaxDJDliX+lu0BqaXck147KT9I2SKCrgSByV0TSQ",
         "drm_scheme": "clearkey",
@@ -38,7 +45,7 @@
           {
             "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
             "name": "Telefe OP1",
-            "uri": "7yjlwBVfJ9pQD9jSTTOmUzN/TGmiGZ/4uTucfcjrwNnm2dJujJNHhcJAQnj4Vp1odGwP7BslQKT3kvhq9LELimuVe9O2OGzmdq0qR0MwiKg="
+            "uri": "v5P357se895dBAVPogGrpOZsMTKA2e2+qeQIGK16fuPt54ZtSeCVre0wDWT1NuJDd45FY3Iu+B7lixBwgQZpvHL9hQTSucdH4OYnL87clUM="
           },
           {
             "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
@@ -971,27 +978,6 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHrfodvdoRIGz5oZRUUB4QNR3HmqsTMrJvoG1qfPGttXh2ZGPKmos9N2CwV/oxEK31K5WorQKQCeRSEc/TZNqNKcQ6JbOMbE0hpCMZ+BW9jORhQUIIj1A+1ttI8Av/lUkg=="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es",
-        "name": "Fox Sport Premium MX",
-        "uri": "5h8Nz4sWxQMdoNnr0qmCXL0psu+AXYB3Ym2cYurNP41wEWzi0S/Aloo2J/2aFzh+5uS8QRkARK+ZDvKw5NnIJ5mp2tvPfJulWhrGb8m8cWg=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgZCepksOn6SGnoGreV5n3M2fF9XQb6oEFgyBDW2qNr3w=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/c/cc/FOXSportsPremium2019.png/revision/latest/scale-to-width-down/250?cb=20190602030108&path-prefix=es",
-        "name": "Fox Sport Premium MX",
-        "uri": "5h8Nz4sWxQMdoNnr0qmCXL0psu+AXYB3Ym2cYurNP41wEWzi0S/Aloo2J/2aFzh+5uS8QRkARK+ZDvKw5NnIJ5mp2tvPfJulWhrGb8m8cWg=",
-        "drm_scheme": "widevine",
-        "drm_license_url": "CAacZSowGFS+VVJgoUo09WLEjEVRFvpKnPgF6WsiQ1ph1eOFgfd2/5S1sysCZxCfpacrEiZ3lYV5wdsGI8uDK1tM2HqpRSU9JPmmSIr2TU0rRAOZ9Q4thLm/uEozMotl"
-      },
-      {
-        "icon": "https://seeklogo.com/images/T/tudn-negativo-logo-C092B48E7F-seeklogo.com.png",
-        "name": "TUDN MX",
-        "uri": "5h8Nz4sWxQMdoNnr0qmCXL0psu+AXYB3Ym2cYurNP40rfA+ti5AEhG7HZM1EsvHItwCIPxTsYKvI/W6LasZmCQ==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgNpLTEaPFsC/bbwPK1xCfu"
-      },
-      {
         "icon": "https://i.imgur.com/I2xqEQT.png",
         "name": "La 1 es",
         "uri": "AVOhbN19Ae8vm3RKrHs2mJk4Fw7QXD25823WV97Ga4uvVH0ZTF9PzS7BUcR9HmbXJrHphUGa30VYKpGp+RK7XymPXXzGc7K7FIsmu30VDBQ=",
@@ -1018,6 +1004,13 @@
         "drm_scheme": "clearkey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiT1QO9+U3niUmUgUVOBwU/",
         "icon": "https://i.ibb.co/179yfJx/eventos-1.png"
+      },
+      {
+        "name": "Sky Sport",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_pre-lanzamiento.jpg/revision/latest/scale-to-width-down/250?cb=20200911165529&path-prefix=es",
+        "uri": "OT6hESYa5ipsPARk2VgtUwkhgZHqN35EoezNxJC3qUBY8zZvhBKaLvJ6cY1sRRg6d7jS8Q+USx0oTqlYmoKY/g8Sj03C5K5P9+0lNoheTksLKDq8/wnOKV4Hps3qE2vW0j1tRZ/SEiUZeu6KnRM30A==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkhSKeDFKDP3pGMP0rAs7CtR"
       },
       {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
@@ -1113,115 +1106,63 @@
     ]
   },
   {
-    "name": "EVENTOS",
+    "name": "Event",
     "mode": false,
     "lista": [
       {
-        "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento 1",
-        "uri": "vAF6H9GzkTVksw1jTInfawu+EqbMtcX1vWzey4xIHuW7CeUJeJzjQwN1huwsq8twEPSMdWdQxzOZYTOF8EteEQ=="
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "uri": "dCcOoEQq+It3kawxmPF8ujTv/kQnqW824ib2lZXA9Um8pSa3z3L19TFQkjOlFh/jXjFAlhGe4YI0Ds5Gn558vi529c5vmSZLYVn+DzBloiL2TUoHg5RpHAV8ZiMRjksk84a0UrEeqNCRZZ7CUwhGnx29MViJyxTlAZTBQAJVSJoRhh9J8emCeIitlSO62iqa"
       },
       {
-        "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento 2",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
-        "icon": "https://i.imgur.com/KSdD6Xk.png",
-        "name": "Evento 3",
-        "uri": "dCcOoEQq+It3kawxmPF8ujTv/kQnqW824ib2lZXA9UnxTWdVXu/LxY6eE/g+xZwJbRY7/bUCFABuN+5OCEqZ42fRN9QdciJ/CNJ2iruwisAYQrgsbrPXsr+kB1Mcj7o5d46LHWRA8uqS63j7QZGsDt9+b2D9e8ce2vR/Un1IorfzNy0MvbkaFKMPk0DU4AJE"
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/GolTVLatam-2005.png/revision/latest/scale-to-width-down/200?cb=20200105205611&path-prefix=es",
-        "name": "GOLTV",
-        "uri": "jEIyP/hh7uyJ2ZlDar/Rzgd9A1C9EbVAnJdv9AGWT7mA6rDx4UPq38uCIKYKv2Zj"
-      }
-    ]
-  },
-  {
-    "name": "Euro Copa 2024",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
-        "name": "Eurocopa",
-        "uri": "AVOhbN19Ae8vm3RKrHs2mJk4Fw7QXD25823WV97Ga4uvVH0ZTF9PzS7BUcR9HmbXJrHphUGa30VYKpGp+RK7XymPXXzGc7K7FIsmu30VDBQ=",
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
         "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMcIsRcRAFV7NCfwDRm+reQH14iYrrJX1cgIm+5+5NGIbKPgVYCNLCpbq7pxcYS/yn5crvPYzlJBfNocPJ2cSA0oqGB4JfNvWQCn8g5DD7f04Uj3lWlvjF7MvDMQZDp76g=="
+        "uri": "XJvEwRo10TW4M+k9teng73jd8/jdB7wjticnyMaKdd01vF4AdtrsFIKj5IOLkwqpwx8dc/1RVei/5LKzo89wHQI82ghU+zqihQgw8YRhxNYQDiSAu6kL5lL7Lg2qeRFCEpWo7tVVtOnWFeepUyYrwArC73Wl+Tb79koZkdkO53KTT564KIuGVXd797ejgUyO5phWjCzi+eN+Z89q+wJCv0tm/TEMwCFSS8obbykubHplIjZ6XSoVoFladyDIve1B8e151DMyAbLi9ZMXJlAxCPPs4t1zclOPJCyIWvlMbis=",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4Xrkh0sWRgDjn18xt+1j+mA4yI"
       },
       {
-        "name": "Eurocopa",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
-        "uri": "0XAGBIU+vhE2qFTAn0ue9wQ+jC2V8KdwKRC3jhvqfgNrZA3MoTwB344i7t9rQhw54xUYco4iWWReZq5+TMVuHzYo1Nvs3XjXUmktMpb85qedFCGnIWlkhtnooZ7EAhWy",
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "uri": "7zgqbKG0/49fraRpQNfWa8GVWqtxo20nH+vE0wfQkABQkB3/vdTD8fCmZBwIw4E7BTDD3rkLV+OLfLQnEK2PYA2Adf0j7Cmzd30KnZSq2AWmYXYbxeCW5MowzwW/v2zuc3BwPonHvTbK2Cht2pEoe1/5d1AsSdCMHVM3ONzCh9gsNADmg1C/tLmLcVWdwF+co0gek0OiywU4lKiWoRsJ+71BblT2VExARql4WAxL9TBAdhBr9nvYaw1PEG6OOWWhRIkZw6S+ttYbClIa4O0Ffgn+Vwg4BkcRZY29Xoo2vDgp8Fab2i2J3K6G5r3ug8tVYoT9RioS3RDLiW1bQXBNg6IbpYTYF17WIkZQyYvb93KmoqBaAbbUIVLs5Z7T0XfVjAMcEK6foiiba0OFO7doleGymu+NkqyVGtsHj+6l2N5cE/Pxe1cZZY41fTg8vXKt7QwJsRRZmQDg7/hi2ifVtF7FN0/lzvE/9I2cmzeq52xRGSGlG+XAF1Pv/4VNWIVkIKBeTyMuCc0a7aQeKfjr9OnUO0JUAm7CnPmqaREh3VOLrPx7ReYVg7u6/g3OR5AM1b1pVv7503zEgjRBwjKNtIVKJmwVDmJvR3RLq1oWlrcTFXqsDlmNy5ZbjRx2UNx+K7W94XsxLs3QFkq2m4ZxUjst0TTwnygyRj5M9tPD6eKFLsG3Ek5zESGtdhNGQYFBzHGoPBOHU3BHl8uM8CnESVaL3YKebkBJrynlUekrInX1VYTNXyT69gaJ096w8sP4V3ned3OYWPFHG2f7ZsmwEmhCC1ZjEJSzSabP5bn7nFougimohdVn/rHZXGQlRXJSK0KRd+lDSLPR58lfujQplic/ukE6xwQzU2md1PKMmwQecMTEVSy5cGsKQND+t5ZoRwn79rExjV68YYjxloQkdDGQw2RPERuwSCJNlccEcimNlKkapuAR6mvtp0fe9jTOVWmRxtYsZTj/T8i6OlHrDk3whhYwBcsaAA45ArMAo/B+AnlUwW9HTVzwqjWjFe1f7YI2yxZoGLsiioNnFpP6ZJSGwwtZCeUUxqCRnRbie8NnsucJU3qLcbp2sy2WBniQpNAuxL/7JolktEBiXvEHcw==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNciL1DnJLPh0KryBJ6dr/HW"
+        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+NZKHHe9rHzez87Lme4w+HQ="
       },
       {
-        "name": "Eurocopa",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
-        "uri": "S6tFuiijFLT/pc3IrfUxEgzUvvx3dDr8729+WBQOtxdig/Pc3XgXTNWgrF64bLWi9fSoYg/Ua8GNvgubuy7csyJMgFB0kF641Lr5a3kLCXm2mw0fYDq9Wj7oo1saLxoIMyWalHaAmU+cJFvdujqzkUDZLjlmsGsetrPUXHU1CJl/Y2enhW2A5acKf2IH1UK05/g/qcze4FRLBmVrgU4S7KSpiZU/5kvseBZHuxrCetbjni8AzfAqWvY+N2J6L+WEDG0Shj2VYeSbMEn9+8YlZUAIV5NI5Or/bpADuLp812xoUjUdoalvDwoAeKgptKTfymjNkG5qeqmftFG86Qh3qHez9aGZ05HJNenkBRJoOpCD6jxSnI/bSYjBOcQFJ8v553UlCwEL1MP5ZzYRa0yF4bCEJKZmkiHek0VufmCfUpWf79rPVRjJnUGv0boxYnhrbHKE5KG3jRDPmjmUrHH2rnM5kBK/+2P2SrRfyOP/UoyuNRjd3+4yA0B0wbWHSSbFzNgyzje98HXSHd7dvcjRZvQSllKhvbOnAAjrK/VPFbY=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkgAAd1U1POqp+Q5PziLB7yx"
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
       },
       {
-        "name": "Eurocopa",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/16/EURO_2024_Logo_Pt_OnLight_FC_CMYK.png/revision/latest/scale-to-width-down/250?cb=20211007135118&path-prefix=es",
-        "uri": "OT6hESYa5ipsPARk2VgtUwkhgZHqN35EoezNxJC3qUBY8zZvhBKaLvJ6cY1sRRg6d7jS8Q+USx0oTqlYmoKY/g8Sj03C5K5P9+0lNoheTksLKDq8/wnOKV4Hps3qE2vW0j1tRZ/SEiUZeu6KnRM30A==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkhSKeDFKDP3pGMP0rAs7CtR"
-      }
-    ]
-  },
-  {
-    "name": "COPA AMERICA",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
-        "uri": "95wtc9NyWH4zh6Ilh56x6PLtTfufwgc6Lt9NwNpj/KedFCGnIWlkhtnooZ7EAhWy",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "wjatafa5boUJ3ldJ5pDm+E8oCmdMo9XnOiN/3aNMWKg="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America SD",
-        "uri": "7yjlwBVfJ9pQD9jSTTOmUzN/TGmiGZ/4uTucfcjrwNnm2dJujJNHhcJAQnj4Vp1odGwP7BslQKT3kvhq9LELimuVe9O2OGzmdq0qR0MwiKg="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
-        "drm_scheme": "clearkey",
-        "uri": "n3wzAsKqMLMmKHSTNrSsOb0psu+AXYB3Ym2cYurNP42usB11lhZvccr+0lswgHSFHk07UsSk0AMweatkV7E8Zg==",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxPcmHutwS/162q0l4h8t6k"
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
-        "drm_scheme": "clearkey",
-        "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yJ8QI2JHSeYT8imq7oqA1s29vieGhuc4nGFgupxjaWSZbhQcLZQBe9GEH9EDthFtc=",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9kkJxmiDKguHnuFP4XXViuGDDwxCpVljzIT+Yob21vRS7ZENirIT4rqcNuL+uz4JQ=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
         "drm_scheme": "clearkey",
         "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652",
-        "name": "Copa America",
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
         "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTfFdcCB9VUigp0rcdhTy+ex7itU1yLjQkjwXBIeOYsObhyZie4iiAVgCvT/EuMiyZ",
         "drm_scheme": "clearkey",
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdBIpjuXQV/4OD+SSZrUWkozShvNVtd8Nq3xE7bl7WKvQ=="
       },
       {
-        "name": "Copa America",
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Copa_Am%C3%A9rica_2024_Logo.png/revision/latest/scale-to-width-down/200?cb=20240605133652"
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r"
+      },
+      {
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "uri": "310BuWvCIjKbAI6cRllQgE3KVZCk45NXtUJ0rrpOZJM1UB3kMCTGQ3Wu21Ys7MNHosHWtXnGxa2WtZ6QtyKHyg=="
       }
     ]
   },
@@ -1277,7 +1218,7 @@
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/0/04/The_Simpsons_30th_Anniversary_2017.jpg/revision/latest/scale-to-width-down/150?cb=20210413151547&path-prefix=es",
         "name": "The Simpson",
-        "uri": "xcKng+n5nkh0nTtvKCO7MUGfDJA7wljTPz5QmEKBvKri3eT9Zzk+73y+EVj/RB5ksqx2LXDx1NnXyNeYpT0yLpHw67ID+1/LaUitXoioS4ghhT6J4VuA+bBxl2zyT4YG"
+        "uri": "v5P357se895dBAVPogGrpIEII3zYerTz3ojlBy3iudGR9NB53vXRPLytj79+MnGvc7LrWvNcASb/DVCodCUMGQtjyvsQ5/kn2wM6Y1+XGV8+OZoyYh4E47JW1P1D2soJ"
       },
       {
         "name": "Looney Tunes",
