@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "name": "The Bikeriders",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/10084091720835774i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW1LgYZO1Dcbz9RrG9RuQJYbTD7yqwDDjtu2pBLR6OzCl3y2Lb4wwEYgPAWYdkVjDE="
+      },
+      {
         "name": "Goyo",
         "icon": "https://ds-images.bolavip.com/news/image?src=https://images.bolavip.com/webp/spo/full/SPO_20240711_SPO_88816_a-6_20b83060.webp&width=400&height=600",
         "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzeelXDKii7Xeey4HQHga+fPWV58SVaUqbSUeyn+7xrM6C8FRfOK2JXy3Sx3YGhB/9lrTeMnOSw9U7Zoq5Gux7ysnofPw3NrmRydjAjFmmho1XvI7SOrzcMjyJQLbCyRn4pdhTnEJjeQYG1MZ484DioH0DP5XgDZYX+rk1xA6x6oLlmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD9EYP6LFmUhciw8f4F7KYFdhmcErUQGbtQxmyl25tng7EnPhHfVzQAPc9NQj7yq4EhnZJfzadqFpJ4hY+jWwOd3W9Gg2LhvipG+heqnlGddM5bV61qbaVH2QJrKiLgjxSGGYtHd8xous0FXd72rHnopduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
@@ -26,7 +31,7 @@
       {
         "name": "Un Lugar en Silencio 3: Dia uno",
         "icon": "https://image.tmdb.org/t/p/w300/jGOi939xU8BDRfAAhN6eiTSf3H8.jpg",
-        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4WNS/zVO58kUt3id+cpBoITOKJSyP19hyW78eDtr633pg=="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmV/57isx/YLKW5dTfTso1M/C7zQdwnWyu2Y1/M6EUouxsXioJpWGBXlPljwV4qw0UWfFlyuBxGbepz3a7vdIJLdgn2cEimLPIKklg9YSHomajhShovSIdEYfGnWsgsfh/fsxFF33O/yTaqJ7FpFjPooAqNJpVmDstlJM4i3itoi1+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ8j8VhqDKoI/jsZDD7pYzcDv0iHrtZ6sYwDmGOkQBiR8TTouDmah6tTWrDpyMBVR5EIbRtb40Uq92uAglyMTLrK543I+mQL7LDlBGS7D+I50508FNcM+lSLnWb80BXcyULpMvhk9x622s5Hnb5PVEr+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "name": "Mi villano favorito 4",
