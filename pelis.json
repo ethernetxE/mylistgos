@@ -4,6 +4,31 @@
     "mode": true,
     "lista": [
       {
+        "name": "Las pequeñas cosas",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/12472271720397000i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVmJAH0MFt8WSObr8t5ECkDoyEe7ARqsSDErDmrQ7W05pFKBWFWt/fxfnsALW2+9gs="
+      },
+      {
+        "name": "Firma Aqui",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/6750091719878405i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozXhtqMztPaZ0vOrPOpaDEfyIVH/m2phbkTAx/oaQB1iuw=="
+      },
+      {
+        "name": "Pinceladas de Amor",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/12915591720229193i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWsdVsIW3cj4cEIZVlR+rxJE50ZtmB8Jh9nOZ/WsH6ZQUS9WlBRI7sxj8WlbK3EDfM="
+      },
+      {
+        "name": "Los descendientes: Corazón rebelde",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/9742621720835361i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVmZC2LrfqS2ufHP1f2p2oj6VO3I1TLacTLLvmon/9JgavRqe89zy4ZaqoQT3F55prooKuN6j8iv1oXXWK0Unga"
+      },
+      {
+        "name": "Pollman",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/8345621720836914i.jpg",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVb7321p+jSMMZZ94qOktfmSpr9dGuv6qFX8SKQCY7BEGY/88i+iy6IrZD9IlrLhpw="
+      },
+      {
         "name": "The Bikeriders",
         "icon": "http://tv.powerlan.com.ar/poster/w200/10084091720835774i.jpg",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW1LgYZO1Dcbz9RrG9RuQJYbTD7yqwDDjtu2pBLR6OzCl3y2Lb4wwEYgPAWYdkVjDE="
@@ -262,6 +287,112 @@
         "name": "Posesión infernal (Evil Dead)",
         "icon": "https://image.tmdb.org/t/p/w200//oyQQOW3Be36MRRC3Rwd7Qubugxj.jpg",
         "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g8kUVw3vJjJwGIwljBCiEiALj7iy+dZDwYb77AcHSxalQ=="
+      }
+    ]
+  },
+  {
+    "name": "Pedido de cliente",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://play-lh.googleusercontent.com/5snt2J33UuZQ8LV5GiNL227RyGbx08O7s4IomEcgzol4FVYGBgnHgPaicdbh2WANs3kvcQ=w240-h480-rw",
+        "name": "Alma De Héroes",
+        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT6ncCM/Nz4bAEeeJV0D8zCsWZzbG5KhA0la+80UhzYJxw244MU/nhPB8jmOaycmKEap9WSKXIE3k/I5HnH1U0Ww9V7sG20F5MutT0fnt4fINA=="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/XCmoLdjcbmU9mV_HKz4LN5JjysVY7sWCm0H7d0uMo8gSww2jfgKwkS0GLMN6QKL-IqkTOghLuAbI-tpx8ZY",
+        "name": "Spirit: El Corcel Indomable",
+        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT6zeEWWnpprcX5lYozjQm4agI+o6UpnT+QBF0nsTpBXh+D6qTS+W77Alootnnk+4waexMWx3nFtKegS3LwsnoF59V7sG20F5MutT0fnt4fINA=="
+      },
+      {
+        "icon": "https://i.imgur.com/eErnAyP.png",
+        "name": "El Niño y la Garza",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozUgP0vXSg2gRGBpi+OI4HlIVEY1dHndT26iRCKMyBboQ5FKBWFWt/fxfnsALW2+9gs="
+      },
+      {
+        "icon": "https://i.imgur.com/YuhGh8a.png",
+        "name": "La Pasion de Cristo",
+        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXd4furUXOuDLNxYbs77ymx4rkmc5ZmHdfJRlJiyiZM8GEG7yr/zu3nOkXwhAEVgvHK08IDd9qoZ4DpykD1goucTldmCxUg9Fo6FDrANEhmCsmTYSOAfXVjWkAqIEVouusCD1MDMG1DGP9nwSTZm+xzW29GOJ5phTDKu6hepI5557qmWbs+uK7VS79//SXND2l30oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0N+Q1DwAPwSixLbiLjITIM7X9KLkaODvR3k3kOSSJCRc5TK7eNet7iDU5RwFlBkI3OonoUN8XpFg3kd8l/K/khOPUE24XvhVPaiEjJilo/waeO3AtdxT+oSKWL7nesQJa2m4R07UE8JrnI79WDsfJQ1yNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/8/8c/LaMascara.jpg/revision/latest?cb=20200731143600&path-prefix=es",
+        "name": "La Mascara",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmausK08AU3fseikn3hQCYrbruRwMcVOH1CR3MwnYydmr8Au3jc/7Uvish2AMdlIpqGbjCwFa2YroNdKMcj4kV3gdNXq7il4krjU4YOm9fj1saCFyDTWWjerfFAglU2jYDrFNp6gYYwKbt7kNHxsxiyJyRsF1uhWRLJ8c0tqWrUDxKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/a/a3/Y_donde_esta_el_policia_poster_latino.jpg/revision/latest/scale-to-width-down/250?cb=20221007005032&path-prefix=es",
+        "name": "La pistola desnuda 1",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVa+79rZvjLarQ/gPrKq8By9RXfHFhOwkyaUIhij1kbupZQ8FBJPuQBVUJJqPQBlBkpsSYtbOtwqpSw6gK0r7F5J3eWRBo7nmM8t4gLI2KGf9X+w4/t70wXXn9FbwarN6VaMAL/3tRw/Hidc4ufZ56yfS/EESBM92wvvhL2FIyUAni1pk/lhKLegQmUnB0HU6j82X8MRdoA7DWzMlFbBgMRpxOuKtRFpzoDrGHPz8+lIM7bZCcyoCSquxshF+/nzS0/J2QLD5Jwyx1r7yYWcloRmgKfKwsBmbPucuXETi/hsz5xhP2/mdF4hDI4G5EIiLqciqIxwJpv0IKq83pwdo6hhf+rc3vFqvqGS5CTAiOGrOxNBfTEBLRpEpIrQ1Hy91UPZf8biBtNzilBFIqYC4GUSFUi2jzxX2rrXdW+KRJPATHzu49jlz8A0xvI9vcVVsbWw9dY2gdjGtsDXXyk1QVHaDi2mgW96owzhPg/viG4nGd03LRlO8RDFHREk402R7WDJcm5CCWVNzSCVDITogX6hvRrghfaeMiBbEWKvu4VB"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/9/9b/Y_donde_esta_el_policia_-2-1a.jpg/revision/latest?cb=20230426003253&path-prefix=es",
+        "name": "La pistola desnuda 2",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmSVaExsxMb9FW5rnlBAv9Tc9Wmcjbbj3/wiImzgr80048Zs49IT8LpOn2Q/yS2CDbspm0PxZpLvYLSLfnBDRDoEfseQZWe0FxmbAiBFC/l0k5Zx/tw+6JnvtIl8st3KFdZ4DW8wzPTDES7oFHpIO/ypdwTm+8JnjRydw0Ln3W1QPKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
+      },
+      {
+        "icon": "https://i.imgur.com/Zg0pVw6.png",
+        "name": "La pistola desnuda 3",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmUsS0AiclrAM0467PzhEEoVD2vijAuY6PgzVhWUwDGg/RHA7s9q/LfK2H1+2AxU/BkInFFMU0ubTUHW2hQw6kHxDwP/4dWWh9qVzfn+BB63AKBrs1b3XmbaAPb1LeITk2dA/c+WfuDT7ZfnzImK4wiqpapJANqz15OFoCiKL7YZKKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
+      },
+      {
+        "icon": "https://i.imgur.com/kkJPBCp.png",
+        "name": "Pistoleros",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//GzeRutIJBVh8s38L/dvJ7W8nSqSy++g/J35RTIkJrICi4+95DZCeFDKLqbKEe6//sQGLrqq/nPYNS7K1YBPwcQ7VaowXFwKSfAKhtgEYIjonHecVtbEW/4aQQOAxlKFjklLJ/wSmJf7q1x7mFnz00XoTfkF4v5PNIotd8GlMgb++AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://i.ebayimg.com/images/g/N88AAOSwJVtj7d4Q/s-l1600.jpg",
+        "name": "Titanic HD",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//E7AZn46GRE0/x3dwvRu6YMmQRU5otZ7oX9qVC0FWwHWe6ZcuJFzRF9F2+HGk8jMmQ18Ihd98vc4f55/P3XGnL3EiyfTaXs3czQORUTjAPnYWbp0L77b5lXgddoo+/4qE7IUItpyox5CM0bzscXMMCO0ReRZY0zxHJ3JiA3ZHZcR+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://www.aceprensa.com/wp-content/uploads/2008/09/14574-0.jpg",
+        "name": "El niño con el pijama de rayas",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo8FvyzX74E9eZ9+QlSxBQG7j5zOleEu9N05spP4tAyZXptuhkyTpyiC2mcW9FIo7gI7nRc2g+6QUXaVTG2O0+C9cLZaGZRbIHY6HZ+IssQXpr3vowpOfqSYWCJ/tU1oN0/KlZkl3HCRJ2tmkAL00bsGICJo2I0zbAzwbRtzIfH23mFFgBhRaTRCvlB5IIZTUoxat5HYu7wi406YnwZ4UUJyK4m4A1paSexXAMJ6jVm19r3H2BRSnH3+N1GHeRcpGDaE4lrE/Fqbo9QmxWdqsKnVBXOT/89/j3i95tnrWdNwXQqyJJvZakHDJyFlINiZz1D3mOZF1GwEgbZHAem39yELOMDGEi1OEK3GYCtxezq51O+jcyCnZUHRfw9YkJATqM/vf2Zr+Ik5xupaalLk2gz1jJvj8XFbKRl+C3SGTDbgx9EJs1qjeYABXzd/P+766k0un7QqYuLjjbxI8xTD/j+Tb8LtEkxRhQ63isJSSX7iQ="
+      },
+      {
+        "icon": "https://play-lh.googleusercontent.com/oBcDR5z9g5NCgIJ6qv3C6uXYJXNHCSQeFzZhUKYdomshJbw7_ttlDi_vQLvlRZvyJdU",
+        "name": "Reto al destino",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//Bev5i5mc+BWvtqt/0et2Vto7Eo9akfiN9XPRtfTmmGI6qiKbQMcnr4X3gaoJ/X7/5tS/84RssjhzIq7uY/ZDHcAqG9iYukGidwGfNnRVo7VZfhPuxpc9SY+p0LhqXBRRXAVbXkxEIEgXRkjRddQuLysXkff+xqQAKj3uid6u0ER+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://http2.mlstatic.com/D_NQ_NP_965260-MLU70377491695_072023-O.webp",
+        "name": "El Patriota",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//Gnk4+5B/4iz5b88IsGFv3dh6his/zYAXGJoFnbS6NRTxK5+cWVYEHBOIzA0uVv4U4hw4SiRycpeXxHDreKG/vAxaTFisrP8aAepe/oMp4LdweT5T7MQUZ0ZEfoBEcpCx/CclQJRyeyM2ENHiAFoczE+ZqZPs/7NA7dZPFCe7689oyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDQmVEZxCv/pBEF1CB1LfGxE7IbjsyVhYb5cE/kJznTzUvw8ZAYA90MxQnPh7nJ/IBNG5blQZaX+2NUHfY5okas0ee4fJnnKRcQRTgidEmwagT3SYjcr6UjO5zpFyp2y6OLIiq5DKoLWAbWAMos+WixR0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w500/qvvgItf78gcyfwSOSj4T6S4YJPj.jpg",
+        "name": "Novia se alquila",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//MwRSjoTPASmUR3EWs++nRIayIe+jfnbTmo05DowFzH/qoqJ/coNM7lMLyo/uhe11xqO3vdlCDRtBCLuHFuYEssE6RdJXjrQC4XQjR83OplSMAIr4/7phyyNyhOufjrGnXKn60ZFkGnBhTn/nNi2JwkxPQKMsR2WdrnBhXsrD1L3cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
+        "icon": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
+        "name": "Pearl Harbor",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmRrkPCWjxwtBebIDy6cD/aVFhenQp/ruK1ULOVV2jRHSRUnknb1GFHI9Cm7zcdY6HwMVwVgmy2Co/s78pTE2xh6CjsmZ723HFEta+fLmEO2U+gIAz3AfuDuPH/eS97q+GyJAw0H+o18glf9CnKw6jcBqy0yvSFayGd8pDDU4c+LHKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
+      },
+      {
+        "icon": "https://i.imgur.com/zWp021Z.png",
+        "name": "Cuentos de la Cripta - Caballero del Diablo",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo4U89rMVAYvZDUYzHLUIJvLuaeKosLMSPMoEImIWNy9qsqm4aNFJelGA+vni+kdfaghkzlQEN3BhKd+URtYBFwcC3s+Mkh3Xrscdjpj1XI8WIiwFexyUn9ZaHeVrWA5osRC7OdcrUDr/g0N7FAa7WmEzGDeby1qqZuEsF01nQVAyDyMaSEephcpGD64TkP2gk+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://i.imgur.com/8Z4Tc17.png",
+        "name": "La idea de ti",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo8FvyzX74E9eZ9+QlSxBQGxHlrZgfO7tY6lE4MmdicPmC+HJdnzKm1QI173bqpzpF9j3F0X6VdEoVJVfUZtGbH8djtpUcR0pk3fb/gwivHy4yfqI8g9THmYUjqDhox7KTY3oSgVVHNc5jzqiUu3txgif2kZb99vSZJNsAkEGd7gWSg+j4l3oQ+KYcmBA/tIHQ+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://m.media-amazon.com/images/M/MV5BMTU1ODYzNzkxMl5BMl5BanBnXkFtZTcwMjY1MDAwMQ@@._V1_.jpg",
+        "name": "D-TOX",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHohdQ2r5u2gqoyZf6xSrLk3wMvsNeF1bn+ZzclUObWxCN+KfL7zGa8WziTUnZsYgt4e074pFpOg4PSxIKLbiqT37DDG1+igBsgQrpYpEERllNGW053nxOptIk8+bEFJMRFiIdtKNyk1zO64zPzYo6hxePjAeDugOVVUYamJkyl759vhKqDBaroMLCxj4O+OGtc+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://i.imgur.com/sXrOKeo.png",
+        "name": "13 Fantasma",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHohdQ2r5u2gqoyZf6xSrLk3/zCYVKEI9XE4uLTx+0waZP82N4MFxIktneTyaBf/d/gIAHFNHS4eIA07jqVyaLUGbHAXHVIJrGNCuFkskWh9PS4R2oCMd2B2OR/+vDaNOGD/IZ/lGoqB2HvlWacfOYLBaEG1/vlSl/jmsd1aH/r3e6xcQz+SOFWzSPleoFl44RDcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
+        "icon": "https://i.imgur.com/taWQAKf.png",
+        "name": "Ferrari",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHohdQ2r5u2gqoyZf6xSrLk36v+V6e5kaVDIzqWOGYPcQHbKFi19ozh678xHuh+g96X/zyMNoC6yBV8jHYeUlnA1deqGo1IKLn1PvupC/kGM3DNnwvPmtCF2OK7lYhHZauWm134SkV3rYhz3SnBJtg69g5sKGpd/Q7iKbuR7OXBIw+gy8Q60LIu2n7NunzV+TDRcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
       }
     ]
   },
@@ -1321,97 +1452,6 @@
         "name": " los vampiros los prefieren gorditos",
         "icon": "https://i.imgur.com/OP9G1MJ.jpeg",
         "uri": "jh8PusqJvrvfFUmQ6Wygm2T6gi6Ey1Tz5Yk7BPm35NGw4+urWTB3tJTdEpTi1Ou0vo3CtZ0FG98M+wnIlpMtoh24nGg2khH4OG3J1Ratwn+KkMCxSagyG98skp2FKzA1s5Oxanhcr9njw5nZ72+uXg=="
-      }
-    ]
-  },
-  {
-    "name": "Variados",
-    "mode": true,
-    "lista": [
-      {
-        "icon": "https://i.imgur.com/YuhGh8a.png",
-        "name": "La Pasion de Cristo",
-        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXd4furUXOuDLNxYbs77ymx4rkmc5ZmHdfJRlJiyiZM8GEG7yr/zu3nOkXwhAEVgvHK08IDd9qoZ4DpykD1goucTldmCxUg9Fo6FDrANEhmCsmTYSOAfXVjWkAqIEVouusCD1MDMG1DGP9nwSTZm+xzW29GOJ5phTDKu6hepI5557qmWbs+uK7VS79//SXND2l30oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0N+Q1DwAPwSixLbiLjITIM7X9KLkaODvR3k3kOSSJCRc5TK7eNet7iDU5RwFlBkI3OonoUN8XpFg3kd8l/K/khOPUE24XvhVPaiEjJilo/waeO3AtdxT+oSKWL7nesQJa2m4R07UE8JrnI79WDsfJQ1yNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/8/8c/LaMascara.jpg/revision/latest?cb=20200731143600&path-prefix=es",
-        "name": "La Mascara",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmausK08AU3fseikn3hQCYrbruRwMcVOH1CR3MwnYydmr8Au3jc/7Uvish2AMdlIpqGbjCwFa2YroNdKMcj4kV3gdNXq7il4krjU4YOm9fj1saCFyDTWWjerfFAglU2jYDrFNp6gYYwKbt7kNHxsxiyJyRsF1uhWRLJ8c0tqWrUDxKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/a/a3/Y_donde_esta_el_policia_poster_latino.jpg/revision/latest/scale-to-width-down/250?cb=20221007005032&path-prefix=es",
-        "name": "La pistola desnuda 1",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVa+79rZvjLarQ/gPrKq8By9RXfHFhOwkyaUIhij1kbupZQ8FBJPuQBVUJJqPQBlBkpsSYtbOtwqpSw6gK0r7F5J3eWRBo7nmM8t4gLI2KGf9X+w4/t70wXXn9FbwarN6VaMAL/3tRw/Hidc4ufZ56yfS/EESBM92wvvhL2FIyUAni1pk/lhKLegQmUnB0HU6j82X8MRdoA7DWzMlFbBgMRpxOuKtRFpzoDrGHPz8+lIM7bZCcyoCSquxshF+/nzS0/J2QLD5Jwyx1r7yYWcloRmgKfKwsBmbPucuXETi/hsz5xhP2/mdF4hDI4G5EIiLqciqIxwJpv0IKq83pwdo6hhf+rc3vFqvqGS5CTAiOGrOxNBfTEBLRpEpIrQ1Hy91UPZf8biBtNzilBFIqYC4GUSFUi2jzxX2rrXdW+KRJPATHzu49jlz8A0xvI9vcVVsbWw9dY2gdjGtsDXXyk1QVHaDi2mgW96owzhPg/viG4nGd03LRlO8RDFHREk402R7WDJcm5CCWVNzSCVDITogX6hvRrghfaeMiBbEWKvu4VB"
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/9/9b/Y_donde_esta_el_policia_-2-1a.jpg/revision/latest?cb=20230426003253&path-prefix=es",
-        "name": "La pistola desnuda 2",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmSVaExsxMb9FW5rnlBAv9Tc9Wmcjbbj3/wiImzgr80048Zs49IT8LpOn2Q/yS2CDbspm0PxZpLvYLSLfnBDRDoEfseQZWe0FxmbAiBFC/l0k5Zx/tw+6JnvtIl8st3KFdZ4DW8wzPTDES7oFHpIO/ypdwTm+8JnjRydw0Ln3W1QPKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
-      },
-      {
-        "icon": "https://i.imgur.com/Zg0pVw6.png",
-        "name": "La pistola desnuda 3",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmUsS0AiclrAM0467PzhEEoVD2vijAuY6PgzVhWUwDGg/RHA7s9q/LfK2H1+2AxU/BkInFFMU0ubTUHW2hQw6kHxDwP/4dWWh9qVzfn+BB63AKBrs1b3XmbaAPb1LeITk2dA/c+WfuDT7ZfnzImK4wiqpapJANqz15OFoCiKL7YZKKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
-      },
-      {
-        "icon": "https://i.imgur.com/kkJPBCp.png",
-        "name": "Pistoleros",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//GzeRutIJBVh8s38L/dvJ7W8nSqSy++g/J35RTIkJrICi4+95DZCeFDKLqbKEe6//sQGLrqq/nPYNS7K1YBPwcQ7VaowXFwKSfAKhtgEYIjonHecVtbEW/4aQQOAxlKFjklLJ/wSmJf7q1x7mFnz00XoTfkF4v5PNIotd8GlMgb++AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "icon": "https://i.ebayimg.com/images/g/N88AAOSwJVtj7d4Q/s-l1600.jpg",
-        "name": "Titanic HD",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//E7AZn46GRE0/x3dwvRu6YMmQRU5otZ7oX9qVC0FWwHWe6ZcuJFzRF9F2+HGk8jMmQ18Ihd98vc4f55/P3XGnL3EiyfTaXs3czQORUTjAPnYWbp0L77b5lXgddoo+/4qE7IUItpyox5CM0bzscXMMCO0ReRZY0zxHJ3JiA3ZHZcR+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "icon": "https://www.aceprensa.com/wp-content/uploads/2008/09/14574-0.jpg",
-        "name": "El niño con el pijama de rayas",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo8FvyzX74E9eZ9+QlSxBQG7j5zOleEu9N05spP4tAyZXptuhkyTpyiC2mcW9FIo7gI7nRc2g+6QUXaVTG2O0+C9cLZaGZRbIHY6HZ+IssQXpr3vowpOfqSYWCJ/tU1oN0/KlZkl3HCRJ2tmkAL00bsGICJo2I0zbAzwbRtzIfH23mFFgBhRaTRCvlB5IIZTUoxat5HYu7wi406YnwZ4UUJyK4m4A1paSexXAMJ6jVm19r3H2BRSnH3+N1GHeRcpGDaE4lrE/Fqbo9QmxWdqsKnVBXOT/89/j3i95tnrWdNwXQqyJJvZakHDJyFlINiZz1D3mOZF1GwEgbZHAem39yELOMDGEi1OEK3GYCtxezq51O+jcyCnZUHRfw9YkJATqM/vf2Zr+Ik5xupaalLk2gz1jJvj8XFbKRl+C3SGTDbgx9EJs1qjeYABXzd/P+766k0un7QqYuLjjbxI8xTD/j+Tb8LtEkxRhQ63isJSSX7iQ="
-      },
-      {
-        "icon": "https://play-lh.googleusercontent.com/oBcDR5z9g5NCgIJ6qv3C6uXYJXNHCSQeFzZhUKYdomshJbw7_ttlDi_vQLvlRZvyJdU",
-        "name": "Reto al destino",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//Bev5i5mc+BWvtqt/0et2Vto7Eo9akfiN9XPRtfTmmGI6qiKbQMcnr4X3gaoJ/X7/5tS/84RssjhzIq7uY/ZDHcAqG9iYukGidwGfNnRVo7VZfhPuxpc9SY+p0LhqXBRRXAVbXkxEIEgXRkjRddQuLysXkff+xqQAKj3uid6u0ER+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "icon": "https://http2.mlstatic.com/D_NQ_NP_965260-MLU70377491695_072023-O.webp",
-        "name": "El Patriota",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//Gnk4+5B/4iz5b88IsGFv3dh6his/zYAXGJoFnbS6NRTxK5+cWVYEHBOIzA0uVv4U4hw4SiRycpeXxHDreKG/vAxaTFisrP8aAepe/oMp4LdweT5T7MQUZ0ZEfoBEcpCx/CclQJRyeyM2ENHiAFoczE+ZqZPs/7NA7dZPFCe7689oyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDQmVEZxCv/pBEF1CB1LfGxE7IbjsyVhYb5cE/kJznTzUvw8ZAYA90MxQnPh7nJ/IBNG5blQZaX+2NUHfY5okas0ee4fJnnKRcQRTgidEmwagT3SYjcr6UjO5zpFyp2y6OLIiq5DKoLWAbWAMos+WixR0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
-      },
-      {
-        "icon": "https://media.themoviedb.org/t/p/w500/qvvgItf78gcyfwSOSj4T6S4YJPj.jpg",
-        "name": "Novia se alquila",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHoFbke6ElcYk80uITD5nW//MwRSjoTPASmUR3EWs++nRIayIe+jfnbTmo05DowFzH/qoqJ/coNM7lMLyo/uhe11xqO3vdlCDRtBCLuHFuYEssE6RdJXjrQC4XQjR83OplSMAIr4/7phyyNyhOufjrGnXKn60ZFkGnBhTn/nNi2JwkxPQKMsR2WdrnBhXsrD1L3cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
-      },
-      {
-        "icon": "https://es.web.img3.acsta.net/pictures/14/02/26/13/43/492816.jpg",
-        "name": "Pearl Harbor",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmRrkPCWjxwtBebIDy6cD/aVFhenQp/ruK1ULOVV2jRHSRUnknb1GFHI9Cm7zcdY6HwMVwVgmy2Co/s78pTE2xh6CjsmZ723HFEta+fLmEO2U+gIAz3AfuDuPH/eS97q+GyJAw0H+o18glf9CnKw6jcBqy0yvSFayGd8pDDU4c+LHKeZC1Ppz5G+Gfz0KGEcybWqOPWDUNu84czDuQha4CNkBMa6KoZrRPmuf2Y9YHtz0BJII6prirWVD2epGqYGWUmJviNeMI56YoDQ0j6w02MJ2dVEDNEVxJhmZ8A8ZZD/K8RlfKeDvp3vtg0x1z0HwqsDqQmvw7C7PBV93eewfzo0l/ZtUo0P4ur30uqCOn7OIQ0ZbcTPESkeXhE7kLPWjo4JvPBMggT+0lO0huVG580pBjkK2rB1grNcmXRuH2KxkHShQ/ZQJSMCyYaGH5lWF7PqxGGYNt8UYffUEcX3YvBckXWzurg378eG/7Kh6ucvSvsw4pRUfFH/lMXHu00ZhHZs3qUp6AoV88Y8RMje1F0RdoW0+GBGFZv6dsK0DPVyi"
-      },
-      {
-        "icon": "https://i.imgur.com/zWp021Z.png",
-        "name": "Cuentos de la Cripta - Caballero del Diablo",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo4U89rMVAYvZDUYzHLUIJvLuaeKosLMSPMoEImIWNy9qsqm4aNFJelGA+vni+kdfaghkzlQEN3BhKd+URtYBFwcC3s+Mkh3Xrscdjpj1XI8WIiwFexyUn9ZaHeVrWA5osRC7OdcrUDr/g0N7FAa7WmEzGDeby1qqZuEsF01nQVAyDyMaSEephcpGD64TkP2gk+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "icon": "https://i.imgur.com/8Z4Tc17.png",
-        "name": "La idea de ti",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo8FvyzX74E9eZ9+QlSxBQGxHlrZgfO7tY6lE4MmdicPmC+HJdnzKm1QI173bqpzpF9j3F0X6VdEoVJVfUZtGbH8djtpUcR0pk3fb/gwivHy4yfqI8g9THmYUjqDhox7KTY3oSgVVHNc5jzqiUu3txgif2kZb99vSZJNsAkEGd7gWSg+j4l3oQ+KYcmBA/tIHQ+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "icon": "https://m.media-amazon.com/images/M/MV5BMTU1ODYzNzkxMl5BMl5BanBnXkFtZTcwMjY1MDAwMQ@@._V1_.jpg",
-        "name": "D-TOX",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHohdQ2r5u2gqoyZf6xSrLk3wMvsNeF1bn+ZzclUObWxCN+KfL7zGa8WziTUnZsYgt4e074pFpOg4PSxIKLbiqT37DDG1+igBsgQrpYpEERllNGW053nxOptIk8+bEFJMRFiIdtKNyk1zO64zPzYo6hxePjAeDugOVVUYamJkyl759vhKqDBaroMLCxj4O+OGtc+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "icon": "https://i.imgur.com/sXrOKeo.png",
-        "name": "13 Fantasma",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHohdQ2r5u2gqoyZf6xSrLk3/zCYVKEI9XE4uLTx+0waZP82N4MFxIktneTyaBf/d/gIAHFNHS4eIA07jqVyaLUGbHAXHVIJrGNCuFkskWh9PS4R2oCMd2B2OR/+vDaNOGD/IZ/lGoqB2HvlWacfOYLBaEG1/vlSl/jmsd1aH/r3e6xcQz+SOFWzSPleoFl44RDcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
-      },
-      {
-        "icon": "https://i.imgur.com/taWQAKf.png",
-        "name": "Ferrari",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHohdQ2r5u2gqoyZf6xSrLk36v+V6e5kaVDIzqWOGYPcQHbKFi19ozh678xHuh+g96X/zyMNoC6yBV8jHYeUlnA1deqGo1IKLn1PvupC/kGM3DNnwvPmtCF2OK7lYhHZauWm134SkV3rYhz3SnBJtg69g5sKGpd/Q7iKbuR7OXBIw+gy8Q60LIu2n7NunzV+TDRcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
       }
     ]
   },
