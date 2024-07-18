@@ -4,14 +4,14 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://log-agu6.onrender.com/webp/logos/tvpublica.webp",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/TVP_Argentina.svg/revision/latest/scale-to-width-down/221?cb=20230716034520&path-prefix=es",
         "name": "TVP1",
         "drm_scheme": "clearkey",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yJ8QI2JHSeYT8imq7oqA1s29vieGhuc4nGFgupxjaWSZbhQcLZQBe9GEH9EDthFtc=",
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9kkJxmiDKguHnuFP4XXViuGDDwxCpVljzIT+Yob21vRS7ZENirIT4rqcNuL+uz4JQ=="
       },
       {
-        "icon": "https://log-agu6.onrender.com/webp/logos/tvpublica.webp",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/TVP_Argentina.svg/revision/latest/scale-to-width-down/221?cb=20230716034520&path-prefix=es",
         "name": "TV Publica",
         "uri": "Wsib6Ju4wPB9exyc+ZsRLcxPVZxWFIda6QNXn/kCuIlTjTdFWrsB7FB9P4dN2VNwJnP9q00frHr5XH6DrbO2tDkZLaxDJDliX+lu0BqaXck147KT9I2SKCrgSByV0TSQ",
         "drm_scheme": "clearkey",
@@ -99,7 +99,7 @@
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK8Qyvl3F7YQC+Xj8cZEoU4QOOWUkS6PjY7CFw63hLt7D2fF9XQb6oEFgyBDW2qNr3w=="
       },
       {
-        "icon": "https://a-qiio.onrender.com/webp/logos/optimized/ip.webp",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/6/60/Informaci%C3%B3n_Periodistica_S2020.svg/revision/latest/scale-to-width-down/250?cb=20230902123818",
         "name": "IP",
         "drm_scheme": "clearkey",
         "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFDNs0xaD4xP6yCyuX8WGoGw6iWECbcMZELl7SO5v4/I2DclVQSU4wE8YONXYjdAIFI8woy+YLXXXI87b/NpwH9lEVI/KlGp6HPV5Rq+6Y33TYHO7MZoAg9YBWdnSKqZ69c=",
@@ -274,7 +274,7 @@
       },
       {
         "name": "Rural",
-        "icon": "https://television-libre.online/img/rural.webp",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/8/89/Canal_Rural_2011.png/revision/latest/scale-to-width-down/250?cb=20200921033638&path-prefix=es",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yJ8QI2JHSeYT8imq7oqA1sQgGgaRM1qLQbQC94Kp3fIfSTjgh/AUz6XjfTP7HfAzBCVjq7Uf3Hlc2hwSBl6WLw",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gDDB2opvp/x3mcx4K4rOyoWoUdv+utV1TXWMoam8mBpe1MgnGkOlipcmm1ONh/fawHaNSGxOg6vg0Mqx7Ya3wfLTpAhSIthmIi00FZKDlblhCbnL76+F67lNygW4dkIOmQ=="
@@ -1105,6 +1105,11 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "name": "Evento",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+      },
+      {
         "icon": "https://i.imgur.com/xl7uW2T.png",
         "name": "Evento",
         "drm_scheme": "clearkey",
@@ -1143,16 +1148,6 @@
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
         "drm_scheme": "clearkey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r"
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
-        "name": "Evento",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
-        "name": "Evento",
-        "uri": "310BuWvCIjKbAI6cRllQgE3KVZCk45NXtUJ0rrpOZJM1UB3kMCTGQ3Wu21Ys7MNHosHWtXnGxa2WtZ6QtyKHyg=="
       }
     ]
   },
