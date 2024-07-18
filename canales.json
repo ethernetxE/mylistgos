@@ -5,7 +5,7 @@
     "lista": [
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b9/TVP_Argentina.svg/revision/latest/scale-to-width-down/221?cb=20230716034520&path-prefix=es",
-        "name": "TVP1",
+        "name": "TVP",
         "drm_scheme": "clearkey",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yJ8QI2JHSeYT8imq7oqA1s29vieGhuc4nGFgupxjaWSZbhQcLZQBe9GEH9EDthFtc=",
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9kkJxmiDKguHnuFP4XXViuGDDwxCpVljzIT+Yob21vRS7ZENirIT4rqcNuL+uz4JQ=="
@@ -1107,7 +1107,7 @@
       {
         "icon": "https://i.imgur.com/aBPvD7n.png",
         "name": "Evento",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT8LffDOV9yRhojlK4O2l8EBt4Sgjo4LEODSqRB+bmi97w=="
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
