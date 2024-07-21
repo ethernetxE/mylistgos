@@ -1111,10 +1111,17 @@
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento",
+        "name": "Evento 1",
         "drm_scheme": "clearkey",
         "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
+      },
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento 2",
+        "drm_scheme": "clearkey",
+        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
       },
       {
         "name": "Gol TV (Event uruguay)",
