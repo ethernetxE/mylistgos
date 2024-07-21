@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "name": "prueba",
+        "icon": "http://tv.powerlan.com.ar/poster/w200/12472271720397000i.jpg1",
+        "uri": "AotN1sh4Ll6FETpCMF2f6ClWO8wHPIlNuDSfEhC2APrtec84YahDov4eTzA9wC4rJuFJD5wJRQqAg2vrvDf3fx2TwH8NsvXJ0reBYz8xG503+vSP0tuED0MwRQ2SpvSPqbYbbCVFXqZYM1fBfQYGdQ=="
+      },
+      {
         "name": "Las pequeñas cosas",
         "icon": "http://tv.powerlan.com.ar/poster/w200/12472271720397000i.jpg",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVmJAH0MFt8WSObr8t5ECkDoyEe7ARqsSDErDmrQ7W05pFKBWFWt/fxfnsALW2+9gs="
