@@ -1129,9 +1129,19 @@
         "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaB+d8BSJVqueY3ftBcxP0xyg=="
       },
       {
+        "name": "Gol TV (Event uruguay) OP2",
+        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
+        "uri": "cqSAeA15QHtp0vkrgiAzD3CRooUdKAr4FXSqHMlKSGk7YBFeZCHufRMvT8f/6Xxj+d8BSJVqueY3ftBcxP0xyg=="
+      },
+      {
         "name": "Gol TV Solo Celular",
         "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
         "uri": "IqGFbYbH3ySSu2qMGd3a3reusK+wgJpYHPuR1mOYj+K2InlCiCXyVP+0UIYNGVLy"
+      },
+      {
+        "name": "Evento",
+        "icon": "https://i.pinimg.com/550x/ba/6d/2c/ba6d2cd52d20ab906ab39fa6af4c242d.jpg",
+        "uri": "cqSAeA15QHtp0vkrgiAzD3CRooUdKAr4FXSqHMlKSGk7YBFeZCHufRMvT8f/6XxjoX32xSuTsmIJelMvKHYCNA=="
       },
       {
         "name": "Evento",
