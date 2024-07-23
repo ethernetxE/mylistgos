@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "name": "Tornados",
+        "icon": "https://detodopeliculas.nu/wp-content/uploads/2024/07/tornados-poster-usa-190x300.jpeg",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmXfZSG6AAkD+Hc7pqSE2YkjZBAjbVhh89nnU7GY59yxWr1ogHYQakWa34+nOnx/qfYOP/quaQmk4c46GZlWrVNJlrnZpOvJ7cIPY1i1DkBd7vJWpAyGmEFQsQfbs19HGGZ8tucHg5a8aKi7ayE/p2YR5F3h28Kl+LVyhd2Vp8tNlcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NfKWyyEM8Bk8406ZWzMWkdu+2zmdruPBUd7AIJ3tboFsmFbSPfO23SGJ35ptgqiawWyWEPS2Ans67rD1M/uJU2lCC+c/2qUX9q3gN3dLd4QOKfDk3dag+m0cLHS5mhqlQNR4TVAVTTS2pWdvuPeBGatbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
         "name": "Las pequeñas cosas",
         "icon": "http://tv.powerlan.com.ar/poster/w200/12472271720397000i.jpg",
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVmJAH0MFt8WSObr8t5ECkDoyEe7ARqsSDErDmrQ7W05pFKBWFWt/fxfnsALW2+9gs="
@@ -61,7 +66,7 @@
       {
         "name": "Mi villano favorito 4",
         "icon": "https://i.imgur.com/jzqhKsX.png",
-        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4Wm0QKUes0qcVExmFH1N0hQpjRUqlfszSyuV8XUiyE8hg=="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmTWq1/5qMokLQ9kXBIBnhIm6NrGMyI8cZw+bx/7ztUPecndzm1Cy18NqFKpzpp5zco0lnWyjzHkZdnND8xbBojEe/pHwHADFID0awjcYB/nwupIKYQVYccVPtXzkkbXGIYknm9Xm2wWxvA0+2zWs7ErSXG37wu82jGXzOUskyYU++AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsLVyBhLeLfeKI3Y1P8wojl4PKoCFcJNMaoQ3s5Oq5MglocpiXPEQ/rKTbIisZMxrBzFqUR/o8B6c8zu76R6yWvd1CzJOfVIgVzieGgpuqlpxns06vlNoEXf7nMiw0tOgJ82Bvz85FVcFLqOhh4S1o3Y+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "name": "La academia del Sr. Kleks",
@@ -101,12 +106,7 @@
       {
         "icon": "https://i.imgur.com/2tvXw0M.png",
         "name": "Bad Boys 4",
-        "uri": "d1VG+N0K/04cYyES7ezPDoCR9H7Vl62IldK+xvkQ3g/YK40FKt/l4W6L2Tjtiq8MHGtkC2jeMJoCOblpjeTgqKbl2kPIbbVbSLLbL/DslG8="
-      },
-      {
-        "icon": "https://i.imgur.com/2tvXw0M.png",
-        "name": "Bad Boys 4 OP2",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdANm3sDYI9IRZJ1RShWMDk39EFopoMSRI/ZmU7eXdqR61ssTlxCNQE4cLPrNXgjjr8bpUOgFez5ltXKTh7C0rdXIUVStuCKo7WHUMIKM/KCTkhev7dtm4pcUp1d9WQK67NIUaO5/vYPSqg4llAgJMltslImzvz379RFFOrgpSMgcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4MLbEXkLscHBdgI0H4iukZTs+ufVc9kZyATNiyLE3mV1ZoCZTB5WoCyK3EuZbPBoJzedxRoOwqqg88D/hKs7dGbno2JwsnA1BW+4DHIbLDM/nO6ET6g0IV1ugi1KcoMgntV5bYWJHLqV2ZYaKzwNopTtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzVf9CSq6zYUYwYpF47nkDiLGS4LiKcGTq0o51p+tuhkJquKhLjpFpik+LfsLaVfAs3yn3LauraOzdyOVPnzeSkubtUJ2IHq/BeLKN0La5XUTMZo1ZiAXnywW+tQWBqfdF0jMFqogyhZq5aw4Vd3E7iQyq0rNy3ycCGO0OUZvvq6goyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDSUWZ+gfWKWqWwZ8JdrNOoos55JEf9joyQBAuGOIMEKP1SMxdWPx2xwPysgtt0Te4hn5kN/JCB9gjNzcmfdgsZwqFls6ZUKjyGrN+xu3X4X9+ggjB+MudRPsD78TWP+GBRWR+18Dw/BQFk+l4W1PM3Z0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
       },
       {
         "icon": "https://i.imgur.com/LLmdHzO.png",
@@ -294,6 +294,21 @@
     "name": "Pedido de cliente",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/33104/rockstar_lg.jpg",
+        "name": "Quien quiere ser millonario?",
+        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7DFH98gGqLIB0Ur224XrIc4E7bpQkHs6vrCxpPv817YNrwbowpVGfpQI3wneWAQlbLCc+wfzd+njJ25WucjGna9V7sG20F5MutT0fnt4fINA=="
+      },
+      {
+        "icon": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/33104/rockstar_lg.jpg",
+        "name": "Rock Star",
+        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT6SGHCNiZiisDrAzCc/ouZ+XWjIjZV4mQlNChnjyjkdLYTyi8UocWqbdka78xUUOgXYcegpNkrjltHtKvnKPdZG9V7sG20F5MutT0fnt4fINA=="
+      },
+      {
+        "icon": "https://i.imgur.com/Ii015WK.jpeg",
+        "name": "Mi nombre es Khan",
+        "uri": "ronXjbbSvCx6cq6n8Fvxd4lV8uOmO/EatvpbYT/AXT5ViX5MkOZO7/fw0fwGk5+P+C1TPvLJpUNbD1Eto8dWKUdEk5KRhsuKPYfnhn5IIqUJmd6yDy8YxORRo1/NzrtB9V7sG20F5MutT0fnt4fINA=="
+      },
       {
         "icon": "https://i.imgur.com/MUG5rii.png",
         "name": "The beverly Hillbillies",
