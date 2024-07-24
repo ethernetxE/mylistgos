@@ -1112,7 +1112,17 @@
       {
         "icon": "https://i.imgur.com/aBPvD7n.png",
         "name": "Evento",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBoBIw6VVR9z8asvTmolphJg=="
+        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBEZpgPipIkEoE/rkiVddReg=="
+      },
+      {
+        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "name": "Evento",
+        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBps8KRi46d2I3lWA1huSFkQ=="
+      },
+      {
+        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "name": "Evento",
+        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaB4Lghr3xPjAlFgdYTkv4D3A=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/1/1f/VTV_Uruguay.svg/revision/latest/scale-to-width-down/269?cb=20200328182650",
@@ -1136,7 +1146,7 @@
       {
         "name": "Gol TV (Event uruguay)",
         "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBWKusIl2wyLHofiCvB+asMg=="
+        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBC2nwynd7vOabNCYAFaVfIg=="
       },
       {
         "name": "Gol TV Solo Celular",
@@ -1175,6 +1185,52 @@
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
         "drm_scheme": "clearkey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r"
+      }
+    ]
+  },
+  {
+    "name": "Juegos Olimpicos",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://fay.org/wp-content/uploads/2024/03/Logo-Paris-2024-278x300.png",
+        "name": "Evento",
+        "uri": "PG0iwD1ca3LJ/xoOX9ctPwnXy0kINVkkcAnWbFPT8AHVZYo1vOWXS5CE9pgIhm8EM1V5RsP3Q9QApgyHyccH8qEIGRckQN7wy0QWWtfHois="
+      },
+      {
+        "icon": "https://fay.org/wp-content/uploads/2024/03/Logo-Paris-2024-278x300.png",
+        "name": "Claro Sport",
+        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh/gaTg6iqP6LIZtjBPj64/PtVa0NpPPJLYFglZ+NQKiNTzyp+IC7uEbxJsFJhPayPCmPXXzGc7K7FIsmu30VDBQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uaMF20ifM44CAWx/U9n4CDgiOP2efX2xFBzE2n/cZEQAOpk/DsrRcS9uoaMtJg3PXgly1P5RztoTrr1N8idofjPEhr9wzjtnvhhBZP/O0K4bNvwu0STFGFDreKwlJJfuJA=="
+      },
+      {
+        "icon": "https://fay.org/wp-content/uploads/2024/03/Logo-Paris-2024-278x300.png",
+        "name": "Evento 1",
+        "drm_scheme": "clearkey",
+        "uri": "90vMUQ91YsUVYgyRM1hKGQTDkqSp2dWVaCM/hnPL1nlYRLWa/fH5RbT7uqpMuvwn1F7donX6CymoGA2pRsx9zsQ3lM2E/TDFb1V41H8U3DY=",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gMcIsRcRAFV7NCfwDRm+reQH14iYrrJX1cgIm+5+5NGIbKPgVYCNLCpbq7pxcYS/yn5crvPYzlJBfNocPJ2cSA0oqGB4JfNvWQCn8g5DD7f04Uj3lWlvjF7MvDMQZDp76g=="
+      },
+      {
+        "icon": "https://fay.org/wp-content/uploads/2024/03/Logo-Paris-2024-278x300.png",
+        "name": "Evento 1",
+        "drm_scheme": "clearkey",
+        "uri": "993FNRp0a0Y/bVw82715bXOiIBrfrs8ijqtLrfPUTK1w0pbaryJCOisByJr4eoLoxlCcDHdAyuXSKQOuQ5oA9Vfr35qOTG4+aajLgBy5aCvdGMPTy/5EXCNLBOxYrLWUklp7kmGGI3aUxF3qZuN7/Wpk54gXgOZhkVG2LTs/ZV/SPW1Fn9ISJRl67oqdEzfQ",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLsW4LDz5ql3i3ZlVE3DvROp4+hcSgf6qLP64IQJlJ/UC4nQStFdYzThE2nlXNHz/Gim2wnZlaIYmdpJDqjnlTUsH5TI2fB69RwzaKNQsWGds+9D4IBdLyEJWmZ7QFCB+Q=="
+      },
+      {
+        "icon": "https://fay.org/wp-content/uploads/2024/03/Logo-Paris-2024-278x300.png",
+        "name": "Evento 1",
+        "drm_scheme": "clearkey",
+        "uri": "993FNRp0a0Y/bVw82715bSq5OOnZXwV2pHVyFvax/8pw0pbaryJCOisByJr4eoLoxlCcDHdAyuXSKQOuQ5oA9Vfr35qOTG4+aajLgBy5aCvdGMPTy/5EXCNLBOxYrLWUkZcMRQhhyPOUmzyk0Sxhbgh145xU2SWWVGcge1oL4y3SPW1Fn9ISJRl67oqdEzfQ",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLsW4LDz5ql3i3ZlVE3DvRNs4GwfjZGWv/GnwcNY71iOb+5oL75y0jUMDvtqnbhRYrYPFsdYeALKNq2djpDvlXpC59hfTzpH02IpaGloHU+M/up5PQH6P8udGQgnaCl3bg=="
+      },
+      {
+        "icon": "https://fay.org/wp-content/uploads/2024/03/Logo-Paris-2024-278x300.png",
+        "name": "Evento 1",
+        "drm_scheme": "clearkey",
+        "uri": "993FNRp0a0Y/bVw82715bYB+ofIYm5O9NHvMhxgxQaBw0pbaryJCOisByJr4eoLoxlCcDHdAyuXSKQOuQ5oA9Vfr35qOTG4+aajLgBy5aCvdGMPTy/5EXCNLBOxYrLWUcVE3ibFXJS4crDu/ZWe3WXd10Lr7bZGYGJhrc7BqZ5TSPW1Fn9ISJRl67oqdEzfQ",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLsW4LDz5ql3i3ZlVE3DvRM41amDqUoeO2QJqpC6m+bFqYUIHkQSFC8bq/vtl8Uq7PV4ZRCefO0fYSGegGPv3PoGqezlwzHRKnoDHzMD5FiWOFZRVIKgpwlqgkmW0f2udw=="
       }
     ]
   },
