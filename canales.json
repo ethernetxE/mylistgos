@@ -735,9 +735,11 @@
         "icon": "https://i.imgur.com/adbeH2W.png",
         "temporada": [
           {
-            "name": "TNT SPORTS AR",
             "icon": "https://i.imgur.com/adbeH2W.png",
-            "uri": "cqSAeA15QHtp0vkrgiAzD5tKnJ2483hmAO4PMiDtnX4Yyotqm3Qp7UlfovtW8+/HxHbKjNy3L/rbS7jE/wZbWw=="
+            "name": "TNT SPORTS AR",
+            "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jPlXg2XS+UqWaA+ClBjEuivCn+Lw8G2WiP0w2L7JH7haKScjbJVQIcjYlFwGLcQ4rPm3F6z6hSnqmcj88SfEgp",
+            "drm_scheme": "clearkey",
+            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIT7ndvjKCqRHbcYIECoCVbE0bLgwWETp/WBCnVl5KhOuIJu3QLM0FlXBE0/pAunEbh5BZ/hvMndo1vo5CgN8Nk6DFOlhNc/RW1BSdM0a3BTrYsziC4exr4oUPm4Kz/pbA=="
           },
           {
             "icon": "https://i.imgur.com/adbeH2W.png",
