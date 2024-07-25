@@ -4,6 +4,11 @@
     "mode": true,
     "lista": [
       {
+        "name": "Desaparecidos en la noche",
+        "icon": "https://i.imgur.com/l8keJDU.jpeg",
+        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdV2tu+xc0bVkbWjEw1tkMx1+xC9asmMM4qcHd0sUZqsz3fB8TaOdR79Sbti5BL+2w="
+      },
+      {
         "name": "Tornados",
         "icon": "https://detodopeliculas.nu/wp-content/uploads/2024/07/tornados-poster-usa-190x300.jpeg",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmXfZSG6AAkD+Hc7pqSE2YkjZBAjbVhh89nnU7GY59yxWr1ogHYQakWa34+nOnx/qfYOP/quaQmk4c46GZlWrVNJlrnZpOvJ7cIPY1i1DkBd7vJWpAyGmEFQsQfbs19HGGZ8tucHg5a8aKi7ayE/p2YR5F3h28Kl+LVyhd2Vp8tNlcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NfKWyyEM8Bk8406ZWzMWkdu+2zmdruPBUd7AIJ3tboFsmFbSPfO23SGJ35ptgqiawWyWEPS2Ans67rD1M/uJU2lCC+c/2qUX9q3gN3dLd4QOKfDk3dag+m0cLHS5mhqlQNR4TVAVTTS2pWdvuPeBGatbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
@@ -295,7 +300,12 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://images.fandango.com/ImageRenderer/300/0/redesign/static/img/default_poster.png/0/images/masterrepository/fandango/33104/rockstar_lg.jpg",
+        "icon": "https://pelisimg.online/cover/el-vuelo.jpg",
+        "name": "El Vuelo",
+        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT4eOEjZGDzqkZDK/6VSQlszjBBZ5xiUNewyqByAUJ5OH4sjamrec9BenF+jGofXfR+5U+qqtophXL+5HITG3I1A9V7sG20F5MutT0fnt4fINA=="
+      },
+      {
+        "icon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ1pl4Vj9dtliCFU7mNdHnKL_4zjmLUw5af7erBCGp_DVg1YduUojUVBL80kG3mxmpi1Q8&usqp=CAU",
         "name": "Quien quiere ser millonario?",
         "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT7DFH98gGqLIB0Ur224XrIc4E7bpQkHs6vrCxpPv817YNrwbowpVGfpQI3wneWAQlbLCc+wfzd+njJ25WucjGna9V7sG20F5MutT0fnt4fINA=="
       },
