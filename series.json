@@ -4,6 +4,104 @@
     "mode": true,
     "lista": [
       {
+        "name": "Pedro el escamoso: más escamoso que nunca",
+        "icon": "https://i.imgur.com/fkPvvrZ.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kwWMkIg7cs7PTLa6OnGfCkUTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kx2pkwMfE4YSlFaLDTSlbjhTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kzMJgpmV7mGLQDz9tLrnCvtTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2ky1+jwMK9pvPOKOeYSx7PShTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxJUcmChmRk4MGy83IXwGKNTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kzkoKE+cRzu7QS0UAKppyGuTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kwUV+IVJ7HoOJDOQ2NH4qpqTzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxk0fnUjA92PJo5vvYUrAU7TzM77+P92UhrMU3RHSLlVw=="
+          },
+          {
+            "name": "Capitulo 10",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUmVvW5V5cR7TZZUPqfEDxgw=="
+          },
+          {
+            "name": "Capitulo 11",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUzR61h19Spyi88xulFO36sg=="
+          },
+          {
+            "name": "Capitulo 12",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gULEC5Zp1sDrJZG7ciFYgOtg=="
+          },
+          {
+            "name": "Capitulo 13",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUEgSxqSaX+Uz4U5CDacSExA=="
+          },
+          {
+            "name": "Capitulo 14",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gU/OUFluEVrCtnlPOHX3J7bw=="
+          },
+          {
+            "name": "Capitulo 15",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUuS3Nl2Yu9y1vrKbAPHEq4g=="
+          },
+          {
+            "name": "Capitulo 16",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUANRFfz536xZmZeuCYC0OLA=="
+          },
+          {
+            "name": "Capitulo 17",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUj8rMV8YSKHGXfiQ+9qNOdA=="
+          },
+          {
+            "name": "Capitulo 18",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gUEP7lFlfxTBTqoJqkAq6Z3A=="
+          },
+          {
+            "name": "Capitulo 19",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kxZGoEOg/CToIhKr2mcf5gU6x9oI/DCvDGYwc2bn+cBpA=="
+          },
+          {
+            "name": "Capitulo 20",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kwWMkIg7cs7PTLa6OnGfCkUmVvW5V5cR7TZZUPqfEDxgw=="
+          },
+          {
+            "name": "Capitulo 21",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kwWMkIg7cs7PTLa6OnGfCkUzR61h19Spyi88xulFO36sg=="
+          },
+          {
+            "name": "Capitulo 22",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kwWMkIg7cs7PTLa6OnGfCkULEC5Zp1sDrJZG7ciFYgOtg=="
+          },
+          {
+            "name": "Capitulo 23",
+            "uri": "5FSgSsDC6nVpPZRfqN9COKgTbMULfJMWITy9uNCxum+z4ylisHIoGm0WfdlFCP1Uis9YjgiEb1OBu5cDhHsrSsHDTClbIZS2FvP8gp/m2kwWMkIg7cs7PTLa6OnGfCkUEgSxqSaX+Uz4U5CDacSExA=="
+          }
+        ]
+      },
+      {
         "name": "El Encargado Temporada 1",
         "icon": "https://i.imgur.com/TUMfERn.png",
         "temporada": [
