@@ -573,19 +573,9 @@
         "icon": "https://static-cdn.jtvnw.net/jtv_user_pictures/c14e9545-b484-473a-b31d-680b95e4de4c-profile_image-70x70.png"
       },
       {
-        "name": "CANAL NUEVE TELEVIDA",
-        "uri": "TDNabkJIIRdj5lOFziI7ITa0gjkCaviFM5Y2lcvHumvfBuiRIpoTPbaVALuHazLZvVsRS7cH6b5kxrTsouZ+kK9VAmXbHBEUPJgpVtGMNs02/C7RJMUYUOt4rCUkl+4k",
-        "icon": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
-      },
-      {
         "icon": "https://neotvdigital.com.ar/imagenes/logo1.png",
         "name": "Neo TV digital",
         "uri": "vVy60l/8CDHcHiTlkQ8/XqUYWPkr/tbWNWvQRH6pFc+QGglhdvpi67JrKmIZwX7ONcgvrg/yrnM5Uy+8wlgK9Ay7hs7xgPuSeDcGLbX8MGo="
-      },
-      {
-        "name": "CANAL NUEVE TELEVIDA",
-        "uri": "TDNabkJIIRdj5lOFziI7ITa0gjkCaviFM5Y2lcvHumvfBuiRIpoTPbaVALuHazLZvVsRS7cH6b5kxrTsouZ+kNJMLZFeNC99hHX/MW+09sC/J7ufeEuuzQNULz4Vs8TQs5Oxanhcr9njw5nZ72+uXg==",
-        "icon": "https://www.elnueve.com/images/logo-canal-9-televida-mendoza.png"
       },
       {
         "name": "Neox TV Salta",
@@ -759,8 +749,15 @@
       },
       {
         "icon": "https://i.imgur.com/ZJp4DBE.png",
-        "name": "TyC Sport OP2",
-        "uri": "P/VhgWTIAs7onVKs7/GFtjwX4V+GxpazRbhQXX9RbclgtmL0g3K48TSK3e/t6kphfxGeztL6DjX1W0skrw/RW6kF6pplhbiYzeg7zrMwOjnFJlxfUeJJ+xZZKjZ2Frkq"
+        "name": "TyC Sport",
+        "uri": "CsUWjy8LGI/gLeK7e1I03cDsshRVmsH1anhTo2Tq3Zys1KMBxymgNLZ9Sw5ADJ+k"
+      },
+      {
+        "icon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgusCblUkZgbEe0QzEyqhic7yB5B0CpYkR80juX5pmjTMf_7TgBN0DU7el6uSHfeNmkjgu3uwIiibqo1Jc_qXaQeRFVKSyG-Fvn6XB1C9JxkdZ6poMOjHgi4jeRugapH5Kb9zXQNIPkSQAu_reJzAgX8q6OmxbMKARNm4uxGSC_wE92fyLW_dJyWEla/s512/tycsports2.png",
+        "name": "TyC Sport 2",
+        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTfFdcCB9VUigp0rcdhTy+ex7itU1yLjQkjwXBIeOYsObhyZie4iiAVgCvT/EuMiyZ",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdBIpjuXQV/4OD+SSZrUWkozShvNVtd8Nq3xE7bl7WKvQ=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/4/49/TyC_Sports_%282003%29.png/revision/latest/scale-to-width-down/130?cb=20190620182054&path-prefix=es",
@@ -1185,13 +1182,6 @@
         "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTfFdcCB9VUigp0rcdhTy+ex7itU1yLjQkjwXBIeOYsObhyZie4iiAVgCvT/EuMiyZ",
         "drm_scheme": "clearkey",
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdBIpjuXQV/4OD+SSZrUWkozShvNVtd8Nq3xE7bl7WKvQ=="
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
-        "name": "Evento",
-        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r"
       }
     ]
   },
@@ -1199,6 +1189,13 @@
     "name": "Juegos Olimpicos",
     "mode": false,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/SzcRloX.png",
+        "name": "Juegos Olimpicos",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r"
+      },
       {
         "icon": "https://i.imgur.com/SzcRloX.png",
         "name": "Juegos Olimpicos",
