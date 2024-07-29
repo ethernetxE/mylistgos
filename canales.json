@@ -1021,12 +1021,7 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/3/3b/MMA_TV.png/revision/latest/scale-to-width-down/250?cb=20191031125727",
-        "name": "MMA TV Rusia",
-        "uri": "RQhIAHKhkAfRZWVSUjtUTQwd4Kd9EbdYIYFU7HmZxzRrTHJkowFTGQwArvUcSA7IY4VDZD+yq/TtB8c8QU+fzA=="
-      },
-      {
-        "icon": "https://television-libre.online/img/clarosp.png",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/9e/ClaroSports.png/revision/latest/scale-to-width-down/284?cb=20140409052254",
         "name": "Claro Sport",
         "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh/gaTg6iqP6LIZtjBPj64/PtVa0NpPPJLYFglZ+NQKiNTzyp+IC7uEbxJsFJhPayPCmPXXzGc7K7FIsmu30VDBQ=",
         "drm_scheme": "clearkey",
@@ -1039,7 +1034,7 @@
       },
       {
         "name": "Bein Sportxtra ñ",
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/8/8f/Bein_Sport_en_espa%C3%B1ol_logo.svg",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
         "uri": "i7ZO9dGso9GfbyohG4x/qTkx5ILha8oo834VMEoYsER1bFmPTt8z1SklW2rM6YJvsuY+S3Ncb3DMUCp4WtRsy8Fkq830ckczxmIFRTmA1KvyM2MN5ivs1M1NCHhRGYdwk3fovWSClyWI/KBBYDrIwkAVtGMVA/1sajZ02HWyfsePjbZA6LGphwbR8bnGfN3G4D1VxTHlfhENYdWB0tds9Z2SC2PdoPZC1tMIYqugOLDX5OS5bLm0DfFq6vqqlJX2sxd+yaj9EXx2uOHb7FEb7OryGRhMK4yIfNR5OGGq7veE/jE+3i5Dg9MIE3qMyK1FQO3WUIj/Jj1UH89Mm4B7OeQCwltzsu4CSZwQE3kwz2D8MkhAaPfR0mIdmLIeZ9npwSLoGyCNRHQbA7RaFvqC1cPvNeIhqbn6RHg661tiUWZ69tAVtf5ZmHdVFAhKlyzS4ZrDVYDV8exe/RvWutw7goMf0tnvg4M5T5u4mO0Uiz9EkRflZlC24/+4UYQkUhKgD21pvD5/fJQH7FS/xzbAT03Gcf99ySQg200c4XLQJYte8Im6XND2qwi+Nr/7DwNJLd7rky/a6iPSTi0qVjSppmPaikJWZJQrYTOwciPhWdQ="
       },
       {
@@ -1429,7 +1424,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/3/3d/HBO_Plus.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
         "name": "HBO",
         "drm_scheme": "clearkey",
         "uri": "HGqu1Kxmu21DgmpR+7xaZCxf57B7iTY2tzJYMQZRgss2TWJRSZ2KdEi6YoUcSYSHCUiS7UJ63apWdqszVpFu3jHQ657BLdB+tfnLGp4/MpXSPW1Fn9ISJRl67oqdEzfQ",
@@ -1617,7 +1612,7 @@
     "mode": false,
     "lista": [
       {
-        "icon": "https://cabletvhd.xyz/img/AXN_Movies.svg",
+        "icon": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
         "name": "AXN MOVIE",
         "drm_scheme": "clearkey",
         "uri": "N23fiEP3pWr6b5rQohEIX5n9IXMxGAmjp0QAniebNPWNsEHamiMs2+VEF53ZciwDOz002dg45nt2dVFHjb7/EQ==",
@@ -1696,7 +1691,7 @@
       },
       {
         "name": "SPACE HD",
-        "icon": "https://television-libre.online/img/space.webp",
+        "icon": "https://seeklogo.com/images/S/space-channel-logo-4AD3528E2F-seeklogo.com.png",
         "uri": "HGqu1Kxmu21DgmpR+7xaZPMzc1HrkhBEglLZIcs4IAkDrfcHOujlunolVAQwUpFuc6e3Wjw+U3U8ld0eV0isIvcEOwBLdWkNOGgHcklHvfbSPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gOgM8LuRCTYEqVznxLqhvgPA1zQH+cJwR40J81oR34jXXgkjda3la4c6Osiners6WyAPRQ7ajOgnoCtlKpJQ8uK8Gdz/qcpmHSy8kZ2mcK0f49bHiTHUR6wSCsvdobON4Q=="
@@ -1974,7 +1969,7 @@
       },
       {
         "name": "HISTORY",
-        "icon": "https://static.flow.com.ar/images/301/CH_LOGO/60/40/350/500/68362124071499.png",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/e8/History_2021.png/revision/latest/scale-to-width-down/200?cb=20240302050750",
         "uri": "HGqu1Kxmu21DgmpR+7xaZC9zsryDRKKrw+DigIYOjxzNs0xaD4xP6yCyuX8WGoGwvz+IcSBIhIJwau6J0RJ3Bo8E7Dn/5hbkXiCpRTCxQ9wdyni8FvcwbQ3JWFj3QALp",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJ0FSLzGeiEL4EkfOZ3io7Gn5f02AMOD8AVGJ83R3JKByZH2B0bI7cE6UeSZqsBzwsionKckW7LxCaAdGXuuEb6C0h+hJUGf8AUQ4yFHltNVqowOVdnuV9cUS5tK9cnFOQ=="
