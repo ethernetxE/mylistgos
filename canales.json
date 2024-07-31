@@ -259,6 +259,16 @@
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HzIvv9gqlnI2xRECDBe+nKQ"
       },
       {
+        "name": "13 Rio Cuarto",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/00/Canal_13_R%C3%ADo_Cuarto_%28Logo_Vertical_-_2014%29.png/revision/latest/scale-to-width-down/250?cb=20240103064513",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRdXnOok6ms+7HZpjSecR6z3bavFLNAmQI9mWIPV32Qg9AS8Vu7hy+Lg3og+zA6NBb6LT/YnylmTB6vgq5qi4KxVeBHLEldBw1Fz1lpJivPLiQ=="
+      },
+      {
+        "name": "9 Televida ",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/c/c5/Canal_9_Televida_%282012_-_A%C3%B1o_nuevo%29.jpg/revision/latest/scale-to-width-down/250?cb=20230307195450",
+        "uri": "TDNabkJIIRdj5lOFziI7ITa0gjkCaviFM5Y2lcvHumvfBuiRIpoTPbaVALuHazLZvVsRS7cH6b5kxrTsouZ+kNJMLZFeNC99hHX/MW+09sCtDjbTeHKhwERpIq4wzcV/s5Oxanhcr9njw5nZ72+uXg=="
+      },
+      {
         "name": "TELEFE NEUQUEN",
         "icon": "https://i.imgur.com/qxv6mcn.png",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72zjFuurSAZLd1/qGYOI1SxWuY6gnHmNekh+9dFkMLjuh6Dmrr8c57ToNBtKkLhbntpP79QKN3Wq1bGmfy70/3q60j1tRZ/SEiUZeu6KnRM30A==",
@@ -322,6 +332,16 @@
         "name": "Telesol San juan ",
         "uri": "v5P357se895dBAVPogGrpBnkkt0az2OpYG6MVfg0WyW0u4d0v7JpIPD84Zzl+H+Qy4hB1ThuWnbFyPfNXnAGpmLU1cinmRr3ju+K4mHxdSA1L+yQddMLGnDOTlZsrJZk",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"
+      },
+      {
+        "name": "13 San juan ",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoHPnz/bJ6PGpGQ6f2L1W/5zUj52/rjKWE0X02spdW5TRuly4+lu0AaMYaYIneHYH7DYiHf1L1ifIA00T+5oBmPk=",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es"
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest/scale-to-width-down/250?cb=20240627181044",
+        "name": "San Luis+",
+        "uri": "c36vsak/p5vXqAgIjWYQI1fRupbTAWo/z3Ov9a0/G6Pz+D0I2Ga7Ca53LqIpSQYYYbf0/qc2rXMGHK+bA6iTctODeoxUeMjeymkXV2cW0W4="
       },
       {
         "name": "Canal 10 MDP",
@@ -1000,13 +1020,6 @@
         "icon": "https://i.ibb.co/179yfJx/eventos-1.png"
       },
       {
-        "name": "Sky Sport",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ea/Sky_Sports_pre-lanzamiento.jpg/revision/latest/scale-to-width-down/250?cb=20200911165529&path-prefix=es",
-        "uri": "OT6hESYa5ipsPARk2VgtUwkhgZHqN35EoezNxJC3qUBY8zZvhBKaLvJ6cY1sRRg6d7jS8Q+USx0oTqlYmoKY/g8Sj03C5K5P9+0lNoheTksLKDq8/wnOKV4Hps3qE2vW0j1tRZ/SEiUZeu6KnRM30A==",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkhSKeDFKDP3pGMP0rAs7CtR"
-      },
-      {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
         "name": "VTV",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xh+LWOlwh4B3dwmMHg4AoSvCn+Lw8G2WiP0w2L7JH7hfQTCJfWDM3wI1lJsUcTTfrSPW1Fn9ISJRl67oqdEzfQ",
@@ -1105,16 +1118,6 @@
       },
       {
         "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Televen",
-        "uri": "8X8j5UzYhXXAlplQ+/tlI8bjSf+yP3/LT5WuUYq9IHVcQyItdPAKTFbP3iIO/hSL"
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "EL13 CL",
-        "uri": "LjE2CiWIrRZsbZsMaVOBgUOcwtjJhI0ZGRrphlgSR0/LaURK2Z2Z67F7pFbE6VVs"
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
         "name": "Evento",
         "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBEZpgPipIkEoE/rkiVddReg=="
       },
@@ -1127,11 +1130,6 @@
         "icon": "https://i.imgur.com/aBPvD7n.png",
         "name": "Evento",
         "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaB4Lghr3xPjAlFgdYTkv4D3A=="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/1/1f/VTV_Uruguay.svg/revision/latest/scale-to-width-down/269?cb=20200328182650",
-        "name": "Evento",
-        "uri": "jk0MQdvZO+kbbTFoAqAMxQgiSRlCiog8jpEL2iVpEXXu/tD0hFjFBQOOzyasfdFaiNEhBqG4z/1eLhOehNrYs7eEoI6OCxDg0qkQfm5ove8="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
@@ -1629,7 +1627,14 @@
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxLPfGVAgx9jRqn0ncC6Dhd"
       },
       {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/f/f9/Golden_Plus_LA_2020.png/revision/latest/scale-to-width-down/300?cb=20201205211346",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
+        "name": "Golden",
+        "drm_scheme": "clearkey",
+        "uri": "hzjLqMLPGSRRck5+HLHwejir+ZPO+Lz8LG/y8ZkVmt0KIGSE9CcqfCzdKYsEOE3hfpohNQs/ADsIPCfx/tvfoVv5Th18D8z9dWoAxZl4dvM=",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9LFZ7T2gDY3NdY83d3oI/jp/LaIJ2rgCyOIXfAQ9NqKzShvNVtd8Nq3xE7bl7WKvQ="
+      },
+      {
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/51/Golden_Plus_2020.png/revision/latest/scale-to-width-down/310?cb=20210512164553&path-prefix=es",
         "name": "Golden Plus",
         "drm_scheme": "clearkey",
         "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh16b2LDuz7BVpqbsdGp8IGZyrEF7U4jMvcK0QmuKXl5OtjBTOoDcDkaLi3HCsOhmRw==",
