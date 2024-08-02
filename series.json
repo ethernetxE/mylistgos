@@ -21010,6 +21010,64 @@
     "mode": true,
     "lista": [
       {
+        "name": "Loki",
+        "icon": "https://i.postimg.cc/3NKrJLNs/image.png",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReKXgQtKeL+Xh5pgs2tqr4GWkpYuD1Z9aFxJxQcia9pJg=="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReKXgQtKeL+Xh5pgs2tqr4Gtuthl+x9TUTtU4VTBWRTow=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReKXgQtKeL+Xh5pgs2tqr4Gjlry7zsUV7ga5W+/KYBATw=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReKXgQtKeL+Xh5pgs2tqr4GMDdjJtucNeAgNEKfteC4nA=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReKXgQtKeL+Xh5pgs2tqr4G9LrAer/R3ckf2E0cvkb0ZQ=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReKXgQtKeL+Xh5pgs2tqr4GvIoRqgpN2YuzUH0aJWAcXw=="
+          },
+          {
+            "name": "Temporada 2",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRexWqnM+TRkNPMDdt9Z8pRAGhFxXwns73oY/YTCzlmWEQ=="
+          },
+          {
+            "name": "Capítulo 1",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRexWqnM+TRkNPMDdt9Z8pRAGhFxXwns73oY/YTCzlmWEQ=="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRflVI9c960CzVzpUW+UC8BqGhFxXwns73oY/YTCzlmWEQ=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRcHOvqX9c1zJ7jLK3UVLxRZGhFxXwns73oY/YTCzlmWEQ=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRfwARjroEgjaM0CASvIVR2lGhFxXwns73oY/YTCzlmWEQ=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRf8KDvkDfI/FOInWRGa4lR0GhFxXwns73oY/YTCzlmWEQ=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdtiuqnqf43LN2fHUoVeRMCGhFxXwns73oY/YTCzlmWEQ=="
+          }
+        ]
+      },
+      {
         "name": "Harley Davidsons",
         "icon": "https://www.formulatv.com/images/series/posters/1100/1101/dest_3.jpg",
         "temporada": [
