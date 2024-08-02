@@ -915,24 +915,24 @@
         ]
       },
       {
-        "name": "ESPN",
+        "name": "ESPN 1",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/8/86/ESPN_LA_2013.svg/revision/latest/scale-to-width-down/250?cb=20201109214232&path-prefix=es",
         "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q/USCQPxkdtVhKPD57pC5VyJ9kCMs6Jej4fmFlK54UJmU7wz3WYccZlYanq32fdmAw=",
-        "drm_scheme": "ClearKey",
+        "drm_scheme": "clearKey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkimsR5xK0E5RYnbrTxMqK+e"
       },
       {
         "name": "ESPN 2",
         "icon": "https://i.imgur.com/mIsFobP.png",
         "uri": "ywuJogEn+z+nHSLdA1Y/aVWPhQ0k9nSTnQvxNAWlTv6pCbKddT1UQBuLNcF/7fougzC6kdp5hVftBMriyl84VDx/1l7lLfkHG7WtWEZh8nQbxxY3I1usUHQdj+vePm8X",
-        "drm_scheme": "ClearKey",
+        "drm_scheme": "clearKey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HwDMRM2HjrAaEXfLR9f4Pz8"
       },
       {
         "name": "ESPN 3",
         "icon": "https://i.imgur.com/fc9igqN.png",
         "uri": "ywuJogEn+z+nHSLdA1Y/aVWPhQ0k9nSTnQvxNAWlTv7Ji30Y1pbWf6hOeQzJdY7PESCNYqP8z0Quhtq2SJxSEvX22aM79DF4EBiaueA5N1s=",
-        "drm_scheme": "ClearKey",
+        "drm_scheme": "clearKey",
         "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HwZkJ+nWiMOpUOFoucmMmeP"
       },
       {
