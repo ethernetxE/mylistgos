@@ -22,10 +22,11 @@
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xdo7t9rnGGrlOop5eyQj1U4xKu/K5X7m1UjBOTFHG7t/fw96vwrUUCfwbGkC/6ZUQ=",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIFEeQr4wUmbDR/4yE/tByYk4H90PS33wi6bPazpE2qOBsLIR4HECw/KmdDOFwdn8LHMngb4l1oSWVltFXJoXc2NlTUUC4iAUf91I1VPexvDzM3PjfmjMW7XdPrliAL3yQ==",
-        "icono": "https://i.ibb.co/ZWkQJfH/el-nueve.png"
+        "icon": "https://i.ibb.co/ZWkQJfH/el-nueve.png"
       },
       {
         "icon": "https://i.imgur.com/3JBppTI.png",
+        "name": "Encuentro",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72xHmJ3Du93MsQnAmOIsU5Z6T3E6p/YHGcOMCqpzz0jhRNbgkTR5/wR+rmUmN8dZibY147KT9I2SKCrgSByV0TSQ",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJwZOS04fCQyHpxcJBY0INe7ip8MzYsbHIKIThpefX26DMYMlNuvTBGzJBdKiwaFEh8CoKT2VYSKtivbhBuNugLN8eIjWsfDGAwbH6hyBF5BXEMiLXTwCkxWz94iDv4Uiw=="
@@ -78,6 +79,7 @@
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/6/64/Canal26noticias.png/revision/latest/scale-to-width-down/200?cb=20210513002436&path-prefix=es",
+        "name": "Canal 26",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72ytbAouxT+WgA7G3cpB7+Dm4KF0PTvaookEK0nGElbchpRfE8bn371dd+PsBL+FQSEpj118xnOyuxSLJrt9FQwU",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gFI2lCUoTsEcev0nDfhNCsHri9jW8DuNZJhMIcHc602ZzdoBAYjUS6TMrSVotI1YXXObEfOUv+sDWDYDPZcz6ZbrAo5J47GM6wLVELdGTG9WkAAiOKRdkWAxZX5ZW7zSDQ=="
@@ -1001,20 +1003,20 @@
         "name": "NBA TV",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72yZGmXKduM/33BuZWtZezCW5xAAVOBUoZlmUSs6OE9sTHAqr2xt5w+1/JdDL7kvQifSPW1Fn9ISJRl67oqdEzfQ",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HyWmwjLqb1yGmVuQ9/N2wCj"
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVG5TMJ6Mir7US1+E7sW9v8W3m9QoDZQhmSJw6pBxqvWf"
       },
       {
         "name": "EVENTOS ",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r",
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCL2vv8jZZT9uVIeeXFKYIM0CXX5C1+KRdam7oYOzYMc",
         "icon": "https://i.ibb.co/179yfJx/eventos-1.png"
       },
       {
         "name": "EVENTOS 2",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jJ9mjRDiSEHYNNeA1T8pp9pPxWOQJlgVy9eh5kIp/e3n9xhWHuxZC5ZDGt9DG+Kz0Z3zFt+a35yV6oGxCuGoch",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiT1QO9+U3niUmUgUVOBwU/",
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCL2vv8jZZT9uVIeeXFKYINxy5cylvRVnD3AMswEspgl",
         "icon": "https://i.ibb.co/179yfJx/eventos-1.png"
       },
       {
@@ -1163,14 +1165,14 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/9/91/ESPN_%281985_White_on_Red_Background%29.svg/revision/latest/scale-to-width-down/250?cb=20210715191103",
         "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q/USCQPxkdtVhKPD57pC5VyJ9kCMs6Jej4fmFlK54UJmU7wz3WYccZlYanq32fdmAw=",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF59EBoyeIcykEZPoWMv3tt91G5fwA5dWT85c7uQNtbQU"
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCqCEvQDWyrjvf6Sg6+ea0RPPTElEjQOXT3+Mscca3dt"
       },
       {
         "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
         "name": "Evento",
         "drm_scheme": "clearkey",
         "uri": "XJvEwRo10TW4M+k9teng73jd8/jdB7wjticnyMaKdd01vF4AdtrsFIKj5IOLkwqpwx8dc/1RVei/5LKzo89wHQI82ghU+zqihQgw8YRhxNYQDiSAu6kL5lL7Lg2qeRFCEpWo7tVVtOnWFeepUyYrwArC73Wl+Tb79koZkdkO53KTT564KIuGVXd797ejgUyO5phWjCzi+eN+Z89q+wJCv0tm/TEMwCFSS8obbykubHplIjZ6XSoVoFladyDIve1B8e151DMyAbLi9ZMXJlAxCPPs4t1zclOPJCyIWvlMbis=",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4Xrkh0sWRgDjn18xt+1j+mA4yI"
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVBzxkoRGtQx9wC4s0apShaGJIO3BZJK+BdS+JJM39biw"
       },
       {
         "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
@@ -1195,7 +1197,7 @@
         "name": "Juegos Olimpicos",
         "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+ihVOk106cHUWQLe/z1Jb18euOq21s6UDgLKpyKSQ9vIKcslz9d031PN6J8u0XWYF44+no7I3ZecH09zfUS0O38",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF4rIo/0eQU0Rx/lVaU4XrkiygF5ugfjL9s9vNH/GSm4r"
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCL2vv8jZZT9uVIeeXFKYIM0CXX5C1+KRdam7oYOzYMc"
       },
       {
         "icon": "https://i.imgur.com/SzcRloX.png",
@@ -1520,7 +1522,7 @@
             "name": "Universal Cinema",
             "drm_scheme": "clearkey",
             "uri": "xVeQ1GmCCgkDc4XjIqK9ydk8H8nue1B8Qi9Ecngi8mMMx8hQLUu8WP0KWgkHKuwL8Lfk0iiO/lSW1dMpE1RTRoKHfNQ0AwRzsQ2ZLunWqhzLPcD3j+Nb0YVlURYalcFFFNsag3UQiiernn93FfVU9w==",
-            "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF22GyH51CSp//IduzWmHr49GvR0xmGQjpQdnnL9sSys2iqjs4VWKFn3Q3V7uJNj0Fw=="
+            "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCJtwkoCR65trBzla7uVGPHh8vWf12RalJQOFgEM5/ww"
           },
           {
             "icon": "https://universalplus.com/files/channels/731381553.png",
@@ -1540,7 +1542,7 @@
             "name": "Universal Crime",
             "uri": "xVeQ1GmCCgkDc4XjIqK9yRk7a74aKE46Ie8GyAXuoeYMx8hQLUu8WP0KWgkHKuwLcON0nPblxuZIO0Hl1zhfsqrbinsAlwuGx4CjHme/Vtt3W7dpn2HjlLei5XZBsElzNeOyk/SNkigq4EgcldE0kA==",
             "drm_scheme": "clearkey",
-            "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF22GyH51CSp//IduzWmHr4997V8Ed49GZFwzBXVMzlZeNvwu0STFGFDreKwlJJfuJA=="
+            "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCJtwkoCR65trBzla7uVGPFET3P66Fk047Qf/QbbVOMV"
           },
           {
             "icon": "https://i.imgur.com/rndTv9E.png",
@@ -1560,7 +1562,7 @@
             "name": "Universal Comedy",
             "uri": "nEbIKX5bIAnNu9X6YiVQrPRyhRhdQfdrEMC5Mrpe7BcMx8hQLUu8WP0KWgkHKuwLIVNvfMkHu4dQxglFFmgl74KHfNQ0AwRzsQ2ZLunWqhxW20v15V4U8YLCBXCAfFNV6TlmlcmvUsPmYOi40+bmRQ==",
             "drm_scheme": "clearkey",
-            "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF22GyH51CSp//IduzWmHr4+2xlUEUNAbnIHKo2R5SaxJiqjs4VWKFn3Q3V7uJNj0Fw=="
+            "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCJtwkoCR65trBzla7uVGPEQFD81v4m+zJ3mWdyzhczr"
           },
           {
             "icon": "https://i.imgur.com/pYgb7fh.png",
@@ -1580,7 +1582,7 @@
             "name": "Universal Reality",
             "uri": "HGqu1Kxmu21DgmpR+7xaZDMigVJtwvk4BB7jNL8Qv+wMx8hQLUu8WP0KWgkHKuwL1IRdKDh3ziMQjqU2VXxf7o3DMUqSjk4z5mk4P7PW+D6myxdOPAgXnXhmt2FX3UFjlCdI6jxh59+HkotkAPwV+Q==",
             "drm_scheme": "clearkey",
-            "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF22GyH51CSp//IduzWmHr4/5OIwZbxnrAfB3dfzeimcK2fF9XQb6oEFgyBDW2qNr3w=="
+            "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCJtwkoCR65trBzla7uVGPGvIsKrttF5ff3Xt4ktEXDh"
           },
           {
             "icon": "https://i.imgur.com/XHeGPbW.png",
@@ -1600,7 +1602,7 @@
             "icon": "https://i.imgur.com/s4NWd0a.png",
             "uri": "HGqu1Kxmu21DgmpR+7xaZM1wKCrBK+WdKyFaQWWhnVIMx8hQLUu8WP0KWgkHKuwL6rwgjj8+ySNCOhWZFISRG4qgUXUeNH5E3WSDwbDVzVZCo0jnKPYR+23ZIdF6YONEDrimOnLpJk4tb0FjDcj1Aw==",
             "drm_scheme": "clearkey",
-            "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF22GyH51CSp//IduzWmHr48uUjCQ8ru0MdM0CQ/4V1aw2fF9XQb6oEFgyBDW2qNr3w=="
+            "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCJtwkoCR65trBzla7uVGPHlUUW+NfiKxNAQQUccs54f"
           },
           {
             "icon": "https://i.imgur.com/s4NWd0a.png",
@@ -1622,7 +1624,7 @@
         "name": "AXN MOVIE",
         "drm_scheme": "clearkey",
         "uri": "N23fiEP3pWr6b5rQohEIX5n9IXMxGAmjp0QAniebNPWNsEHamiMs2+VEF53ZciwDOz002dg45nt2dVFHjb7/EQ==",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxLPfGVAgx9jRqn0ncC6Dhd"
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVPt+CbTtMtzqs46fT3uCQGfytUH4K4m8zp+EzarYdEw1"
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
@@ -1812,14 +1814,14 @@
         "icon": "https://static.flow.com.ar/images/1161/CH_LOGO/350/500/0/0/99608630073988.png",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72wbHLocadmMWUZT8DN8mkJv9lDJMXZ8CpZ8ZyWGB66oOpUa8F4LWP7m50FkQTfgD4IaZWAEV85nnBU+PyZF32Gt",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HxggEqX+udVUWytPGUgJp7V"
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVEhOL0/EtQ42ilRCXB99MIct4yIfQgtOaKq0H2HD6x0m"
       },
       {
         "name": "A3SERIES HD",
         "icon": "https://static.flow.com.ar/images/1161/CH_LOGO/350/500/0/0/99608630073988.png",
         "uri": "N23fiEP3pWr6b5rQohEIX5n9IXMxGAmjp0QAniebNPWIngbICC6qBfVPoDVgcUhvvGnJl5G3AKNPcjMEl9FR5A==",
         "drm_scheme": "clearkey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6Hx3fw22e8vIZByDza/N7DBpiqjs4VWKFn3Q3V7uJNj0Fw=="
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVEhOL0/EtQ42ilRCXB99MIe3jCqxqdw+EMXsA0DJXq2X"
       },
       {
         "name": "COMEDY CENTRAL",
@@ -2332,7 +2334,7 @@
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/53/Telemundo_Internacional_2012.svg/revision/latest/scale-to-width-down/200?cb=20210215115234",
         "uri": "MI8v3E9umgHQYRLtmDSudr93aTLrROAfPzAVKWaq72wl/Q+9yCXg7aiJmdW64TjVSQcvfOJDDLkRJ5yUEdjXJtje1QAUEASxyPWI8p3YCYdv9Ug/16kkVOnv7i9uR6mO",
         "drm_scheme": "ClearKey",
-        "drm_license_url": "HgyoQGi2m/VW+Jsm+0frF3/bA4FQADtTmfEnwvKO6HyQLarU+j5ad99SUGXDLCskrlbJgeEF0tO3y1sLTGZKkQ=="
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVNggPMcKi71zDGUl4kdgMyM9H0E/NXWiIfdJTze9u8SaLhnrh75DY2FquxNOkGR4Qg=="
       },
       {
         "name": "BRAVO TV",
