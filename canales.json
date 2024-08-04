@@ -1132,7 +1132,17 @@
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png",
+        "name": "Evento",
+        "uri": "7zPHzDMzJ0TjPad0O1KSeK6EK6K/auVITw3nfRaaN0Yha3La8f07MOhhvIYNNzke5YG3eg0d4Zp2IALsRZ4ybA=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png",
+        "name": "Evento",
+        "uri": "7zPHzDMzJ0TjPad0O1KSeK6EK6K/auVITw3nfRaaN0Yha3La8f07MOhhvIYNNzkeXRkRp+EvAoXP1trI4qBpJQ=="
+      },
+      {
+        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
         "name": "Evento",
         "uri": "jwfROnT4XFek0cPDwsD7ypr9akzaE7o9Ocyg6BJdXRHH6j8GN8ly+LbD0vDCygTY"
       },
@@ -1145,16 +1155,6 @@
         "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
         "name": "Evento",
         "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBEZpgPipIkEoE/rkiVddReg=="
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBvP33YachOHrjnCSBKOfDcQ=="
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaB4Lghr3xPjAlFgdYTkv4D3A=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
@@ -1186,13 +1186,6 @@
         "uri": "IqGFbYbH3ySSu2qMGd3a3reusK+wgJpYHPuR1mOYj+K2InlCiCXyVP+0UIYNGVLy"
       },
       {
-        "name": "Evento",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/9/91/ESPN_%281985_White_on_Red_Background%29.svg/revision/latest/scale-to-width-down/250?cb=20210715191103",
-        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q/USCQPxkdtVhKPD57pC5VyJ9kCMs6Jej4fmFlK54UJmU7wz3WYccZlYanq32fdmAw=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVCqCEvQDWyrjvf6Sg6+ea0RPPTElEjQOXT3+Mscca3dt"
-      },
-      {
         "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
         "name": "Evento",
         "drm_scheme": "clearkey",
@@ -1203,13 +1196,6 @@
         "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
         "name": "Evento",
         "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
-        "name": "Evento",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yb6WRMHKb1QHOaHy/VQnqFAAOdYncmqOocsA6FwgwBqTfFdcCB9VUigp0rcdhTy+ex7itU1yLjQkjwXBIeOYsObhyZie4iiAVgCvT/EuMiyZ",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK9WI7x5H9J81b3EnJXBqmNdBIpjuXQV/4OD+SSZrUWkozShvNVtd8Nq3xE7bl7WKvQ=="
       }
     ]
   },
