@@ -1142,33 +1142,9 @@
         "uri": "7zPHzDMzJ0TjPad0O1KSeK6EK6K/auVITw3nfRaaN0Yha3La8f07MOhhvIYNNzkeXRkRp+EvAoXP1trI4qBpJQ=="
       },
       {
-        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
-        "name": "Evento",
-        "uri": "jwfROnT4XFek0cPDwsD7ypr9akzaE7o9Ocyg6BJdXRHH6j8GN8ly+LbD0vDCygTY"
-      },
-      {
-        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
-        "name": "Evento",
-        "uri": "jwfROnT4XFek0cPDwsD7ypr9akzaE7o9Ocyg6BJdXRGjCwsnKSKSfqoovCkoIy2Y"
-      },
-      {
-        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
-        "name": "Evento",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBEZpgPipIkEoE/rkiVddReg=="
-      },
-      {
-        "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento 1",
-        "drm_scheme": "clearkey",
-        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
-      },
-      {
-        "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento 2",
-        "drm_scheme": "clearkey",
-        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
+        "name": "Gol TV",
+        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
+        "uri": "GnVl6Pg8ig32JTQw9MnNodv0TDxKDDML/Z2p7bZ156o="
       },
       {
         "name": "Gol TV (Event uruguay)",
@@ -1196,6 +1172,35 @@
         "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
         "name": "Evento",
         "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
+      },
+      {
+        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
+        "name": "Evento",
+        "uri": "jwfROnT4XFek0cPDwsD7ypr9akzaE7o9Ocyg6BJdXRHH6j8GN8ly+LbD0vDCygTY"
+      },
+      {
+        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
+        "name": "Evento",
+        "uri": "jwfROnT4XFek0cPDwsD7ypr9akzaE7o9Ocyg6BJdXRGjCwsnKSKSfqoovCkoIy2Y"
+      },
+      {
+        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
+        "name": "Evento",
+        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBEZpgPipIkEoE/rkiVddReg=="
+      },
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento 1",
+        "drm_scheme": "clearkey",
+        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
+      },
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento 2",
+        "drm_scheme": "clearkey",
+        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
       }
     ]
   },
