@@ -9,6 +9,11 @@
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvme5w6hSQZWKkr4m+kvz7qR3V1o5N1tdvhZ4WVGPNXydpxCIj0o5r4DIXlfDk/nvDbMAr6rktu2fofXflZUkBoRyg29C1Po2njiLdB2LzdZj3AbnkWxw0OIJ3iQCizt4qIA5pf6f5YZGVWr5kJk9TtH8PUX9SeEvOXCUtMGc1EPpl+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsIHvjQwcRPh2fMrCGrMAQv9Mq/btqGo7sAOk+LpzP+5CuT+ASaeV6a/1VVEPDrkEpiwwtrDnm+zRbRUdbUgNTlc2UGmqNERQgMigN+tPjxX4aAQns37yyObLEQu+KpSvRsW/rioedGCh0HKIqqP0DHm+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
+        "icon": "https://i.postimg.cc/RZWVTV3D/image.png",
+        "name": "Prey",
+        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRcR6M/FZ4ul77N/w+C4I8yPyeYJVmqwJ+4q+XDu5EQMLg=="
+      },
+      {
         "icon": "https://i.imgur.com/arT2ubE.png",
         "name": "Deadpool y Wolverine",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmQk1Sx7gJbDvjd+Ug1cmo+lXddLAp+frMbDE6TxiTUXQU8vusMt5oGKSlpB5FxTo9HvcyAgZRlgVQhr4iNkJfbnsPxRhsQ+HbJ57mf021DZ9ARKo9LAiLzQQdzA2r1GqrepunLyeuPJ/84W83FornP1QWOvWBM3LahAfa6VvXK+t+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
@@ -306,7 +311,7 @@
     ]
   },
   {
-    "name": "Pedido de cliente",
+    "name": "Pedidos de clientes",
     "mode": true,
     "lista": [
       {
