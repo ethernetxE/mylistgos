@@ -2647,6 +2647,108 @@
     "mode": true,
     "lista": [
       {
+        "name": "X-MEN",
+        "icon": "https://i.postimg.cc/dtP68GKf/image.png",
+        "temporada": [
+          {
+            "name": "X-Men 1",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmRpiIs6EnfVV9mFrlfyiGr6IH+5LkbFX+Z96Fmdg7dLk77D6Rt76oFZtgCVI2bYHkngmhLziifHVbmSmXKdj8XcVPHX+gOOXafoDFT1F2v+lATOp4VrsWzWWAFVYg88cPfosVuJ/83NMcgXuUNQ4cjf2yuHtjcs41pHcUCHYkmKr+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men 2",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmbdHisWANAb8io67yplBhRF1omwxBTIbKrlCjjDTr6gwSRWhDfDS9fYSNCKmXLoDN6ZeqlN2tNqgBOpFnBTtD3My9AynkQZV+dP/jnaOlrZQdj8k5iGTyYGK9b5JUuJekLt2cgIfpWzVrG/VXDz7/Or1awtouarccmKaBQRNsa0F+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men 3 La batalla Final",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmZzlxCwzj1tAHOM+71GV1pC5mVUMtHPpMNWSXlmNFz9tLSgdlJ7vgrStjw2HrUxUxNY8gSLo4cjx/QByE2k0Jx4RJqII1Hn/8Job8sHQb5di/JhycCh2IDv+QuWhVHkuRfimkrprTscle9g1SPfli3IRqTrwm8wcsJ8s+OYhYmCY+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men Orígenes: Wolverine",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVSuzEO+8mYK/UBHzc3sdOsdjcvWuQ2AfmxclytBZ8r6AV02TYVZZGV8XnSBDCJaF4kqWF1Xp2c86OHhqGtxO7xeJnY1HA1oYREypTpf/PH0furkkBmbCHsFbz7oxNgD1ct6sY+pBwJYPR7l7UDq7XuTgFYDoJqFyGMasnPfWiEh+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men: primera generación",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmce0hMmRYuQOkbSnhpCNp5TqRqpt8W/tDQG0smPVuvAPSP+Lhc33wsHcBjXFXlxyz3i5SJTcOJBTqfkE3CiGLfVoEcChhGdO7mlBXlOPDYu4NLI761YCJO2ndh2JWowJ7rAjS0AZHjTmb4aIDQIreFZNXKKpHzNejFrDLD0kmQLrcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4PYFhzo1jYph0bYpp0Y/8Nx88NcWbsmRN9OrLH7JsRWlQmXCbnyKi8LDOqAwpNWqoxRz3iC7D+fTO18gGxrC8FwIOoufIxJk0WRvnHFZalweW6v4Q36egMfWLmt++hGGE/QMvxF4UoQPyeMoXT3qzTPtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Wolverine: inmortal",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdeeW5IZoChKqBiVUxLmjFSlLdzMZvQpWRIorYmtCTyjf+qwsDTVo9YBFMMaxjUQxFnh8Jk4fzD2+Z6x/Z//fNaR4yocvdjCGR1GvZo6Ja27Qw5OskeMbP6esqSVSBlPYTyb4DnTm/euaJXhVWKKXUgcPTi/D5gsnc6m/cXDDqAK+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men: Días del futuro pasado",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmbPHBpad6mQqN0obEknxfbRDfrqDvAyGb2COGx0+GIXPqRKRGNesyeLQ+hHgtzmwC59gQzC1wUoXeGLKPruzHlZanfMCWRsBynG1Rk0N87jB1+i6cvpzQJxXDPlc3vHwd9L2b+M0X8+quzgU7oUU+/8IHd/vCZpmOGoiKbb2biRV+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men: Apocalipsis",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmSlPJ0G0xfZuy7JQ/x3pU5nvuJCG0VC+4oH5+LdwwfgTPqxfUicv/xw5AP4XYdVCM6/Ph2MqKGCXBiTj1GNNgBrBrWEaUKBWIojMz2VaqomP/eOhqNQwZyjNqrldGEiOjJYsVudKUYw9Cl22cixTubtZjM4jXQiMwxmR6Wb2PCB6+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "Logan",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmWecyA57B2Xo7McNoxbWYCYzkkeod4v1LH/EgOq/Ps9RWddVmgoNIAvyjwiOwBijuOzggrjb2MqfMbGufnULR0IPPH7asFw4ri31GgEG/5ElaPbybouiGnG7EpSLAhZfTWHLlJt7qaudXrPZptg7uu3PJw+QEgWreUijTRnavZQB+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "X-Men: Dark Phoenix",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmeBx0yEwtg+PSU1o46pV2SyYDDuFi0ZnGEpebOVWVkvqZRhvpoHRzwj7ptyjgeccS/WO2iuMf2D6A02ZgFCwy7SK7d408imWd16CV+FS48IZBisxRBtp0YH6v7nlced8OWasCjQ5FPlthypLCw3UAjPzQaEl+OCFn07I6FZIdpj3+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          }
+        ]
+      },
+      {
+        "name": "Resident Evil",
+        "icon": "https://static.wikia.nocookie.net/residentevil/images/f/f3/Resident_evil_movie.jpg/revision/latest/thumbnail/width/360/height/360?cb=20120331195656&path-prefix=es",
+        "temporada": [
+          {
+            "name": "Resident Evil: El huesped maldito",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZX+5JY6oK8pN8oua5AYRxI1xdxG8vyr+f3gE6/d9fncS2fwNU3EcojFDMCNVZ6a5KV+4WbUPCPesZnNLbeUrChDaAUeB8NrX4s0grpgsJNU8PM4HMXJF2aHmAWxv2Eb34zMtQSZtq01e3mJY/gSD2QA+i/t96OK4ArsIlAjuuAdMhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt9xsYi7wU/u9Cpv/cKjerbB4+9wzFLArUzjk9XH9+T3NYJX2ndDLeKexrNvSTdiTh7gYh7uIaBThKPCDAMIJAeNcynznJ4ZEiePcfi21l8U3dEq41KVfvfxG9LF99hrvNv5Znc2dClej717q9FhzVVbehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+          },
+          {
+            "name": "Resident Evil 2: Apocalipsis",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZaiaBgbLqdp98O4D8ttzeLRxdxG8vyr+f3gE6/d9fncSWzrVyWa51i10Ki7YUvTpNptxiLyEmfaJU3Ouuxlf7stsdbvpMVq1uSJO9MbudUhxsy0w4+24cu7PiMDcLOdHWk8QtmzENb8FZfTkOGtvQpMRJA6NxoYlvdILiAetvy1VlmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD+2uYVs6uRvI/2yz1iaKruy0sdVd/XHBwoXkmQ3fvqydrZkhDJeIZtJebqNYAgPwA/qxaYDPEk6uY00C0UdEsMlXVxgWpHFdPfROM6XWFX1Jn7BW0eQQz6veZ3EFQVfQ39L6ndZujoODYgEyGXr8en0duUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+          },
+          {
+            "name": "Resident Evil 3: Extinción",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZSEqgHLtGWBZnMvmRJ46t75xdxG8vyr+f3gE6/d9fncSKNyXlvsiJg+xjrDGqsDVjq+oN7zoVwZJawolp4rPJ4UqVOrMEo9iGi8F7STpEbRLnFXrwEiaUEY9qxw0z1D/XUB6ESNxznwZCCovkGvW4AdS4Nr23FTws6wuygJG4G5vhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt9xsYi7wU/u9Cpv/cKjerbB4+9wzFLArUzjk9XH9+T3NYJX2ndDLeKexrNvSTdiTh7gYh7uIaBThKPCDAMIJAeNcynznJ4ZEiePcfi21l8U3dEq41KVfvfxG9LF99hrvNv5Znc2dClej717q9FhzVVbehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+          },
+          {
+            "name": "Resident Evil 4: la resurrección",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZWy/QIkanj5hJVrpZ0H0KL1xdxG8vyr+f3gE6/d9fncSf+eVGyJOD/HHEjA5NiiUuTbOLKmQ+dgDqif8QCfaYNO6DJ+ae/TtaRDwEp+hmUUwKfaUB3XX90zWOR1DmUHnPSiAaDaPjU2JPzFrOyktSDcy32Z9a1IjNNPZxkkb5mrc0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0NpfQnv5inW6WnxTrAyMdVzZAk4MJo0Jq4hV1ISXQaRjUSVvRrDEBFwVE3ow8onsMOSzuCmaFp5tZqshvkwkrTWoqLxO4cNp5PcXh1Yp0IaOY2w4qSUvzaMqFVTcrNOIrqC1DdPbPyEAPHyhqzMllSEyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Resident Evil 5: la venganza",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZUINnXknIG3CHpGB55qeBblxdxG8vyr+f3gE6/d9fncSFps0eDZCBhw2jMhZAkisWjFiuR8OJZKDxzL6R+vnKSNGJOOdEC+GWidvhI/A3HAcbed0oeQNz30Gh4LGZ16DE9f+L5ugVy4QvaRVkpDjkZ30vi+fqc2AS+gfzPItmF8MhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt9xsYi7wU/u9Cpv/cKjerbB4+9wzFLArUzjk9XH9+T3NYJX2ndDLeKexrNvSTdiTh7gYh7uIaBThKPCDAMIJAeNcynznJ4ZEiePcfi21l8U3dEq41KVfvfxG9LF99hrvNv5Znc2dClej717q9FhzVVbehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+          },
+          {
+            "name": "Resident Evil: capítulo final",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZZxkThUGDDYhQLuHeFgqD0dxdxG8vyr+f3gE6/d9fncSRN/UGBFVRTblFDwaon8R6qyKWd5LQ6myoKq/N5KHJlZcNeQBevMVRM1hqIbpPEJpsLzROXUch8oNU2Onh/b/vQam8im5JsfqzQyRT33gK2sKraMp05RQi9P5PvqEF7ZWlmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD+2uYVs6uRvI/2yz1iaKruy0sdVd/XHBwoXkmQ3fvqydrZkhDJeIZtJebqNYAgPwA/qxaYDPEk6uY00C0UdEsMlXVxgWpHFdPfROM6XWFX1Jn7BW0eQQz6veZ3EFQVfQ39L6ndZujoODYgEyGXr8en0duUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+          }
+        ]
+      },
+      {
+        "name": "Piratas del Caribe",
+        "icon": "https://i.postimg.cc/D0xBdw3z/image.png",
+        "temporada": [
+          {
+            "name": "Piratas del Caribe La Maldicion de La Perla Negra",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZWC8k1iauzEA/ZlXPvDrp9txdxG8vyr+f3gE6/d9fncSQ7ZI49xS4rIyO+DerxTkkIT1Wk87C+46R8R3b1a9VGgw3VmqDWmQwvG9QJJG1X9FluAOIlBFxNvsJRb83sMT8K7Ot47PxnispSOc5GCrKBJR2LgLEcwYRKNjSRjoPycw0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0NpfQnv5inW6WnxTrAyMdVzZAk4MJo0Jq4hV1ISXQaRjUSVvRrDEBFwVE3ow8onsMOSzuCmaFp5tZqshvkwkrTWoqLxO4cNp5PcXh1Yp0IaOY2w4qSUvzaMqFVTcrNOIrqC1DdPbPyEAPHyhqzMllSEyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Piratas del Caribe El Cofre de la Muerte",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZWG23yQoyrTxhEkqkF+Os1dxdxG8vyr+f3gE6/d9fncSgW5yQfCSd59/0wTfAyoQaDq6KqdLTNojRgrIl4R9WOpXMLVeXGGTKbw+y5TBrxQk7OskkJUSKgyR1ChG82SLdAViSfjzV0HiRbuMT2iiEHE3jtOPJlLcsduUYAcQEkkzCP2XIZPyHWaiLm5NxQajMi0nivX5BcHOzg9Ot8Nxa87yLzLWsYmQrw1lQZgtHWJhgEyPgptZznlPNJB02zgapaZjCICPOi/1Eb+Zc0POCb3ACSSez+AnA5o6rnRZ5KPB8ZOdZvlnw1MuFwDz3NOwGp2iTHG8CQd8yg/+NxeFllhxGu1wS0hI8iRoeJT7NOaDS01M4KusDtlQ5tYbGUNfp3E/kddj7Y6d3OhN3FK1fOfmQ7eecT+DgiD5WO7beW7GwqZ0dcXGujB+vKcGK+T38A=="
+          },
+          {
+            "name": "Piratas del Caribe En el fin del mundo",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZThlnYSfv+NWiYrQNV+A8P1xdxG8vyr+f3gE6/d9fncS8CcuMg2qodx3HY8oFxPQKKTk2QfAReEyut9xh0inNO2W0XSbOdtJ10hVPP1JEaXnHpZ8pM7ZEKLNd+aclWDOusPYAvzbhFFKMIxx/lYeFdV9OGR4cqHqWoR6utIqOnpU0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0NpfQnv5inW6WnxTrAyMdVzZAk4MJo0Jq4hV1ISXQaRjUSVvRrDEBFwVE3ow8onsMOSzuCmaFp5tZqshvkwkrTWoqLxO4cNp5PcXh1Yp0IaOY2w4qSUvzaMqFVTcrNOIrqC1DdPbPyEAPHyhqzMllSEyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+          },
+          {
+            "name": "Piratas del Caribe Navegando aguas misteriosas",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZeWZoJVCSROiMOdZUyNi5AFxdxG8vyr+f3gE6/d9fncSzcuwsOROtALu+1SqAToiNych/DtQCrPyqj1tDZXSoaEKRirlxdgK+G2I6FFODX+GDV7C0nuaHdWm1EiQ0Z2sUEl9lLZN9RG701deROrqUtqMQyHck4id1tpdkBCFq80WhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt9xsYi7wU/u9Cpv/cKjerbB4+9wzFLArUzjk9XH9+T3NYJX2ndDLeKexrNvSTdiTh7gYh7uIaBThKPCDAMIJAeNcynznJ4ZEiePcfi21l8U3dEq41KVfvfxG9LF99hrvNv5Znc2dClej717q9FhzVVbehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+          },
+          {
+            "name": "Piratas del Caribe La venganza de Salazar",
+            "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZQXMRtmX2ylbMbK/mVCFDWtxdxG8vyr+f3gE6/d9fncSAamsbXe98+TwoJiUoWq3ApMvjUC4GHhw0KxtGW70/hlMTsLkMClY3c8MTIJJIRiLMvbEOvPKsZC6tUHHCSQplk8A79tx2crA3ueQyZ5v0WAo+QRYqY4a0ggkJD69eQ11lmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD+2uYVs6uRvI/2yz1iaKruy0sdVd/XHBwoXkmQ3fvqydrZkhDJeIZtJebqNYAgPwA/qxaYDPEk6uY00C0UdEsMlXVxgWpHFdPfROM6XWFX1Jn7BW0eQQz6veZ3EFQVfQ39L6ndZujoODYgEyGXr8en0duUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+          }
+        ]
+      },
+      {
         "name": "Depredador",
         "icon": "https://i.imgur.com/31CdWym.png",
         "temporada": [
