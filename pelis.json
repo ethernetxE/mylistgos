@@ -4,6 +4,31 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.postimg.cc/25pvtqDt/image.png",
+        "name": "MaXXXine",
+        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZWkAFr4/yZ0OWNbpnBpoP1txdxG8vyr+f3gE6/d9fncSUf61/uSWF7ICdKoWyPLZUQneQ3XveUsk57dgdbNscjBXMOsH8TgbKxHKUfYVnZUKhAM0bDq2pL8mo0PH3PWeUxow3K4bOn2yeKQrRhgBfqtXaGHpGZzuCNatptXalyWahNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/Nooe6Lv7w/rNkEPVIQILbRBRbLEo6SbVDtGpyv6oo2+tqiUGLGjKeYOEE8I6hyN33bKiak4ntyOFzyQ3a0MEhLbHBN9wg/aMP3+tDBDOyiPol2QnOhsh4Vi5JOxBkQqK74S3iJB0i63+JSqPfNDdJehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "icon": "https://peliculasbluray.com/wp-content/uploads/2024/04/v1-185x278.jpg",
+        "name": "Contra Todos",
+        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZXFkUfpFpR/YgkOVqks02DgG7yr/zu3nOkXwhAEVgvHKljgg5yxsMmyEEcuyQogAbpbpCWtvGBeXtT4AARLWy9fjEu4FjZ/K3CAS8mq1l8Dg7mVjZBso8xk6fFUgzLIfF0u7vvVisiUrhmBL7AT4U0hkyXXVoZHSbQYPdranXS4w0oSiT0goiWZFQX/SpFUtnleieGjjDr51h/8uVp7uN0PgEUE6oVaVhrynr/ls5wxsi7W15FYeYzFeFB9/K0OXgNW9h3vt/Jj14D75YUTenfvtfPs9h/aShPATLY3bz4oTfcVynXrICiDCqJgKAKG2kSBOo4Zty9d0d/hMJ2mFw0jl+spQbMpJQX0Ltprsa8DeyNsANzWFexJq6H5nMqaO2OilCMEZuTjfGvLESYTKx9LOm0w/ERXzJRYzTYvsycaXKyXxKrPw88e9LwILLvd5Gw=="
+      },
+      {
+        "icon": "https://peliculasbluray.com/wp-content/uploads/2024/08/6c19aa6206250244678c9431785ecf1bea7e4c15e58184e0be18f1923e342a7e-185x278.jpg",
+        "name": "Un Extraño en el Bosque",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmQxebrtSSShYJf5J/qjafCFHiUSfLOWSsC+4LZ3Rc93BhRCx+A2EPTgIlRzC7FdK2c3qzlwfApiHV6EpZyDjeJkBRl9NiuCw45rvxw/bap+V4KbKt8kqYjB0rkZKQ1m/Lv6/x86W5/cqMduDYQTGpry6cUtszykBulMT2CDCi9tc+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsI50fxabmR3pzXolHauNsH+hUnIXGmcuBchX4jNK76LCEZQT8Bvs0thO1bek8FUJrNesFg1HG/AIDfoxATVqME9tKRyt6CDCaMEX0LnMvT8Akg30JaZn3UOQ+QIzNaNFimUASU3nWul7ydFdonfRl3x+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://peliculasbluray.com/wp-content/uploads/2024/04/maxresdefault-185x278.jpg",
+        "name": "Inmaculada",
+        "uri": "JQwZxPbD9mNnwMXeHYpY1hrU7zm8LHMyUxQEV+jNHPRTQN9rKDiHVYRVBCVwjQXdjYGa0Qq+qkF5ZF58oakHZcCQr2ruh8fMvF88U4NPsDZxdxG8vyr+f3gE6/d9fncSUq1JAQrxKjfayKYh/iZebY1ogLy0bJs0B7VRqe67XUVf8rFVMzVQlsQEPuVXV5N+nDBYSBt3EejzWhTbGy5u+RGpliOfof9U8Lo9m6JGmixzuGUmhT5EAk4xq9YXvJSnhNY7lZj9iI7lBuMwdo4MX0Q4C25CqILAkIhUH8ErFt/Nooe6Lv7w/rNkEPVIQILbRBRbLEo6SbVDtGpyv6oo2+tqiUGLGjKeYOEE8I6hyN33bKiak4ntyOFzyQ3a0MEhLbHBN9wg/aMP3+tDBDOyiPol2QnOhsh4Vi5JOxBkQqK74S3iJB0i63+JSqPfNDdJehKGcf0XSb60DG6HKRZHTUTYlvA+k6V9mkHt+kegwdtVJ8wr3NkstmNrcN+9vrVSQUICh93zReqQ145ST59u+A=="
+      },
+      {
+        "icon": "https://peliculasbluray.com/wp-content/uploads/2024/05/nFBjI5qFkqfvEvEx6VaylKGSOqp-185x278.jpg",
+        "name": "Colateral",
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzY1Z+gnjz5HckY51GAPNThrGS4LiKcGTq0o51p+tuhkJUWbfekFH10HcIUqefpiA/6o1n9iyDD21bpKsOJ2QVJR6jUkpUl5CX3Z3DPK9OKXsM6weRrbKO4ufDNjGq9tvAB/vM7Hr4qOty40pcBtAy6eNZtDHzLItH52bh7KPKPV+lmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD98BwqoI6emDnbrSbKJJAFMibLKi3L/0V+X39f5dKKvoMWAsI6FN/9gX1vG88A8pMyQ7XFOOHdYLYsB9A5yM8gQxGZz2rakDFA44vcik3KrobbXBu2vYFx7vWKZgvpDH0Lvrz3j5OuItF/WqLyWCszrduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
+      },
+      {
         "icon": "https://i.postimg.cc/ht7DQJVp/image.png",
         "name": "Niebla sin fronteras",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmaF3vcvDZPEPrhsSnYl/qYd9q22rCUrforSBnS4A7ASTkFMLdSNwm3wmHaZ75i+1OzAD8ok8Jk82PlmXBNaxA9yeTH5T6MlwoGjO1pGg6c6FSy2F+6DY/SOvL/YDYym98vSzGfFXqY0XWMFb72nVmGXHnkrYhgkqGKMA/5McD0iH+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
@@ -304,6 +329,11 @@
     "name": "Pedidos de clientes",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://i.postimg.cc/253NL5J0/image.png",
+        "name": "Oppenheimer",
+        "uri": "Q89TeTc6GfZEPseuxJxrI8f+onETPp1CTZdIjtF5ZdqmerRxBCsDvqnVgw6gtl22raO0ctHeG0IRxjqLC3J4QA=="
+      },
       {
         "icon": "https://i.postimg.cc/66dYzGS7/image.png",
         "name": "Ricky Stanicki",
@@ -753,6 +783,76 @@
     "name": "Infantiles",
     "mode": true,
     "lista": [
+      {
+        "name": "El Guardian De Las Palabras (1994) 720p latino",
+        "uri": "f+C7v4grf+D+3KV1XoLEPwUY2uhkPKEYGExkCPPfcECnzOOi01tsLCsd/uECT1Ipfvr4apT9CNWf6hWCOiPE3yG/B6Z7MJpzX0g+uRamEFo7MTUob2ZHb8xGuzTxmVf32+DIeO5QxMNsmq8Vtpy3bw==",
+        "icon": "https://media.themoviedb.org/t/p/w116_and_h174_face/etctWkYFfP7voGM3rd7uqxQJavY.jpg"
+      },
+      {
+        "name": "La sirenita (1989) 720p latino",
+        "uri": "xyHTUd1RDHghyaaPYghZNYlV8uOmO/EatvpbYT/AXT4N32G22Lqy4Y0WN8DVjHO8FQNijSdunmmjdExEgHwtKBgF0PSJANQO5qHUUYgwGqKGJ4Q5WLZDon+jScUjwdlx9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/la-sirenita.jpg"
+      },
+      {
+        "name": "E.T. El Extraterrestre (1982) 720p latino",
+        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT6im3JR7AEKSZ87sRzS7NcN1Ht/YvwOWnc8L1QuOhUr39Cezxnros/dmnpWbH7DyU8fYNMCiSU8ug4CcH9eSCUD9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/e-t-el-extraterrestre.jpg"
+      },
+      {
+        "name": "La Historia sin Fin (1984) 720p latino",
+        "uri": "QSvfqUOkQGHZ+Ob6jpI4JYlV8uOmO/EatvpbYT/AXT7ASj6/YtgU8gcRQyEHrg+0FgtYmmAbyjEfFzFdQM9hvBxOAFC/mv+EoB2nGqTfq7KunAj7y/HINGpsNUm75X079V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/la-historia-sin-fin.jpg"
+      },
+      {
+        "name": "El Joven Sherlock Holmes (1985) 720p latino",
+        "uri": "hztLE1fY+VH31pjlb3OLmIlV8uOmO/EatvpbYT/AXT7TBSc5r8XRiYmZrmkLg/FjDYp/27SCI2eJtrBOqTi/zRkoOyKa372V/tRTmLZfgN1MAim2ydmXmjBH0AaqUJse9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/el-joven-sherlock-holmes.jpg"
+      },
+      {
+        "name": "Mira Quién Habla (1989) 360p latino",
+        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT41d3pP8M25U4tG++ZhIwrDqW6fBAQVPHGn6UBO7NDgbitJXj5Ax5PK1icV3FHhxoyidRsOd8sULhFKLqV0eMx49V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/mira-quien-habla-1600100110.jpg"
+      },
+      {
+        "name": "Cariño, he encogido a los niños (1989) 720p latino",
+        "uri": "uIG6uDi2NCgkYxISSpjBxolV8uOmO/EatvpbYT/AXT6G3NBNKmLOGqVx+ciM2YzFGChY4vnt8QvLlTvfKjcXiK0azXeqlpJ9lraWgaT0oIWj8akkYR6wHM+5yzKp/WL59V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/querida-encogi-a-los-ninos.jpg"
+      },
+      {
+        "name": "Starman: El hombre de las estrellas (1984) 720p latino",
+        "uri": "S720iHGZ6d0scgYWXskajolV8uOmO/EatvpbYT/AXT5hrDg851CDeE82xTQamTLMZJFhtSjbbCBpsTmInineleU/VODcFaKUAWyMDV9ic+VEWOKwmgP2RPeQ5C89Ct3f9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/starman.jpg"
+      },
+      {
+        "name": "George de la selva (1997) 720p latino",
+        "uri": "2CgByIRmbYONG4G9U5hJJolV8uOmO/EatvpbYT/AXT5aIqA/ixGDmmfdKJT1KKhX5AMwCmU+9qdGgUbkfJAnIlrMeu/gRfTFk9O4VOn/qbwocaGffMATT0QnSswTmrT39V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/george-de-la-selva.jpg"
+      },
+      {
+        "name": "Hook (1991) 720p latino",
+        "uri": "wYiCbWyxP2SC93NqEDG7m4lV8uOmO/EatvpbYT/AXT4q0ymPkdpG9K7CN9IGtF6hhv+60VGc2nJF1tSmqI4xIQNOcnUJ1irtoSpCLjYvQC/spd7zrtfCopr1sUCC491m9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/hook.jpg"
+      },
+      {
+        "name": "Mi pobre angelito 1 (1990) 720p latino",
+        "uri": "tlHYcFU94V1cmghfDomzHolV8uOmO/EatvpbYT/AXT5LHjWsdKKkzZHtavcq+j+UbMN+b1/elKZPf7j0ez2OzpmWLFtIZkinhhtyOHkLno5oQGe805+2+vf0rYqcyzWH9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/mi-pobre-angelito.jpg"
+      },
+      {
+        "name": "Mi pobre angelito 2: Perdido en nueva york (1992) 720p latino",
+        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT57q1PSPwnhcGgyml10SMTL6VVus3IoNWVxJKp3ZHA7V4PTL3RzAqv6htGjSopWkVmWd5+yGEPDPt26uqdIhbBV9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/mi-pobre-angelito-2-perdido-en-nueva-york.jpg"
+      },
+      {
+        "name": "Daniel el Travieso (1993) 720p latino",
+        "uri": "ZVEUTFQGJ/NkV+xB/ej8EIlV8uOmO/EatvpbYT/AXT5g0GrpzOQQkPGl+s35OsgLXYEkk4cAlgo31XAbj5n01pDdzMzpBFlnAs+K1JoawHR166ZohS/hqmjTz7egdMP+9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/daniel-el-travieso-1585696805.jpg"
+      },
+      {
+        "name": "Doctor Dolittle (1998) 720p latino",
+        "uri": "NQ7PU85FXHZYAz11GYRv+4lV8uOmO/EatvpbYT/AXT420H0QVmpi35zV1mDp7VomfxARTYbGyWUM6fZGDJLUamzbOqAtu2ZNa8C+nv0kes74bOWz+nR2iRmZfQ/qLBxB9V7sG20F5MutT0fnt4fINA==",
+        "icon": "https://pelisimg.online/cover/dr-dolittle-1585865404.jpg"
+      },
       {
         "icon": "http://tv.powerlan.com.ar/poster/w200/8294021718418417i.jpg",
         "name": "Ultraman: el ascenso",
@@ -1226,6 +1326,97 @@
         "icon": "https://www.zpelis.com/files/uploads/683.webp",
         "name": "Papá se volvió loco",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmSIXi3ywtmpRgCPahC7LN6ttE2lmwvsnjKUbElGsXTGCaHP5LIcEhlxyST7CbzepfVJ0h8zaDRUjNvwJT+MGYCyVZKunioEsZj8hRgmZfKZlAlgVzggXXOrWRY+yEnwsUJ51xd3FXNCYPB7hK4BuxrplD2CI1trK9dQQdrHh4pOycLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4MLbEXkLscHBdgI0H4iukZTs+ufVc9kZyATNiyLE3mV1ZoCZTB5WoCyK3EuZbPBoJzedxRoOwqqg88D/hKs7dGbno2JwsnA1BW+4DHIbLDM/nO6ET6g0IV1ugi1KcoMgntV5bYWJHLqV2ZYaKzwNopTtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      }
+    ]
+  },
+  {
+    "name": "Peliculas Religiosas",
+    "mode": true,
+    "lista": [
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/v9f9MMrq2nGQrN7cHnQRmEq9lSE.jpg",
+        "name": "La pasión de cristo",
+        "uri": "f+C7v4grf+D+3KV1XoLEP9r0CTFNFWUvb+EL0VUdry0I5ai4mhFKli/U8WLK9S924n4lsVfPFG11XLzaP7xRsMD4vQSLpmMoAJgBAvCJrIgw6klzHgkbEnC8Qs74c6Tpm9trkqWllRTzwSEov/aBWu7uhEELEjpWniNzthD6Vo9AKUBhZw68pSNrK2brAKuB4fTCqrk5AmpNtTGthUmNUQ=="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/hz9VF1TfaM0D04pYneSXUkNeOZv.jpg",
+        "name": "Los milagros del cielo",
+        "uri": "f+C7v4grf+D+3KV1XoLEP2zmI/PE1qo0pcybBbtpqO8F+V9GvV5CCupo0O83esK06wSok5ZL9q0zp2H6HqiBhaUmHGKbbWdaC25EDOfh5zEnzTnRPdStYvoMYOGNWPJtOf13Q+9Q55s7qF4UboifgGxvSD+VZzbDLl2OskD7cZXU8dZQHRr5H5HEWco1mgci"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yKUzBolWrwyByevBtDPfy3kIumv.jpg",
+        "name": "Dios no está muerto",
+        "uri": "f+C7v4grf+D+3KV1XoLEPzX1f3mRQSyClEOA/wEbCOSUSfm8dfyaFH0gMU9K13/d51cSYZ+PDjt//RSdADVsWGld7F3dW89ZzlzuWlS2Hy9sR/9wWiXokiqsNFewpSBasRcBeOK0cl5JQfOYYqGJc2SlTV4RnOTgwVJzsl/cvMG896IcUkS6lYvpRaprgYTK"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/l0Di5mvlFhIxTn8VPGhcrYE0MCT.jpg",
+        "name": "Dios no está muerto 2",
+        "uri": "f+C7v4grf+D+3KV1XoLEPy4/2FUPnZc567P/umrSTGcuKzjjUsTQs1MP9p7lq5uWwU7xkuQdn+DwN98AlPM8RMdsZvTWxFaDRNgd+RpPnfiM4dNzvvNBtUdZNRETim3yhEwE/OpQ1PEG6NrNe0Tav50ruEhD22VSN+XleBdC5owzVKlatnSgyQKMk8RMjhoFoWRYtoe5weO3VaWOO/RDPQ=="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/1MwoZ4U8SGm7yIzfPFcTTbiiOYY.jpg",
+        "name": "Dios no está muerto 3",
+        "uri": "f+C7v4grf+D+3KV1XoLEP7gsRq+crkFhb4NKM1JEpxEB9cRrlP6s3lrszAuBw/AThJat2XPeqZhbFpJ8oKAgj+0TCSSZKkJmhnUxQiY9BCa6MeSocbb2nccUTz2wVgU82GgTj2K6YBVDWAwvhnbmMjeRrKpim11u8tkEnBWs+xnjU6FnOJBVCnDqj+7x6uO+"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/rEwacCPCUSdncxZ3RWplQd2WhIe.jpg",
+        "name": "Dios no está muerto 4",
+        "uri": "f+C7v4grf+D+3KV1XoLEPypOlWlkMjRM+Mwhf7oC2SGMs4whHR4kI+ICGuZE+WD/Kt/TTROjCTzgrVakZCKCeVHcBJlcccrO5o4PR90TOK9pg5Ey1uujL7PcDcotF5LMJiFWhlxUG6Wv5dvtXpRUwG2H9bNfvEm4PORKL9ZnZ9JR7Dj2Jq9IMQx8bRN5Vmj5"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/7L4qwrC1mipZXJfU5oRgQWChLv1.jpg",
+        "name": "La última tentación de cristo",
+        "uri": "f+C7v4grf+D+3KV1XoLEP1svfuLNz/JOeS+ZtHi64dS5Ul3Vzm8yO1cled7L6slnTWygoHSwpX96n2xrtIMM+amH1nDy7qj+TxcpmfTbEudKkOgT3ERt4f4G380EYqriCJS7rOP3BrsIqumBwJh/8N4ROQ8URL1ZUiMvgLmU97rCFP440eze75HeWBNMeWZK82iVVUMiTd/ll+OO2XU8cQ=="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/xBdP9Z0oVAx25tM2gUOtq298jxR.jpg",
+        "name": "Milagro azul",
+        "uri": "f+C7v4grf+D+3KV1XoLEP9IYUPA1Bdkk4D4rLjOi3xP1VSKn+xtavgH5mK/ncGc50pKOyBezYoT3ubQ2bapn5aOFucklkeNMQHluyYJHTBKkx6pbVbgDByXt85ngf15ZyKg5xFntFEeiodlDTebS29QCvg1V4W5ZoE8aGYSNlD6chhqc9lDgynzWpQZtVYRo5Qwr2cXqRMn4aPtt5ivwPC3KHqiu61GXZWC/4+7DrqU="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/89fJ4hV9fCB01EvhhLOgjMJI4A6.jpg",
+        "name": "El poder de la cruz",
+        "uri": "f+C7v4grf+D+3KV1XoLEP3FES4VR/6p5NUfET1ZRkCFLqScgy9jFxkCfG39lJHtdUjKUsOLkhMazBMdWaDAOvlGp5RfVF4TKWkLWy7eIVXSw0FKvnb4pcePTXqCHgEsW3mkYjYYeMBvlok3N0vhUPrz68ivE/kpvWzyOf3WSEZM83SiBWng+pzK64s2dP6K+"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/d9TeB8VLCgwSph2OSYK3lcHGf1f.jpg",
+        "name": "Una entrevista con dios",
+        "uri": "f+C7v4grf+D+3KV1XoLEP/2SabgyfByHKUz7wyS4yUAEyu/EdPTQQRyNeLL7YXKeslkrLomTcGcJ9hIL+HDLLwT4JmcZZB8epaeEJxjzRIh2Y4RWH44M8PL9FBhnC5csZ97s+Tjzs1DLkr9knfwkBUzCjgdZK3aVGbg2MJNwsFgJKHA9xJoLQ7HVEH/wRhcm"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/3XJKBKh9Km89EoUEitVTSnrlAkZ.jpg",
+        "name": "Todopoderoso",
+        "uri": "f+C7v4grf+D+3KV1XoLEPyoEi8G/aSUo0Fxi+ov5/lMHO7LD0l0TuxNXMTM7bd+DkqpTXqykgC5ww+026FZFlxx65j5LxNtXwSLaZpfL+oUxeg1Eh3eLIYfC3mQ7DCelhNxja5poNuGSAEMjCvd4Cjb9RdItCDfawmuyiXGBMKs="
+      },
+      {
+        "icon": "https://dvd.com.ar/wp-content/uploads/2021/03/o8Due12CBQYDtWuIXqoEXf5texp.jpg",
+        "name": "El regreso del todopoderoso",
+        "uri": "f+C7v4grf+D+3KV1XoLEP52hMVNlbgaEMbP1OlrQpRroj5ANmeAZAGEpvm2J24nbmp2OF8QjZ+BobPDV5g7y2rfn0y5hVNlteeqB7KUgs4/i8Ei0WeYDAEWrMWbg8Q7pXCtYtkj+7jJ8PWE+ZZHVvkq6dby1SPIRf6vTlsfMmH4="
+      },
+      {
+        "icon": "https://www.todaslascriticas.com.ar/img/peliculas/afiches/exodo-la-ultima-marea.jpg",
+        "name": "Éxodo: la última marea",
+        "uri": "f+C7v4grf+D+3KV1XoLEP9UVhHI7Cen/pzHGQBZXyl928iYoyaEpnJggWxXPfh4f8hS8jzYq8T7A1iYDFz9aTVjpgegrGHIL/FuEa+coPmUttjIPkpekD1DUTEykENXXsqVzFFYhsrxwCS9z7iSBIdQCvg1V4W5ZoE8aGYSNlD6tR4hgPs/FZuGK1l1IAsHxcVSvZEoNx0N9yLq0dmc8Z0NIsOBRHCpFR0DduBxE89Y="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/uaDj37JtvLan9tihxZ18e6qL33b.jpg",
+        "name": "Éxodo: dioses y reyes",
+        "uri": "f+C7v4grf+D+3KV1XoLEP3kla1nfsMaB7GbARrkCjMi2rS/KxwAwa0bXIaq5T+B2oRbQcJ8jh6PDCAEZYc32NxOHjrwF1BnIlfxpRB5zjRP1l36og5nZvJSyyNdQV2LdHJHyn3kG9nYwGHykjKqfi/NVG2j+81WEhGNhYjJo6P+/I9SFab1qQ1XA0UmQBKlT"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/m3jj8IJ7uP5p4MqMzgtGW5l4ECd.jpg",
+        "name": "Hasta el último hombre",
+        "uri": "f+C7v4grf+D+3KV1XoLEP7XTsoWvg2ec+knz20TDeKjvItKeyBqta0HVinCd4bLdLqsjZw992jr68Nh8MTcJ0EwSNI2eBirzQgJOdwk/xegCplxcbpknFsyxIYgag0O+NwIpvGz0Nfhvslj5asIrSyWILJlyO9FdJryo67tknaKhZFi2h7nB47dVpY479EM9"
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/5QlSqu03pABknlQtbJkHiAnzHrS.jpg",
+        "name": "Cuarto de guerra",
+        "uri": "f+C7v4grf+D+3KV1XoLEP/ruW6Y6jhblkeuDcP2Yj7pdJxmh07lMtYtq5zDt++ONqey9JCud7gcQeZOCbRTGebjJYYWzwy4Gg/yTWAdKiURG2HQyc8FkcZK7qU1zaISVacrefv2/3KOlbbP7MmTTGSBMqccoDSVk4mJTTa3OFcw="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/xgLSFfBfQVHmy8CrU3nGxb7ZLzm.jpg",
+        "name": "Pablo apóstol de cristo",
+        "uri": "f+C7v4grf+D+3KV1XoLEPyunL8OxKzNBoE1/CZ1Kc/TXahIPei0kjvI6zGm0kwUbUOuhW3hCk/ieJHfl4S+mwsB322vLA7ockUS4xJR6Fq7js7HssLfyKrywIxUm+91G50YivcmFpLBuusimeQaDRCwVAU5Mge9d953BOEzKBW8YQF9UIEnDFr2RTMVINscD2Uqh2XZTq4ZnAdbK4BkdqA=="
       }
     ]
   },
