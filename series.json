@@ -26100,8 +26100,730 @@
     "mode": true,
     "lista": [
       {
+        "name": "Caballeros del zodiaco saga de las 12 casas",
+        "icon": "https://i.postimg.cc/k519jsXC/image.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv8zA2DYnWRvX8MubpW6DNqA=="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvnkDrCRXRyZDZoL7S8WlaTw=="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvKNsuEzoirwcHBBJ4nspBvQ=="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv6X82GK9KUvWfDsp2I8UuvA=="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvihrvoHFsnP8X+FlwLiGXjw=="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvntEwCHr44k9j+x3sGTlPWw=="
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvCFrMyZwnSnRhLBjLbMaH2w=="
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvBPBFNd4FsCl4h+KoXB1Z+A=="
+          },
+          {
+            "name": "Capitulo 9",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bva3c3l1dMikG1hYpmhLcKEA=="
+          },
+          {
+            "name": "Capitulo 10",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvh4y/S7VNWPNEPZo24SYYbw=="
+          },
+          {
+            "name": "Capitulo 11",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvHnBwv8P8kmPHhf2OppVoKg=="
+          },
+          {
+            "name": "Capitulo 12",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvl2XoxGsdlPJVCaP6d+CgmA=="
+          },
+          {
+            "name": "Capitulo 13",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvt4u1eIWoyrTAbypBXYJAsQ=="
+          },
+          {
+            "name": "Capitulo 14",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvKCEWlYIdddMPuS7EDk34vw=="
+          },
+          {
+            "name": "Capitulo 15",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvvCiJeeQf0f9tCQ1auZynMg=="
+          },
+          {
+            "name": "Capitulo 16",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvnHxqiKz45TFmHJeZlZR36A=="
+          },
+          {
+            "name": "Capitulo 17",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BveL+2TmuAL8gFqAmdyEBksg=="
+          },
+          {
+            "name": "Capitulo 18",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvJiQXcPQLr1Bdbjpo3GJG9g=="
+          },
+          {
+            "name": "Capitulo 19",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvsanE8zW871/OPTC78wGUqw=="
+          },
+          {
+            "name": "Capitulo 20",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvi11KDQSA+CxiF1IsTusgBQ=="
+          },
+          {
+            "name": "Capitulo 21",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvP6OCFDgaGieulksi8MkY8Q=="
+          },
+          {
+            "name": "Capitulo 22",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvN2UUSnOLEDvn2Ex3zpcOcg=="
+          },
+          {
+            "name": "Capitulo 23",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvdO3sM2nZV8hwdSfwxLySNg=="
+          },
+          {
+            "name": "Capitulo 24",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvZuihE3G6ItttX4fSoKlDJA=="
+          },
+          {
+            "name": "Capitulo 25",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvJUybw2wvMyXYGvNYULylvQ=="
+          },
+          {
+            "name": "Capitulo 26",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvc8wvcly9HoZHkeCtqhXhrw=="
+          },
+          {
+            "name": "Capitulo 27",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv+9oiTw1rLtf/d/vmbZJ38g=="
+          },
+          {
+            "name": "Capitulo 28",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv2Ij+7aUFhSUMmrRiUytIPQ=="
+          },
+          {
+            "name": "Capitulo 29",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvmwTn2uuTeOtCFqYBF2kSrA=="
+          },
+          {
+            "name": "Capitulo 30",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvEO+QIsgVCr5Jeyw95+38FA=="
+          },
+          {
+            "name": "Capitulo 31",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvfxLXCViVpeJlI6KaEEtMdw=="
+          },
+          {
+            "name": "Capitulo 32",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvnnHkul2vF2XOteuhgeI5tQ=="
+          },
+          {
+            "name": "Capitulo 33",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvIkiz15ttFXW72U8XtGzHPg=="
+          },
+          {
+            "name": "Capitulo 34",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvb05gIaDZn7v7qp+1x8yipA=="
+          },
+          {
+            "name": "Capitulo 35",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvRA2G0Rewla+ADEyXgOw0Rw=="
+          },
+          {
+            "name": "Capitulo 36",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvpwBx4tX1IEI3kKLp5cdqEw=="
+          },
+          {
+            "name": "Capitulo 37",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv7ZFjnCGate70M4LKFCgYhQ=="
+          },
+          {
+            "name": "Capitulo 38",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvZGWwRqmqa5CfU2gXQXjLVg=="
+          },
+          {
+            "name": "Capitulo 39",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvtNMUhp92CI5Y5hBV4ydFOQ=="
+          },
+          {
+            "name": "Capitulo 40",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvcd/bqXEIaFwY1O56Mwr2ng=="
+          },
+          {
+            "name": "Capitulo 41",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvl/IhS+e98+6A5DQtakEyfg=="
+          },
+          {
+            "name": "Capitulo 42",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvmQpYlyHQ+fyxPA+ME1IMqA=="
+          },
+          {
+            "name": "Capitulo 43",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv7ehepoAaCTAp4WPXQ1mLVQ=="
+          },
+          {
+            "name": "Capitulo 44",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv/JHzbSoURhZwZrg4tKAnJA=="
+          },
+          {
+            "name": "Capitulo 45",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvlxYgDk+fTMTf1v1QYvTk8w=="
+          },
+          {
+            "name": "Capitulo 46",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvJarVXFxphoUGhbrqu6/o5Q=="
+          },
+          {
+            "name": "Capitulo 47",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvf5C1FflX5SaY3Uo16q5ZHA=="
+          },
+          {
+            "name": "Capitulo 48",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvTD1Z/S4EfteR3sczHdao9g=="
+          },
+          {
+            "name": "Capitulo 49",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvIbesWjJhxjnoFcjUbh2R0g=="
+          },
+          {
+            "name": "Capitulo 50",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvZqIz/00/zURkVITG+GtQRw=="
+          },
+          {
+            "name": "Capitulo 51",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvd89J5ARi75ZSZJDIEhlBTw=="
+          },
+          {
+            "name": "Capitulo 52",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvBIGkGNl07bldO5kqUw/H6w=="
+          },
+          {
+            "name": "Capitulo 53",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvT4+Ud8MaJauJwCmss6vGqg=="
+          },
+          {
+            "name": "Capitulo 54",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvOVKvjTP8LIfAC3L+PvpcBA=="
+          },
+          {
+            "name": "Capitulo 55",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv6XM5TDcyZP/jf0D2qDHs1g=="
+          },
+          {
+            "name": "Capitulo 56",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv5UnkXUIsNK5rO1QztqnEXw=="
+          },
+          {
+            "name": "Capitulo 57",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvyQjjey3j/mTiGoX7TfXK/Q=="
+          },
+          {
+            "name": "Capitulo 58",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvkCQ0yRN2Bh6qG4Cpsc+dSw=="
+          },
+          {
+            "name": "Capitulo 59",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvqSek3CYiAjKdFpWVX433fw=="
+          },
+          {
+            "name": "Capitulo 60",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvvoeoRTUshfXOTqMQNBSa1g=="
+          },
+          {
+            "name": "Capitulo 61",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvQTo6zfer+aq1daSO1j+46A=="
+          },
+          {
+            "name": "Capitulo 62",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvY4kGoMVjBVvJcMDF1/MLvQ=="
+          },
+          {
+            "name": "Capitulo 63",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv7uCqH/8ODvZdDlNjN3tZ9g=="
+          },
+          {
+            "name": "Capitulo 64",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv0G2KkwjRRL4LAUCLs8tdXg=="
+          },
+          {
+            "name": "Capitulo 65",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvSVYG8QFloextO4LcIcuxow=="
+          },
+          {
+            "name": "Capitulo 66",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvGAncFBnU5EeV1Ky5PLcM4Q=="
+          },
+          {
+            "name": "Capitulo 67",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvPmBAmLoke0nLHDEl11UQZQ=="
+          },
+          {
+            "name": "Capitulo 68",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvfdVIfo4qd17tO16jgaFiSQ=="
+          },
+          {
+            "name": "Capitulo 69",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvOhYtm8paRBeTBKjraH5w3A=="
+          },
+          {
+            "name": "Capitulo 70",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvyETfW8lCktqDHTViu4vMvQ=="
+          },
+          {
+            "name": "Capitulo 71",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvutcYkxjaaMSfah6Igw0yAg=="
+          },
+          {
+            "name": "Capitulo 72",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvFF+fBjWlrfXYOCVD8BuIvQ=="
+          },
+          {
+            "name": "Capitulo 73",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvdxFDfBCBPIckOlXTdXIvpA=="
+          }
+        ]
+      },
+      {
+        "name": "Caballeros del zodiaco saga Asgar",
+        "icon": "https://img.wattpad.com/cover/131951177-288-k362632.jpg",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvryRnDvtguH6agRDCUa7XOA=="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bvxo5Kk2FgpHHJgEcfjKMDAg=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvvevdDT3xJ6CGiWr0SkppMA=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvYZaYFamlh30DF5PNPSwdcA=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvxhUw1boiPLuX8xzv4x6Rgg=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6BvjKJ7+qsTdvD1d8uBw0tD9Q=="
+          },
+          {
+            "name": "Capítulo 7",
+            "uri": "tneo7O+3kPg4+E6BW67BZqgk0sc1+hCaw9m/twf+8gr4A2l64JZAANzTjjRak6Bv9YUjzR2gZqrc4XSDx5+aFw=="
+          },
+          {
+            "name": "Capítulo 8",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQtnmc9nZEPq/OTc/JSS073w=="
+          },
+          {
+            "name": "Capítulo 9",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQLLPWfT5Sap2ZsUpuFQEPxQ=="
+          },
+          {
+            "name": "Capítulo 10",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ6NLoGWuEN7JD23NMS4kPpg=="
+          },
+          {
+            "name": "Capítulo 11",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQD3QMOBaO60HAxGTrwKUUrA=="
+          },
+          {
+            "name": "Capítulo 12",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQEaMvt8p6JAhyu0LhRdcK/w=="
+          },
+          {
+            "name": "Capítulo 13",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQvG6ZTPQoe6OgX02cRq276g=="
+          },
+          {
+            "name": "Capítulo 14",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQAaHgVcOZrYV9K9PVXoMsbw=="
+          },
+          {
+            "name": "Capítulo 15",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQTWZQhgheEz8cCTEb1SyuMA=="
+          },
+          {
+            "name": "Capítulo 16",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQAa0n4RLVopUVRWuayeimcg=="
+          },
+          {
+            "name": "Capítulo 17",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQh05x7N/kTOdXE7z7NBzM1Q=="
+          },
+          {
+            "name": "Capítulo 18",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQSJhsl/d8q9c5Fq/Nms5YbQ=="
+          },
+          {
+            "name": "Capítulo 19",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQLoKSIxp0Y0Wg86AYpwfKng=="
+          },
+          {
+            "name": "Capítulo 20",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQlQlO7ivwxCtBUVEMpSM2xw=="
+          },
+          {
+            "name": "Capítulo 21",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQqIjveiBCD71XzNVlIMPWog=="
+          },
+          {
+            "name": "Capítulo 22",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQrV7yGBY2pm1E2w4xwGIYEg=="
+          },
+          {
+            "name": "Capítulo 23",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQcW5lkmeId694cjjC5M5WZg=="
+          },
+          {
+            "name": "Capítulo 24",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQJcZYiAL5Fu0B0a4SJjtIRQ=="
+          },
+          {
+            "name": "Capítulo 25",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQgTzpasg2pJ3jzMbFSQDcew=="
+          },
+          {
+            "name": "Capítulo 26",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ3AiqRrgJRP1k4vMQrqnDbg=="
+          }
+        ]
+      },
+      {
+        "name": "Caballeros del zodiaco saga Poseidon",
+        "icon": "https://pm1.aminoapps.com/6278/49be50d0085de69b4dc05ec263449413712e997b_hq.jpg",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQUzTRW52qk2RmKFJwltLjxA=="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ+XCWMPTLAJHzDr1I+jUoIg=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQh22rFMypUY9AD3Zq64jAow=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQnicAvbrkjFjUjl9l8og3JA=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQN01J5HicZIEbEQmLXx8mww=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQQnDotqjuY6LZ7FdyDLJucQ=="
+          },
+          {
+            "name": "Capítulo 7",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQhTpCgqRXyAa3lfglTVJr/g=="
+          },
+          {
+            "name": "Capítulo 8",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQfHLpjqFtFVGsvvVp16dzOw=="
+          },
+          {
+            "name": "Capítulo 9",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQvyghSGBMicCaApesa8cu0g=="
+          },
+          {
+            "name": "Capítulo 10",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQWydS4ERp4yjjVC6szrcnpw=="
+          },
+          {
+            "name": "Capítulo 11",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQFrat6dfprM0e1zAtYMJF6g=="
+          },
+          {
+            "name": "Capítulo 12",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQDNMLvQZC2qNhSDXkrlQ6Lg=="
+          },
+          {
+            "name": "Capítulo 13",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQIvyOAZeYITTgvNXRSOneqg=="
+          },
+          {
+            "name": "Capítulo 14",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQMzftrice97HzP0vXTZt0JA=="
+          },
+          {
+            "name": "Capítulo 15",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ3RvVCoHThK00P4of7Yu1Og=="
+          }
+        ]
+      },
+      {
+        "name": "Caballeros del zodiaco saga Hades",
+        "icon": "https://i.postimg.cc/C5d4GFrY/image.png",
+        "temporada": [
+          {
+            "name": "Capítulo 1",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ/fcw2A3mxp3kbeMgWp8aCA=="
+          },
+          {
+            "name": "Capítulo 2",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ3TFvdqpB56bPfvWCbzGLug=="
+          },
+          {
+            "name": "Capítulo 3",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQipdJa2usJkhBqOTLCPnw8Q=="
+          },
+          {
+            "name": "Capítulo 4",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQgk4lUIgoPu51eCYpyX/j/w=="
+          },
+          {
+            "name": "Capítulo 5",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQfSjVT7aqRaP8GOV0lOi+eQ=="
+          },
+          {
+            "name": "Capítulo 6",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ5rg9jyLMYeglrl8ZvKx23w=="
+          },
+          {
+            "name": "Capítulo 7",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQ6vY7eXS+S1zVGaVkDg5FzQ=="
+          },
+          {
+            "name": "Capítulo 8",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQE0HazXzNt2n4cXlOgATuRw=="
+          },
+          {
+            "name": "Capítulo 9",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQqk41o1e1rynf+tbvzSqpJw=="
+          },
+          {
+            "name": "Capítulo 10",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQzfddju1D4L5r5j7eOloWrg=="
+          },
+          {
+            "name": "Capítulo 11",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQivBNtBZg9HU6/yO1djOenw=="
+          },
+          {
+            "name": "Capítulo 12",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQsP87a0GyL5IQvU+GkcEQbA=="
+          },
+          {
+            "name": "Capítulo 13",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQNe5LvjX/iY3VHPTpqlWsIQ=="
+          },
+          {
+            "name": "Capítulo 14",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQfyJZF+1YR4L0c2XDDd6oAw=="
+          },
+          {
+            "name": "Capítulo 15",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQXGqANtQmZyvbVXoeQ0CKGA=="
+          },
+          {
+            "name": "Capítulo 16",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQrFeYkIA0Kc6YpXLassCnxQ=="
+          },
+          {
+            "name": "Capítulo 17",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQRT4dLKROjTgVxiJ4j9wc7Q=="
+          },
+          {
+            "name": "Capítulo 18",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQyMryIvhhVBA12NPg+rsO1w=="
+          },
+          {
+            "name": "Capítulo 19",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQYiQ8cUFuC8Fe2+Is+Mhj4A=="
+          },
+          {
+            "name": "Capítulo 20",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQqolxNQVPfeuUOvvLY0kHpA=="
+          },
+          {
+            "name": "Capítulo 21",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQr6K4JWBQPdwlwQ8Uu9b6oA=="
+          },
+          {
+            "name": "Capítulo 22",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQK35qP4jDl8IMv95PvdPWjA=="
+          },
+          {
+            "name": "Capítulo 23",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQHOk9X7E5duoI0Jbnj37kyw=="
+          },
+          {
+            "name": "Capítulo 24",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQoLJBIuKNlhR8T6MR9N6aLw=="
+          },
+          {
+            "name": "Capítulo 25",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQLTmABMK2f1oWc3rZtyU3oA=="
+          },
+          {
+            "name": "Capítulo 26",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQQs9efaRtJiI9+OyRWWoZbQ=="
+          },
+          {
+            "name": "Capítulo 27",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQRdJgmb4fSNWw/3xNERNDCw=="
+          },
+          {
+            "name": "Capítulo 28",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQSwglSIAoFuTd8T6qzsqOTQ=="
+          },
+          {
+            "name": "Capítulo 29",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQKC4zcQgbqhVBR/z9OySd8Q=="
+          },
+          {
+            "name": "Capítulo 30",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQta8uBecgr9qdtrORv6ymRg=="
+          },
+          {
+            "name": "Capítulo 31",
+            "uri": "tneo7O+3kPg4+E6BW67BZgO82tU8D/dLhTKyX3QalR8U5t/ZFN0ahy8SwllrbyAQa8m7E2VxxE5lP1wBv9b6bg=="
+          }
+        ]
+      },
+      {
+        "name": "Shūmatsu no Valkyrie",
+        "icon": "https://i.postimg.cc/cJXYXpnJ/image.png",
+        "temporada": [
+          {
+            "name": "1.Ragnarok",
+            "uri": "f+C7v4grf+D+3KV1XoLEP314u4rtm0cYXYhv8dKK//smeRuGV8UjyDh318AsJhLMP5HiWhk8+86ns6Y6Kp0hEjf2TN8cwULSH3LeQrBEpnd+bjKInKzaii0SOpTBpJ/T"
+          },
+          {
+            "name": "2.Un contrincante digno",
+            "uri": "f+C7v4grf+D+3KV1XoLEP4QIJ/WfgTbvHwlKoLPhvMG5YvNQyFjfaHtDt4g0CNOiH0wYDWpXKTvWmITnp5PCW3gX+fLfEm9RruIZ5Oh31MaoqWvew7I9mqWqBWjTMqmy"
+          },
+          {
+            "name": "3.Movimiento letal",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/il08bpByRpAU2YWdfVtbFG3Shaxa0Rd18lz9AvsRpe+o2zpb1BD9FS++vs0K9n21ROAkrzEV4qUiug3Hupe3hnoPSq4NXdx9YPOkVJx/bu"
+          },
+          {
+            "name": "4.Dicha",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+8WE5FmoO7XpXyR34zOpgx8ISggxMq6dgFOqk72/M1xH6ZUQewBS/TLc3QCtEl9bEagyvXY/xuUNvVpupz7Nk4OL+gwvBowGe6khcN6ERja"
+          },
+          {
+            "name": "5.El número 00000000001",
+            "uri": "f+C7v4grf+D+3KV1XoLEP1prPGh/D2+3Psdzi7U34jSqBBisXjY+Ix26GhL1rmmnCE+PbzkuO0TXWOtkFo6MBZGuoLR9xuoTtD21IJMhZvBrzvutuhw9Wm3zYCUql/Fw"
+          },
+          {
+            "name": "6.El gran emulador",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxAiDjgro2aiz7Z0l3KTMzhIFpnp260USLJjsM4Nxa5lVhXlcN34a8WLkM9cfOcPQpsw7NWEo9oId6QPmbehrZJk8cG5dJFYcFPrzUm/H9bR"
+          },
+          {
+            "name": "7.Expulsado del Paraíso",
+            "uri": "f+C7v4grf+D+3KV1XoLEP3sJz4zVpyC27kJ6k65TIivMQLXYGL+wUcY+9j2GiQxf/nHghkpwycAiOl4EhAF+iyDopyghntuHVOGvCV64AqI1HGqIB59p10/vYGtE1GtY"
+          },
+          {
+            "name": "8.Gracia abundante",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7gsRq+crkFhb4NKM1JEpxG23tTJiJxCD3Amxu43ADxAMBM/dB7vcQ5bEPSnyS4E8VGuhj5M92mVSxIa9FXJU2oFbUMta9IbVZ+C7f/Eb1Nc"
+          },
+          {
+            "name": "9.El tirano de los océanos",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0O2sCfrEOlL+zSbrVxkkJJffqNvmpL36peI9+tVS8ZRwBqymhVwYFFl8YNOkSsMsvweuAHRS+rsqxqLOdUmai3V+zoB1fy1cNij+RPi8fYd"
+          },
+          {
+            "name": "10.El mayor perdedor",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2xGH2e0rhOSKVyxCYQ2aJt8BK/43AHqdzjKZ4hxZOdghB38ozDQNBvMuqOJYLuPMFR4fSEDSCtuvHwVWRW9EqaZTbGfu67Va3TQFiPbzDUH"
+          },
+          {
+            "name": "11.Como dentro de un abismo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+jxKKStPNps3IE3EITdAwPyrlhFZ6FSE3kOk4ZlYIMRlmi66W2Qma/dMGRKBHQWdvjfMFrSZgfv/2gD2S24qU/2i8XJhw+FYqwfF1FfZEb/"
+          },
+          {
+            "name": "12.Y Ragnarok seguirá luchando",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/iEp14CkdTeMrQw8vBE4IhFtM4hwdMQ6XhBpwgsC3/3MSzE/MPKL9hpqoPrhe+rtQeWklKUnL5xGtoKdV8xj12eVRi1ZyJTACVd9eZoIVLH"
+          },
+          {
+            "name": "Temporada 2",
+            "uri": "f+C7v4grf+D+3KV1XoLEP6mSHZHvwVClbhmOIIGeZyejjWIvNtq+ILtZS2SByKDqI6AAoTF8ZnnG0AnNfuAvtcTk0xSawFDNsk+JWfCuMhbU4WJ0zczyWwprlwDQhLJP"
+          },
+          {
+            "name": "1.El bien contra el mal",
+            "uri": "f+C7v4grf+D+3KV1XoLEP6mSHZHvwVClbhmOIIGeZyejjWIvNtq+ILtZS2SByKDqI6AAoTF8ZnnG0AnNfuAvtcTk0xSawFDNsk+JWfCuMhbU4WJ0zczyWwprlwDQhLJP"
+          },
+          {
+            "name": "2.El indomable dios de la guerra",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+ZoN8bMhlK67uFO+cg2eKBn/S0WDc+gByV/w4+N2iopF87/Xpsyw42jwYsmat2r+2CfMgBb8gHqwrPNb5nBnIyw1Q9pbFadmPNUN3rlU5TI"
+          },
+          {
+            "name": "3.El nacimiento de un monstruo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP1Cgi2NWCT6nTuPmbxOi0NW+hrixvliiIuGQbAgS0hS3zwlFXX99oFzP/dU4kFQszdznpriZs6YMzrcdhbnts4UBBgvaJmAhimXUbshlbAbO"
+          },
+          {
+            "name": "4.El último trabajo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+yI7x9PbzyOEA3iwRDXQf8vzQN2fQidCP3eTWnMEKFMmmYNFPY3gKRRgMDkKPhiODro5ShZNp2eSo00Ed5ogpZV47NKKgVRF0O3k88P10qo"
+          },
+          {
+            "name": "5.Réquiem",
+            "uri": "f+C7v4grf+D+3KV1XoLEP4B5N9iDhGcX4uXXqmgcxj83HzAcBNwLLpibfpKJOenbC42ZIMGfh+XDF674Y9qvNMuvZlPq0KatvgtAAy9hzgcQaVFiLC7IWBjBXUQz5jFe"
+          },
+          {
+            "name": "6.Intereses encontrados",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7OZIM7GybQlwmlrGbvASzZI0x497tJQTioJnQmFc4xnu2s/MJIpyKf738jUPqHsisD88Dj328nUMy4uyBe1U+wVDsdJQi3koVvtL7oCRtAd"
+          },
+          {
+            "name": "7.Los cien sellos",
+            "uri": "f+C7v4grf+D+3KV1XoLEP6zs6Z5m/ctOAfMq589Cpt814Av3WuGEbh5Ln8oCH44BtMc748muTCmUAKFSUm7To7Md8MsJnDSgEn3g18tLYna8oHPkImRDDrLAtALwHWf5"
+          },
+          {
+            "name": "8.En la cima de los 1116 dioses",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2SyUNWR6JxXC7C22yIQBZtdkvKDzjnhqXp0EfkrBP9TzZagdTJW9Jgsz2bf79TCFnX5veP6Nlw5rYJelOPtJzf3yi955EWzbcJjzPzTvZU0"
+          },
+          {
+            "name": "9.Resonancia",
+            "uri": "f+C7v4grf+D+3KV1XoLEPzX1f3mRQSyClEOA/wEbCORlLsZhNHpqgvgrUa5aTYUhFA/F6pnULfu8r5uyUami4Oz7Lcr3WNgCeI7Owma5OIs1oC5E4rId5dFuokVVCVa7"
+          },
+          {
+            "name": "10.Al borde",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+It9fsMWoP2oArhZIdd2JfYdzRC1UTpeH1bt8dAk4LdO7fJjVJNfKvRht02iiHuHsnbV016D9hhltxfaheE7T8upwlUyI3Wa3foRHDmtPRw"
+          },
+          {
+            "name": "11.El sexto combate",
+            "uri": "f+C7v4grf+D+3KV1XoLEPy3nEalwL0Jguh7NOyo24s0ahqaRAmsL0jZ9uPU00ZE3nde2Rcm0mA61Vgd9N6h8R+p3bk/GBKs8Un1+qMLY0ba3bCKsDdSMBrEfNr4mcSwx"
+          },
+          {
+            "name": "12.Zero",
+            "uri": "f+C7v4grf+D+3KV1XoLEPzsgwHg1/m6BgtbNHlO3iqdymXoMazmldqiD+YwOMgzJMpeKHwpQCIBOheeAWeu+caLrPT5CphO6miycFv9/poDLLewTTGPTCnOeWlLnMZ+l"
+          },
+          {
+            "name": "13.La pubertad más fuerte de la historia",
+            "uri": "f+C7v4grf+D+3KV1XoLEP4wN+7PukgvGn399Kacb0EqqV6sn/jiO2DbfWajC42PIJ4u7o18WRg8o5/LRXMcTvpYUcairCVB7YDScPrpbh5PXTVJzKt8PFDZNFEKFke2F"
+          },
+          {
+            "name": "14.La leyenda del inframundo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP9hwnTw0mf2oEHnkmvV4ZJ0epFF6Kf0x8nVH8r0xsDkYATJt9gsp1SKtk9p7bbK7McvjQHsKEisg22MFvbkIKv5DJRzIRLVWGsd5LT2wr2Zi"
+          },
+          {
+            "name": "15.El camino de la luz",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2Zkk4+FnDh17+ancaq70F5PhIJMqU1LIE8XlRApM4Ej4kKO7r8CRqXtZ6hh3w0toBDUsV2J/yWkhXphVeVhV3RNk8tGwoUs3Cwbz7Xqa1Yf"
+          }
+        ]
+      },
+      {
         "name": "Haikyuu!!",
-        "icon": "https://i.imgur.com/xldAqhI.png",
+        "icon": "https://i.postimg.cc/dV9JCvbL/image.png",
         "temporada": [
           {
             "name": "Capitulo 01",
