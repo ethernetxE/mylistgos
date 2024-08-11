@@ -4,6 +4,16 @@
     "mode": true,
     "lista": [
       {
+        "icon": "http://tv.powerlan.com.ar/poster/w200/8562731723253778i.jpg",
+        "name": "The Last Boy on Earth",
+        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRd3lebz4kOvOq5t60E++5Q/246bq7sbheRZlpxjjTwvfb2cN5FU3LhniZgrjDEY5B/ooKuN6j8iv1oXXWK0Unga"
+      },
+      {
+        "icon": "https://i.postimg.cc/h421P7yY/image.png",
+        "name": "Horizon",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdB7SMaMSg756G0xiiA6jt9QQkOSPEr9Myf9JYoEMmb9XCaBKk27vkhsoAgxXwUh5GrBTq7lj6T3w555GkwPnRu9aTotkZj14mCarKcwnBByYy+p3Zj4QWENPQrPpoGDFLhEDF2mLYJvkBoSpDtcgceB6iiMuI0jWMxJwg416SZTcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NzrRRDPYLggQNzWzCEvgT8TvWzKVoiustNXTgGuG+PC5IjgNBtOLjEUkvCkm5kCzruNoib7dvuK2LuIq+f+pNNol+o6PNMLF3vCRBk11fYxd6jZQb0a9inF0s3oZKfSlfN+J3WywiVSEeDrz9dGZzItbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
         "icon": "https://i.postimg.cc/h421P7yY/image.png",
         "name": "Horizon",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdB7SMaMSg756G0xiiA6jt9QQkOSPEr9Myf9JYoEMmb9XCaBKk27vkhsoAgxXwUh5GrBTq7lj6T3w555GkwPnRu9aTotkZj14mCarKcwnBByYy+p3Zj4QWENPQrPpoGDFLhEDF2mLYJvkBoSpDtcgceB6iiMuI0jWMxJwg416SZTcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NzrRRDPYLggQNzWzCEvgT8TvWzKVoiustNXTgGuG+PC5IjgNBtOLjEUkvCkm5kCzruNoib7dvuK2LuIq+f+pNNol+o6PNMLF3vCRBk11fYxd6jZQb0a9inF0s3oZKfSlfN+J3WywiVSEeDrz9dGZzItbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
@@ -334,6 +344,11 @@
     "name": "Pedidos de clientes",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://static.wikia.nocookie.net/doblaje/images/a/ae/Haikyu%21%21_La_Batalla_Del_Basurero_-_Poster.jpg/revision/latest?cb=20240531055415&path-prefix=es",
+        "name": "haikyuu la batalla del basurero",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVC1iVO6VS7SVjW8nibJ7OgVCtI1YFw46tVQl3UuCsJT17u76rnaaw8CouKDaLjlt4QFf3dEmKUd3Ktnjw+lbLfbKywO0Edx16Mg/+FQr/hENCwEc+MtmAMsvcRBFHZ3iIp+Xlmvl7WlMDvnrfx+LorMQBwmeWTpUnTQw0tw9zujoyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDQE+qfHX7CsYvvQiAk12k3tarqsv80syt99uJx2DKonf7X9dy5jJCTKx8oZtdPcruiT9dQb0W2n3hQ0rOZqY2szE1KctJ2zrMK1oZzmgvYTi95ihXNlrgCplL584BBN+aiAtjIi4Q2tcWwTfw1psDI+0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
+      },
       {
         "icon": "https://i.postimg.cc/8CPwpBdj/image.png",
         "name": "Tiempo de Valientes",
