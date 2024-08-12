@@ -27180,112 +27180,146 @@
         ]
       },
       {
-        "name": "Kimetsu no Yaiba: Guardianes de la Noche Temporada 1",
+        "name": "Kimetsu no Yaiba: Guardianes de la Noche",
         "icon": "https://i.imgur.com/TSGw9je.png",
         "temporada": [
           {
-            "name": "Capítulo 1",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqtKrYIigmx3TZMfkt3yHc/P"
+            "name": "01 - Crueldad",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vC3TUfWOqjgwWro1UPA1rxgakZrS2d7mIRaCg/seTRVBjb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 2",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvquY4YD+6KRIksYLEiz7/7CX"
+            "name": "02 - Entrenador Sakonji Urokodaki",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vBYI2Elws+zGKEa8LVXn504FKnp04bn/yV2xx8Nz70Pnzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 3",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvquza+29qXjAeOJtBcARQ15E"
+            "name": "03 - Sabito y Makomo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vCog/aZZ7Am7Ns48sPxaNWDE1sQhWrSDJqB/DBeY8vU6Tb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 4",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvquvJpPU6gDhgRYHCzpxps2y"
+            "name": "04 - Selección final",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vBBr0FfR9qRgw6tOUaroPZeIUFhob2yw+RvGJDiL2ZjtTb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 5",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqujXBRbjDrNJHRnU59AFswu"
+            "name": "05 - Mi propio acero",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vC2Dmxn238dwkRZseYg88oykz7NAugF1HQ9sj4NBaZcjTb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 6",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqsWQzQ8tGmK0rC8xx4zhSdJ"
+            "name": "06 - Espadachín acompañando a un Demonio",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vAwTeaGttxbR5jstyQk6boYArXhJMKrHXPxjmjGW6bzUzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 7",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqvPpPeNB4fHGyt3VSENt6oR"
+            "name": "07 - Muzan Kibutsuji",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vCXBwHU+WWJEXJdqaIyBeFNIF9WivGplss0ajNvYBHdhDb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 8",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqvimW7rbAGJ0SdF36oCRw3E"
+            "name": "08 - El olor de la sangre encantada",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vBpkAGmBwtgLIbD6mTxhL7aK/MyDV+NztZK7gAhfk3ePjb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 9",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvquNgZQfkSvRLL2jRpA50HRY"
+            "name": "09 - El demonio Temari y el demonio Flecha",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDAcgqwonVM0CaSQuSidxnm0OeNAUt1p6fViWQB5PAHkjb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 10",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqvVLnjRorKRzwTqGUxx6Rbi"
+            "name": "10 - Juntos por siempre",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vC7DU6/XXPO+aovXW5eBdy9x6BkA8t/V8IQomXMDVPavjb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 11",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqtkzPI0a5kyOopInWzPwJ4a"
+            "name": "11 - Mansión Tsuzum",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vCOfYMeneGUDgve11rzejWd3ItoxglBXT+O5SVRvY8JODb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 12",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvqsp2A9lCEgaruf/0cmD9HZU"
+            "name": "12 - El jabalí muestra sus colmillos, Zenitsu duerme",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vB/gLRxc4w0DmgPHBhisK+zmESpJ4hnfyiKmlhmR89Iozb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 13",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqtLFoTgF3elTj13rKxh27gR"
+            "name": "13 - Algo más importante que la Vida",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDX5D7+0geR+OZccWXkyKbu3zHqRIKyZ8uhF32lPAozoDb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 14",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvqu/qEYsZ0ef3ay6fDqPgS7W"
+            "name": "14 - La Casa con el escudo de la familia Wisteria",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDPjsKzDMOxFWSx6oTkMWYwFJEfYIhMT+NFLSLDQXAVfTb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 15",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvquuapy3N9JOVAVWTkQU0rbT"
+            "name": "15 - Monte Natagumo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDGn71JOHPYHutwxtwGpua1SQhjPhcMhL8qlAk55wVDAzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 16",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqsBb7aX2dRg24vaM8fQJYoM"
+            "name": "16 - Dejando que alguien más vaya primero",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDQnn0n5e+/ZlBSPMnXCb901ziWwc1FrFxEu1k4xm8URzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 17",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqvaBv2Idj2f7IQzB9bSAG+a"
+            "name": "17 - Tú debes dominar una sola cosa",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vB022dT3k/CFNkNH0QnsnsEK1Y2QjywmCZbgRRkcx6gnDb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 18",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqvQdsmQmZQ/8bdDyp0GUNdu"
+            "name": "18 - Un Vínculo forjado",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vB8adrvy/DLqu/88utsbwdVgS2htP4/wQZGSXLzR75jyzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 19",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvqv5TmG1oCIInwHGvqBFp0MA"
+            "name": "19 - Hinokami",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vD6xdFsQTvrwJ8kmTx/Vuu2iKYp7Y7/kifWQlkFaWNvxzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 20",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqvBMhCCSvM/5d2LdhRESzVM"
+            "name": "20 - Un Popurrí de Familias",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDoZ+BFbEob4QteHkIeWXYajm3NOtA3JSRjWgTcLlm6mDb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 21",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqsJf8lv66scy2UfzmpAkQM1"
+            "name": "21 - Saltándose las normas",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vCt/wrC4WxD/RCeX3lHX2YL4dyV2uqq+Rcb4l6s0X6nbDb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 22",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvqv2VmPRyuZDg0+L1L6QQJfD"
+            "name": "22 - Amo de la Mansión",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vAlcS9hT6ThKXyJTlQcmTW5vRYMqR3q44u+nMuvYQNB3jb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 23",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqsKOn28w3/OV/NuCRb6ob+A"
+            "name": "23 - Reunión Hashira",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vCI/yx36N2v0Eya0TYNA7gs7MA2/Ycfb6x4zgoc47Jjtzb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 24",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqukQ5HSctlZrqs93nS1oA9A"
+            "name": "24 - Entrenamiento de Rehabilitación",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vCvpru9DN9WwCJjLgZdGHi7jbh8FPifrLfOO0cR6fyTMDb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 25",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82VvqtGbDgHL9JaDU0trBKgF393"
+            "name": "25 - Tsuguko, Kanao Tsuyuri",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vAO37rpEgdaI/cuvYN4cf7Ji2afeMLdesRxtaoGmqS3Njb8LtEkxRhQ63isJSSX7iQ="
           },
           {
-            "name": "Capítulo 26",
-            "uri": "C7bjowVEWVei12JSw7aNBCLt6LYedBS8IGWCr82Vvqu9vJK9zGnTtOmXZeuFJzx/"
+            "name": "26 - Nueva Misión",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+3zzEUgUpE6gKaUSfM59vDYjQ2ChnESDGXJ6Jd+18TuiISlXFM5jJk4uCezWhOOoDb8LtEkxRhQ63isJSSX7iQ="
+          }
+        ]
+      },
+      {
+        "name": "Kimetsu no Yaiba: Mugen Ressha-hen",
+        "icon": "https://i.postimg.cc/CLNC1pXL/image.png",
+        "temporada": [
+          {
+            "name": "01 - La Llama Hashira Kyojuro Rengoku",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/QkbJQDUuUvURRUTJm2GYfQF5ngPkunKLCsAOwFUGnE9LyB+k0Txz3qYtRf/MVEA5UzZtAJyqjGoBuMtt5mlA24Wi9WJMBvYHJ/TfyyJyKkU="
+          },
+          {
+            "name": "02 - Sueño profundo",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/DhQfYpIkefo9GtcmNIvofEO//D1Q4Lb6jdC9nOgIs6Q+1qX7lcv92s9hm1fQ2st68ZmYHjwXzc6sS523vlpHtIWi9WJMBvYHJ/TfyyJyKkU="
+          },
+          {
+            "name": "03 - Ha sido",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/KS7X7+ajtQuGlqlDXBDHzggPDdJcSkP+pQlzs0TaKWC8VTobPPB5xT7JebRjqT8+wMDEMMlEQ9HEQzq/+AEVUIWi9WJMBvYHJ/TfyyJyKkU="
+          },
+          {
+            "name": "04 - Insulto",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/rrDMgIviY/IW95VXwGfi0PWvq22dJPl1fT8kuhjKzhuFk7Pqr2YJ7iWISq7QRKM6AGmS+007RQQ5jV+razWwHYWi9WJMBvYHJ/TfyyJyKkU="
+          },
+          {
+            "name": "05 - ¡Adelante!",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/UMOTEo7cRlKeh79YYFCXHhD5xjoY0Gwko8kwlDr7qXBV5Mi7qupsBDwfTLls6+C+ZR7szhhMy78N8eU27VWzlIWi9WJMBvYHJ/TfyyJyKkU="
+          },
+          {
+            "name": "06 - Akaza",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/C9YgbvILDflZVtvTORjRp57Zsb5iZHJrKE3nRrQYMJrg+DsZ94E6Xx9f5r/PDiquKDMiwh+5zQMJkL2tOUXlKIWi9WJMBvYHJ/TfyyJyKkU="
+          },
+          {
+            "name": "07 - Haz arder tu corazón",
+            "uri": "mfNLlhHpQYWT+DqutrmLttHvHua/noiuc30qDv1hSuj1ZommJ+zHeT0s/cnKDnXfoiCgOZsxHjKfbhhVnB2vC5bu1R8X1sn+WnW769yz1qUE80cMHYV6FYDRo9OZWxk/AsfD/mzX1KjrWkx374YgiJNko00F/2xO8r0DvzWSzzF22puztjqRa0b4DlavkaZa6nS5k8wdRNPQ2lFte8lo5IWi9WJMBvYHJ/TfyyJyKkU="
           }
         ]
       },
