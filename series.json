@@ -378,6 +378,276 @@
         ]
       },
       {
+        "name": "Breaking bad",
+        "icon": "https://i.ibb.co/BgvYXWX/image.png",
+        "temporada": [
+          {
+            "name": "Cap 1 Principio del fin",
+            "uri": "f+C7v4grf+D+3KV1XoLEP52kN7UG7SUTnL8n2Hwh07U/lmufjvARceqy7b+ovdf3"
+          },
+          {
+            "name": "Cap 2 El gato en la bolsa",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0OkT6EM0iv+iJ0GJn9bAM2gE5xeDtWV+M0adzKCW73m"
+          },
+          {
+            "name": "Cap 3 Y la bolsa en el río",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxs23yAeA6nkbx/nbrERWKJAPVBkdq4gVUz7Aa1i7vjA"
+          },
+          {
+            "name": "Cap 4 Cáncer",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0XoxPOK4BpJ3yB5IwU81cqdsY6AXutgBl1gYGc/O/VD"
+          },
+          {
+            "name": "Cap 5 Materia gris",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxZJCCkOfQ7s3f0ptQcpS75kfpQAaUGjSgWkOJCNSfyt"
+          },
+          {
+            "name": "Cap 6 Un loco puñado de nada",
+            "uri": "f+C7v4grf+D+3KV1XoLEP55f6t/Yi+oQxnfjmWTK25vKEoD/LmX2i7M4fSpSPCCU"
+          },
+          {
+            "name": "Cap 7 Acuerdo no violento",
+            "uri": "f+C7v4grf+D+3KV1XoLEP3WcyXDLXminhELEh05ECPNfEgpcuNhaErxDqepj8q00"
+          },
+          {
+            "name": "Temporada 2",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/rp5OQkwpFrpC8RYqv88b9azMmNcvApaRG6+CV0/j9u"
+          },
+          {
+            "name": "Cap 1 Siete con treinta y siete",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/rp5OQkwpFrpC8RYqv88b9azMmNcvApaRG6+CV0/j9u"
+          },
+          {
+            "name": "Cap 2 A las brasas",
+            "uri": "f+C7v4grf+D+3KV1XoLEP5JpcnFzcakk1M4MUx1P7ZM/9+McJRzPxMXhhVF2hb89"
+          },
+          {
+            "name": "Cap 3 Picadura de una abeja muerta",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2gFUhATpfV1eq7Z6lG2JzbFCEipFQV78+zLr5cYrX2c"
+          },
+          {
+            "name": "Cap 4 Abajo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0LVEFhvERUUuOH79KoqO+JYtN3KI0A/Sck0MNBzd/9h"
+          },
+          {
+            "name": "Cap 5 Rotura",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7uGRxF/0e//baPs/uQYQd/+UXxGcwVH8cl8afrD2l7H"
+          },
+          {
+            "name": "Cap 6 Cucu",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+ZRzdt+FCF0vp10geIc7L5+1Us4zGGxdlfele+7sGcd"
+          },
+          {
+            "name": "Cap 7 Negro y azul",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7Yx2ghwNkjOJqJXxAuCIG0LFRMucP/EUfsBt7WjycYj"
+          },
+          {
+            "name": "Cap 8 Llama a Saul",
+            "uri": "f+C7v4grf+D+3KV1XoLEPz937arwLlzf+2y6+M/beRYYu8rvfSNN4w7AmullN0ts"
+          },
+          {
+            "name": "Cap 9 Cuatro días afuera",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2Q+HwmEgABJ8NpjIjK9nQGOHjUPMhwq9JTGc3B44L5L"
+          },
+          {
+            "name": "Cap 10 Terminado",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2k6QGDUQTS62bLhtrXsw1WUJMjZMZdvCSPLNADQ7k0c"
+          },
+          {
+            "name": "Cap 11 Mandala",
+            "uri": "f+C7v4grf+D+3KV1XoLEPx8uVOrk7wPXn79zwlVIek/3sci/5GB1DTyRtw22lvP3"
+          },
+          {
+            "name": "Cap 12 Phoenix",
+            "uri": "f+C7v4grf+D+3KV1XoLEP1ogKvUje/qmNkxuBTxjsEEKaVhqVJCHTpouGJ8i4+HS"
+          },
+          {
+            "name": "Cap 13 ABQ",
+            "uri": "f+C7v4grf+D+3KV1XoLEP3sq4ledJdQ90EcMoAX4zUGWy6iEcBqBtsrAa73saZny"
+          },
+          {
+            "name": "Temporada 3",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0PK/lWnIv81+0KG7O/sHSXMAP/75p7Pe9UIZecySsBl"
+          },
+          {
+            "name": "Cap 1 No más",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0PK/lWnIv81+0KG7O/sHSXMAP/75p7Pe9UIZecySsBl"
+          },
+          {
+            "name": "Cap 2 Caballo sin nombre",
+            "uri": "f+C7v4grf+D+3KV1XoLEP3NfmRX6CBWhc69g7l+f1yOjbVcb/z77YtNaOV0QYvx4"
+          },
+          {
+            "name": "Cap 3 T. S. T.",
+            "uri": "f+C7v4grf+D+3KV1XoLEP1863b1pmJE0JIvjkauUAJ76NVdAeANQBjrgew4TpFc+"
+          },
+          {
+            "name": "Cap 4 Luz verde",
+            "uri": "f+C7v4grf+D+3KV1XoLEPyt6wf+tGY0U+Mtdiy4lblpFgiOKabBJtla7uBDZuto0"
+          },
+          {
+            "name": "Cap 5 Más",
+            "uri": "f+C7v4grf+D+3KV1XoLEP78rDnGbLLwnXUlZkp5qWq6Q7Du7ducsTWrRYtZLeSQn"
+          },
+          {
+            "name": "Cap 6 Atardecer",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxwxHZZskn95XF0kp3MooWMk3odFVXAqe1Xkfd2pTDhI"
+          },
+          {
+            "name": "Cap 7 Un minuto",
+            "uri": "f+C7v4grf+D+3KV1XoLEPwMbLVatnakbbuc8Qar5VYlCr6OwdEst86BHTJt7bbWj"
+          },
+          {
+            "name": "Cap 8 Te veo",
+            "uri": "f+C7v4grf+D+3KV1XoLEPwMbLVatnakbbuc8Qar5VYlCr6OwdEst86BHTJt7bbWj"
+          },
+          {
+            "name": "Cap 9 Kafkiano",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/rBh8XEowE2OupEafo/WOCsgssFcqcgIsdZ9V985/h7"
+          },
+          {
+            "name": "Cap 10 Vuelo",
+            "uri": "f+C7v4grf+D+3KV1XoLEP40QtYXc+zVJE7e4pIjQ8F21lZTVoUgxcw4HHRJ4+bGu"
+          },
+          {
+            "name": "Cap 11 Abiquiu",
+            "uri": "f+C7v4grf+D+3KV1XoLEP5q8mNcw0Gbe2icBFR/P9JLTpc0aFjyfXW3Nuw8B/lf/"
+          },
+          {
+            "name": "Cap 12 Medias medidas",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7AQk6cLIFRpkr4TvecEAZ/IE1MpwW99yJHKzKzHpWWs"
+          },
+          {
+            "name": "Cap 13 Medidas totales",
+            "uri": "f+C7v4grf+D+3KV1XoLEP19HUbtC7+amONDsxTR7yK874sgoRTK7cRKB6lNQCWnL"
+          },
+          {
+            "name": "Temporada 4",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/NgZFQeImt5u1DAG7ODIs0z1YPdj8GIvnTcuIvEJV/N"
+          },
+          {
+            "name": "Cap 1 Navaja",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/NgZFQeImt5u1DAG7ODIs0z1YPdj8GIvnTcuIvEJV/N"
+          },
+          {
+            "name": "Cap 2 Revólver calibre 38",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0vuLA5z8B/d5MJNsSIyAqJp8uJN8NnfP3mBF+TTcxm3"
+          },
+          {
+            "name": "Cap 3 Casa abierta",
+            "uri": "f+C7v4grf+D+3KV1XoLEPwPigdnQt7yN5UZitOM/3BKOxdIaByZoZ1qB7D5zcPN9"
+          },
+          {
+            "name": "Cap 4 Puntos clave",
+            "uri": "f+C7v4grf+D+3KV1XoLEP8IK5yOjc8TF9rf79eq4MT7NCDjWjcG5i+IH97O5rdF8"
+          },
+          {
+            "name": "Cap 5 Copiloto",
+            "uri": "f+C7v4grf+D+3KV1XoLEP8s0cxVs6VklXIH56EOmbCYwGpSbyFgWpf1Se28PZKF+"
+          },
+          {
+            "name": "Cap 6 Arrinconados",
+            "uri": "f+C7v4grf+D+3KV1XoLEP/Fd0nQ2+Ws3JOYH4W2nNrxgOD8gNRDk4iNEkASHE0J5"
+          },
+          {
+            "name": "Cap 7 Perro problemático",
+            "uri": "f+C7v4grf+D+3KV1XoLEP1CIcw5tGNpdIdxNabCXG4RP6CQNWnxe7so65KoQ7CCp"
+          },
+          {
+            "name": "Cap 8 Hermanos",
+            "uri": "f+C7v4grf+D+3KV1XoLEP4V7229xaxjnH3ousbXV6hdPV/1ZED0UQR89KrQKN9m3"
+          },
+          {
+            "name": "Cap 9 Micrófono",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxxiaS5W2ccpfSfv+vSyRwCT5iZkpO+X6V6235LRvmTD"
+          },
+          {
+            "name": "Cap 10 Salud",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxIrx00V5wFP0GvvkcEctrcjYsLMhHUODVRZ8nhilABA"
+          },
+          {
+            "name": "Cap 11 Entrepiso",
+            "uri": "f+C7v4grf+D+3KV1XoLEP6peYpC5s+3eNXwebhZqIz4i4H4CnKjSv/YFgFWrao2U"
+          },
+          {
+            "name": "Cap 12 Fin de los tiempos",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxBTSjflCS9LAP195OFJ7m9LTOdsVL1vbLZewX/E9Zwn"
+          },
+          {
+            "name": "Cap 13 Cara a cara",
+            "uri": "f+C7v4grf+D+3KV1XoLEPxdXMNuNFwlgL14Tsh8ij6U6CObQUwTFaAIyIH5J5bjb"
+          },
+          {
+            "name": "Temporada 5",
+            "uri": "f+C7v4grf+D+3KV1XoLEP9l5TTXIzjNTwMJ17sY8sbgvQavqkLK+kN6+/1qG5dI+"
+          },
+          {
+            "name": "Cap 1 Vive libre o muere",
+            "uri": "f+C7v4grf+D+3KV1XoLEP9l5TTXIzjNTwMJ17sY8sbgvQavqkLK+kN6+/1qG5dI+"
+          },
+          {
+            "name": "Cap 2 Madrigal",
+            "uri": "f+C7v4grf+D+3KV1XoLEP73NvB4Zqna0A6+q3R/5z2zk0ZBP9xf2sPWQTd66nMwv"
+          },
+          {
+            "name": "Cap 3 Peligro",
+            "uri": "f+C7v4grf+D+3KV1XoLEP4hwS/IOOGVtbMgd9jNEdWPpTs2PpQnEOg8oQfpcYOIP"
+          },
+          {
+            "name": "Cap 4 51 (Cincuenta y uno)",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7SOMNIDyUMCF5MfNUBsKF/9IFqYuCqM0Ga50JW0XEis"
+          },
+          {
+            "name": "Cap 5 Carga de muerte",
+            "uri": "f+C7v4grf+D+3KV1XoLEP6igV85m1Q0KSHgrmjpAXbOlJdtqVmktD4wUa0MjmctS"
+          },
+          {
+            "name": "Cap 6 Adquisición",
+            "uri": "f+C7v4grf+D+3KV1XoLEP9no3C5VQ2zIt1scJ+U4HV0bcrdNWDFb/WKFBsToUb1M"
+          },
+          {
+            "name": "Cap 7 Di mi nombre",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmUfAaSPtVKX6sz1DYBIEBVej/iGFTq+AIMcpFYyZZf0UtDhZ4gCwWwuJsAKVUSA+BGvGZZu/+4ZaPS4ZkIx0pEBq+BP6d9F6se6I/PCnsRKq+cPV/gq6boFHjeTI9+gK39PABFbxhPTJ2sUaswuG/z7xc2yZaTua4/XEKDfFt3UxcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Cap 8 Planeando sobre todos",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmeaJ08KA8OrEtQvyoOTkxVsubNyi/hRQXKPMFuiIDj/Rvqhhcr1SkAdkxDbVI/5GB8MfQU4asvvNJaSuHfWAwwAc7T36On0EOvgU6ZBfP9T/zQBXXr3I1urL3kpgEoeMzsTg38/tKsCm+2aZ6St0kT87P6RksEWmDjQvX9GpjKuqcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4Pgf8przSLbTnoLtSb72uJUKueidmsMP2SOGAHNIJ6BNwhyoc8ouKxUtUGJYgw9wJAQO6n4505ESYqXoLAVI6Jr/UXWtwevBbervmjfxiGsQUd91HV5rXlJl/Fb8RzoBDu2SMRGlUAx6/x8aLlK0GIUtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+          },
+          {
+            "name": "Cap 9 Dinero sangriento",
+            "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmSe4VgTwnGoBGHYirUxczSUt6X3PjncCu/8k6xLfMAi4xcIGhs/aKPSic/AVBt8vd1KFYtKxGxWfAxSRVBCzPXAiyccf4ABA7R67NxbATtSBcgfY4cxHQr20YHKOAG/IbpeJFbE0vLn/dYHzMruCyz3wC+HarcraRXnrA8xsVRsr+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsKKuaZgKI0c+yd74xB99SDFPhcPOuJ/7ST6x+eZpho6a2U8x/ynIbgh2RIgRO5S9RlVhrL8bUUhDwWFq/d+05cfCSKIGoF2w88frrW9crpNl2ld76uVpVbGklIBGJMrmy/XfCXwmjtT1mHY3NAUhsKe+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+          },
+          {
+            "name": "Cap 10 Enterrado",
+            "uri": "f+C7v4grf+D+3KV1XoLEP4AMp/zX0QMMr+bi2M/mqmTh40iQNV6lgC2flJkJVtVF"
+          },
+          {
+            "name": "Cap 11 Confesiones",
+            "uri": "f+C7v4grf+D+3KV1XoLEP7/bSOWJbTTc8Jv7z70pT7JRHaDIZL3PHNii/WeanIIE"
+          },
+          {
+            "name": "Cap 12 Perro rabioso",
+            "uri": "f+C7v4grf+D+3KV1XoLEP2Fbrk+dcByPXjNYA4al4183a6Yoq+HBTtqLpREaqj3H"
+          },
+          {
+            "name": "Cap 13 Tohajiilee",
+            "uri": "f+C7v4grf+D+3KV1XoLEP+qsJF4RdwsnsXM4gEKSHLE9XZnzq6ubMRyqCKf/DiMx"
+          },
+          {
+            "name": "Cap 14 Ozymandias",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0LrtkqYPFppczqfL+eqB5VNz/48fHG1cqU7n220VGwa"
+          },
+          {
+            "name": "Cap 15 Pizarra de granito",
+            "uri": "f+C7v4grf+D+3KV1XoLEP29gomYavatJ2GGCw1lfbPqOJxCVLfqkztZ/8yao14As"
+          },
+          {
+            "name": "Cap 16 Felina",
+            "uri": "f+C7v4grf+D+3KV1XoLEP0vmO8l1H22/WgZsB0V3jRccYbuASQLEr7BIsKHUwOEk"
+          }
+        ]
+      },
+      {
         "name": "Pedro el escamoso: más escamoso que nunca",
         "icon": "https://i.imgur.com/fkPvvrZ.png",
         "temporada": [
