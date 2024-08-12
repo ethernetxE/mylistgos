@@ -1044,7 +1044,7 @@
       {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
         "name": "VTV Plus",
-        "uri": "hzjLqMLPGSRRck5+HLHwevfTHFQyxLO9l6ygCZTB+Q82jUWO47q7OyZmN8L9FHppqtuKewCXC4bHgKMeZ79W2z1jj7/+7wmG2AYTUlvzhHw2/C7RJMUYUOt4rCUkl+4k",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
       },
@@ -1132,14 +1132,11 @@
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png",
-        "name": "Evento",
-        "uri": "7zPHzDMzJ0TjPad0O1KSeK6EK6K/auVITw3nfRaaN0Yha3La8f07MOhhvIYNNzke5YG3eg0d4Zp2IALsRZ4ybA=="
-      },
-      {
-        "icon": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/VTV%2BUruguay.svg/240px-VTV%2BUruguay.svg.png",
-        "name": "Evento",
-        "uri": "7zPHzDMzJ0TjPad0O1KSeK6EK6K/auVITw3nfRaaN0Yha3La8f07MOhhvIYNNzkeXRkRp+EvAoXP1trI4qBpJQ=="
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV Plus",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
       },
       {
         "name": "Gol TV",
