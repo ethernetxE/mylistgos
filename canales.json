@@ -1931,7 +1931,14 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gP5BrC/xEFzitt3LWzPsFL3NCEoZOlS2ur3rjsmdIEUH/dR2/K6cgKpfIXmV02PmoJvmeYq4nH/sfWrKWT6CpKODSl75134c4D4aw12swTl1Rl+KJmSZ+x4rf2flZG9vKQ=="
       },
       {
-        "name": "DISCOVERY H&H",
+        "name": "DISCOVERY H&H OP1",
+        "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1653526651744",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZJvTaOOIi+nRzkc6kIC5j2IAOdYncmqOocsA6FwgwBqTKttZ3TLe2EWr5dwN+6r8IdvVx5APV3iXZ/4UVyGaRQXKvZJGLyfvPNtElF1dFC2ilA1QcNcNo2NV/Jt1r/lXgzb8LtEkxRhQ63isJSSX7iQ=",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gPKph9mlbPNFRMlpFzenD94LJ0VPlyvjXyR6icDjknzXSvk0F/UAXQ5KQ5IqzM6EJzVcShSkP/xGE3rdMbRS0Po+cSZjKFbpShWHLKGnlzd9rYsziC4exr4oUPm4Kz/pbA=="
+      },
+      {
+        "name": "DISCOVERY H&H OP2",
         "icon": "https://d18o29lhcg4kda.cloudfront.net/fit-in/360x270/Y2gwMTAwMDAwMDAwMDE1X2xpbmVhcl9jaGFubmVsX3NzbGE_11002_LOGO_360x270.png?timestamp=1653526651744",
         "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh7FcVSPehPDLvwfXFiKOnJVpP8jA/LBm3F68Nkm7sdJiSwUpDo2sLNzgCugfwnMubJC8DoobtVxXr84ryxZoK8w=",
         "drm_scheme": "clearkey",
