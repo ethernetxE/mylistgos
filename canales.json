@@ -1635,9 +1635,16 @@
       {
         "icon": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",
         "name": "Cine Premium",
-        "drm_scheme": "clearkey",
+        "drm_scheme": "widevine",
         "uri": "6oAiD0wpj6jm/Kx6A8zn3Ieq1J6BE+QdQ819nAIcnVPxeUqbaX4lG/LS762slmQ4f0rxTyuADp4XzSc6xRK1dxOqJxJDwSJScIlpY8jfGJYPtSA45HFzYgrpCAmbeJxX",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gOsANCwUuajxsd7110lcCKPdndh663E4mAAOkn4yDoUeGS57M/0UhDv8naxmkvSTB16HI36ACLlanjRiWc1AuHkzTV/f+7YdNLZbwawOc6YHRhQUIIj1A+1ttI8Av/lUkg=="
+      },
+      {
+        "icon": "https://timnetworks.tv/wp-content/uploads/2022/10/CINE-PREMIUM.png",
+        "name": "Cine Premium",
+        "drm_scheme": "widevine",
+        "uri": "6oAiD0wpj6jm/Kx6A8zn3Ieq1J6BE+QdQ819nAIcnVPxeUqbaX4lG/LS762slmQ4f0rxTyuADp4XzSc6xRK1dxOqJxJDwSJScIlpY8jfGJYPtSA45HFzYgrpCAmbeJxX",
+        "drm_license_url": "8PoLb9FyRPMTrV+dn6oH3bFuOH0gPegnr1yCL4N+mfc40jvv/Ae9EfVYcLaJMhP1VqYpOAMZyI3MepKtyI++QSV6oQRIDfU1bJYxN7ooGJrsRD9Ysw82gAdDWyXyFgRz"
       },
       {
         "icon": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1",
