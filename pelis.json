@@ -4,9 +4,14 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://image.tmdb.org/t/p/w400/mWV2fNBkSTW67dIotVTXDYZhNBj.jpg",
+        "name": "La Trampa",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmbmEv15fRegpwkJ/bKnEH/Z6t3rBjS/L4kxne6q4+46jEXV0+gp5E0Nmj/DQhavXIGCv7uraYQj6Ub+jzm3m8CvFzEGg2Qw5DXg7XI54n4nbn+ViMAaxCA8NzwoK8GdnSvv5Kdr9yWtBglX07/X3PxlbgfRWO8Zc1P1si/Q/WoMkoyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDRseWHwmqX5g0WwLjWOnhtLfpVN2YaB2YN7psD/6jfkGwOAYNcG/4JNgxaDgrspR1C2uIcon5MM48rkqA3yW+Xim28CvueSlLzkll34ICLidYXNzX7FCdTZQDYI5I3wiZxdYfmAQsXg7eRMgipe9PJJ0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
+      },
+      {
         "icon": "http://tv.powerlan.com.ar/poster/w200/8562731723253778i.jpg",
         "name": "The Last Boy on Earth",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRd3lebz4kOvOq5t60E++5Q/246bq7sbheRZlpxjjTwvfb2cN5FU3LhniZgrjDEY5B/ooKuN6j8iv1oXXWK0Unga"
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmf6ukNNnYSLgr7+ysvS1Pky2j+RTxQgpUV6JefiHBSendAGntMOi1mUvZ3mFLr40yeJayURQNTP5+iC3jM5hK+KuEUQyMzl5hkq9OHxkiFLqPkeON7nSZxM7a4edCIshgeWMuqf8kqzr9BoTQ/Ew+sC9UM+iLmpjW0imQWosJA/5cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4OaaTLeTvR8nUNzwR30hOPFVSYQdrD1N+QpGCQ3+4wNYFudCD5loH8ObUH/wl/DR2H8KnlukEDUr56xpkAvI8LxjS2VicigBJYaaTzoZvXQx4y46F0+6z7IEfOip4OOAFr1+b8ofqMyoDExpCiIB7yotbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
       },
       {
         "icon": "https://i.postimg.cc/h421P7yY/image.png",
@@ -36,7 +41,7 @@
       {
         "icon": "https://peliculasbluray.com/wp-content/uploads/2024/05/nFBjI5qFkqfvEvEx6VaylKGSOqp-185x278.jpg",
         "name": "Colateral",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmWF/UAs/Hzet7uowjY5Wbcurt0yx6UqiCBJEaZPtXYs3wfuSD7+SHhGVAJGRS8/hjcViVEOituxMVFkzP5T5PpaSWhvY5uZU9U63vyibWQseFbxbaJ5Pqher9tsvOoD3bX9XEjhEd8vl8zQpktiUc+7mbWsjwapoMb128QIPEs39cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4M8YTNkFBkyR4YdIji0XmFHPvwTzgafwdvmYhz5acgYKbVcH3UD1VRHWN1TXW77CPgw7Zz8RKT+o6+Z/+m2St3Ang/GSwPWC4sTeXQHi1jfKqv5TmTzrnRFK+geKQLVuDn2GzISk5UjYorVsqhwxmAetbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmWF/UAs/Hzet7uowjY5Wbcurt0yx6UqiCBJEaZPtXYs3wfuSD7+SHhGVAJGRS8/hjcViVEOituxMVFkzP5T5PpaSWhvY5uZU9U63vyibWQseFbxbaJ5Pqher9tsvOoD3bX9XEjhEd8vl8zQpktiUc+7mbWsjwapoMb128QIPEs39cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4M8YTNkFBkyR4YdIji0XmFHPvwTzgafwdvmYhz5acgYKbVcH3UD1VRHWN1TXW77CPgw7Zz8RKT+o6+Z/+m2St3Ang/GSwPWC4sTeXQHi1jfKqv5TmTzrnRFK+geKQLVuDn2GzISk5UjYorVsqhwxmAetbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
       },
       {
         "icon": "https://i.postimg.cc/ht7DQJVp/image.png",
@@ -46,7 +51,7 @@
       {
         "icon": "https://i.postimg.cc/QCBPY78z/image.png",
         "name": "Infintrada en la NASA",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRf6HvYS9wCkd3ZU9crnftg3PtfX0gHIzJKpbUu4/vu+mkS9WlBRI7sxj8WlbK3EDfM="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmYnMh7wKNyKlheO+TdixkCEQ25W//+Sad87avbMLzn0NlKBX3XD4rqhybfAVPQQ+MR2XCxQwKBveNyxllZkVFRV8Xigdk2TEZxm8Wj425VOelBjj0uKhmI9l7rNfgfDdc/aDl/4bWaX4AWKBOTBvQ7bGYmvSjhfu4gVL+7R1hcZIcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4OaaTLeTvR8nUNzwR30hOPFVSYQdrD1N+QpGCQ3+4wNYFudCD5loH8ObUH/wl/DR2H8KnlukEDUr56xpkAvI8LxjS2VicigBJYaaTzoZvXQx4y46F0+6z7IEfOip4OOAFr1+b8ofqMyoDExpCiIB7yotbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
       },
       {
         "icon": "https://i.postimg.cc/3JJgRHkw/image.png",
@@ -56,17 +61,12 @@
       {
         "icon": "https://i.postimg.cc/RZWVTV3D/image.png",
         "name": "Prey",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRcR6M/FZ4ul77N/w+C4I8yPyeYJVmqwJ+4q+XDu5EQMLg=="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdKisJ8Q1bq2jA2gxD2XkhL8IGN2PgccSLYtZaBBuM2+AFqIm1lNI66+CBsg0U0E/MbKlmFqTkVhPOAecQWY6n3bK6zN3PAN3OoOlovvDgVmCMYrrHxSLlUaIemJueWmFtLfQRR4zIu+WaHLaEDHsZDF3LibNP3ICaf6c0LMbFOB+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsLHl5TO0zrlVnErEP4pB3n2hmLfWTnNZsGKM77z9fvqH7ZZcffVnFQ1luUdtp5yf6gLXL+dUo/9P4RtUQfQgpldrqYmUF3IVZsT94PhrjftE4Kikfkgct5lULsdC7OuCU/ABETOv09q2zQ4MZ3/N6qE+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "icon": "https://i.imgur.com/arT2ubE.png",
         "name": "Deadpool y Wolverine",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmQk1Sx7gJbDvjd+Ug1cmo+lXddLAp+frMbDE6TxiTUXQU8vusMt5oGKSlpB5FxTo9HvcyAgZRlgVQhr4iNkJfbnsPxRhsQ+HbJ57mf021DZ9ARKo9LAiLzQQdzA2r1GqrepunLyeuPJ/84W83FornP1QWOvWBM3LahAfa6VvXK+t+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJ4fe/3Ql6prm+SLVEWMmgpzDC8fo4pkS4l1XQCJGIzGaXzX5cnlaI4LvQbX5WXEKrdA+3asLqYpO2VkwDzQo7S33qoEksO08xSadnMudPD6yJlFTFcJEZ0+kSlRNH+LCEcpNTVixAvkd10THhXTIDK+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
-      },
-      {
-        "name": "Desaparecidos en la noche",
-        "icon": "https://i.imgur.com/l8keJDU.jpeg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdV2tu+xc0bVkbWjEw1tkMx1+xC9asmMM4qcHd0sUZqsz3fB8TaOdR79Sbti5BL+2w="
       },
       {
         "name": "Tornados",
@@ -186,22 +186,12 @@
       {
         "name": "Abigail",
         "icon": "https://image.tmdb.org/t/p/w200//6swWpho5jKxMIez9diNJm0Kqhj.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRc2F7bIwHy1cgsGdb+4EgXBIVH/m2phbkTAx/oaQB1iuw=="
+        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4W2yhFaH0d532YJBwfClOBwoBYZjrjiSQE2y+jw0jdNGuTwQOT36kpQCMSDbLJ7bkU="
       },
       {
         "name": "La piscina",
         "icon": "https://image.tmdb.org/t/p/w200//73wQy0eqijesk0y0wbLUiw5wVZN.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRc6plHemHVN2IgC+cHEtITVJ2co6EiRVp1amismcL/kAZFKBWFWt/fxfnsALW2+9gs="
-      },
-      {
-        "name": "Sangre en los labios",
-        "icon": "https://image.tmdb.org/t/p/w200//yEQKiZOVzVZquN7R6BRyY4n6JET.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRcRndyWY1p3dXgDZNYJpGXSLeL3qeFoUzNhjbWLHQoCPcvPxd5juN2ZJXQBcHFzQdA="
-      },
-      {
-        "name": "Ángeles inesperados",
-        "icon": "https://image.tmdb.org/t/p/w200//tH61wKKHO4NF3Uejs5a79XJq9GK.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdKDyb0q/ff1krDLMgMRODgmCVwXAfVWphEnfG6S8UKVWY/88i+iy6IrZD9IlrLhpw="
+        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4Vlx81RmMvUgNGyJYBsg+64lKuPNISqe9SXk2eCRjcqGw=="
       },
       {
         "name": "Arthur",
@@ -209,29 +199,19 @@
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWIZA1My9y9vXU0hmMVlHTfsY17OOMYM+i0TXgO3XVgx9GHcJhqIu2MTaCrQv4M5Czk8EDk9+pKUAjEg2yye25F"
       },
       {
-        "name": "Argylle",
-        "icon": "https://image.tmdb.org/t/p/w200//tshllXJDIctUlD1kMPQdIh37L2V.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRcNqdljLlYNyU70ED8JdLfhMawffnvuGmX1S+m95GUFGsvPxd5juN2ZJXQBcHFzQdA="
-      },
-      {
         "name": "Atrapados en el abismo",
         "icon": "https://image.tmdb.org/t/p/w200//fSY6BYUZMObTIzPfRBlhuAb5lsd.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdiTPEOwaOhFw6XX+WTQN482jVdH1egARVIBOCuq855AHGzoBEjLf3C2+swCvc3kGA="
+        "uri": "NMGy7uJS79+JHaNJseSgPNY7Te0Q03vW0Rvv2Wm7s++8oKwXcUaEe5ZiVia2St70"
       },
       {
         "name": "A través de mi ventana 3: A través de tu mirada",
         "icon": "https://image.tmdb.org/t/p/w200//1RxPBKMpHlcm5PORiPo6LHUV2ft.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRd6WwwhC+mR+kHQkiufMmJzfch9/A1GvU3v+/onKGLGdcnmCVZqsCfuKvlw7uREDC4="
+        "uri": "NMGy7uJS79+JHaNJseSgPE8SQWpPNjiQuP3PCdo0X0l1ECTWTssxI1oPYHrTiuIR"
       },
       {
         "name": "Beekeeper: El protector",
         "icon": "https://image.tmdb.org/t/p/w200//gBdhYoROX6SHE3vVnBfEHI7Ojma.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRe4DpCXe/R3iVlH4mK3FLP2JEthsw5EsNaOWxLImYZ9XZfqX21/OyfpJFSMIW2s+uY="
-      },
-      {
-        "name": "Bob Marley: One Love",
-        "icon": "https://image.tmdb.org/t/p/w200//ayaApnFGwc6hHJHry59GjfWuTSK.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRf8rS88raovqFqNm15UNCrqji7J+ynQ1FDX1JciSMiXLMnmCVZqsCfuKvlw7uREDC4="
+        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4Wjj1owS3X0NfZ4JKeemcgG00o5ThOme1SyORXwg8ThB+TwQOT36kpQCMSDbLJ7bkU="
       },
       {
         "name": "Boonie Bears. Código Guardián",
@@ -239,14 +219,9 @@
         "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW74jcVdofHYiXlyAMOZoWetG2TOZIoaz9pqPcybejmL8+XDnp7DSEKgwW0DhjxaY5d8ti2+MMBGIDwFmHZFYwx"
       },
       {
-        "name": "Bosco",
-        "icon": "https://image.tmdb.org/t/p/w200//ish5LHKS9JdETBsRFSlthK6icvM.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRde2debojYJsaDe9MN0x5UEyeYJVmqwJ+4q+XDu5EQMLg=="
-      },
-      {
         "name": "Cazadores en tierra inhóspita",
         "icon": "https://image.tmdb.org/t/p/w200//jPGbcbMlzGUECukPhkEMVt1Kvs5.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRejtkPRUVKm2n8tWAjdnWu3nMJMMxTwQHgLf0Y2LvF8DA88Pa6T1LT5r1cFZJUOUMOX6l9tfzsn6SRUjCFtrPrm"
+        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4VaaQH+Bft7Ab4N3Aa/jjPmbXo8c1f7/kD0P8rntgZudg=="
       },
       {
         "name": "Nahir",
@@ -261,7 +236,7 @@
       {
         "name": "El reino del planeta de los simios",
         "icon": "https://image.tmdb.org/t/p/w200//kkFn3KM47Qq4Wjhd8GuFfe3LX27.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRedbYZMjUly7cVlKnML/a2XpNj1Yh3pbgk5SIV086wP67nCgIcPOWu0yIq9uDYN881avBN5i/245BsIV5+Za+Vz"
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmWoq0n/CSEJr9U5ZPXZBKURbJN+OoiDl87SAx5jlQQCaHg7I78ByCY2z3LKUmxIXdigFF49XPD7UNV69o3/BDLVESJchgBLmfzoyVnZvcihy4FcBjwWTdwuVz//8BLrtuWQFYDWozi/x8xlGu8E9OFFtOQkVeUk45j/860BU4TZIcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4OaaTLeTvR8nUNzwR30hOPFVSYQdrD1N+QpGCQ3+4wNYFudCD5loH8ObUH/wl/DR2H8KnlukEDUr56xpkAvI8LxjS2VicigBJYaaTzoZvXQx4y46F0+6z7IEfOip4OOAFr1+b8ofqMyoDExpCiIB7yotbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
       },
       {
         "name": "La idea de Tenerte",
@@ -291,7 +266,7 @@
       {
         "name": "Furiosa Mad Max",
         "icon": "https://i.imgur.com/TwcvzdY.png",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRd45GX2APCs7/0my5rbyLlaIVH/m2phbkTAx/oaQB1iuw=="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmRJMiFI4rQ14ZVkPSWqZrwAbvDhDiadhmv7h7e/GumRgDE5s4ttIwieqiwG5bTg0ysKCQpxmzgK6Q33unABoo87dOfyAQMZEC15Bnl+neG/R7ihPqIYZ2rUV2p2tox2nzxwnegSGacmQEE+4J9Y1ZImC0sRUxen/d56wO0QEtXEx+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsLHl5TO0zrlVnErEP4pB3n2hmLfWTnNZsGKM77z9fvqH7ZZcffVnFQ1luUdtp5yf6gLXL+dUo/9P4RtUQfQgpldrqYmUF3IVZsT94PhrjftE4Kikfkgct5lULsdC7OuCU/ABETOv09q2zQ4MZ3/N6qE+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "name": "Furiosa Mad Max OP2",
@@ -301,32 +276,17 @@
       {
         "name": "Cazafantasmas: Imperio helado",
         "icon": "https://image.tmdb.org/t/p/w200//fIUqk6Pjo3uf5RiOGT19KQ53ekq.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdjPNaEDOH3z1AZwTi1H1fudjFe/Ww/1SXr+/IbvVWjBGB+OdZ3tPD1M27tlkD1H5FavBN5i/245BsIV5+Za+Vz"
+        "uri": "rzE4ESFfH5rHehYi9rHcd7lUCcYCtW4JLW9Ce1YRH3K+QCe+XHWcmSTZWI2OtOHhmlLOUkNJwBLu7b5yvxckzebqf69xpnvDpxOP8hFsdMTH2Haa/40ZdG8XixvU1YdS3Yra0kIM2ch7hpBnFHe9QkqKIvaxTco5Nu+fDIwi+szcCT6HXs01U5bbYbmx6pgbi+dPYotx3gH35k0rzXqH4EwZOlszGbbINSS/oZMhjwuEzDj+0NHxACx/JOcH5c4llmwXQDOQ359XKhlmtpMbF6F1ZIoeO5eUqnxi8bqlAD+enL+pwMjmyYFg0HL72P4NUaJvTGwujBokBGZTnBK7wOhE4C9PlUmk8W7su8/Q/+2RGtWEP5hX0goN9BQjFG9bxXxRhCVjoWTzdjfz9cMgZJ7K2w6f/oO5BR4KC6qmnYF5RqhZ4YjrrNPLZCb1YxnBduUWaUDZn2kPj9ieUOm5D86QVraUg9w30oFxfY1GFljx0+CJLGTsppPy69yN99j6xT8sF/CIROYmwVaIwN5cXA=="
       },
       {
         "name": "Chicas malas",
         "icon": "https://image.tmdb.org/t/p/w200//OcZPwR89CM8ay8asq3J4XFeKII.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprReauSgK08b2QbXzjeU2rAZkO/gLpjAS+w3fK/h39lkZfkamdCMyeaeLLActuir+olM="
-      },
-      {
-        "name": "Código 8 (Parte 2)",
-        "icon": "https://image.tmdb.org/t/p/w200//b00zs9USt7Qwd1po8Dm5tt0JUU9.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdnhXV7SIJG3cyJL9BUOgH74YFS3mmBJK15VSiEsqX5L9GHcJhqIu2MTaCrQv4M5Czk8EDk9+pKUAjEg2yye25F"
+        "uri": "rtSHq1FI7MQ49G7ciMRwhbWbpnU2SkYetMFeAnqGDduqK0LCD3OSDLFCDlfuYg49"
       },
       {
         "name": "Guardianes de la noche: Kimetsu no Yaiba - Rumbo al Entrenamiento de los Pilares",
         "icon": "https://image.tmdb.org/t/p/w200//8g56u2k9CvMHP5IG257QVj9gj1b.jpg",
         "uri": "rtSHq1FI7MQ49G7ciMRwhcrpFC01B44Zl1/7Oeyl0uRVxQzFrSNiYYoG522U8xxm"
-      },
-      {
-        "name": "El retorno de los Thunderman",
-        "icon": "https://image.tmdb.org/t/p/w200//u9F0QlZwwecGE9eHaaGKzx3pSS0.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRfyFR2mf2VkG8+R/qGqjANYqGwQIlqwfmeXHttmAsykYVjAuzJ3/Kncbh75BUug6QiX6l9tfzsn6SRUjCFtrPrm"
-      },
-      {
-        "name": "El Roomie",
-        "icon": "https://image.tmdb.org/t/p/w200//zaRzz2BxjxIVb7ja0gSedj1Hn1E.jpg",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRe0hpTeLms1lS2DdOYhA9sgPd8HxNo51Hv1Ju2LkEv7bA=="
       },
       {
         "name": "Posesión infernal (Evil Dead)",
@@ -367,7 +327,7 @@
       {
         "icon": "https://i.postimg.cc/66dYzGS7/image.png",
         "name": "Ricky Stanicki",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRdOu2ySV9pCxbztrXxPEmGzIjTuhXjVJbuUaH5XX3IJggmNWJnmQGNiMD+8ekWItSo2/C7RJMUYUOt4rCUkl+4k"
+        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4XbPu7ldVXaSFG9v2wVSjDrLTYED6bWGDp4o5auD/Tw/w=="
       },
       {
         "icon": "https://i.postimg.cc/FsVCFJVt/image.png",
@@ -387,12 +347,7 @@
       {
         "icon": "https://i.postimg.cc/sDFczvzp/image.png",
         "name": "Guerra sin reglas",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRfG+A2ybX1lEog8PTRxikCXq6/iqYXdN93dRVtI2T2LW7ln44WktSq807qu2JPbQkLJ5glWarAn7ir5cO7kRAwu"
-      },
-      {
-        "icon": "https://i.postimg.cc/BvzJHxpz/image.png",
-        "name": "ICE STORM",
-        "uri": "zn5AIZ5f4UuDzLHbKxKD6/dQp+rEx662vzq0Z0bprRfQCIR80KUExtVeoDV1CFS2yVlavCCE3NOR8jDm0IxRZMWAMhGcxlr3xuobIcHvvMk="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVjvmPJQ9odJpzm31sl+rEbaiOuR9s+JENG1HbinOvUCcjmjUdj/UN/VNK8VqZNtlTZcoTCRFRann1dZpCqqzaTnTBF6wiadNoLiPrT4CQ8WH7jylL0/PdoqTusHWzg2rq3+zUD5nO6rIgY2NMYrNwqQndqhbReENkXryVDtAuFW+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsLHl5TO0zrlVnErEP4pB3n2hmLfWTnNZsGKM77z9fvqH7ZZcffVnFQ1luUdtp5yf6gLXL+dUo/9P4RtUQfQgpldrqYmUF3IVZsT94PhrjftE4Kikfkgct5lULsdC7OuCU/ABETOv09q2zQ4MZ3/N6qE+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "icon": "http://imgfz.com/i/VDv0xPI.png",
