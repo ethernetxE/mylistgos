@@ -1106,6 +1106,13 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento Boca",
+        "drm_scheme": "clearkey",
+        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
+      },
+      {
         "icon": "https://i.imgur.com/aBPvD7n.png",
         "name": "Evento DS",
         "uri": "0VuSm9eUEeFjopYQDLEo4CV5FZRzRHXUEzQcXU0Lq/N5TmJsU5JCXURZnpDt2va7g+1fjRay6aAt0aZmUSJHhA=="
@@ -1163,13 +1170,6 @@
         "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
         "name": "Evento",
         "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
-      },
-      {
-        "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento 1",
-        "drm_scheme": "clearkey",
-        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
