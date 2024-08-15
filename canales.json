@@ -43,22 +43,11 @@
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK2r2H5t37t4RBMYJluBYGj3qwQUR6eDx+hyprOzGH5muQaC8lU8dj/g0iqlim/qT2g=="
       },
       {
-        "name": "Telefe",
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
-        "temporada": [
-          {
-            "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
-            "name": "Telefe OP1",
-            "uri": "v5P357se895dBAVPogGrpOZsMTKA2e2+qeQIGK16fuPt54ZtSeCVre0wDWT1NuJDd45FY3Iu+B7lixBwgQZpvHL9hQTSucdH4OYnL87clUM="
-          },
-          {
-            "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
-            "name": "Telefe OP2",
-            "drm_scheme": "clearkey",
-            "uri": "HGqu1Kxmu21DgmpR+7xaZPMzc1HrkhBEglLZIcs4IAmysRtoLA8GQyPzAbffMDlYYAs+jXmOYB8XeKyL9UILdeoYK4biYj7sD1WirVJzCfIVQmGaNNJWRWv119lxwfjV",
-            "drm_license_url": "5/tvCXUmcT2NjZEkUqLkKyXZWGosXiCrhpJXwveeRY8A086OakJ8vkMyzgeW0qNO/LuKnsoJb/0j5acM6WxKqw=="
-          }
-        ]
+        "name": "Telefe OP2",
+        "drm_scheme": "clearkey",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZPMzc1HrkhBEglLZIcs4IAmysRtoLA8GQyPzAbffMDlYYAs+jXmOYB8XeKyL9UILdeoYK4biYj7sD1WirVJzCfIVQmGaNNJWRWv119lxwfjV",
+        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkKyXZWGosXiCrhpJXwveeRY8A086OakJ8vkMyzgeW0qNO/LuKnsoJb/0j5acM6WxKqw=="
       },
       {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/175.png",
@@ -318,11 +307,6 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBXvzAQTaw2oJbK0xbrzFTHtXrRSE6k8nYlIc/ghKklSvo+jZJ3u7l2mP0HwJsKAeqKXV5D5Ois2fw4gJ/lAQJaCy05Z22di6+x7d9NT/Qjqo8YwevN8T0wKjUj49nJ0Xg=="
       },
       {
-        "name": "8 San juan",
-        "uri": "v5P357se895dBAVPogGrpIEII3zYerTz3ojlBy3iudGR9NB53vXRPLytj79+MnGvc7LrWvNcASb/DVCodCUMGbdNMpsIdPAWvzr+edAt6bn1XuwbbQXky61PR+e3h8g0",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es"
-      },
-      {
         "name": "8 San juan op2",
         "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoBiZmdofUrvYsxqngkX5RLB9XzhaTpoAdAmjC5KbRaLy1tltpx/1QpExuAWbqEyZDeAAZtT3xF9nvgCprDMkJXcGg4FUS1qtVUStfopLjKey",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es"
@@ -331,11 +315,6 @@
         "name": "Canal 34 San juan",
         "uri": "upZEItFQooKPZrqSTNm0F0cGTnIm1fYP1HzRQacBMreKj8E58CxUe9h6QRPvyaRmN0OFkgXRg6QAogcBWnQp+Q==",
         "icon": "https://latinartv.com/sites/default/files/styles/poster/public/logos/82536410_1298596117000777_4339975353511444480_o_0.png?itok=zbFF-GkD"
-      },
-      {
-        "name": "Telesol San juan ",
-        "uri": "v5P357se895dBAVPogGrpBnkkt0az2OpYG6MVfg0WyW0u4d0v7JpIPD84Zzl+H+Qy4hB1ThuWnbFyPfNXnAGpmLU1cinmRr3ju+K4mHxdSA1L+yQddMLGnDOTlZsrJZk",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/e/ee/Canal5telesol2016logo.png/revision/latest/scale-to-width-down/170?cb=20210525135451&path-prefix=es"
       },
       {
         "name": "13 San juan ",
@@ -1294,11 +1273,6 @@
         "icon": "https://i.imgur.com/vsjtKgI.png",
         "name": "Presencia Kids",
         "uri": "IAe2wt0lITUGQtL3Ks5T/Pat6NlCi4foPEkjW5k5uMUW7VBGAybLlO8jJLqMm07F3tqfNSM04C/4xDT7yzznmSGFPonhW4D5sHGXbPJPhgY="
-      },
-      {
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/0/04/The_Simpsons_30th_Anniversary_2017.jpg/revision/latest/scale-to-width-down/150?cb=20210413151547&path-prefix=es",
-        "name": "The Simpson",
-        "uri": "v5P357se895dBAVPogGrpIEII3zYerTz3ojlBy3iudGR9NB53vXRPLytj79+MnGvc7LrWvNcASb/DVCodCUMGQtjyvsQ5/kn2wM6Y1+XGV8+OZoyYh4E47JW1P1D2soJ"
       },
       {
         "name": "Looney Tunes",
