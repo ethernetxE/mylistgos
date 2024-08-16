@@ -1,5 +1,79 @@
 [
   {
+    "name": "Eventos Deportivos",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento",
+        "drm_scheme": "clearkey",
+        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
+      },
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento 2",
+        "drm_scheme": "clearkey",
+        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
+      },
+      {
+        "name": "Bein Sportxtra ñ",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
+        "uri": "i7ZO9dGso9GfbyohG4x/qTkx5ILha8oo834VMEoYsER1bFmPTt8z1SklW2rM6YJvsuY+S3Ncb3DMUCp4WtRsy8Fkq830ckczxmIFRTmA1KvyM2MN5ivs1M1NCHhRGYdwk3fovWSClyWI/KBBYDrIwkAVtGMVA/1sajZ02HWyfsePjbZA6LGphwbR8bnGfN3G4D1VxTHlfhENYdWB0tds9Z2SC2PdoPZC1tMIYqugOLDX5OS5bLm0DfFq6vqqlJX2sxd+yaj9EXx2uOHb7FEb7OryGRhMK4yIfNR5OGGq7veE/jE+3i5Dg9MIE3qMyK1FQO3WUIj/Jj1UH89Mm4B7OeQCwltzsu4CSZwQE3kwz2D8MkhAaPfR0mIdmLIeZ9npwSLoGyCNRHQbA7RaFvqC1cPvNeIhqbn6RHg661tiUWZ69tAVtf5ZmHdVFAhKlyzS4ZrDVYDV8exe/RvWutw7goMf0tnvg4M5T5u4mO0Uiz9EkRflZlC24/+4UYQkUhKgD21pvD5/fJQH7FS/xzbAT03Gcf99ySQg200c4XLQJYte8Im6XND2qwi+Nr/7DwNJLd7rky/a6iPSTi0qVjSppmPaikJWZJQrYTOwciPhWdQ="
+      },
+      {
+        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "name": "Evento GV 1",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9P5S3PR/e/oVFCsmg3vezzIYU+ieFbgPmwcZds8k+GBg=="
+      },
+      {
+        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "name": "Evento GV 2",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV Plus",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
+      },
+      {
+        "name": "Gol TV",
+        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
+        "uri": "GnVl6Pg8ig32JTQw9MnNodv0TDxKDDML/Z2p7bZ156o="
+      },
+      {
+        "name": "Gol TV (Event uruguay)",
+        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
+        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaB+d8BSJVqueY3ftBcxP0xyg=="
+      },
+      {
+        "name": "Gol TV (Event uruguay) OP2",
+        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
+        "uri": "Bt+2uZTeglkiivQePGzMaOTYJBISD84uqinP7VkdIwaw35YRVHUjBJwWUsoJwjcE"
+      },
+      {
+        "name": "Gol TV Solo Celular",
+        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
+        "uri": "IqGFbYbH3ySSu2qMGd3a3reusK+wgJpYHPuR1mOYj+K2InlCiCXyVP+0UIYNGVLy"
+      },
+      {
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "drm_scheme": "clearkey",
+        "uri": "XJvEwRo10TW4M+k9teng73jd8/jdB7wjticnyMaKdd01vF4AdtrsFIKj5IOLkwqpwx8dc/1RVei/5LKzo89wHQI82ghU+zqihQgw8YRhxNYQDiSAu6kL5lL7Lg2qeRFCEpWo7tVVtOnWFeepUyYrwArC73Wl+Tb79koZkdkO53KTT564KIuGVXd797ejgUyO5phWjCzi+eN+Z89q+wJCv0tm/TEMwCFSS8obbykubHplIjZ6XSoVoFladyDIve1B8e151DMyAbLi9ZMXJlAxCPPs4t1zclOPJCyIWvlMbis=",
+        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVBzxkoRGtQx9wC4s0apShaGJIO3BZJK+BdS+JJM39biw"
+      },
+      {
+        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
+        "name": "Evento",
+        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
+      }
+    ]
+  },
+  {
     "name": "NACIONALES",
     "mode": false,
     "lista": [
@@ -307,9 +381,14 @@
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBXvzAQTaw2oJbK0xbrzFTHtXrRSE6k8nYlIc/ghKklSvo+jZJ3u7l2mP0HwJsKAeqKXV5D5Ois2fw4gJ/lAQJaCy05Z22di6+x7d9NT/Qjqo8YwevN8T0wKjUj49nJ0Xg=="
       },
       {
-        "name": "8 San juan op2",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoBiZmdofUrvYsxqngkX5RLB9XzhaTpoAdAmjC5KbRaLy1tltpx/1QpExuAWbqEyZDeAAZtT3xF9nvgCprDMkJXcGg4FUS1qtVUStfopLjKey",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es"
+        "name": "8 San juan",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoBiZmdofUrvYsxqngkX5RLB9XzhaTpoAdAmjC5KbRaLy1tltpx/1QpExuAWbqEyZDeAAZtT3xF9nvgCprDMkJXcGg4FUS1qtVUStfopLjKey"
+      },
+      {
+        "name": "Telesol",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/5/58/Canal_Ocho_San_Juan_%28Logo_2015%29.png/revision/latest/scale-to-width-down/200?cb=20210525192800&path-prefix=es",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opiNblT3agm+9BAAA+GwHPt2WxNLqK7PbNwPOynsDh97vmod1NziFz/rRx33ex4Xj9lvlv6AvtC/PaY/2pDhaNUXrb92DXp/Ab3cy5kq7DNdI2/C7RJMUYUOt4rCUkl+4k"
       },
       {
         "name": "Canal 34 San juan",
@@ -318,8 +397,13 @@
       },
       {
         "name": "13 San juan ",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoHPnz/bJ6PGpGQ6f2L1W/5zUj52/rjKWE0X02spdW5TRuly4+lu0AaMYaYIneHYH7DYiHf1L1ifIA00T+5oBmPk=",
-        "icon": "https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es"
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/2/20/C13sjlogo.svg/revision/latest/scale-to-width-down/175?cb=20210526222043&path-prefix=es",
+        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631op3TgbAvNzxFOqwVdtacsfoHPnz/bJ6PGpGQ6f2L1W/5zUj52/rjKWE0X02spdW5TRuly4+lu0AaMYaYIneHYH7DYiHf1L1ifIA00T+5oBmPk="
+      },
+      {
+        "name": "Bayres",
+        "icon": "https://bayrestv.com.ar/assets/logo-bayres-tv.png",
+        "uri": "f8Ke7lgOqYUOR9ykRNbCwK0cEZeEJIuA+qTz3WzNNiBVEsvKZeOE3klk3/Dr8AGW3A+ZXqbW5d774xRzlzmslQ=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/3/35/San_Luis_%2B_%28Logo_2023%29.png/revision/latest/scale-to-width-down/250?cb=20240627181044",
@@ -1098,85 +1182,6 @@
         "name": "TYC SPORTS (PLAY 11)",
         "uri": "wiP4hhfNy8xFLHl4w6B4qHOCYKgcLSildudpRnb1NBjrxRyB+ZG1JwuaIChPEGM1P79SqnYMVcf9QP0eEDM+zfiynfXsdDmsoIjESjFSUOnTg3qMVHjI3sppF1dnFtFu",
         "icon": "https://i.ibb.co/85X5fTw/tycsportplay.png"
-      }
-    ]
-  },
-  {
-    "name": "Eventos ",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento Boca",
-        "drm_scheme": "clearkey",
-        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento DS",
-        "uri": "0VuSm9eUEeFjopYQDLEo4CV5FZRzRHXUEzQcXU0Lq/N5TmJsU5JCXURZnpDt2va7g+1fjRay6aAt0aZmUSJHhA=="
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento DS",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento DS",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9P5S3PR/e/oVFCsmg3vezzIYU+ieFbgPmwcZds8k+GBg=="
-      },
-      {
-        "icon": "https://i.postimg.cc/1Xj2q0Dz/image.png",
-        "name": "Evento",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaBEZpgPipIkEoE/rkiVddReg=="
-      },
-      {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV Plus",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
-      },
-      {
-        "name": "Gol TV",
-        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
-        "uri": "GnVl6Pg8ig32JTQw9MnNodv0TDxKDDML/Z2p7bZ156o="
-      },
-      {
-        "name": "Gol TV (Event uruguay)",
-        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
-        "uri": "cqSAeA15QHtp0vkrgiAzDz6E7VrDfrBAV1EUnTSgrUPf5vA70FJ74Mu8EF4tULaB+d8BSJVqueY3ftBcxP0xyg=="
-      },
-      {
-        "name": "Gol TV (Event uruguay) OP2",
-        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
-        "uri": "Bt+2uZTeglkiivQePGzMaOTYJBISD84uqinP7VkdIwaw35YRVHUjBJwWUsoJwjcE"
-      },
-      {
-        "name": "Gol TV Solo Celular",
-        "icon": "https://static.wikia.nocookie.net/tvcable/images/4/40/Goltv.png/revision/latest?cb=20110521014700&path-prefix=es",
-        "uri": "IqGFbYbH3ySSu2qMGd3a3reusK+wgJpYHPuR1mOYj+K2InlCiCXyVP+0UIYNGVLy"
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
-        "name": "Evento",
-        "drm_scheme": "clearkey",
-        "uri": "XJvEwRo10TW4M+k9teng73jd8/jdB7wjticnyMaKdd01vF4AdtrsFIKj5IOLkwqpwx8dc/1RVei/5LKzo89wHQI82ghU+zqihQgw8YRhxNYQDiSAu6kL5lL7Lg2qeRFCEpWo7tVVtOnWFeepUyYrwArC73Wl+Tb79koZkdkO53KTT564KIuGVXd797ejgUyO5phWjCzi+eN+Z89q+wJCv0tm/TEMwCFSS8obbykubHplIjZ6XSoVoFladyDIve1B8e151DMyAbLi9ZMXJlAxCPPs4t1zclOPJCyIWvlMbis=",
-        "drm_license_url": "15AQQTjEGG3bRJOUgpAAVBzxkoRGtQx9wC4s0apShaGJIO3BZJK+BdS+JJM39biw"
-      },
-      {
-        "icon": "https://w7.pngwing.com/pngs/85/321/png-transparent-football-cricket-balls-ball-white-sports-equipment-sports-thumbnail.png",
-        "name": "Evento",
-        "uri": "aDzhv9qs/s+KA51F7EQ6OXvqerOi/n5+n497dFnVFrOqhqBQR5U/85N9cC3J9njwYdgyP40whDWZxCafv4JtN9gkdaHI+zJ9Ws2te7V7EWM="
-      },
-      {
-        "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento 2",
-        "drm_scheme": "clearkey",
-        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
       }
     ]
   },
