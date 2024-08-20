@@ -309,6 +309,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/FOCzOeZ.png",
+        "name": "Top Secret",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo/y0jCCDxonrmfFZ/jsvnFF3kQ6Qi5w6wU8ypRDXNEJJc1A2dWWBO6jSGizOJZbbagmETIMZXTXMym/6y1WDYtzkUd8Ugb+WfEGBlpdkiBTYAvbHw2j+IR0s4sv5VrRNHF9s2AtWf/29jl6PWg5pZFhoSs5eUmoLUhG7oGSWqKfyku/N5cbACBXYToR9mln0wfV361fGEynQh0bbQl9mbbsG0HvuXBDARVXAq4JxTtsJCfQ/tiK34eLN9ZdOq6V+STQ5pDFJRjIecAD91uWqfBwbra+NBnVBIs3Q51B/ZKFhT+mjXnig9eLdCbaPDATuLZ6ZRBIOcoQowiPvuRg4YyWoNVykfd13+qcx26VN+yo68ydy4+WXXhoMw47ekBZvCh9Nr+5aBrPXTYgBM+9unSjrfRgItclSyzjpxUtQ+uUT31f20Z0VjKRDJEK+Rhhle3bbpg7m3gOqBrz80o5SrnNHJUeOYG1hPyzPlI6EV/Gj931q1u6+o9HXhLixOxPcwMNKUFAHgska0M9jt/tELXhHYKbwHYPzn07P6pLRP5oo="
+      },
+      {
+        "icon": "https://i.imgur.com/B6hNhFn.png",
+        "name": "El Discurso del Rey",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo/y0jCCDxonrmfFZ/jsvnFA5VJVa/Slym7O5SMhabIsHJJa/Ek3XPK5oTzWLzAJNbxHLgxqRzyrfVNOEMKYd0vUPQiAshMERsja3MCouc+wCYoxW6sO1e+w+GGpx2wmjqqNsUfRWDBvsiOQ0+uJWggG87MWxa5mxRcb1yyKQMm9PitJWu7VY9dj7p4flkDfD/+vMjiODC91BMrolOoiNRWG+/s2IUnNaW7nDkLGJF/xugO57CmQuVCZCRucm7O/QyRH519eGf942Lk9gorihbzjqHWuOXO/CnAUS5P4ID67goIb7QPCMDb/MIAqrrzBEafFEgTO89RcJsiHbrtrR1B+r+hQr8SxEh7HKHV3nvm34O2rm6eR2HJVdj+JtkdJ6X5pq0BP9Oc8HEQvli4UMdiD2IhK6d5uhr2hHVpFuE1eYTLFYATrTaBLTTFhS6gPU71N4hz0uW1RPuxhIAmS9eZtHJUeOYG1hPyzPlI6EV/Gj931q1u6+o9HXhLixOxPcwMNKUFAHgska0M9jt/tELXhHYKbwHYPzn07P6pLRP5oo="
+      },
+      {
+        "icon": "https://i.imgur.com/4wtpp26.png",
+        "name": "Camino hacia el Terror",
+        "uri": "G+nX/lnghMlDiVBvRRJwZolV8uOmO/EatvpbYT/AXT4TUd9xPkr5B5foK4n7kEVFzs0D3CCm4OcULSTl7iw0+e8C9Og6oOz5WxZ7V2zssO4W9RbwUNLkyH6Rj9EclI0P9V7sG20F5MutT0fnt4fINA=="
+      },
+      {
         "icon": "https://static.cinepolis.com.ar/posters/1785/w500/milagros-inesperadosjpg",
         "name": "Milagros inesperados",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVB40e4ZP9eQvHfPHkf4b5w+tG1w+auE24vmk5I3Tkx+/bN3VPyZzg2G66L/oiS9zJx4Mqow25K9gUpCvMMa95bvSqC3JpCLrNnqWgI4g+0XxAt+f1W/8UltA+O2LGUf4Cae0z1GjzaQ3mLF21jDQ7oIElDuwSutTCCabAzF6CdC+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsIIdfzX742Bblp29mx2F0lF7sDzcEEJHqot7DjFhGCueQkukNXx/ocd7UnagEcXc6BFx94SbaD9/a8X+UzQpcFBa4xe2wTO3VvpmcBMIEXL/MmR6SqSpP1EXivHntLFOwAZsAjENmZmEORiNeDJ9IYf+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
