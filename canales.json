@@ -1603,175 +1603,6 @@
         "drm_license_url": "5/tvCXUmcT2NjZEkUqLkKyHmm8WfPid9E6+K9/s2mQ2nB2ahjgv04XyarM4X2fGcB5IDyz1f+Yu9yTqZDMkp+A=="
       },
       {
-        "name": "AXN MOVIES OP2",
-        "uri": "+pdt9b77DgqycjmKreL+gVK6h4r0MD+K4nmboVYJbXywe8YpRnWjl4DaeiiI/WYSM6Sm5Rx/9kQd1u3uZGeDRmVeQ6ZXJVwxXeHYCY9QSTfNP3smXO6XIzE9lwf3YHvG",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gBBpnVmpBBoMB4siq9Re3mQ32GA9FImku/UTPur7L0uX47IdQ23R3uOZXzmzxhxNyyXAtzevGpi48gN3cxUw3L1Gz7txIB+gEiTCOdnk97CGWGaonRbfh5GYD6ybZHbFKg==",
-        "icon": "https://i0.wp.com/jungle-team.com/wp-content/uploads/2023/05/1_0_1_7471_3F0_1_C00000_0_0_0.png?resize=440%2C264&ssl=1"
-      },
-      {
-        "name": "BOM CINE",
-        "uri": "+pdt9b77DgqycjmKreL+gVK6h4r0MD+K4nmboVYJbXzse6j6lbh/JcJSTtEBTkujcOEArV0t11WTm8vP8qvZ/SgrQFes+HyNqE8nvra7t+m2X9OREs+RNflgZ5po0kSV",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLPW0ygwD9xp/sEEbxAqMKyMQ70MNptomfJgx6rRr+VOb3wr55iD4IRJ10FQHEg9uK4r16z1cesChCXh8GbjWRsFYbHyDd1RKvifvP+pkk5xtrue4wtyZ3FQVgHrU5qc4w==",
-        "icon": "https://i.ibb.co/QcsBgzQ/bom-cine.png"
-      },
-      {
-        "name": "CINES VERDI TV",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97282U+Pcpb42NQKFENAe8VIdeahSSDAM3eFXyneruU7V3b5vm+FSnncp/fHeLDU12",
-        "icon": "https://i.ibb.co/mTXvbjM/verditv.png"
-      },
-      {
-        "name": "CINE FEEL GOOD",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97282U+Pcpb42NQKFENAe8VJjGz6mHg/CL35BcTg60C853b5vm+FSnncp/fHeLDU12",
-        "icon": "https://i.ibb.co/0MsDtN8/cine-feel-good.png"
-      },
-      {
-        "name": "ACONTRA+ CINE",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97K/5nEjnzlkZy2QGPXdmMUP5Pqg+gcOpgNtV/b3Y2D12Ua312Z6EncyyrgZMQxh+y",
-        "icon": "https://i.ibb.co/vPqtXXK/acontra.png"
-      },
-      {
-        "name": "CINE FRIKI",
-        "uri": "8HRv+Y8dbtTKlEc1glKBxBv5h85p1tX0dm6DiBN/WmlJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmRe65X/ZGvy373mKejNnxdi45mP8QW4S+LgJmOMoQIuQE2lTn3uW8Sci9EVD5tar6dfgve2KvjkbStu+KAx6NzozIqfaQQu8zOCiQTrq991FW8MKmLTBS6swuR7O1fxfpJ6Sr20P0skI1uDxTXMOi0q/xT69buqewc0KuZ1Je0CPYO7o+umRgyjiu6cnNqlmMNZekVUcXuMRVNeodaAezd4+/c1b3naAZm97y9z+cCpszari0al95yGWQ0BXfZfHZgCeg3qL/sryaDJ6GTEfqV9",
-        "icon": "https://i.ibb.co/WsZg54D/cine-friky.png"
-      },
-      {
-        "name": "FILM&CO",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCER7H162ssKg1OTwPwnGbBOlk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/KyD623Z/Film-and-Co.png"
-      },
-      {
-        "name": "CINE CLÁSICO",
-        "uri": "RKtBa27l4k802Ed/G/cIH+TJFoIeLybvqLfIhoSTNElSXLIZxAwZd9R15N+/Dojriw/RpSkSS2i5ta6T3xqftmHpXfI8A9oc7BtyH1aUBmMhsyK89PsaThNLHmrTvAUbN0OFkgXRg6QAogcBWnQp+Q==",
-        "icon": "https://i.ibb.co/R9CMH3V/cine-clasico.jpg"
-      },
-      {
-        "name": "CLOVER CHANNEL",
-        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97y9JvUIjx+ZjvNBCMMgtFWvlRuuWfzanP2mbAbVTM0+x3b5vm+FSnncp/fHeLDU12",
-        "icon": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
-      },
-      {
-        "name": "MYTIME MOVIE NETWORK",
-        "uri": "BETWvxHjpgwF1GzH1VIdpZHxWJPBKe6WE1Fgn5dLbX2wQX/hi0PCbsbIjg2LrCeFwTm1xOc983AqCdZ71aiqcw==",
-        "icon": "https://i.ibb.co/pnQ4pkv/mytimemovienetworkspain.jpg"
-      },
-      {
-        "name": "RAKUTEN TV ACTION",
-        "uri": "DanulE/tPOUqRHCy+Q9g37vb/D5w3Oexbizb7sW7enWLdvFohncwGEKHfL4D+V2txHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV CINE ESPAÑOL",
-        "uri": "DanulE/tPOUqRHCy+Q9g36GYMkoqGdbIk2FSwLhw6g5sgr6ZbUCExo7xRy2hmhg6xHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV COMEDY",
-        "uri": "DanulE/tPOUqRHCy+Q9g3yPNUhaJ0cr1MPnkpTRLZIxsgr6ZbUCExo7xRy2hmhg6xHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV ESTILO Y VIDA",
-        "uri": "DanulE/tPOUqRHCy+Q9g32X6l7l0EUgvd504jGZWUM9Gj18CDtlO5ZDe/iMSfcAWxHhAGahC15SwVbiRxlSxyA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV FAMILY",
-        "uri": "DanulE/tPOUqRHCy+Q9g37yaFHSDBdtqfULbMNpYzQscATpm9JYZN7DDtZXOVBRC3rz5T4x5khQpQyI7U7hrGQ==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV ROMANCE",
-        "uri": "advRJR45JEgAoJbKj4pcGt7800VT/Sj0HegbdxDtoJk2h5cr9LhpaS8xGCQ+W7/kCXyzg/AhQsEIWWAiTZs/RIc3Lc4NuS8E/yDao4t4PM9WVtr3LzNv6vqF4h1vD+p/NYksiQMGpaDSRSbNuttAODcUsF0ZLwmOdC2T1pGMbWRq3Yxak/AmYZ1/8GdcC4d6ImrMRp+8c37LxOFtWQkWTt68+U+MeZIUKUMiO1O4axk=",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV SERIES CRIME",
-        "uri": "DanulE/tPOUqRHCy+Q9g30DcZJ8aHeb4yv1KLdyqvYFIoUkMyyZTTo4KCYKyZAoI2rhMNfQl0P826A2L/J5DaA==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV SHOWS",
-        "uri": "DanulE/tPOUqRHCy+Q9g39H5YQtTlR/A7iCzBjj9PnTqMkBw9kLFGICK+jy6awBes5Oxanhcr9njw5nZ72+uXg==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV SPOTLIGHT",
-        "uri": "DanulE/tPOUqRHCy+Q9g3+gnJyaIB+n9gj1FiFLvACL0QJH1xzUfrDmd2dJDQqtrwTm1xOc983AqCdZ71aiqcw==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV THRILLER",
-        "uri": "DanulE/tPOUqRHCy+Q9g3xwD41Gy7TyS3S3X5Lw1QXQ2fJUBeDxeA+I5qe8mYrZwoRjgdRaJJ/m4rkm3v9p9Qw==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN TV TOP FREE",
-        "uri": "DanulE/tPOUqRHCy+Q9g30yO7UhfdYkWSs+ZRdoPABgoLI0JJ83AUtpo7s+MwQ/LN0OFkgXRg6QAogcBWnQp+Q==",
-        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
-      },
-      {
-        "name": "RAKUTEN VIKI",
-        "uri": "gp2Vb08WN0po+sCgOLJ1PFIDLkbstS6LhQEMgmQUdRKtgGNhjEf7zBaWVq3fjTF83rz5T4x5khQpQyI7U7hrGQ==",
-        "icon": "https://i.ibb.co/WyFKJ2R/rakuten-viki.png"
-      },
-      {
-        "name": "Runtime",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCHVy01IsSGHArSE14KBMovvlk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Acción",
-        "uri": "bp/bCUMPEiwTGQguughXDd4Rbn8IbOSGi0ppqKOS0oFJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmTtypb1p9gLaBZmqZkICAGkgcpbXQnpg+eTD/oGrbL2hD45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Cine y Series",
-        "uri": "Ndy6kgy9niiHD1wprLIqS7YI0cW43V9bpZ3thMMYY72l9vg36qqBGHqz+2FKAt9NKW7Yhl7Rby9DI5hVPJysYl5PnMuCBWhVrzSpSgG0zidA9xi4aSd0uoqivUcvHg/9saR7+vX2zz7/fFpVxe4hKIekw/d/TErupKHQJLcuQhZDxYUgLm875BGNRGGLzyQj8s5OQiFoGOuMB6/ozHK5yknqJuDZmfD/DVXDQtz3xxOHj4ktJhf0yg80fiTtShawGXwY5MmooTnJ8bU0psMpozMSIJe0TzXf1stkq7nkwpbYlcc0iidiQFHWbK9bzh7qUL+6Riiu9RyX4MXtZMcwdwteprqpV5+oXSOlkOeT5VCzYqSOqpnMmP5lGpacCAxPzybNa7nB6JYj3yCDiZw9TOJGbSDzp9x0p2f3E33w+bLZQf6kDcQdZ8UERwzSY1KPn6wvrjV8w8OY0NCOSovkQauXq+RLYhMA49Z2mo40Ul63z8f8jmqUsaJeO5XVtF5HBAU3Zzjd6x3wmcZM/i2bGR8DEDnunAF/Vx/yKncfc5DoYzT4WipZpFURNYl/67D1yYMkEi4aF35bFa03qNRtDg==",
-        "icon": "https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png"
-      },
-      {
-        "name": "Runtime Clásicos",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCHAt3GrkW5bm7l8t0AUPknwlk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Comedia",
-        "uri": "fsW0EJNlpzLuSx+gN7mjyXTmPOXLFigIbpSSu63II5JJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmR+Ihcw3p4tY1Qw/YFiDL5uhsNEMck3x0anuKW5mUJBGj45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Crimen",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCEosnK4ThkdG25Cdux4Lkfplk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Familia",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCEHeAUwtq6K5vIFMciu2EoRlk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Romance",
-        "uri": "JCVNsyE/wb5d7gxUZd3bNL+LHTS6m6riAYY2Kd3m5DJJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmQyKdgzZrxHpB6O6WQjhSmzSCm90gOEUAjaqmBob2ZKnj45mjJiHgTjslbU/UPaygk=",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Series",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCFZfKztw4hxUKFjffqWKgAqPjmaMmIeBOOyVtT9Q9rKCQ==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime Thriller + Terror",
-        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCFVXm5A8y7PrEQSy29W60D7lk8EvUkX/StXKmlbDYsamA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
-        "name": "Runtime TV y Películas",
-        "uri": "jKL/GWrQke1Qk41zZ1Z6UYyi55cG9OEbZ1sf9eA/mK0nG0+MsSEl+3PDVl4ghZLix4Zk6+h3JE+4MP3pFRwryA==",
-        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
-      },
-      {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/a/a2/Golden_Blanco_2020.png/revision/latest?cb=20220131141053&path-prefix=es",
         "name": "Golden",
         "drm_scheme": "clearkey",
@@ -1981,6 +1812,131 @@
         "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh37BSOyTH6gSRtbTLxeDYKVC1yISDAB7ySd06qkKeiuex3sLuXT2+glOaNOAMV27Cg==",
         "drm_scheme": "clearkey",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gM0BT9zS8N6kDG06IehuPDywLhcs7V4iVR74QqkF/vz+A8rmHboORqMBBXhZ/FYKipGKu7hoSNf+4e5DKJsyqGZCc9g94lKVW/rXAOmJEG6GxuAfMoI3SgwUa9UMAM+nkA=="
+      },
+      {
+        "name": "CINES VERDI TV",
+        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97282U+Pcpb42NQKFENAe8VIdeahSSDAM3eFXyneruU7V3b5vm+FSnncp/fHeLDU12",
+        "icon": "https://i.ibb.co/mTXvbjM/verditv.png"
+      },
+      {
+        "name": "CINE FEEL GOOD",
+        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97282U+Pcpb42NQKFENAe8VJjGz6mHg/CL35BcTg60C853b5vm+FSnncp/fHeLDU12",
+        "icon": "https://i.ibb.co/0MsDtN8/cine-feel-good.png"
+      },
+      {
+        "name": "ACONTRA+ CINE",
+        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97K/5nEjnzlkZy2QGPXdmMUP5Pqg+gcOpgNtV/b3Y2D12Ua312Z6EncyyrgZMQxh+y",
+        "icon": "https://i.ibb.co/vPqtXXK/acontra.png"
+      },
+      {
+        "name": "CINE FRIKI",
+        "uri": "8HRv+Y8dbtTKlEc1glKBxBv5h85p1tX0dm6DiBN/WmlJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmRe65X/ZGvy373mKejNnxdi45mP8QW4S+LgJmOMoQIuQE2lTn3uW8Sci9EVD5tar6dfgve2KvjkbStu+KAx6NzozIqfaQQu8zOCiQTrq991FW8MKmLTBS6swuR7O1fxfpJ6Sr20P0skI1uDxTXMOi0q/xT69buqewc0KuZ1Je0CPYO7o+umRgyjiu6cnNqlmMNZekVUcXuMRVNeodaAezd4+/c1b3naAZm97y9z+cCpszari0al95yGWQ0BXfZfHZgCeg3qL/sryaDJ6GTEfqV9",
+        "icon": "https://i.ibb.co/WsZg54D/cine-friky.png"
+      },
+      {
+        "name": "FILM&CO",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCER7H162ssKg1OTwPwnGbBOlk8EvUkX/StXKmlbDYsamA==",
+        "icon": "https://i.ibb.co/KyD623Z/Film-and-Co.png"
+      },
+      {
+        "name": "CLOVER CHANNEL",
+        "uri": "1KR4ifCGWwlMxzUryndTlWE/68bwJf5XkRj3eyEmDxnSLHKXJwHrY1TtaZxEzC97y9JvUIjx+ZjvNBCMMgtFWvlRuuWfzanP2mbAbVTM0+x3b5vm+FSnncp/fHeLDU12",
+        "icon": "https://i.ibb.co/3vmTvjr/Clover-Channel.png"
+      },
+      {
+        "name": "MYTIME MOVIE NETWORK",
+        "uri": "BETWvxHjpgwF1GzH1VIdpZHxWJPBKe6WE1Fgn5dLbX2wQX/hi0PCbsbIjg2LrCeFwTm1xOc983AqCdZ71aiqcw==",
+        "icon": "https://i.ibb.co/pnQ4pkv/mytimemovienetworkspain.jpg"
+      },
+      {
+        "name": "RAKUTEN TV ACTION",
+        "uri": "DanulE/tPOUqRHCy+Q9g37vb/D5w3Oexbizb7sW7enWLdvFohncwGEKHfL4D+V2txHhAGahC15SwVbiRxlSxyA==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV CINE ESPAÑOL",
+        "uri": "DanulE/tPOUqRHCy+Q9g36GYMkoqGdbIk2FSwLhw6g5sgr6ZbUCExo7xRy2hmhg6xHhAGahC15SwVbiRxlSxyA==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV COMEDY",
+        "uri": "DanulE/tPOUqRHCy+Q9g3yPNUhaJ0cr1MPnkpTRLZIxsgr6ZbUCExo7xRy2hmhg6xHhAGahC15SwVbiRxlSxyA==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV ESTILO Y VIDA",
+        "uri": "DanulE/tPOUqRHCy+Q9g32X6l7l0EUgvd504jGZWUM9Gj18CDtlO5ZDe/iMSfcAWxHhAGahC15SwVbiRxlSxyA==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV FAMILY",
+        "uri": "DanulE/tPOUqRHCy+Q9g37yaFHSDBdtqfULbMNpYzQscATpm9JYZN7DDtZXOVBRC3rz5T4x5khQpQyI7U7hrGQ==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV ROMANCE",
+        "uri": "advRJR45JEgAoJbKj4pcGt7800VT/Sj0HegbdxDtoJk2h5cr9LhpaS8xGCQ+W7/kCXyzg/AhQsEIWWAiTZs/RIc3Lc4NuS8E/yDao4t4PM9WVtr3LzNv6vqF4h1vD+p/NYksiQMGpaDSRSbNuttAODcUsF0ZLwmOdC2T1pGMbWRq3Yxak/AmYZ1/8GdcC4d6ImrMRp+8c37LxOFtWQkWTt68+U+MeZIUKUMiO1O4axk=",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV SERIES CRIME",
+        "uri": "DanulE/tPOUqRHCy+Q9g30DcZJ8aHeb4yv1KLdyqvYFIoUkMyyZTTo4KCYKyZAoI2rhMNfQl0P826A2L/J5DaA==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV SHOWS",
+        "uri": "DanulE/tPOUqRHCy+Q9g39H5YQtTlR/A7iCzBjj9PnTqMkBw9kLFGICK+jy6awBes5Oxanhcr9njw5nZ72+uXg==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV THRILLER",
+        "uri": "DanulE/tPOUqRHCy+Q9g3xwD41Gy7TyS3S3X5Lw1QXQ2fJUBeDxeA+I5qe8mYrZwoRjgdRaJJ/m4rkm3v9p9Qw==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN TV TOP FREE",
+        "uri": "DanulE/tPOUqRHCy+Q9g30yO7UhfdYkWSs+ZRdoPABgoLI0JJ83AUtpo7s+MwQ/LN0OFkgXRg6QAogcBWnQp+Q==",
+        "icon": "https://i.ibb.co/ykz4NqT/rakute.png"
+      },
+      {
+        "name": "RAKUTEN VIKI",
+        "uri": "gp2Vb08WN0po+sCgOLJ1PFIDLkbstS6LhQEMgmQUdRKtgGNhjEf7zBaWVq3fjTF83rz5T4x5khQpQyI7U7hrGQ==",
+        "icon": "https://i.ibb.co/WyFKJ2R/rakuten-viki.png"
+      },
+      {
+        "name": "Runtime",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCHVy01IsSGHArSE14KBMovvlk8EvUkX/StXKmlbDYsamA==",
+        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
+      },
+      {
+        "name": "Runtime Acción",
+        "uri": "bp/bCUMPEiwTGQguughXDd4Rbn8IbOSGi0ppqKOS0oFJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmTtypb1p9gLaBZmqZkICAGkgcpbXQnpg+eTD/oGrbL2hD45mjJiHgTjslbU/UPaygk=",
+        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
+      },
+      {
+        "name": "Runtime Cine y Series",
+        "uri": "Ndy6kgy9niiHD1wprLIqS7YI0cW43V9bpZ3thMMYY72l9vg36qqBGHqz+2FKAt9NKW7Yhl7Rby9DI5hVPJysYl5PnMuCBWhVrzSpSgG0zidA9xi4aSd0uoqivUcvHg/9saR7+vX2zz7/fFpVxe4hKIekw/d/TErupKHQJLcuQhZDxYUgLm875BGNRGGLzyQj8s5OQiFoGOuMB6/ozHK5yknqJuDZmfD/DVXDQtz3xxOHj4ktJhf0yg80fiTtShawGXwY5MmooTnJ8bU0psMpozMSIJe0TzXf1stkq7nkwpbYlcc0iidiQFHWbK9bzh7qUL+6Riiu9RyX4MXtZMcwdwteprqpV5+oXSOlkOeT5VCzYqSOqpnMmP5lGpacCAxPzybNa7nB6JYj3yCDiZw9TOJGbSDzp9x0p2f3E33w+bLZQf6kDcQdZ8UERwzSY1KPn6wvrjV8w8OY0NCOSovkQauXq+RLYhMA49Z2mo40Ul63z8f8jmqUsaJeO5XVtF5HBAU3Zzjd6x3wmcZM/i2bGR8DEDnunAF/Vx/yKncfc5DoYzT4WipZpFURNYl/67D1yYMkEi4aF35bFa03qNRtDg==",
+        "icon": "https://images.pluto.tv/channels/6086d3f420fc8500075f8dbf/colorLogoPNG.png"
+      },
+      {
+        "name": "Runtime Comedia",
+        "uri": "fsW0EJNlpzLuSx+gN7mjyXTmPOXLFigIbpSSu63II5JJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmR+Ihcw3p4tY1Qw/YFiDL5uhsNEMck3x0anuKW5mUJBGj45mjJiHgTjslbU/UPaygk=",
+        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
+      },
+      {
+        "name": "Runtime Romance",
+        "uri": "JCVNsyE/wb5d7gxUZd3bNL+LHTS6m6riAYY2Kd3m5DJJb3zQha8D7Tg9SK1AF0ragJn3mYUG7N27wSE0Ek7jpinT6JsgZ7DatuxU9OV0GmQyKdgzZrxHpB6O6WQjhSmzSCm90gOEUAjaqmBob2ZKnj45mjJiHgTjslbU/UPaygk=",
+        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
+      },
+      {
+        "name": "Runtime Series",
+        "uri": "S6tFuiijFLT/pc3IrfUxEjhE/+zbg0B59Zi5mXoIrCFZfKztw4hxUKFjffqWKgAqPjmaMmIeBOOyVtT9Q9rKCQ==",
+        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
+      },
+      {
+        "name": "Runtime TV y Películas",
+        "uri": "jKL/GWrQke1Qk41zZ1Z6UYyi55cG9OEbZ1sf9eA/mK0nG0+MsSEl+3PDVl4ghZLix4Zk6+h3JE+4MP3pFRwryA==",
+        "icon": "https://i.ibb.co/5Bp9xRm/Runtime.png"
       }
     ]
   },
