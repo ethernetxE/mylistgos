@@ -154,6 +154,72 @@
         ]
       },
       {
+        "name": "Mi otra yo",
+        "icon": "https://i.imgur.com/OZSY1CD.jpeg",
+        "temporada": [
+          {
+            "name": "S01E01",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1veMdObWsIwMDw04HqaqgFFrUdUUIYIqyqY0hkGo8zWJK"
+          },
+          {
+            "name": "S01E02",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vWbZbYGT+Z7s7XreBQqR36jK6je+Wh1X946t5+XKTDoM"
+          },
+          {
+            "name": "S01E03",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vQYmhhPtV5RSnPXkobDmjsCPcFvlHaQlvCTwaQQCm+Ec"
+          },
+          {
+            "name": "S01E04",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vagbODguc36N7SKC07WfZF2VP3azWxK8IHHHVYtM5q1o"
+          },
+          {
+            "name": "S01E05",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vSVZntdtjqIJxMTwXxQW6bjifpsgTvkmGJvU2RUtoV1A"
+          },
+          {
+            "name": "S01E06",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vSc4bYbpCsD/wF8ejHbRc9zNiNc4A0hdThxzoFDQ3+il"
+          },
+          {
+            "name": "S01E07",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vXsFSSwFmHN0r/1SERiv+/71wvRPeRHWDErLKYDDAWur"
+          },
+          {
+            "name": "S01E08",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXcYqvho5grvQuP8ss26j1vc+Uc/Ag9yKHAk67OPxjYXBo90iSadLNRen6aYWeVp73"
+          },
+          {
+            "name": "S02E01",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtufXRmb8TheN/J52NFDoBCEsJdRO89UIIjNjuIHD2m9rfW"
+          },
+          {
+            "name": "S02E02",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtufWOEbHAX1sxMYkK0E1nXNGvB4kBMbkzZ2/Glq2wv2wOi"
+          },
+          {
+            "name": "S02E03",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtufR6ZqNsO67+IdPkrEYdpomXzRrjo0mFT4aFJh2F8sNBQ"
+          },
+          {
+            "name": "S02E04",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtuffqHSnhw9CUKYKPr5ELHCR0XQwDLXN7+T2CHEIBIJeCk"
+          },
+          {
+            "name": "S02E05",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtufc0Vtdc5kn79+Rch2YV1ofFw/79Fz4Vbgk3bqkT7gS60"
+          },
+          {
+            "name": "S02E06",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtufdWDuZ3XV6oRXLJ+UTTx1KkapjkSGewiRo2PJtAiCBd+"
+          },
+          {
+            "name": "S02E07",
+            "uri": "cqSAeA15QHtp0vkrgiAzD8Yd3ewBJW5WHofNKX+F0NPrhpNyoHY1VkD+vvSVxlyXtOb2xKGpZ6/T9UFBcNtufbecHAQlSpPXCiaCQwQz/Tzbh0qL1Uc0LVM+soYR6mWI"
+          }
+        ]
+      },
+      {
         "name": "Prision Break",
         "icon": "https://i.ibb.co/BgvYXWX/image.png",
         "temporada": [
