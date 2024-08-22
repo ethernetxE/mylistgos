@@ -309,6 +309,21 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/yu5LPRz.png",
+        "name": "Temple Grandin",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmWtwXDSbjHAjaCrIk4KlS8/ByNviMRIeBRJti+cUrht/jMQwDVMFJCsfiRcPsHSF2fFjkomAFckqY3pSCahxgInv4GmYdGyh8oXyyJwRThiP52mAdwEf9zmhpRBCqBEvlqE5RuDflnBr25PLMtIcr6BGtXZ4lHCarYAii/LGdDme+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsL2OZQShoY760uJElmZDaFzA9CvbyWEMOB24VttFQlsrBxb4WAihCEIM03Z4AjE0/nwYJaXU1bFwRmVmSKNS/cz1cmEuQnUagXljt4GUUSOxD44e9sllcXNuctSnAf/5O2QuDlmjemd+If6iys13N4T+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/en/c/c6/Sisu_ver2.png",
+        "name": "Sisu",
+        "uri": "cqSAeA15QHtp0vkrgiAzD2Im8aA9W7zLpE/NpLE+51B+45ab0vNQmFe3ZXPOEhU/50QCuneMrb55EU4mkB81OkBmISo7L8eV/V6hXJCLrQFdUIMneV6IKurnWIm2IqaV"
+      },
+      {
+        "icon": "https://pelisimg.online/cover/the-guardian.jpg",
+        "name": "Guardianes de Alta mar",
+        "uri": "kvUWlJ1QxRTJkEBjtdvBhYlV8uOmO/EatvpbYT/AXT7BoQr+kdFmEmquLbJ1aO5Zx06yStx1B726Ulr+FXaBHda+iDxwC7C1u87WYvMB8BpgnZ70d1vbEzZ/l3rN0oU69V7sG20F5MutT0fnt4fINA=="
+      },
+      {
         "icon": "https://play-lh.googleusercontent.com/KKWoKOlZqkLR-sOBUGlm5xdlE1vby3D9ZVgC1oUsv5WCSBVaygCmMlgaQzLGWILbc7St",
         "name": "Brothers",
         "uri": "cqSAeA15QHtp0vkrgiAzD2Im8aA9W7zLpE/NpLE+51AY7d35faEMwAeYiE1YKIGSmyyDVqZvTl+cT3NJWlFlcuzDkOYM1hVcs2dqfqaY0wJKultjkdZlHxt/4nahJgTE"
