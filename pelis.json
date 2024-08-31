@@ -4,6 +4,42 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/e9mDaSJ.png",
+        "name": "El cuervo",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmeC668rmDaxB0/S0upDSZseJ4va6wjR8FWMYGDWvcpeg5w1aKo0PjeNVTCo0DxpfPUkVNyexo4jf427LTi7NxqI2dBrksx0MHiRYXFVi7TOK+KGt7j58BZqMOhRQlsp76q9G2NS0uSgZwprRuMxzVbX52EWaZKdzbYTaPhD7d4s4+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsIHvjQwcRPh2fMrCGrMAQv9Mq/btqGo7sAOk+LpzP+5CuT+ASaeV6a/1VVEPDrkEpiwwtrDnm+zRbRUdbUgNTlc2UGmqNERQgMigN+tPjxX4aAQns37yyObLEQu+KpSvRsW/rioedGCh0HKIqqP0DHm+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg==",
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031",
+          "Referer": "https://terabox.com/"
+        }
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/pt/3/31/Longlegs_2024.jpg",
+        "name": "Longlegs",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmW0dbPI3+3kOuiR8JW6ZDSe+m0LvWT4YcdcQJKP8FDAbYOK40XtUujNXUtw0f7lPrHnAWEKyTy1A8xwJMaSVhZTKXxww4Bnv25w/wYCGPEJnKiyITRwV81z0kKA6KG51Bnb0exbtch8eCa2SdP73+jTGyYodDz5rezjQnwDsaGJgoyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDTUDkiKpfCS+LxYmbY2Xhv+xKxNJgXZLceJqtmtvb1A5tY/+6Jbs4YBKUAV/8hyE6QFATljzu/Txbe4EhJP+TrrwhZ8UJdb9TppKuqpU76pZnukU870Us401iTLD8hYODZjxBNeWiz5siUWKxMtKQ6z0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig==",
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031",
+          "Referer": "https://terabox.com/"
+        }
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/pt/3/31/Longlegs_2024.jpg",
+        "name": "La primera profecia",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmRQy4A96v3p/8EIyKAiIBmy1VcQ6mMwktoK2HUvOKFWdfELEcaN2P0VgkfoWIFpJyEHN9mh9ntKhGUFXsOd1fUHf/9k2xM87zpQttsHezSByAo9vcqk8oOe55H1aQHDTkh8emyhgR1B1Xx6FnHfwZ2p6w39rov/CsGkcQEiw9CNCxat5HYu7wi406YnwZ4UUJyK4m4A1paSexXAMJ6jVm191a4w7Y5XZsHFaaViILrpeY8l1aMJ0yQlIPXh/3gQXKKerfqA1t+PXX2JCXIVO/zka5Kki3zM/jopf12XaNVc+xbiU65zyTmrCnQMdXJVbD4RiI4iqPMHKKWkYjxMTTaPhhBO3f6UcRnA2mFB9dIEh/vf2Zr+Ik5xupaalLk2gz1jJvj8XFbKRl+C3SGTDbgx9EJs1qjeYABXzd/P+766k0un7QqYuLjjbxI8xTD/j+Tb8LtEkxRhQ63isJSSX7iQ=",
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031",
+          "Referer": "https://terabox.com/"
+        }
+      },
+      {
+        "icon": "https://upload.wikimedia.org/wikipedia/pt/3/31/Longlegs_2024.jpg",
+        "name": "Tarot de la Muerte",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVWJemLbnz7XpJGh7P0sLmqcr3/RAmize6CaOJXhv8f0HbSc3LpNryjlGRzL63fy62s0/CNYze4kfj30e+WIcT/er6a0uSLSYWN65F3HEShIz3Zo/iulhxVckwpgFzPwowoZx45twWdgxjVYng5c4zBDq+TuN9qfG5K2/co1Noj1+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsIHvjQwcRPh2fMrCGrMAQv9Mq/btqGo7sAOk+LpzP+5CuT+ASaeV6a/1VVEPDrkEpiwwtrDnm+zRbRUdbUgNTlc2UGmqNERQgMigN+tPjxX4aAQns37yyObLEQu+KpSvRsW/rioedGCh0HKIqqP0DHm+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg==",
+        "headers": {
+          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031",
+          "Referer": "https://terabox.com/"
+        }
+      },
+      {
         "icon": "https://i.imgur.com/A8yEgWe.png",
         "name": "No puedo vivir sin ti",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmdrYSMi65f/L75Z6KjvaaNi2cQQLJMfbx4hniVX5gwjwJQoLj9Tga9u+5IBUsgDHlG7qXA/B2+KLFIHmFrtkRUN0RWhXfmUNJRseiE34F85azXZ1JazqkEatLxiQHhpi/kW+sl8oHEFh2Uae+cvHU4UYdUg0kuz2JlSoojgrGBLUcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4OU2s+4Bk53D9F6A8L0Bt0HTuZAoCEVj3Cxa/BjCMAE/aKp/Seu7pH79Uwp6WjT4e7MnQdqEeLKrODodMhMa5Vjt0s9mLqypraqtFkFVXDsvBMhZ9YJj5HZJJcbdLBgQGikCEfAZfxwKPYalvmpblqYtbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA==",
