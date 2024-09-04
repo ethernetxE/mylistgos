@@ -4,6 +4,20 @@
     "mode": true,
     "lista": [
       {
+        "name": "Ciudad de Dios",
+        "icon": "https://i.imgur.com/KORrgr8.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzmUKeJjiH1JQ1dV/sY+sOYg147KT9I2SKCrgSByV0TSQ"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzrLs8A6AaRb+WMG5obyE6s4147KT9I2SKCrgSByV0TSQ"
+          }
+        ]
+      },
+      {
         "name": "Margarita",
         "icon": "https://i.imgur.com/k9izX6o.png",
         "temporada": [
