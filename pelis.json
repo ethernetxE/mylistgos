@@ -4,13 +4,24 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/CFs0ln3.jpeg",
+        "name": "Borderlands",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmU3fXciVNXCYz928RlXYyBnBwcuoyuPBzkSaU/XSWSdDGNARpGl64FiXATrBc9t5KkjwnYoctYkciZAm1nlNbRNPfa++N4lPUSBTxTgSl7TraRqv33WrNuVqI9n+dd8F8yeKJrmZbDrY78d156CvJ0m3AIiQjylJ8URn8Kib0Xn1oyFObcd31zhJ6Yind1t6U6P8ccMGJfM9mjZosYFxgDSUWZ+gfWKWqWwZ8JdrNOoos55JEf9joyQBAuGOIMEKP1SMxdWPx2xwPysgtt0Te4hn5kN/JCB9gjNzcmfdgsZwqFls6ZUKjyGrN+xu3X4X9+ggjB+MudRPsD78TWP+GBRWR+18Dw/BQFk+l4W1PM3Z0clR45gbWE/LM+UjoRX8aP3fWrW7r6j0deEuLE7E9zAw0pQUAeCyRrQz2O3+0QteEdgpvAdg/OfTs/qktE/mig=="
+      },
+      {
+        "icon": "https://i.imgur.com/D33olVg.png",
+        "name": "Las Hermanas Fantasticas",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmTzAIAAB1x+u3dn9BPSehPgygUhm4QTVsX2MQ5NVlWfwVJV3hOEOem4oKxezpckHYWXYwSGI4+Vz4D8r01bCqOyhka8WVoC/xsKwmvkYvVDfz3t69/bNToXDgw0VMlnYdqhqKeisgGmf0JxDOLb8swic1+kghWDttU5z5WG/tKf1cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NfKWyyEM8Bk8406ZWzMWkdu+2zmdruPBUd7AIJ3tboFsmFbSPfO23SGJ35ptgqiawWyWEPS2Ans67rD1M/uJU2lCC+c/2qUX9q3gN3dLd4QOKfDk3dag+m0cLHS5mhqlQNR4TVAVTTS2pWdvuPeBGatbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
+        "icon": "https://i.imgur.com/pYZ7mta.jpeg",
+        "name": "El Abuelo y KID",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmcdMqdmyCraHTlE5MPoKX0IMsqGkWIpbWXAtM4hRGLpD3O5HALIUiyh/RnwIVpuHu6h46L2UsMnchXvAOFanzOO6ZLYaJzw8iNGI7SfRzh4tV8Ft4+86XbLve1qt5wH/EDMoPnA9Frlbw4QJN+yYGarL/+wuFYPKSrqgZu6y60FgcLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NfKWyyEM8Bk8406ZWzMWkdu+2zmdruPBUd7AIJ3tboFsmFbSPfO23SGJ35ptgqiawWyWEPS2Ans67rD1M/uJU2lCC+c/2qUX9q3gN3dLd4QOKfDk3dag+m0cLHS5mhqlQNR4TVAVTTS2pWdvuPeBGatbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
         "icon": "https://i.imgur.com/e9mDaSJ.png",
         "name": "El cuervo",
-        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmeC668rmDaxB0/S0upDSZseJ4va6wjR8FWMYGDWvcpeg5w1aKo0PjeNVTCo0DxpfPUkVNyexo4jf427LTi7NxqI2dBrksx0MHiRYXFVi7TOK+KGt7j58BZqMOhRQlsp76q9G2NS0uSgZwprRuMxzVbX52EWaZKdzbYTaPhD7d4s4+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsIHvjQwcRPh2fMrCGrMAQv9Mq/btqGo7sAOk+LpzP+5CuT+ASaeV6a/1VVEPDrkEpiwwtrDnm+zRbRUdbUgNTlc2UGmqNERQgMigN+tPjxX4aAQns37yyObLEQu+KpSvRsW/rioedGCh0HKIqqP0DHm+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg==",
-        "headers": {
-          "User-Agent": "Dalvik/2.1.0 (Linux; U; Android 13; Pixel 7 Build/TD1A.220804.031",
-          "Referer": "https://terabox.com/"
-        }
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmeC668rmDaxB0/S0upDSZseJ4va6wjR8FWMYGDWvcpeg5w1aKo0PjeNVTCo0DxpfPUkVNyexo4jf427LTi7NxqI2dBrksx0MHiRYXFVi7TOK+KGt7j58BZqMOhRQlsp76q9G2NS0uSgZwprRuMxzVbX52EWaZKdzbYTaPhD7d4s4+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsIHvjQwcRPh2fMrCGrMAQv9Mq/btqGo7sAOk+LpzP+5CuT+ASaeV6a/1VVEPDrkEpiwwtrDnm+zRbRUdbUgNTlc2UGmqNERQgMigN+tPjxX4aAQns37yyObLEQu+KpSvRsW/rioedGCh0HKIqqP0DHm+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "icon": "https://upload.wikimedia.org/wikipedia/pt/3/31/Longlegs_2024.jpg",
@@ -353,6 +364,26 @@
     "name": "Pedidos de clientes",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://pelisimg.online/cover/los-4-fantasticos-y-silver-surfer.jpg",
+        "name": "Los 4 Fantastico 2",
+        "uri": "BL3xL52KrnzCf6ReRbw/2IlV8uOmO/EatvpbYT/AXT6wtMAOfrmwLnWURMtzzfDC4vuOb5pB7oengAI6fqEPMEURpbtxsuiIvzBL+miuKnCQWBHpK0a8BBQNphEyXhPA9V7sG20F5MutT0fnt4fINA=="
+      },
+      {
+        "icon": "https://pelisimg.online/cover/fluke-1574723104.jpg",
+        "name": "Fluke",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmWr1sBf2XqrsArtTgxQ047onoEW6Ud66RqdA2eGTNMXlm+EzFCNKL+FhRLpUfKE0HPPS0YNwjtnn0Qs3VcXdGrxs+oCV9nhaPqgOO32U35OY5q3dQsKTRLrxXzj/KavEZL6/mapxdzjrbuDtzxL1dsT/kbSFDYG+l4ulhHljl/VJ+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsLVyBhLeLfeKI3Y1P8wojl4PKoCFcJNMaoQ3s5Oq5MglocpiXPEQ/rKTbIisZMxrBzFqUR/o8B6c8zu76R6yWvd1CzJOfVIgVzieGgpuqlpxns06vlNoEXf7nMiw0tOgJ82Bvz85FVcFLqOhh4S1o3Y+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://pelisimg.online/cover/arrastrame-al-infierno-1573853407.jpg",
+        "name": "Arrástrame al Infierno",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmVswIiSa7K8VSKYtJsraEPIiK1VdLRQhtzl5kWGonTHKB2IW1JQclgIvn5tbYdkvUcNcq02WArmDoLtZ1yvdz+VVCAg9nvd5QWHIkncGYRvBFdWQXSLduNC5s3fS15AlcodhMjB3+3gn4DZ5cosaGpng1Jx6e25DcINuplt7ZV75cLaWAj2A2MEwKsr11ARxUkgBffmHQcehDu7q4wPqH4NfKWyyEM8Bk8406ZWzMWkdu+2zmdruPBUd7AIJ3tboFsmFbSPfO23SGJ35ptgqiawWyWEPS2Ans67rD1M/uJU2lCC+c/2qUX9q3gN3dLd4QOKfDk3dag+m0cLHS5mhqlQNR4TVAVTTS2pWdvuPeBGatbD11jaB2Ma2wNdfKTVBUdoOLaaBb3qjDOE+D++IbicZ3TctGU7xEMUdESTjTZHtreh2I8MVMhJaaJaOOzuuTA=="
+      },
+      {
+        "icon": "https://pelisimg.online/cover/sing-2-2-1670328607.jpg",
+        "name": "Sing 2",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozULFIfpS1oCPry1u4ZrMPUUxIglQUnMJB0sBi7ehAJF2h3W2VmdMhapbPW30q9wGwU="
+      },
       {
         "icon": "https://i.imgur.com/sfrgnbp.png",
         "name": "Casino ",
