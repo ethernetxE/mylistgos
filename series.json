@@ -44,7 +44,7 @@
         ]
       },
       {
-        "name": "El señor de los Anillos Temp 2",
+        "name": "El señor de los Anillos T2",
         "icon": "https://i.imgur.com/RHJIyYU.jpeg",
         "temporada": [
           {
@@ -147,6 +147,74 @@
     "name": "Dramas",
     "mode": true,
     "lista": [
+      {
+        "name": "Coppola",
+        "icon": "https://cdn.playpilot.tech/01ecf172ea4111eeabfd0a58a9feac02/src/img?optimizer=image&quality=75&width=320&aspect_ratio=2%3A3",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVcW0xyvlJ164P9Sl/2oYGZbSPW1Fn9ISJRl67oqdEzfQ"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVTCxSVtgq0OC/HYiLr4GLrjSPW1Fn9ISJRl67oqdEzfQ"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVexfOlrVhQ+oEtbjjZ1FfpSfGMs3bBNxMHftDx/52Yl6"
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVeE/g5RaFDrDeCEC3AE7d0efGMs3bBNxMHftDx/52Yl6"
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVWlLWNds9SozfQ9BuqDb+ozSPW1Fn9ISJRl67oqdEzfQ"
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVaNMMZKBS/1k7ZQhWk9hiU3SPW1Fn9ISJRl67oqdEzfQ"
+          }
+        ]
+      },
+      {
+        "name": "Apache",
+        "icon": "https://image.tmdb.org/t/p/w300/jN50JvMxnVmctBeKxZenQ2qHyL6.jpg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CEFeo4fDch1QENXMxl/WcVXQrbAzahuyntQjQkOd/e1KIYQEZZvnpL+jgpxbGlmXO"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48ZmW+bEHq+m57nbjqE9jo8+us2/C7RJMUYUOt4rCUkl+4k"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48ZmbbKjmXDxSR8lesK2wvkh0zSPW1Fn9ISJRl67oqdEzfQ"
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48ZmdvHmqnEYby+MiqEzdQYEvjSPW1Fn9ISJRl67oqdEzfQ"
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48ZmRYT0mrt93/tf5mQk93Bykk2/C7RJMUYUOt4rCUkl+4k"
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48ZmUBtfKq7n3Z+blZMsVudiF42/C7RJMUYUOt4rCUkl+4k"
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48ZmQSVakMhjKlFl3v5s7j5j282/C7RJMUYUOt4rCUkl+4k"
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKkvweggE16LY66VxNbYz9CwVtm5PoZNd/oc6RzJ48Zmc2Nz5IsRmxAUqoCg0j/uyzSPW1Fn9ISJRl67oqdEzfQ"
+          }
+        ]
+      },
       {
         "name": "The Umbrella Academy",
         "icon": "https://i.blogs.es/fa2ae2/umbrella-academy-temporada-4-poster/650_1200.jpeg",
