@@ -4,6 +4,52 @@
     "mode": true,
     "lista": [
       {
+        "name": "Margarita",
+        "icon": "https://i.imgur.com/k9izX6o.png",
+        "temporada": [
+          {
+            "name": "E1: Una Historia de Cuento",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzswAe26k5XZ/S3iQq0gE7kLs272ED3r9InnVcDQyRx1o"
+          },
+          {
+            "name": "E2: La Reina de la Basura ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzhuB5s/CV0zdt/7A0pgtdF/s272ED3r9InnVcDQyRx1o"
+          },
+          {
+            "name": "E3: Videoclip Triste ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzimbbhFgRWJRZ/H+nTX/59ns272ED3r9InnVcDQyRx1o"
+          },
+          {
+            "name": "E4: Los Cardos ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzjyMpJhhQtcWmJgW4qX7lgHs272ED3r9InnVcDQyRx1o"
+          },
+          {
+            "name": "E5: El Lugar de Romeo",
+            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzlxM5bOSsP5h0Waq1SWSxIzs272ED3r9InnVcDQyRx1o"
+          },
+          {
+            "name": "E6: Única y Elegida ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgk0bE8CLh0+kINhEv/y6hOaCmPXXzGc7K7FIsmu30VDBQ="
+          },
+          {
+            "name": "E7: Flíquiti ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgk487TQ0ARf8/Wpf7umbjXBg=="
+          },
+          {
+            "name": "E8: Mentira Verdad ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkWJTAECZWobDnQwBjeMx+rQ=="
+          },
+          {
+            "name": "E9: Desechos Tóxicos ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkzUJjaPhDJhdBPYM2i9HyVA=="
+          },
+          {
+            "name": "E10: Lo Que Queremos y lo Que Necesitamos ",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkVNWUhDmiMGYIaJSF6+I81Q=="
+          }
+        ]
+      },
+      {
         "name": "Ciudad de Dios",
         "icon": "https://i.imgur.com/KORrgr8.png",
         "temporada": [
@@ -14,32 +60,6 @@
           {
             "name": "Capitulo 2",
             "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzrLs8A6AaRb+WMG5obyE6s4147KT9I2SKCrgSByV0TSQ"
-          }
-        ]
-      },
-      {
-        "name": "Margarita",
-        "icon": "https://i.imgur.com/k9izX6o.png",
-        "temporada": [
-          {
-            "name": "Capitulo 1",
-            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzswAe26k5XZ/S3iQq0gE7kLs272ED3r9InnVcDQyRx1o"
-          },
-          {
-            "name": "Capitulo 2",
-            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzhuB5s/CV0zdt/7A0pgtdF/s272ED3r9InnVcDQyRx1o"
-          },
-          {
-            "name": "Capitulo 3",
-            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzimbbhFgRWJRZ/H+nTX/59ns272ED3r9InnVcDQyRx1o"
-          },
-          {
-            "name": "Capitulo 4",
-            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzjyMpJhhQtcWmJgW4qX7lgHs272ED3r9InnVcDQyRx1o"
-          },
-          {
-            "name": "Capitulo 5",
-            "uri": "5FSgSsDC6nVpPZRfqN9COB4JSGH6b4Ix9jkWDhCTqbCpTZf8WSY6Tq5xO2NJP/Jelb8tG55fj4m1l7sw6fHYzlxM5bOSsP5h0Waq1SWSxIzs272ED3r9InnVcDQyRx1o"
           }
         ]
       },
