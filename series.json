@@ -4,6 +4,36 @@
     "mode": true,
     "lista": [
       {
+        "name": "Máxima",
+        "icon": "https://i.imgur.com/rxuOHID.jpeg",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkuFW38DoiUUgB/NTaCT1S6A2tk4YPI/tVUX3ZKkG/mU8="
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkpMwPT9S9InHD3SGe9BFS1w2tk4YPI/tVUX3ZKkG/mU8="
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkSunc44jNLXyxSnS34AYHZrOTsWp4XK/Z48OZ2e9vrl4="
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkQ9iQQtHiMB/f3UaHB6g4GZFrVAa/WWL9KQO7O3RiEzY="
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgka17jrRPpwbCi9nhu3HdtzTUb7mRu0JbEQjL8RdBy/5E="
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJa1y2On+E8CP+zus2ikdgkTq+tnVnVJUEjaGLcrJ7eKJ3p3Oy9QObgvEiywVIait4="
+          }
+        ]
+      },
+      {
         "name": "Margarita",
         "icon": "https://i.imgur.com/k9izX6o.png",
         "temporada": [
