@@ -4,6 +4,24 @@
     "mode": true,
     "lista": [
       {
+        "name": "Ángel Di María: Romper la pared",
+        "icon": "https://i.imgur.com/7jDEh38.png",
+        "temporada": [
+          {
+            "name": "Capitulo 1",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkNaSriOrE5DZrfwKGw53qwwdwOvqLti8ygpzL+pSTAd8+OZoyYh4E47JW1P1D2soJ"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkNaSriOrE5DZrfwKGw53qw3rQNh0ZGA523O/pjxsLSSw+OZoyYh4E47JW1P1D2soJ"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkNaSriOrE5DZrfwKGw53qw1mJI9uQelydAWnBf23SLrQ+OZoyYh4E47JW1P1D2soJ"
+          }
+        ]
+      },
+      {
         "name": "Máxima",
         "icon": "https://i.imgur.com/rxuOHID.jpeg",
         "temporada": [
