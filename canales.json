@@ -4,15 +4,25 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento GV 1",
+        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxY944JM2GsC6vwHxSQfLleayOR4Pf3ZZrmk4xvLngS1ZQ=="
+      },
+      {
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento GV 2",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
+      },
+      {
         "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento",
+        "name": "Evento PY",
         "drm_scheme": "clearkey",
         "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
-        "name": "Evento 2",
+        "name": "Evento 2 PY",
         "drm_scheme": "clearkey",
         "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
         "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
@@ -28,19 +38,9 @@
         "uri": "/MEa/02WaoMB8o4rsw5tNdu19bDEjIq5xADMrFOrLEtJb3zQha8D7Tg9SK1AF0raYO8dz6JXnipyDAecDZl492Y9Y5HymdzWvAVBxgLlBQYqgtCzteGqdR4Db9aot75s3Nw9B509kt1t/5tgwXVeFeb+FD8bM/gNfjXe7WwjZUW3hKCOjgsQ4NKpEH5uaL3v"
       },
       {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
+        "icon": "https://i.imgur.com/Z7yul9n.png",
         "name": "Evento DS",
         "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento GV 0",
-        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYwY0yJDOAWweO/VDtfJUmuGQ0pyvwysy7wWNnf0x+7jg=="
-      },
-      {
-        "icon": "https://i.imgur.com/aBPvD7n.png",
-        "name": "Evento GV 2",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT+NzPUIiv7k/WrDkEGc7EVG04N6jFR4yN7KaRdXZxbRbg=="
       },
       {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
