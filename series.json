@@ -8,15 +8,27 @@
         "icon": "https://i.imgur.com/7jDEh38.png",
         "temporada": [
           {
-            "name": "Capitulo 1",
+            "name": "Capitulo 1 720P",
+            "uri": "5FSgSsDC6nVpPZRfqN9COAlWvK/UfhLInTeu+ZpI1PWl1PQlEFjTVlrd7iIFKzSKZO1qVaLjuinIxgxclkPD19TauCFUcvg8pEDEMCE4ZyE="
+          },
+          {
+            "name": "Capitulo 2 720P",
+            "uri": "5FSgSsDC6nVpPZRfqN9COAlWvK/UfhLInTeu+ZpI1PWl1PQlEFjTVlrd7iIFKzSKRauJYx75HD3B+AvyB2JBSQU91SkUzVilElYE3hJ34kI="
+          },
+          {
+            "name": "Capitulo 3 720P",
+            "uri": "5FSgSsDC6nVpPZRfqN9COAlWvK/UfhLInTeu+ZpI1PWl1PQlEFjTVlrd7iIFKzSK9e+Q/JHI6+0u4wqDSnjrmkSuiVew4sS4E/Bi7LLQPCc="
+          },
+          {
+            "name": "Capitulo 1 1080P HD",
             "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkNaSriOrE5DZrfwKGw53qwwdwOvqLti8ygpzL+pSTAd8+OZoyYh4E47JW1P1D2soJ"
           },
           {
-            "name": "Capitulo 2",
+            "name": "Capitulo 2 1080P HD",
             "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkNaSriOrE5DZrfwKGw53qw3rQNh0ZGA523O/pjxsLSSw+OZoyYh4E47JW1P1D2soJ"
           },
           {
-            "name": "Capitulo 3",
+            "name": "Capitulo 3 1080P HD",
             "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkNaSriOrE5DZrfwKGw53qw1mJI9uQelydAWnBf23SLrQ+OZoyYh4E47JW1P1D2soJ"
           }
         ]
