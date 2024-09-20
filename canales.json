@@ -131,10 +131,17 @@
       },
       {
         "icon": "https://i.imgur.com/g4KBnqF.png",
-        "name": "NETTV",
+        "name": "NET TV",
         "drm_scheme": "clearkey",
         "uri": "zpG4WdiXTI/yQAE9BRKckOOOWUAWXt1i8zh8bl00eGARYXF7V5UfZZvtuTCy1ZjyDCMjzOGShjBraPMk03TSUw==",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uTLxho5OdbSIWGpYKoVNAyPSUmSiESWSUx6gQ83UEqlK2VfHo29J40VTy4MwDrjrs35RoD/8HIiEnFtIMsJrZ290YC7HACX0RCntaqJVadL+Nvwu0STFGFDreKwlJJfuJA=="
+        "drm_license_url": "c8shB4zQtySEDhKuz7Hho9wh34w1qJFhjX2GG3MR7ODNF8vkghKP0iBbkhIXG+MMhuTdm/n3heg6XYXxfYhkoGXWLwCUl8woN+JervyDYrwNPVg9AKuqz9wiVUPaSRBy08/MkVTeKr108u6aYEN5m5jlGU+XSXBpf5KasSn+qWM="
+      },
+      {
+        "icon": "https://i.imgur.com/g4KBnqF.png",
+        "name": "NET TV",
+        "drm_scheme": "widevine",
+        "uri": "zpG4WdiXTI/yQAE9BRKckOOOWUAWXt1i8zh8bl00eGARYXF7V5UfZZvtuTCy1ZjyDCMjzOGShjBraPMk03TSUw==",
+        "drm_license_url": "c8shB4zQtySEDhKuz7Hho9wh34w1qJFhjX2GG3MR7ODNF8vkghKP0iBbkhIXG+MMhuTdm/n3heg6XYXxfYhkoGXWLwCUl8woN+JervyDYrwNPVg9AKuqz9wiVUPaSRBy08/MkVTeKr108u6aYEN5m5jlGU+XSXBpf5KasSn+qWM="
       },
       {
         "icon": "https://i.imgur.com/g4KBnqF.png",
