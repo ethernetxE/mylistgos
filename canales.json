@@ -132,9 +132,14 @@
       {
         "icon": "https://i.imgur.com/g4KBnqF.png",
         "name": "NET TV",
-        "drm_scheme": "clearkey",
-        "uri": "xVeQ1GmCCgkDc4XjIqK9yR73JU8XU58BteB2QPMx2K0Mx8hQLUu8WP0KWgkHKuwL4EBfudJsWQs7szKQnm8GwLvtS/Rcoy6iLZbibNXovV8vDbaouQ2eDqcXDXs+aaKS",
-        "drm_license_url": "5/tvCXUmcT2NjZEkUqLkK5dDTNWno9ScLEOq9IOiICfW4uVqPk9mg3YU0N/mC9G5QaC8lU8dj/g0iqlim/qT2g=="
+        "drm_scheme": "widevine",
+        "uri": "dcD6xYt42ZspxEG8NSb/YQ6lSoJiLkM1xsqNOxtYIJP18cs89Chr3xOcNaqIAODcz1EhDxkXgYVcl5zGgPc3MhXvUv7iaklVVzoN9e3KMNI=",
+        "drm_license_url": "8PoLb9FyRPMTrV+dn6oH3fPB0XP2VwlPhVs9ecemBx4Kcc91FckJG5u0TumytSGxc9teMMd8+Ce6u8VM4UQ2UyW8YAQoVn3QMSeokJ96O51f4eKmx58OUjqgHgpEdOSR"
+      },
+      {
+        "icon": "https://i.imgur.com/g4KBnqF.png",
+        "name": "NET TV op2",
+        "uri": "TDNabkJIIRdj5lOFziI7IXsyt2xAxrCojbQkzhjLppbvaA8KirtuwwurDjjSYdhp2rhMNfQl0P826A2L/J5DaA=="
       },
       {
         "icon": "https://static.wikia.nocookie.net/logopedia/images/a/ae/A24_2019.jpg/revision/latest/scale-to-width-down/200?cb=20200205041019&path-prefix=es",
