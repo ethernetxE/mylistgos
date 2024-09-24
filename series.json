@@ -64,8 +64,28 @@
             "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WCOs/SC+RRhhb90o+OTJ4ldPVTmKUB8Q5jLePPtcr2Iv"
           },
           {
-            "name": "E15: Un Giro Inesperado ",
+            "name": "E15: Un Giro Inesperado",
             "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WKUWAKz8n7BAbVhmBAmFEehPVTmKUB8Q5jLePPtcr2Iv"
+          },
+          {
+            "name": "E16: Alguien esta en problemas",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WKnleDASQQRpPh60CEM0LTTTg3qMVHjI3sppF1dnFtFu"
+          },
+          {
+            "name": "E17: Alguien esta en problemas: Part 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WPvq8e7P24xlwFhhfXnCepLTg3qMVHjI3sppF1dnFtFu"
+          },
+          {
+            "name": "E18: Asilo Político",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WF16bx3S58sTnxauWMfhyWTTg3qMVHjI3sppF1dnFtFu"
+          },
+          {
+            "name": "E19: Vidas privadas",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WFpD82o3RdBkX3aYnJSXeq/Tg3qMVHjI3sppF1dnFtFu"
+          },
+          {
+            "name": "E20: Otra princesa en el palacio",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3Zkpq99UJ6QaShbtgiQZSe1WNhWAFmphVC7v05zfGjqO3vTg3qMVHjI3sppF1dnFtFu"
           }
         ]
       },
@@ -136,13 +156,57 @@
           {
             "name": "Capitulo 4",
             "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkV+hUHPdpOVJRdMfpY4tYELslBJ4cZxNv+i1eXVuFZs7Tg3qMVHjI3sppF1dnFtFu"
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkV+hUHPdpOVJRdMfpY4tYEJNiWAYmpbLaO0V1uaObil7Tg3qMVHjI3sppF1dnFtFu"
           }
         ]
       },
       {
-        "name": "El señor de los Anillos T2",
+        "name": "El señor de los Anillos T1 Y T2",
         "icon": "https://i.imgur.com/RHJIyYU.jpeg",
         "temporada": [
+          {
+            "name": "Temporada 1",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVAL61ybck/nvkm2oHP7Tv/aENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauXb0sncE0JX+R5SnbWgWCLf"
+          },
+          {
+            "name": "Capitulo 1",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVAL61ybck/nvkm2oHP7Tv/aENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauXb0sncE0JX+R5SnbWgWCLf"
+          },
+          {
+            "name": "Capitulo 2",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVAL61ybck/nvkm2oHP7Tv/aENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauVQHrflaa5Y4tkB0i07b5sY"
+          },
+          {
+            "name": "Capitulo 3",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVAL61ybck/nvkm2oHP7Tv/aENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauUQ5michIYxDi6v35S8ZEJq"
+          },
+          {
+            "name": "Capitulo 4",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWeY6MiuNCITS7izAnsWigyaENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauV2rNQC0MlXJbFCsEvKPaRy"
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWeY6MiuNCITS7izAnsWigyaENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauXZ/E7IrOTboibJdnjA12dq"
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWeY6MiuNCITS7izAnsWigyaENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauX5hziCnNAXtszX91a9wYgZ"
+          },
+          {
+            "name": "Capitulo 7",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWeY6MiuNCITS7izAnsWigyaENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauVQy/TJsgiLtpnbEKM+8n+r"
+          },
+          {
+            "name": "Capitulo 8",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozWeY6MiuNCITS7izAnsWigyaENRWoA4uVwZSvz8sRfq/ozAdJ+3JLjbgXwzuieOauXu1Z/iGzWO/G3DkRdmxhyX"
+          },
+          {
+            "name": "Temporada 2",
+            "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKm944QNSn8xKJCXI5z+D/A/C5HOG6VxrTvBFSxJxpjzw=="
+          },
           {
             "name": "Capitulo 1",
             "uri": "5FSgSsDC6nVpPZRfqN9COD2lRG6bkKeJdnAfw/bExuKm944QNSn8xKJCXI5z+D/A/C5HOG6VxrTvBFSxJxpjzw=="
@@ -158,6 +222,18 @@
           {
             "name": "Capitulo 4",
             "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW6otx5OhFzh+cDEGDDvb514vqrMsFJitsIJXVQDEnxjfxkLHOzkyzyicJtZZUPWUfslTM6+lqKA4/k5VM2FNWj"
+          },
+          {
+            "name": "Capitulo 5",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW6otx5OhFzh+cDEGDDvb514vqrMsFJitsIJXVQDEnxjfxkLHOzkyzyicJtZZUPWUcQ/zhIL34kfJXGwBrJoNRf"
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW6otx5OhFzh+cDEGDDvb514vqrMsFJitsIJXVQDEnxjfxkLHOzkyzyicJtZZUPWUcQ/zhIL34kfJXGwBrJoNRf"
+          },
+          {
+            "name": "Capitulo 6",
+            "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozW8oWxPXswwa+475vxhY5U/4vqrMsFJitsIJXVQDEnxjfxkLHOzkyzyicJtZZUPWUeutY3mWdrDvutW9PL/8aCb"
           }
         ]
       },
