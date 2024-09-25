@@ -89,10 +89,10 @@
       },
       {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/6.png",
-        "name": "El 13",
+        "name": "El Trece",
         "drm_scheme": "clearkey",
         "uri": "qpXGn0CtF5z9EvDA9wn9rg+gTDFb0SA4rZRO2P1K054M/b6VaPtd7x6GJin05rOEd2+b5vhUp53Kf3x3iw1Ndg==",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ufsr0kLYGF/uZkPUj/CWCOLqM+w++GO0Gkn4PDwC78JgqIz3OKi9XZKJVJUg4N8AgryBivKkxAXlmFXMAgtPk/XjXrtue+gptZ7LIeAzK2hCNvwu0STFGFDreKwlJJfuJA=="
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gIsANwudtc1zzb/jQyOydTJmKcZ+fCYpM27Qi7Z75hU9J5J9dLc6u3woXEVYAnK+gqCKz8HtQhCkhONJM+gqac8sdcNCL3DkduNX32I8DKxDtkUYKuNQsKPaveIHQ4vYvg=="
       },
       {
         "icon": "https://www.flow.com.ar/content/dam/teco-cms-ecosystem/flow/guia-de-canales/35.png",
@@ -827,12 +827,6 @@
         "name": "ESPN 2",
         "icon": "https://i.imgur.com/mIsFobP.png",
         "temporada": [
-          {
-            "name": "ESPN 2",
-            "uri": "CcDcgbisVF9arau+FuDtk5LQEPrlzIp6wuWZKPIyRzhZfhsZcIdSnUtpc7UVPAc4laDItGYkR2uxK/0OswcguzXjspP0jZIoKuBIHJXRNJA=",
-            "drm_scheme": "clearkey",
-            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gN1Y5wSE4iMA4OABz1j7xhylzA5Oz7o/Ec31GOb/YkLGJgKf6nXFcIrDxLr7yPrnnS+PBMoO+5E54AJPAV+yXjQ22cV1CRiD68CGtILgfgU5F1s0KOy2HfBt17x33brUZw=="
-          },
           {
             "name": "ESPN 2 OPCIONAL",
             "uri": "8RtnOeVVVutAzROAUP0CRA59ePWzjj+D88Dn6SVNPM66wOFnH2bdbksY/7lzc6O8S4s2oiiULyf+L2ZOVTfhljhHZXH4J7SUWTLdrWkg9jYpj118xnOyuxSLJrt9FQwU",
