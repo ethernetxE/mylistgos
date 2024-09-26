@@ -4,14 +4,26 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://dishpromotions.com/wp-content/uploads/BEINE-logo.png",
+        "name": "Evento RACING",
+        "drm_scheme": "clearkey",
+        "uri": "c8shB4zQtySEDhKuz7Hho40HF9NrBoAhQBpAKS/Sa6zU2ee8rCyuJPHlGqi1xT58",
+        "drm_license_url": "c8shB4zQtySEDhKuz7Hho40HF9NrBoAhQBpAKS/Sa6ywogeL2uFJkgLL/4WzscHj"
+      },
+      {
         "icon": "https://i.imgur.com/Z7yul9n.png",
         "name": "Evento GV 1",
-        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxY944JM2GsC6vwHxSQfLleayOR4Pf3ZZrmk4xvLngS1ZQ=="
+        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYf/Sd0qvjuZ7nijupa0HRMktD8fbs/9evESNmBbFMckg=="
       },
       {
         "icon": "https://i.imgur.com/Z7yul9n.png",
         "name": "Evento GV 2",
         "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiW04N6jFR4yN7KaRdXZxbRbg=="
+      },
+      {
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento DSport",
+        "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
@@ -36,11 +48,6 @@
         "name": "Bein Sportxtra ñ",
         "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
         "uri": "/MEa/02WaoMB8o4rsw5tNdu19bDEjIq5xADMrFOrLEtJb3zQha8D7Tg9SK1AF0raYO8dz6JXnipyDAecDZl492Y9Y5HymdzWvAVBxgLlBQYqgtCzteGqdR4Db9aot75s3Nw9B509kt1t/5tgwXVeFeb+FD8bM/gNfjXe7WwjZUW3hKCOjgsQ4NKpEH5uaL3v"
-      },
-      {
-        "icon": "https://i.imgur.com/Z7yul9n.png",
-        "name": "Evento DS",
-        "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
       },
       {
         "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
