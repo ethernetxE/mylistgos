@@ -4,6 +4,21 @@
     "mode": false,
     "lista": [
       {
+        "icon": "https://i.imgur.com/8yrNMQW.png",
+        "name": "Evento MLS",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/PuiY5xJZrOo70md4jRtIONeOyk/SNkigq4EgcldE0kA=="
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento 1",
+        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYf/Sd0qvjuZ7nijupa0HRMktD8fbs/9evESNmBbFMckg=="
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento 2",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiWKY9dfMZzsrsUiya7fRUMFA=="
+      },
+      {
         "icon": "https://i.imgur.com/Z7yul9n.png",
         "name": "Evento GV 1",
         "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYf/Sd0qvjuZ7nijupa0HRMktD8fbs/9evESNmBbFMckg=="
@@ -11,12 +26,14 @@
       {
         "icon": "https://i.imgur.com/Z7yul9n.png",
         "name": "Evento GV 2",
-        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiW04N6jFR4yN7KaRdXZxbRbg=="
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiWKY9dfMZzsrsUiya7fRUMFA=="
       },
       {
-        "icon": "https://i.imgur.com/Z7yul9n.png",
-        "name": "Evento DSport",
-        "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV Plus",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
       },
       {
         "icon": "https://i.imgur.com/xl7uW2T.png",
@@ -43,11 +60,9 @@
         "uri": "/MEa/02WaoMB8o4rsw5tNdu19bDEjIq5xADMrFOrLEtJb3zQha8D7Tg9SK1AF0raYO8dz6JXnipyDAecDZl492Y9Y5HymdzWvAVBxgLlBQYqgtCzteGqdR4Db9aot75s3Nw9B509kt1t/5tgwXVeFeb+FD8bM/gNfjXe7WwjZUW3hKCOjgsQ4NKpEH5uaL3v"
       },
       {
-        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
-        "name": "VTV Plus",
-        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento DSport OFF",
+        "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
       }
     ]
   },
