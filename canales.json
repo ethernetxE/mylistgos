@@ -95,25 +95,25 @@
           {
             "name": "Camara 1",
             "drm_scheme": "clearkey",
-            "uri": "xVeQ1GmCCgkDc4XjIqK9yRuJAllQqWTX2M1TThBX2ufDxdY4hjIFvO6R88Z6l63odW0v3Wn077Q14GWQpXp5JoKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1Wfyzrswp0OK9KrMEaNizhFmz0Naag==",
-            "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1ufE7vfycWB2Q+PTh3/zpK3dkxD7zKzGojgQs5gyB32GfmUpoXGpx58Uka46Q4fNoA6zIXyVJ9ppV1QNXDE9Ww9gqfuiHUkM5R0Cf4m7xlKqdNvwu0STFGFDreKwlJJfuJA=="
+            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63odW0v3Wn077Q14GWQpXp5JoKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1Wfyzrswp0OK9KrMEaNizhFmz0Naag==",
+            "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gHmu7X47S6TbOetHwG3OFbhVwYATKiv2zj9HzrKxVmYZgG+ng2qyVGfTK1c+AtaOR1Yn/Jddtc1zBFgX35qMBSq51+FvZkCWxxuEUMgCRtpwzxr0xMM7uUg3As4ux3OG6g=="
           },
           {
             "name": "Camara 2",
             "drm_scheme": "clearkey",
-            "uri": "xVeQ1GmCCgkDc4XjIqK9yYqrLs4VkIgHgy7SqEHY6gXDxdY4hjIFvO6R88Z6l63oxL1DkIW3oqdZFfgiwlW2poKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswYjQoml4O2I4GQMJCQkE4Yw==",
+            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63oxL1DkIW3oqdZFfgiwlW2poKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswYjQoml4O2I4GQMJCQkE4Yw==",
             "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1udGlxz6MNwqEP/dc8ZahpTorAfjDwQlDcgtHQfekzM5rYzu+tOIk1661Vf0hkq1S5OmAbe1MYsDtJ/eq81ZtwFzWOQuX8La/N6anSwBC+DwbNvwu0STFGFDreKwlJJfuJA=="
           },
           {
             "name": "Camara 3",
             "drm_scheme": "clearkey",
-            "uri": "nEbIKX5bIAnNu9X6YiVQrAOsWBRNAuZW3Aqmaoxg5KrDxdY4hjIFvO6R88Z6l63oPt7afVd8/9+CDPyGHMbj5IKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswoDk8jHh/InAAB79mWAgXjg==",
+            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63oPt7afVd8/9+CDPyGHMbj5IKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswoDk8jHh/InAAB79mWAgXjg==",
             "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uQU2FvhYlp66cspK8B4ePyKP0wdTb7oddzvb5MnzpUVCM/F9PZayn8Yn4jQuBcW1F485zkjaftxoPSMCyi3UqIsnrm3nvlbsjk60m7/6yQMDNvwu0STFGFDreKwlJJfuJA=="
           },
           {
             "name": "Camara 4",
             "drm_scheme": "clearkey",
-            "uri": "xVeQ1GmCCgkDc4XjIqK9yYqrLs4VkIgHgy7SqEHY6gXDxdY4hjIFvO6R88Z6l63o92O1n6ImDPRKrCxh9beGUYKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswxbRKNrgzb8AhOnStdHZnuw==",
+            "uri": "HGqu1Kxmu21DgmpR+7xaZKjwJQdRA+nNnOPKB4wsOQPDxdY4hjIFvO6R88Z6l63o92O1n6ImDPRKrCxh9beGUYKHfNQ0AwRzsQ2ZLunWqhzrJJvQXWMOxg8M1WfyzrswxbRKNrgzb8AhOnStdHZnuw==",
             "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uV7xv+6+1dVUtiTM9Z6t9GgPmLfY1rvsgj4tFX6hHYLFHazmHrqs+QykKS6cnznhPXBHSvccjC7Gvxr4CJpjR72VnfcoFr2KzIKtJIaTDhxVNvwu0STFGFDreKwlJJfuJA=="
           }
         ]
