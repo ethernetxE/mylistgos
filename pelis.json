@@ -4,6 +4,26 @@
     "mode": true,
     "lista": [
       {
+        "icon": "https://i.imgur.com/020PK8Q.png",
+        "name": "Joker: Folie à Deux",
+        "uri": "O487rJy4uHBiWIshkGg+qNqvbd7oDbvYXJsxeIad/4UXF9W1Wbc582dWdgifoAhWvpBCjElKvitNqPU13kLtB+TwQOT36kpQCMSDbLJ7bkU="
+      },
+      {
+        "icon": "https://i.imgur.com/3MobFAw.png",
+        "name": "No hables con extraños",
+        "uri": "rtSHq1FI7MQ49G7ciMRwhQJlq8zt3BHJpAMmBlACNO4bHHRH+dxJDf4ICspFD80P"
+      },
+      {
+        "icon": "https://i.imgur.com/zyGafZO.png",
+        "name": "El misterio de Salen lost",
+        "uri": "NMGy7uJS79+JHaNJseSgPDEp+Vz/4rj+imz+339Oqhg7UxpK+fZeEEIZX9mrg4+/5PBA5PfqSlAIxINssntuRQ=="
+      },
+      {
+        "icon": "https://i.imgur.com/xHr13xx.png",
+        "name": "Wolf",
+        "uri": "rtSHq1FI7MQ49G7ciMRwhdZsBKtGSo13yxpEHoD7r2mDQqkXtnnVDiz6R149SJqH"
+      },
+      {
         "icon": "https://i.ibb.co/gMrx8vy/image.png",
         "name": "Transformers One",
         "uri": "5FSgSsDC6nVpPZRfqN9COE9THsN2MKTJPa4wmbfEhsJzVaaCwbL+YxgeAH58J3ZkQ/rjGqPSD5JolxkN5WkKnq8CUXeBHyo3JkrKZZlIKRzQlen+T9853WKzJhR4J0rRuzVAxST+ESn8IHongKHQtLOTsWp4XK/Z48OZ2e9vrl4="
@@ -394,6 +414,11 @@
     "name": "No listados",
     "mode": true,
     "lista": [
+      {
+        "icon": "https://i.imgur.com/wvfifat.jpeg",
+        "name": "Django",
+        "uri": "v5P357se895dBAVPogGrpPw6BRiDQJYMVXVZ/9v8ozVi/QJ5J4gONhxU13QRvqNLUyN0GSq+DW7GUp9HtAefPJfqX21/OyfpJFSMIW2s+uY="
+      },
       {
         "icon": "https://play-lh.googleusercontent.com/PlQ7vvNMwemW386NbwgEu9hjEtziRRsKLRyi8nzyCuFg_pZq_TX2ZHxSxNcirnIrmD4xyA",
         "name": "Locos por los votos",
