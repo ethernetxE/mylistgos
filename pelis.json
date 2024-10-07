@@ -1,22 +1,102 @@
 [
   {
-    "name": "Peliculas 2024",
+    "name": "Recientes",
     "mode": true,
     "lista": [
       {
-        "icon": "https://i.imgur.com/BtaFleJ.png",
-        "name": "Culpa Cero",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomWg8o/An8tPQpT9kWjehPQZNnJl5uOVKD1ds1WaJGjvVjIUc5AxLtswee2ROT5bAAw=="
+        "icon": "https://image.tmdb.org/t/p/original/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
+        "name": "Joker (2019)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomT0cpvDGF85vrkgZudXPLkY="
       },
       {
-        "icon": "https://cl2.buscafs.com/www.tomatazos.com/public/uploads/images/453447/453447_173x256.jpg",
-        "name": "EL Hoyo 2",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomf0Ur7Hf+1X177M6MchX7tbn+H/Cv9Gn/LZTg+AMDs9Kqc+SswS0kkerUfykWKuMT0amdCMyeaeLLActuir+olM="
+        "icon": "https://image.tmdb.org/t/p/original/7OeBG7lFDLdit4l8UTHCp5hrglK.jpg",
+        "name": "Ctrl (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomUsTalAlkPZaJFigdijS1Go="
       },
       {
-        "icon": "https://i.imgur.com/9vf5a05.png",
-        "name": "La trampa del raton",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomXgNaTvuPB6T0H0YmnJ6hqu187K/5DfAQ4GxDb0IhzYtovh/99UFIsDpRxhiTE1k3MWesXzPCqs7slzXJvxLr4M="
+        "icon": "https://image.tmdb.org/t/p/original/3awoWMKDfTROjGB2vivky1TCSRd.jpg",
+        "name": "El hoyo 2 (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomWyst4uf1yYoy0O+vGZQQCg="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg",
+        "name": "El hoyo (2019)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomb6Pp8aQ+n+0IRbrtKPEBS0="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/uvkLYn18A9ZfjSzJuaqA8hiRWyX.jpg",
+        "name": "Las tres hijas (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomZo1/zESwmbMwaJ659jux7I="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/5wDA5KPDSzAaFesRR9lgihKopnS.jpg",
+        "name": "Victima imperfecta (2023)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu0XMkLxlERzN4SdlfTDRejUamdCMyeaeLLActuir+olM="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/iCuQOTy1nnyPtbRn3xImcu9hvpi.jpg",
+        "name": "The Wasp (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRunFXZol2VycMham7fQxgtM0amdCMyeaeLLActuir+olM="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/23zwte7xCAPHFPZGoUsZ8WxybR4.jpg",
+        "name": "As Neves (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRua9JmBoCF1XpMz0U0z1nvQEamdCMyeaeLLActuir+olM="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/y89kFMNYXNKMdlZjR2yg7nQtcQH.jpg",
+        "name": "Sound of Metal (2020)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu3UPRAsvUPsdWk8mDY7G5t+q1P+l8J61ULfq7BRR/N/s="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/sn9pXNT0ODNQ7kHV0dteOWtHIVy.jpg",
+        "name": "Descubriendo A Mi Hijo (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9CONU3EV/SsR/UNhF0E6ISuR8ySIWCLJEd16xq8bfCGgutA+J5RMoxy5nKDhKw1p1p2UMU0yvcBQIVwbJfMrwkylc="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/o98ATOqRX1LBgL7a9trTosD0ttF.jpg",
+        "name": "El Rey de La Habana (2015)",
+        "uri": "5FSgSsDC6nVpPZRfqN9CONU3EV/SsR/UNhF0E6ISuR8ySIWCLJEd16xq8bfCGgutA+J5RMoxy5nKDhKw1p1p2V/5JaaxCWX6Nq12hZKWRog="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/7M8gZDAQsJP3BjibSt1kZ1tBvXl.jpg",
+        "name": "Tipos de gentileza (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu3FQuu4+zVJ4A/AuduIkoS4Re/mCMMlIOnc9BoVVZjtg="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg",
+        "name": "Bandida: La número uno (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRuZ7uXU1FQy1wmroy0vM8VGjjLNFk9zHFdsx82cwyt7SQ="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/fqUakfM8wH4IWULIkhRyZqNZveD.jpg",
+        "name": "Príncipes salvajes (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRuvzKBCha8sYliIPF1k1bV6Ss9g0KdnP+Eo4twnVhAGks="
+      },
+      {
+        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg",
+        "name": "Tokunbo (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRuLzNNdtrfH/xAeQ+77zq+LUamdCMyeaeLLActuir+olM="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/r8tQZcpO7oCXROExP1xkItvMio1.jpg",
+        "name": "Mi padre (2022)",
+        "uri": "5/tvCXUmcT2NjZEkUqLkK5p3f6QvT0g8nQzWvaDzfncnP6bXw/BYwTIDsr7wxOPq6KCrjeo/Ir9aF11itFJ4Gg=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/csGb0Dnt25hhf9BkjlAIjAoTYBb.jpg",
+        "name": "Parpadea dos veces (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6lZKceg8HQiGV2VqogiQLf8HJuaDModp1zAsH62Xlbby0amdCMyeaeLLActuir+olM="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/A1jtRrktQEPhaPlGbWNQlIY9O3s.jpg",
+        "name": "¿Conoces a Joe Black? (1998)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6lZKceg8HQiGV2VqogiQLf8huiMrtcuiTd8JsakTpVnc0amdCMyeaeLLActuir+olM="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/b7Vf9doQIZavdJS16969KfO0Lsa.jpg",
+        "name": "El club de los vándalos (2024)",
+        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6lZKceg8HQiGV2VqogiQLf8kBEaWaFExVtfv1hB+L6qsEamdCMyeaeLLActuir+olM="
       },
       {
         "icon": "https://i.imgur.com/020PK8Q.png",
