@@ -4,24 +4,19 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://image.tmdb.org/t/p/original/v0eQLbzT6sWelfApuYsEkYpzufl.jpg",
-        "name": "Joker (2019)",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomT0cpvDGF85vrkgZudXPLkY="
-      },
-      {
         "icon": "https://image.tmdb.org/t/p/original/7OeBG7lFDLdit4l8UTHCp5hrglK.jpg",
         "name": "Ctrl (2024)",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomUsTalAlkPZaJFigdijS1Go="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/original/3awoWMKDfTROjGB2vivky1TCSRd.jpg",
-        "name": "El hoyo 2 (2024)",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomWyst4uf1yYoy0O+vGZQQCg="
+        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+wgLDXKcQKQXbMNpIyiNLKqm2G2wlRV6mWDNXwX0GBnU="
       },
       {
         "icon": "https://image.tmdb.org/t/p/original/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg",
         "name": "El hoyo (2019)",
-        "uri": "5FSgSsDC6nVpPZRfqN9COE9vv0bRtIGwG2+W20+JE6mdL8MDtxDHePcHkNcFMaRu9LFsnomKhtEUBaaNYZyomb6Pp8aQ+n+0IRbrtKPEBS0="
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmTm4Gf3ylk7Ni6/pwslOKrLkG9hEd2hck686+rsZbHH3wyfYPSHbAMtu64NF6FEPsj6PLer1DV48jgCA8s1csXZGNeSVGB0eNM4kCxw0/+vCao195XfdLzaMv+oYZy+gqeJNS2ZVXR28gHtr0B2B3aROmG2kmIpZtOHLwQh2+AHs+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJDRr0U1Xz10szDUMBgPjnIr9Gzw5c0pE1gSthr9xEfPMPZlveRDJH1Fq3SQg69iNbNrD391PaJmewc04Dn0Uq7ClxbBpOMLgBOSKKiTikcijhcrDqE0a3jsIWi+IaiTY6TJ7wHHVREulvVDjIXCMyd+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/3awoWMKDfTROjGB2vivky1TCSRd.jpg",
+        "name": "El hoyo 2 (2024)",
+        "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmZd/crcKQ7jM4BICsEQwSHGE2lTHueXShgAL0uBbuzDYGf/SK5DotiSE7QO4Wi8rw1in4yAWAinHqxLo5JCDPmmwoTEYtwJBPI3YKrGinl8PDuHF3l4XlUuwkQS1WrFR9TEPxDJcuCR301+7hXEHhkKWtuId4pijLG0hTKvW8iQx+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJDRr0U1Xz10szDUMBgPjnIr9Gzw5c0pE1gSthr9xEfPMPZlveRDJH1Fq3SQg69iNbNrD391PaJmewc04Dn0Uq7ClxbBpOMLgBOSKKiTikcijhcrDqE0a3jsIWi+IaiTY6TJ7wHHVREulvVDjIXCMyd+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
         "icon": "https://image.tmdb.org/t/p/original/uvkLYn18A9ZfjSzJuaqA8hiRWyX.jpg",
