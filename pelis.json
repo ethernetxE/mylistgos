@@ -4,11 +4,6 @@
     "mode": true,
     "lista": [
       {
-        "icon": "https://image.tmdb.org/t/p/original/7OeBG7lFDLdit4l8UTHCp5hrglK.jpg",
-        "name": "Ctrl (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+wgLDXKcQKQXbMNpIyiNLKqm2G2wlRV6mWDNXwX0GBnU="
-      },
-      {
         "icon": "https://image.tmdb.org/t/p/original/qv30R1uDDKTLWDlNc3qi6MRdRf0.jpg",
         "name": "El hoyo (2019)",
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmTm4Gf3ylk7Ni6/pwslOKrLkG9hEd2hck686+rsZbHH3wyfYPSHbAMtu64NF6FEPsj6PLer1DV48jgCA8s1csXZGNeSVGB0eNM4kCxw0/+vCao195XfdLzaMv+oYZy+gqeJNS2ZVXR28gHtr0B2B3aROmG2kmIpZtOHLwQh2+AHs+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJDRr0U1Xz10szDUMBgPjnIr9Gzw5c0pE1gSthr9xEfPMPZlveRDJH1Fq3SQg69iNbNrD391PaJmewc04Dn0Uq7ClxbBpOMLgBOSKKiTikcijhcrDqE0a3jsIWi+IaiTY6TJ7wHHVREulvVDjIXCMyd+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
@@ -19,49 +14,54 @@
         "uri": "aRF3kNr4htNgfPww95VeiU8Rz3R2CSdffSWEyVPgwB5pZY+rqKzLx7PRqVYd7DHo0FlsCIqQdBfpMRVDiGdvmZd/crcKQ7jM4BICsEQwSHGE2lTHueXShgAL0uBbuzDYGf/SK5DotiSE7QO4Wi8rw1in4yAWAinHqxLo5JCDPmmwoTEYtwJBPI3YKrGinl8PDuHF3l4XlUuwkQS1WrFR9TEPxDJcuCR301+7hXEHhkKWtuId4pijLG0hTKvW8iQx+AU4DdPCznjSvycfBnvW+lu1uT0f0fHW7Gcq5pzEPsJDRr0U1Xz10szDUMBgPjnIr9Gzw5c0pE1gSthr9xEfPMPZlveRDJH1Fq3SQg69iNbNrD391PaJmewc04Dn0Uq7ClxbBpOMLgBOSKKiTikcijhcrDqE0a3jsIWi+IaiTY6TJ7wHHVREulvVDjIXCMyd+rEYZg23xRh99QRxfdi8FyRdbO6uDfvx4b/sqHq5y9K+zDilFR8Uf+Uxce7TRmEdKIDW3AqA+EHfEL7PlX0Gdg=="
       },
       {
-        "icon": "https://image.tmdb.org/t/p/original/uvkLYn18A9ZfjSzJuaqA8hiRWyX.jpg",
-        "name": "Las tres hijas (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+mCBOOqn8dpdNSzzl5L7jT6m2G2wlRV6mWDNXwX0GBnU="
+        "icon": "http://image.tmdb.org/t/p/w600_and_h900_bestv2/pJ8mTt2L9PtpEniMJ9dzpQ9avLK.jpg",
+        "name": "Otra bala más (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOFRvs/yQa9kqiAuTtZqh9CXIrnRpG3hGaCnheSW1WpPfBkqXyhGYpd1VWibjNeUOiBbmZykjRNUwkDy35CKKZAy"
       },
       {
-        "icon": "https://image.tmdb.org/t/p/original/y89kFMNYXNKMdlZjR2yg7nQtcQH.jpg",
-        "name": "Sound of Metal (2020)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+kDRQe272WLqDEe1hLgkNFKm2G2wlRV6mWDNXwX0GBnU="
+        "icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/mDbqfIdEoGouMJJ5wrrFrn3si6C.jpg",
+        "name": "Hellboy: el hombre torcido (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOFC4ztxEoSH3hQW7KzzA+aHw1LZGUOw8ed6L+SyqFEAvtSqE1lbr8Upyc7DOlTI3SkdamkOWqtaVisbpXKkA+YC"
       },
       {
-        "icon": "https://static.wikia.nocookie.net/doblaje/images/f/f0/P%C3%B3steresp-LOSTIPOSMALOS-TOA.jpg/revision/latest?cb=20240906034126&path-prefix=es",
-        "name": "Tipos malo (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+4nYJgK6EOWZDVVXQMeY2Wqm2G2wlRV6mWDNXwX0GBnU="
+        "icon": "https://image.tmdb.org/t/p/original/1th6jd7Dn5Ipftlrk81DmIFAJ5c.jpg",
+        "name": "La casa de los despojos (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOEPb7O2CN6WGSraQOnnMuFgWQ4rpOOjFktH71IvxbaTAZOzgKobQFbTNWANH2fYS+rOIUgowlY4OiIYWB+Eyq3L"
       },
       {
-        "icon": "https://image.tmdb.org/t/p/original/eVF4hqkBD1maZueHDEhhe02kNhj.jpg",
+        "icon": "https://image.tmdb.org/t/p/original/3f93YAzZRc2vtOQyRqrakD0YS3O.jpg",
+        "name": "Culpa cero (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOEPb7O2CN6WGSraQOnnMuFgWQ4rpOOjFktH71IvxbaTAYC9jw6yc/KDU271iP16sA08ATPaDOW8zQSK8yjyYE8N"
+      },
+      {
+        "icon": "http://ceoapps.org/logos/deadppol2024.jpeg",
+        "name": "Deadpool 3 (Deadpool & Wolverine) (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOFb7ZcDqlY4vO0YmDRTQXjnSrepm7+qoR/M5A1BNFZ6BuP8tfiZJ96IxAyKstcESNhTlAh+83romegTX1O6nJin"
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/original/b5g5FdOUUVJEpduADQ4T5WPTt6A.jpg",
+        "name": "Los tipos malos: ¿Truco o atraco? (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOEPb7O2CN6WGSraQOnnMuFgWQ4rpOOjFktH71IvxbaTAb1TXpO/4VZkDXr0jfNaNO4G76qIbW7RDQ/EoaVZljjV"
+      },
+      {
+        "icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/eVF4hqkBD1maZueHDEhhe02kNhj.jpg",
         "name": "Bandida: La número uno (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+rYla+UMra7Zwg955ZXhtE6m2G2wlRV6mWDNXwX0GBnU="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOE3hHuPw44AvbEtpELM4PLbzt5cHLj4Xni7HZTPkd04OU7+jls3CFA8wot4o4S46z+IykvIu4lg6b02itnOKSqi"
       },
       {
-        "icon": "https://image.tmdb.org/t/p/original/fqUakfM8wH4IWULIkhRyZqNZveD.jpg",
+        "icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/lfMz0BIG2kyBrpKSZ0NXUJ0fX4Q.jpg",
         "name": "Príncipes salvajes (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+ZY8hkUZ5pu8SLGad7fX2zam2G2wlRV6mWDNXwX0GBnU="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOEJuC1V2qGxLd27Hpvc8l/2VVAa6+7WsaDRsn7XFs154DgnayL+imsy/eOUXJDshrDUptrGTQxxJDg30T8Uys/d"
       },
       {
-        "icon": "https://media.themoviedb.org/t/p/w220_and_h330_face/yV7YWPKH2OWboyAlkZ46gp75Y4j.jpg",
-        "name": "Tokunbo (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+QIMBqqHhpTiJZP+fX3hPbqm2G2wlRV6mWDNXwX0GBnU="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/original/r8tQZcpO7oCXROExP1xkItvMio1.jpg",
-        "name": "Mi padre (2022)",
-        "uri": "5/tvCXUmcT2NjZEkUqLkK5p3f6QvT0g8nQzWvaDzfncnP6bXw/BYwTIDsr7wxOPq6KCrjeo/Ir9aF11itFJ4Gg=="
-      },
-      {
-        "icon": "https://image.tmdb.org/t/p/original/csGb0Dnt25hhf9BkjlAIjAoTYBb.jpg",
+        "icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/a4o3f9dmxB9TyFNMncvwspSoVLJ.jpg",
         "name": "Parpadea dos veces (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+ygB8j7Z2lfhnqH4I4E7aSam2G2wlRV6mWDNXwX0GBnU="
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOE3hHuPw44AvbEtpELM4PLbzt5cHLj4Xni7HZTPkd04OXLCInH2EsAZP/82Zk/GYPSkpABHqhdhl9kXwGgMHjK0"
       },
       {
-        "icon": "https://image.tmdb.org/t/p/original/b7Vf9doQIZavdJS16969KfO0Lsa.jpg",
-        "name": "El club de los vándalos (2024)",
-        "uri": "bMg4qFoysWKDHB+XOuu9olp8thcXupD5EkUlF2iq8Sw8LvWdrThYaJ9APcnc4Hw+Z3NBZxsY5cOLMZ0mw/mKp6m2G2wlRV6mWDNXwX0GBnU="
+        "icon": "https://image.tmdb.org/t/p/w600_and_h900_bestv2/jga2jfUWXuVdaBn3WojJooLTSeC.jpg",
+        "name": "De noche con el diablo (2024)",
+        "uri": "tjXyrcs5/vzm6JNVtOnLK16a+IzoFVSxwQF0M+ffbOE3hHuPw44AvbEtpELM4PLbzt5cHLj4Xni7HZTPkd04OZDO953mlDd6WUQb4y1cqjEfdN150A0umWqVmLZUG51K"
       },
       {
         "icon": "https://i.imgur.com/020PK8Q.png",
