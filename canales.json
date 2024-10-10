@@ -1,5 +1,129 @@
 [
   {
+    "name": "Clasificación para la Copa Mundial",
+    "mode": false,
+    "lista": [
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png",
+        "name": "Bolivia vs Colombia",
+        "uri": "4XLa+cfHZnzpXf2jVu0C7H9ObxxZ+LHQ4EzQTFruQkiTtj0t6ZfpSvdmOf510qzXM2wRYZfmOCRBuydvXuDddhRvSvAmCcYnIJ10ylrdgWMqrtWNTD+Szm9FOlQlWZbnEi+Zz0I487Ff55QCDujfQCGFPonhW4D5sHGXbPJPhgY="
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png",
+        "name": "Bolivia vs Colombia",
+        "uri": "uIB/ujX2f/n3MMD10ZlP/2Z4GRFGwUo9G2OZtp2MKwK3hKCOjgsQ4NKpEH5uaL3v"
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png",
+        "name": "Bolivia vs Colombia",
+        "uri": "njkGp2+t9D5C8ZnnGVXC9K12qAngl4/8aw9odZyGHzr7kgXerV7agwvB115i3YAjWwFRxm7t5G9t9RSUM07TfuE6vrY6QPfAIEap1jXrRChUWxEWIWC7qniRf9j0Bx92dr8QruLn6h4icb5bXR9rnw=="
+      },
+      {
+        "name": "Ecuador - vs. - Paraguay",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jXeAHwmRFnyA5gjGeraY7KB8Knwr2Qz1iLNB9N+U2awbezJDIC0o8C4QLnDXh82SI=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=49eb924ba998ca7fbbaee30dcef1ecb4&key=6e131b04b2e87598fb588ac205673698",
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png"
+      },
+      {
+        "name": "Ecuador - vs. - Paraguay",
+        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA==",
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png"
+      },
+      {
+        "name": "Ecuador - vs. - Paraguay",
+        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q==",
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png"
+      },
+      {
+        "name": "Ecuador - vs. - Paraguay",
+        "uri": "a69TCKgW8Hfnq7SL+tiNvBt/zc79S+6WSANRKHUY+5ZPWTz3IL5tqtjbSEcc9L0YXQ0GV5X9EunvYI71Lcj2FwKZrlpQGfB6k3lfCEtfuzZu7aw+dPNaFYzPVf7dgTyO",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gO+pJcNLO+wSLiw0ypkjigONiYiQih8kHmyJYzbXQNRzAbZrexSJyqQ9o4JDo1XaK0JoHY17yWrLVkAh7q4o3GsHNwb8jOW5QCgGI5Dawt6x/Bxy3C/AXtym3Vr/mmy/1A==",
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/65.png"
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "Venezuela - vs. - Argentina",
+        "uri": "ZbigLqLFRRapbRFXw3YGyEUw1mhq2XjaevgccSrh/8rNs0xaD4xP6yCyuX8WGoGwvq613ZvJzNan5qKM6GLXF6rbinsAlwuGx4CjHme/Vtsh/58ASqqHAzLlkcQVmK7uNeOyk/SNkigq4EgcldE0kA==",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gJDsQy12TLZFs7ZxksTBl6TEOfnSsTyt9rMksn8mHO81z63p+5/+/95FN4QZqjLFtLW/4jZ2dl088FTd9lE0Z5eU3LD2a9/njXELVX89V+57nzx3p2a/JzX4cgcIniaoew=="
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "Venezuela - vs. - Argentina",
+        "uri": "WR20+8lZSRQ19nW0bvbwMQEb3/YkjNLX8cPQHaQOE+jyjJqf3ms3FPT66gDc47iTY9l3iMXwbSmJqm3PLTKr+GR3c+7FYP9Fq6ju/qvyFgo=",
+        "drm_scheme": "clearkey",
+        "drm_license_uri": "https://vercel-php-clearkey-hex-base64-json.vercel.app/api/results.php?keyid=2b21c8fa9a329cce311a4c4a4aa996a1&key=cc23ea1fb32629f9e1f48c8deeae3e5b"
+      },
+      {
+        "icon": "https://i.imgur.com/8yrNMQW.png",
+        "name": "Evento MLS",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT/PuiY5xJZrOo70md4jRtIONeOyk/SNkigq4EgcldE0kA=="
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento 1",
+        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYf/Sd0qvjuZ7nijupa0HRMktD8fbs/9evESNmBbFMckg=="
+      },
+      {
+        "icon": "https://a.espncdn.com/combiner/i?img=/i/leaguelogos/soccer/500/1592.png",
+        "name": "Liga Uruguaya Evento 2",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiWKY9dfMZzsrsUiya7fRUMFA=="
+      },
+      {
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento GV 1",
+        "uri": "yWugHl58nN3hMrHOffy+adHKcM74pIlxCGkzBr9PpxYf/Sd0qvjuZ7nijupa0HRMktD8fbs/9evESNmBbFMckg=="
+      },
+      {
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento GV 2",
+        "uri": "UNlj3s8vS2KdrcY2ykWkagm0AVuG3zqgGraWZnVDKT9g6RNOp0ELXj6g16qBuUiWKY9dfMZzsrsUiya7fRUMFA=="
+      },
+      {
+        "icon": "https://i.ibb.co/SRpHdzc/240px-VTV-Uruguay-svg.png",
+        "name": "VTV Plus",
+        "uri": "HGqu1Kxmu21DgmpR+7xaZLpfavPLMzj1Pbp+uj00fd0AOdYncmqOocsA6FwgwBqTaLbgtjmdFDzrT0nrgE1+TAiWO8TauAsczVHzE6a34QbkdL2ldH4qnlnD0cd6h63A",
+        "drm_scheme": "clearkey",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gAHcZBJKjHot7VnV8zz8MBnjk1FLDX5Fe5/bGVCSbcULj1ngYnbELzjAafthYSXeorKqEtkeikpwWPiW5VHnIfjddyfKJlwA126XcuF2b3hGehp5DS9zxWTKbfiGCSDLQw=="
+      },
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento PY",
+        "drm_scheme": "clearkey",
+        "uri": "Yn51/zFqeAWq837/ASzYH8MIPCszIkViVhJdh7CjtCpHPPiWQyvFAa1vN6lknnKBx0Ep+c/TL+8kb3jggL+M7WX0hi+D1NPeWtJaV9zLLZhu7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gLwVpoz3xNRRb/TDj/DzgdxuGTYGjkscii42LE0mG+laKPR56v9QCtVS4TOIpIRf//I7C5ziKwWgxTmbZ7BZGm579vIVvX6Lgr7UDovOJWSi6Ob09oxrmRXVJk6+wr26cA=="
+      },
+      {
+        "icon": "https://i.imgur.com/xl7uW2T.png",
+        "name": "Evento 2 PY",
+        "drm_scheme": "clearkey",
+        "uri": "jSOircDT4HyZni4c8d8sZ8Iyv+NBN0biR0w2sdn2QfRpXcnfKA/aPJIqbnXl82vovn7T1gTmqVUwibbSgX/jIyWpkMW5pz6ijhrw+sY8Sy5u7aw+dPNaFYzPVf7dgTyO",
+        "drm_license_url": "CovVFLed8lf8ePFslImRbHnzxik3AhsXIBIGkSvJ5aGaUvMoXdAey0QAJRUYL9YyMd70ZzH89lH66llEHge+gEOA+u5AqiYjVgVwNRIl0yty4FMnGAqMhROVknnnT3WpeFiCxY5zuN8lXtQsktwenWF89nfy+gGDvIzBy49MoIDiC070j0qYVhvwSzPmmeNr4m1KzdGbx0gV9Tl7Van+7Q=="
+      },
+      {
+        "name": "Bein Sportxtra ñ",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
+        "uri": "i7ZO9dGso9GfbyohG4x/qTkx5ILha8oo834VMEoYsER1bFmPTt8z1SklW2rM6YJvsuY+S3Ncb3DMUCp4WtRsy8Fkq830ckczxmIFRTmA1KvyM2MN5ivs1M1NCHhRGYdwk3fovWSClyWI/KBBYDrIwkAVtGMVA/1sajZ02HWyfsePjbZA6LGphwbR8bnGfN3G4D1VxTHlfhENYdWB0tds9Z2SC2PdoPZC1tMIYqugOLDX5OS5bLm0DfFq6vqqlJX2sxd+yaj9EXx2uOHb7FEb7OryGRhMK4yIfNR5OGGq7veE/jE+3i5Dg9MIE3qMyK1FQO3WUIj/Jj1UH89Mm4B7OeQCwltzsu4CSZwQE3kwz2D8MkhAaPfR0mIdmLIeZ9npwSLoGyCNRHQbA7RaFvqC1cPvNeIhqbn6RHg661tiUWZ69tAVtf5ZmHdVFAhKlyzS4ZrDVYDV8exe/RvWutw7goMf0tnvg4M5T5u4mO0Uiz9EkRflZlC24/+4UYQkUhKgD21pvD5/fJQH7FS/xzbAT03Gcf99ySQg200c4XLQJYte8Im6XND2qwi+Nr/7DwNJLd7rky/a6iPSTi0qVjSppmPaikJWZJQrYTOwciPhWdQ="
+      },
+      {
+        "name": "Bein Sportxtra ñ",
+        "icon": "https://static.wikia.nocookie.net/logopedia/images/b/b6/Xtra.png/revision/latest?cb=20201108180634",
+        "uri": "/MEa/02WaoMB8o4rsw5tNdu19bDEjIq5xADMrFOrLEtJb3zQha8D7Tg9SK1AF0raYO8dz6JXnipyDAecDZl492Y9Y5HymdzWvAVBxgLlBQYqgtCzteGqdR4Db9aot75s3Nw9B509kt1t/5tgwXVeFeb+FD8bM/gNfjXe7WwjZUW3hKCOjgsQ4NKpEH5uaL3v"
+      },
+      {
+        "icon": "https://i.imgur.com/Z7yul9n.png",
+        "name": "Evento DSport OFF",
+        "uri": "c8shB4zQtySEDhKuz7Hho9vywKsAeYQj+55IK4v8Gqmf7m0BRTzKAaUlPoc26xek"
+      }
+    ]
+  },
+  {
     "name": "Eventos Deportivos",
     "mode": false,
     "lista": [
@@ -1147,44 +1271,6 @@
         "name": "TYC SPORTS (PLAY 11)",
         "uri": "wiP4hhfNy8xFLHl4w6B4qHOCYKgcLSildudpRnb1NBjrxRyB+ZG1JwuaIChPEGM1P79SqnYMVcf9QP0eEDM+zfiynfXsdDmsoIjESjFSUOnTg3qMVHjI3sppF1dnFtFu",
         "icon": "https://i.ibb.co/85X5fTw/tycsportplay.png"
-      }
-    ]
-  },
-  {
-    "name": "Juegos Olimpicos",
-    "mode": false,
-    "lista": [
-      {
-        "icon": "https://i.imgur.com/SzcRloX.png",
-        "name": "Juegos Olimpicos",
-        "uri": "Bt+2uZTeglkiivQePGzMaOTYJBISD84uqinP7VkdIwaWesu2yr3F4MiAJOAswpEx"
-      },
-      {
-        "icon": "https://i.imgur.com/SzcRloX.png",
-        "name": "Claro Sport",
-        "uri": "kx2rGyi4VXIThkvbpJGVUcG20gC65CHgRDlrZVXWDjiuiqtQIMLgdc6sVtVgA4dgv8B8qRKueOinKArUThgXh/gaTg6iqP6LIZtjBPj64/PtVa0NpPPJLYFglZ+NQKiNTzyp+IC7uEbxJsFJhPayPCmPXXzGc7K7FIsmu30VDBQ=",
-        "drm_scheme": "clearkey",
-        "drm_license_url": "rhnh+l76ZwoA4tSvsAm+13WH8EVq45O23HtfbSprREY/T990LDEDR+V31vBw4qPXX9+BILTW/9s/rGyELTG1uaMF20ifM44CAWx/U9n4CDgiOP2efX2xFBzE2n/cZEQAOpk/DsrRcS9uoaMtJg3PXgly1P5RztoTrr1N8idofjPEhr9wzjtnvhhBZP/O0K4bNvwu0STFGFDreKwlJJfuJA=="
-      },
-      {
-        "icon": "https://i.imgur.com/SzcRloX.png",
-        "name": "Claro Sports 1: LATAM",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opbCSX0xRn0BiOFXS0bsDNJYmEimsdvksYG4VkCBOqr720encWqER8EdGsALYoPFvIXHGQjRgAUmIV/S9ZJySx6MvfuDkmOE4K1F3pKOPTeAEIME6jMR7O6Wx3Jglmbcsq+HPSLn8DeIr6Fy+4OKT0Pw=="
-      },
-      {
-        "icon": "https://i.imgur.com/SzcRloX.png",
-        "name": "Claro Sports 2: LATAM",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opbCSX0xRn0BiOFXS0bsDNJSm1iFK0OQSXO4HEyNuCMW26clFJe2gKmgyLrP73VtqnXHGQjRgAUmIV/S9ZJySx6MvfuDkmOE4K1F3pKOPTeAEIME6jMR7O6Wx3Jglmbcsq+HPSLn8DeIr6Fy+4OKT0Pw=="
-      },
-      {
-        "icon": "https://i.imgur.com/SzcRloX.png",
-        "name": "Claro Sports 3: LATAM",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opbCSX0xRn0BiOFXS0bsDNJYuus1zUU4/nM6gkJYRrQ4q6clFJe2gKmgyLrP73VtqnXHGQjRgAUmIV/S9ZJySx6MvfuDkmOE4K1F3pKOPTeAEIME6jMR7O6Wx3Jglmbcsq+HPSLn8DeIr6Fy+4OKT0Pw=="
-      },
-      {
-        "icon": "https://i.imgur.com/SzcRloX.png",
-        "name": "Claro Sports 4: LATAM",
-        "uri": "jrYXFzmVV7ayKIHCRyFVtmr3NQh8lAXeXSnms/IZpRc2jLTedUqZSGTvPk9631opbCSX0xRn0BiOFXS0bsDNJUBId74kxcZtIn4RZvTRmE3eelVHph2i7LiQGhipwyU5XHGQjRgAUmIV/S9ZJySx6MvfuDkmOE4K1F3pKOPTeAEIME6jMR7O6Wx3Jglmbcsq+HPSLn8DeIr6Fy+4OKT0Pw=="
       }
     ]
   },
